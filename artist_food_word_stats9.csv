@@ -1,0 +1,2784 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+flavor,1,slick rick,1,1,so misinformed,2019-08-16,2019,8,
+flavor,1,snoop dogg,1,1,so misinformed,2019-08-16,2019,8,
+beef,1,wc & daz dillinger,1,1,stay out the way,2013-06-19,2013,6,Beef Products
+drinking,1,wc & daz dillinger,1,1,stay out the way,2013-06-19,2013,6,Beverages
+peeled,1,pimp c,1,1,steal your mind,2009-03-26,2009,3,Nut and Seed Products
+candy,1,,1,1,steal your mind,2009-03-26,2009,3,Sweets
+candy cane,1,,1,1,steal your mind,2009-03-26,2009,3,
+chocolate,1,tha eastsidaz,1,1,sticky fingers,2001-07-31,2001,7,Sweets
+drink,1,snoop dogg,1,1,st. ides in the lbc,0,0,0,
+butter,1,snoop dogg,1,1,still a g thang,1998-07-03,1998,7,Dairy and Egg Products
+cheddar,1,snoop dogg,1,1,still a g thang,1998-07-03,1998,7,Dairy and Egg Products
+nut,1,snoop dogg,1,1,still a g thang,1998-07-03,1998,7,Nut and Seed Products
+ice,1,zombie juice,1,1,still palm trees (g-mix),2017-04-17,2017,4,
+rump,1,snoop dogg,1,1,stoner's anthem,2011-10-31,2011,10,Pork Products
+nut,1,warren g,1,1,story to tell,0,0,0,Nut and Seed Products
+organic,1,snoop dogg,1,1,stuck on a feeling,2014-11-17,2014,11,Baby Foods
+chocolate,1,gambino family,1,1,studio b,1998-10-20,1998,10,Sweets
+7up,2,snoop dogg sampled,1,2,suicide,2018-09-29,2018,9,
+drink,3,snoop dogg,1,3,suited n booted,2002-11-26,2002,11,
+chicken,1,snoop dogg,1,1,suited n booted,2002-11-26,2002,11,Poultry Products
+orange,1,snoop dogg,1,1,suited n booted,2002-11-26,2002,11,Fruits and Fruit Juices
+honey,1,snoop dogg,1,1,suited n booted,2002-11-26,2002,11,Sweets
+drink,1,snoop dogg,1,1,sumthin like this night,2011-03-29,2011,3,
+oil,1,snoop dogg,1,1,sunrise,0,0,0,Fats and Oils
+mm,1,willie nelson,1,1,superman,2011-03-29,2011,3,
+soup,1,snoop dogg,1,1,superman,2011-03-29,2011,3,"Soups, Sauces, and Gravies"
+ice,1,tru,1,1,suppose to be my friend,1999-06-01,1999,6,
+cream,1,tru,1,1,suppose to be my friend,1999-06-01,1999,6,Dairy and Egg Products
+fig,1,tru,1,1,suppose to be my friend,1999-06-01,1999,6,Fruits and Fruit Juices
+rose,1,tru,1,1,suppose to be my friend,1999-06-01,1999,6,Beverages
+drink,1,david guetta,1,1,sweat (david guetta & afrojack) [dubstep remix],2011-08-26,2011,8,
+drink,1,snoop dogg,1,1,sweat - radio edit,0,0,0,
+drink,1,snoop dogg,1,1,sweat (snoop dogg vs. david guetta) [extended remix],0,0,0,
+peeled,1,stresmatic,1,1,swivel,2017-05-15,2017,5,Nut and Seed Products
+peeled,4,snoop dogg,1,4,swivel,2017-05-15,2017,5,Nut and Seed Products
+peeled,3,stressmatic,1,3,swivel,2017-05-15,2017,5,Nut and Seed Products
+ham,1,snoop dogg,1,1,swivel,2017-05-15,2017,5,Pork Products
+cake,1,snoop dogg,1,1,swivel,2017-05-15,2017,5,Baked Products
+buttered,1,snoop dogg,1,1,swivel,2017-05-15,2017,5,
+breakfast,1,snoop dogg,1,1,swivel,2017-05-15,2017,5,Baked Products
+biscuit,1,cassidy,1,1,swizz beatz presents g.h.e.t.t.o. stories,0,0,0,Fast Foods
+dough,1,cassidy,1,1,swizz beatz presents g.h.e.t.t.o. stories,0,0,0,
+jellyfish,1,martysaurusrex,1,1,take a flight,2018-01-25,2018,1,Finfish and Shellfish Products
+drink,2,martysaurusrex,1,2,take a flight,2018-01-25,2018,1,
+licorice,1,martysaurusrex,1,1,take a flight,2018-01-25,2018,1,
+jelly,2,martysaurusrex,1,2,take a flight,2018-01-25,2018,1,Sweets
+bean,1,martysaurusrex,1,1,take a flight,2018-01-25,2018,1,Legumes and Legume Products
+dough,1,martysaurusrex,1,1,take a flight,2018-01-25,2018,1,
+bread,1,martysaurusrex,1,1,take a flight,2018-01-25,2018,1,Baked Products
+jelly bean,1,martysaurusrex,-1,-1,take a flight,2018-01-25,2018,1,
+water,1,tha eastsidaz,1,1,take it back to '85,2000-02-01,2000,2,Beverages
+mm,1,snoop dogg,1,1,take you home,0,0,0,
+drink,2,snoop dogg,1,2,take you home,0,0,0,
+dill,1,daylyric,1,1,take your time,2013-10-28,2013,10,Vegetables and Vegetable Products
+shrimp,1,snoop dogg,1,1,talent show,0,0,0,Finfish and Shellfish Products
+fish,1,snoop dogg,1,1,talent show,0,0,0,Finfish and Shellfish Products
+barracuda,1,snoop dogg,1,1,talent show,0,0,0,
+cream,1,snoop dogg,1,1,(tear 'em off) me & my doggz,1996-11-12,1996,11,Dairy and Egg Products
+pit,5,snoop dogg,1,5,(tear 'em off) me & my doggz,1996-11-12,1996,11,
+coffee,1,snoop dogg,1,1,(tear 'em off) me & my doggz,1996-11-12,1996,11,Beverages
+goose,1,snoop dogg,1,1,(tear 'em off) me & my doggz,1996-11-12,1996,11,Poultry Products
+creamy,1,snoop dogg,1,1,(tear 'em off) me & my doggz,1996-11-12,1996,11,Legumes and Legume Products
+honey,1,snoop dogg,1,1,terradectacal,2014-02-27,2014,2,Sweets
+bean,1,snoop dogg,1,1,terradectacal,2014-02-27,2014,2,Legumes and Legume Products
+vitamin,1,brotha lynch hung,1,1,territory,2007-01-01,2007,1,
+scrambled,1,snoop dogg,1,1,tha dogg in me,2013-10-28,2013,10,Dairy and Egg Products
+yogurt,1,snoop dogg,1,1,tha dogg in me,2013-10-28,2013,10,Dairy and Egg Products
+food,1,snoop dogg,1,1,tha dogg in me,2013-10-28,2013,10,
+water,1,tha eastsidaz,1,1,tha eastsidaz,2000-02-01,2000,2,Beverages
+juice,1,tha eastsidaz,1,1,tha eastsidaz,2000-02-01,2000,2,Baby Foods
+banana,1,snoop dogg,1,1,tha gangsta clicc,0,0,0,Fruits and Fruit Juices
+bread,1,snoop dogg,1,1,that good,0,0,0,Baked Products
+meal,1,diddy,1,1,that's crazy (remix),2002-05-14,2002,5,Baked Products
+honey,1,diddy,1,1,that's crazy (remix),2002-05-14,2002,5,Sweets
+chicken,1,diddy,1,1,that's crazy (remix),2002-05-14,2002,5,Poultry Products
+tootsie roll,1,diddy,2,2,that's crazy (remix),2002-05-14,2002,5,Sweets
+food,1,snoop dogg,1,1,that's tha homie,2009-11-03,2009,11,
+sushi,1,snoop dogg,1,1,that's tha homie,2009-11-03,2009,11,
+coffee,1,snoop dogg,1,1,that's tha homie,2009-11-03,2009,11,Beverages
+peeled,1,bust stop,1,1,"that was then, this is now (explicit)",2009-01-01,2009,1,Nut and Seed Products
+peeled,1,bust stop,1,1,"that was then, this is now (radio)",2007-01-01,2007,1,Nut and Seed Products
+vodka,1,snoop dogg,1,1,the bidness,2004-11-16,2004,11,Beverages
+water,1,snoop dogg,1,1,the big squeeze intro,2007-04-24,2007,4,Beverages
+moscato,3,buddy,1,3,the blue,2018-07-20,2018,7,
+moscato,1,snoop dogg,1,1,the blue,2018-07-20,2018,7,
+cake,1,,1,1,the boys (clinton sparks & disco fries remix),0,0,0,Baked Products
+candy,1,snoop dogg,1,1,the cure,0,0,0,Sweets
+peeled,1,jt the bigga figga,1,1,the fatha figure,0,0,0,Nut and Seed Products
+caper,1,jt the bigga figga,1,1,the fatha figure,0,0,0,Spices and Herbs
+rice,1,jt the bigga figga,1,1,the fatha figure,0,0,0,Cereal Grains and Pasta
+coco,1,b-legit,1,1,the game is cold,2000-07-25,2000,7,
+chicken,1,b-legit,1,1,the game is cold,2000-07-25,2000,7,Poultry Products
+bread,1,mann,1,1,the mack,2011-05-23,2011,5,Baked Products
+champagne,3,mann,1,3,the mack,2011-05-23,2011,5,
+meat,1,mann,1,1,the mack,2011-05-23,2011,5,Baby Foods
+honey,1,mann,1,1,the mack,2011-05-23,2011,5,Sweets
+bread,1,dave east,1,1,the marathon continues (nipsey tribute),2019-11-08,2019,11,Baked Products
+glaze,2,snoop dogg,1,2,the message,0,0,0,Sweets
+gin,1,snoop dogg,1,1,the message,0,0,0,
+drink,1,dr. dre,1,1,the next episode bass boosted,0,0,0,
+trout,1,soopafly,1,1,then she got it,0,0,0,Finfish and Shellfish Products
+water,2,clinton sparks,1,2,the reaper,2014-09-09,2014,9,Beverages
+cake,1,snoop dogg,1,1,the reaper,2014-09-09,2014,9,Baked Products
+water,2,clinton sparks,1,2,the reaper (remix),2015-04-21,2015,4,Beverages
+cake,1,snoop dogg,1,1,the reaper (remix),2015-04-21,2015,4,Baked Products
+vodka,1,clinton sparks,1,1,the reaper (remix),2015-04-21,2015,4,Beverages
+gin,1,clinton sparks,1,1,the reaper (remix),2015-04-21,2015,4,
+pancake,1,tha eastsidaz,1,1,there comes a time,2001-07-31,2001,7,Baked Products
+meal,1,tha eastsidaz,1,1,there comes a time,2001-07-31,2001,7,Baked Products
+chili,4,,1,4,the shaggy show,1999-05-25,1999,5,"Soups, Sauces, and Gravies"
+bean,1,,1,1,the shaggy show,1999-05-25,1999,5,Legumes and Legume Products
+bacon,1,,1,1,the shaggy show,1999-05-25,1999,5,Pork Products
+savory,1,,1,1,the shaggy show,1999-05-25,1999,5,Spices and Herbs
+sauce,1,,1,1,the shaggy show,1999-05-25,1999,5,"Soups, Sauces, and Gravies"
+noodle,1,,1,1,the shaggy show,1999-05-25,1999,5,Cereal Grains and Pasta
+nugget,1,,1,1,the shaggy show,1999-05-25,1999,5,"Meals, Entrees, and Side Dishes"
+onion,1,,1,1,the shaggy show,1999-05-25,1999,5,Vegetables and Vegetable Products
+nut,1,insane clown posse,1,1,the shaggy show,1999-05-25,1999,5,Nut and Seed Products
+lotus,1,insane clown posse,1,1,the shaggy show,1999-05-25,1999,5,
+coffee,1,insane clown posse,1,1,the shaggy show,1999-05-25,1999,5,Beverages
+hot chili,1,,1,1,the shaggy show,1999-05-25,1999,5,Vegetables and Vegetable Products
+chili bean,1,,-1,-1,the shaggy show,1999-05-25,1999,5,
+bacon bit,1,,1,1,the shaggy show,1999-05-25,1999,5,Legumes and Legume Products
+savory sauce,1,,-1,-1,the shaggy show,1999-05-25,1999,5,
+ice,1,the d.o.c.,1,1,the shit,2003-02-25,2003,2,
+ice,2,ice cube,1,2,the shit,2003-02-25,2003,2,
+spinach,1,ice cube,1,1,the shit,2003-02-25,2003,2,Vegetables and Vegetable Products
+dough,1,snoop dogg,1,1,the shit,2003-02-25,2003,2,
+cheese,1,snoop dogg,1,1,the shit,2003-02-25,2003,2,Dairy and Egg Products
+bread,1,snoop dogg,1,1,the shit,2003-02-25,2003,2,Baked Products
+butter,1,snoop dogg,1,1,the shit,2003-02-25,2003,2,Dairy and Egg Products
+nut,1,snoop dogg,1,1,the shit,2003-02-25,2003,2,Nut and Seed Products
+beef,1,snoop dogg,1,1,the shit,2003-02-25,2003,2,Beef Products
+ice cube,1,the d.o.c.,1,1,the shit,2003-02-25,2003,2,
+ice cube,2,ice cube,1,2,the shit,2003-02-25,2003,2,
+cheese,1,wc,1,1,the streets (re-twist),2002-07-23,2002,7,Dairy and Egg Products
+cabbage,1,wc,1,1,the streets (re-twist),2002-07-23,2002,7,Vegetables and Vegetable Products
+pea,1,wc,1,1,the streets (re-twist),2002-07-23,2002,7,Vegetables and Vegetable Products
+bread,2,snoop dogg,1,2,the war iz on,1999-04-06,1999,4,Baked Products
+sour,1,knoc-turn'al,1,1,the way i am,0,0,0,Fruits and Fruit Juices
+gin,1,knoc-turn'al,1,1,the way i am,0,0,0,
+cream,1,snoop dogg,1,1,the way life used to be,2011-03-29,2011,3,Dairy and Egg Products
+honey,1,play-n-skillz,1,1,things we do,0,0,0,Sweets
+goose,1,play-n-skillz,1,1,things we do,0,0,0,Poultry Products
+water,1,play-n-skillz,1,1,things we do,0,0,0,Beverages
+whopper,1,snoop dogg,1,1,think about it,2006-11-21,2006,11,Fast Foods
+fish,1,snoop dogg,1,1,think about it,2006-11-21,2006,11,Finfish and Shellfish Products
+whopper,1,snoop dogg,1,1,think about it [clean],0,0,0,Fast Foods
+fish,1,snoop dogg,1,1,think about it [clean],0,0,0,Finfish and Shellfish Products
+cinnamon,1,snoop dogg,1,1,this life,0,0,0,Baked Products
+spinach,1,snoop dogg,1,1,this life,0,0,0,Vegetables and Vegetable Products
+jelly,1,akon,1,1,this w**d iz mine - feat. wiz khalifa,0,0,0,Sweets
+honey,1,akon,1,1,this w**d iz mine - feat. wiz khalifa,0,0,0,Sweets
+barbeque,1,snoop dogg,1,1,those gurlz,2008-03-07,2008,3,
+moonshine,1,snoop dogg,1,1,throwin' down,2012-06-29,2012,6,
+moonshine,3,anchored,1,3,throwin' down,2012-06-29,2012,6,
+coffee,1,anchored,1,1,throwin' down,2012-06-29,2012,6,Beverages
+cheese,1,rappin' 4-tay,1,1,throw it up,0,0,0,Dairy and Egg Products
+butter,1,rappin' 4-tay,1,1,throw it up,0,0,0,Dairy and Egg Products
+fish,1,rappin' 4-tay,1,1,throw it up,0,0,0,Finfish and Shellfish Products
+nut,1,silkk the shocker,1,1,throw yo hood up,1998-02-17,1998,2,Nut and Seed Products
+pepper,1,silkk the shocker,1,1,throw yo hood up,1998-02-17,1998,2,Vegetables and Vegetable Products
+beef,1,snoop dogg,1,1,thug life,0,0,0,Beef Products
+juice,1,snoop dogg,1,1,thug life,0,0,0,Baby Foods
+pan,1,west west cuh,1,1,thug life,0,0,0,
+bread,1,snoop dogg,1,1,thug life,0,0,0,Baked Products
+goose,1,spanky danky,1,1,thug life,0,0,0,Poultry Products
+beef,1,murs,1,1,time is now,2008-09-30,2008,9,Beef Products
+cheddar,1,snoop lion,1,1,tired of running,2013-04-23,2013,4,Dairy and Egg Products
+water,1,katy perry,1,1,tommie sunshine's megasix smash-up,2012-03-23,2012,3,Beverages
+popsicle,1,katy perry,1,1,tommie sunshine's megasix smash-up,2012-03-23,2012,3,
+barbeque,1,katy perry,1,1,tommie sunshine's megasix smash-up,2012-03-23,2012,3,
+honey,1,big pimpin,1,1,too high (poly high),2001-10-23,2001,10,Sweets
+berry,1,big pimpin,1,1,too high (poly high),2001-10-23,2001,10,
+drink,1,daz dillinger,1,1,too high (poly high),2001-10-23,2001,10,
+herb,1,snoop dogg,1,1,top down,2016-05-24,2016,5,Beverages
+soda,1,snoop dogg,1,1,toss it,2017-05-19,2017,5,Baked Products
+sugar,1,too $hort,1,1,toss it,2017-05-19,2017,5,Sweets
+honey,1,too $hort,1,1,toss it,2017-05-19,2017,5,Sweets
+soda pop,1,snoop dogg,1,1,toss it,2017-05-19,2017,5,
+wine,1,snoop dogg,1,1,totz n da hood,0,0,0,Beverages
+drink,1,snoop dogg,1,1,totz n da hood,0,0,0,
+gin,1,snoop dogg,1,1,totz n da hood,0,0,0,
+juice,1,snoop dogg,1,1,totz n da hood,0,0,0,Baby Foods
+goose,1,snoop dogg,1,1,totz n da hood,0,0,0,Poultry Products
+egg,1,snoop dogg,1,1,totz n da hood,0,0,0,Dairy and Egg Products
+rose,1,rich boy,1,1,touch that ass,2007-03-13,2007,3,Beverages
+filet mignon,1,rich boy,-1,-1,touch that ass,2007-03-13,2007,3,
+wine,1,snoop dogg,1,1,toyz n da hood,2011-03-29,2011,3,Beverages
+wine,1,bootsy collins,1,1,toyz n da hood,2011-03-29,2011,3,Beverages
+drink,1,snoop dogg,1,1,toyz n da hood,2011-03-29,2011,3,
+drink,1,bootsy collins,1,1,toyz n da hood,2011-03-29,2011,3,
+gin,1,snoop dogg,1,1,toyz n da hood,2011-03-29,2011,3,
+gin,1,bootsy collins,1,1,toyz n da hood,2011-03-29,2011,3,
+juice,1,snoop dogg,1,1,toyz n da hood,2011-03-29,2011,3,Baby Foods
+juice,1,bootsy collins,1,1,toyz n da hood,2011-03-29,2011,3,Baby Foods
+goose,1,snoop dogg,1,1,toyz n da hood,2011-03-29,2011,3,Poultry Products
+goose,1,bootsy collins,1,1,toyz n da hood,2011-03-29,2011,3,Poultry Products
+egg,1,snoop dogg,1,1,toyz n da hood,2011-03-29,2011,3,Dairy and Egg Products
+egg,1,bootsy collins,1,1,toyz n da hood,2011-03-29,2011,3,Dairy and Egg Products
+herb,1,snoop dogg,1,1,traffic jam (remix),0,0,0,Beverages
+herb,2,stephen marley,1,2,traffic jam (remix),0,0,0,Beverages
+food,1,stephen marley,1,1,traffic jam (remix),0,0,0,
+wine,1,"damian ""jr. gong"" marley",1,1,traffic jam (remix),0,0,0,Beverages
+meal,1,"damian ""jr. gong"" marley",1,1,traffic jam (remix),0,0,0,Baked Products
+tea,1,"damian ""jr. gong"" marley",1,1,traffic jam (remix),0,0,0,Beverages
+fruit,1,"damian ""jr. gong"" marley",1,1,traffic jam (remix),0,0,0,Baby Foods
+muffin,2,"damian ""jr. gong"" marley",1,2,traffic jam (remix),0,0,0,Baked Products
+drink,1,snoop dogg,1,1,transition,2017-07-07,2017,7,
+bacon,1,snoop dogg,1,1,transition,2017-07-07,2017,7,Pork Products
+honey,1,snoop dogg,1,1,transition,2017-07-07,2017,7,Sweets
+brandy,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,
+tangy,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,
+candy,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,Sweets
+rose,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,Beverages
+pina,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,
+bread,2,snoop dogg,1,2,trash bags,2017-05-10,2017,5,Baked Products
+peach,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,Fruits and Fruit Juices
+champagne,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,
+coco,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,
+chocolate,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,Sweets
+lime,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,Sweets
+pineapple,1,snoop dogg,1,1,trash bags,2017-05-10,2017,5,Fruits and Fruit Juices
+pina colada,1,snoop dogg,-1,-1,trash bags,2017-05-10,2017,5,Beverages
+steak,1,snoop dogg,1,1,true to the game,0,0,0,Beef Products
+shrimp,1,snoop dogg,1,1,true to the game,0,0,0,Finfish and Shellfish Products
+nut,2,snoop dogg,1,2,true to the game,0,0,0,Nut and Seed Products
+rabbit,1,snoop dogg,1,1,true to the game,0,0,0,"Lamb, Veal, and Game Products"
+glaze,1,dj glaze,1,1,true to the game,0,0,0,Sweets
+water,1,mystikal,1,1,tru tank doggs,1998-08-04,1998,8,Beverages
+vegetable,1,mystikal,1,1,tru tank doggs,1998-08-04,1998,8,Baby Foods
+alcohol,1,mystikal,1,1,tru tank doggs,1998-08-04,1998,8,Spices and Herbs
+chicken,1,snoop dogg,1,1,tru tank doggs,1998-08-04,1998,8,Poultry Products
+collard,1,snoop dogg,1,1,tru tank doggs,1998-08-04,1998,8,Vegetables and Vegetable Products
+chicken wing,1,snoop dogg,1,1,tru tank doggs,1998-08-04,1998,8,
+collard green,1,snoop dogg,1,1,tru tank doggs,1998-08-04,1998,8,
+water,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,Beverages
+vegetable,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,Baby Foods
+alcohol,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,Spices and Herbs
+chicken,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,Poultry Products
+collard,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,Vegetables and Vegetable Products
+chicken wing,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,
+collard green,1,snoop dogg,1,1,tru tank dogs,1998-08-04,1998,8,
+gin,1,snoop dogg,1,1,tune in to doggy's station,0,0,0,
+gin,1,damani nkosi,1,1,t'was the night before christmas,0,0,0,
+tonic,1,damani nkosi,1,1,t'was the night before christmas,0,0,0,
+bread,2,snoop dogg,1,2,two or more,2016-06-28,2016,6,Baked Products
+meat,1,snoop dogg,1,1,two or more,2016-06-28,2016,6,Baby Foods
+cabbage,1,snoop dogg,1,1,two or more,2016-06-28,2016,6,Vegetables and Vegetable Products
+flavor,1,snoop dogg,1,1,two or more,2016-06-28,2016,6,
+spinach,1,snoop dogg,1,1,u know what i'm throwin up,0,0,0,Vegetables and Vegetable Products
+nut,1,snoop dogg,1,1,u know what i'm throwin up,0,0,0,Nut and Seed Products
+chicken,2,snoop dogg,1,2,u name it (holiday anthem),2016-11-24,2016,11,Poultry Products
+chicken,6,shirley caesar,1,6,u name it (holiday anthem),2016-11-24,2016,11,Poultry Products
+chicken,4,snoop dogg,1,4,u name it (holiday anthem),2016-11-24,2016,11,Poultry Products
+rice,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Cereal Grains and Pasta
+food,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,
+chocolate,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Sweets
+cake,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Baked Products
+ham,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Pork Products
+yam,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Vegetables and Vegetable Products
+cheese,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Dairy and Egg Products
+collard,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Vegetables and Vegetable Products
+apple,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Fruits and Fruit Juices
+turkey,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,Poultry Products
+turkey,6,shirley caesar,1,6,u name it (holiday anthem),2016-11-24,2016,11,Poultry Products
+turkey,4,snoop dogg,1,4,u name it (holiday anthem),2016-11-24,2016,11,Poultry Products
+bean,3,shirley caesar,1,3,u name it (holiday anthem),2016-11-24,2016,11,Legumes and Legume Products
+bean,2,snoop dogg,1,2,u name it (holiday anthem),2016-11-24,2016,11,Legumes and Legume Products
+potato,3,shirley caesar,1,3,u name it (holiday anthem),2016-11-24,2016,11,Vegetables and Vegetable Products
+potato,2,snoop dogg,1,2,u name it (holiday anthem),2016-11-24,2016,11,Vegetables and Vegetable Products
+tomato,3,shirley caesar,1,3,u name it (holiday anthem),2016-11-24,2016,11,Vegetables and Vegetable Products
+tomato,2,snoop dogg,1,2,u name it (holiday anthem),2016-11-24,2016,11,Vegetables and Vegetable Products
+lamb,3,shirley caesar,1,3,u name it (holiday anthem),2016-11-24,2016,11,"Lamb, Veal, and Game Products"
+lamb,2,snoop dogg,1,2,u name it (holiday anthem),2016-11-24,2016,11,"Lamb, Veal, and Game Products"
+rabbit,3,shirley caesar,1,3,u name it (holiday anthem),2016-11-24,2016,11,"Lamb, Veal, and Game Products"
+rabbit,2,snoop dogg,1,2,u name it (holiday anthem),2016-11-24,2016,11,"Lamb, Veal, and Game Products"
+german chocolate,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,
+chocolate cake,1,snoop dogg,-1,-1,u name it (holiday anthem),2016-11-24,2016,11,
+collard green,1,snoop dogg,1,1,u name it (holiday anthem),2016-11-24,2016,11,
+cereal,1,kid capri,1,1,unify,1998-11-17,1998,11,Breakfast Cereals
+juice,1,kid capri,1,1,unify,1998-11-17,1998,11,Baby Foods
+cereal,1,snoop dogg,1,1,unify,1999-03-25,1999,3,Breakfast Cereals
+juice,1,snoop dogg,1,1,unify,1999-03-25,1999,3,Baby Foods
+wine,1,snoop dogg,1,1,unify,1999-03-25,1999,3,Beverages
+cereal,1,snoop dogg,1,1,unify,0,0,0,Breakfast Cereals
+juice,1,snoop dogg,1,1,unify,0,0,0,Baby Foods
+vodka,1,fabolous,1,1,up on things,2003-03-04,2003,3,Beverages
+bean,1,fabolous,1,1,up on things,2003-03-04,2003,3,Legumes and Legume Products
+cake,1,snoop,1,1,ups & downs,2004-11-16,2004,11,Baked Products
+mushroom,1,snoop,1,1,ups & downs,2004-11-16,2004,11,Vegetables and Vegetable Products
+cocktail,1,robyn,1,1,u should know better,2010-09-06,2010,9,"Soups, Sauces, and Gravies"
+cheese,1,snoop dogg,1,1,u should know better,2010-09-06,2010,9,Dairy and Egg Products
+coffee,1,snoop dogg,1,1,u should know better,2010-09-06,2010,9,Beverages
+homemade,1,threat,1,1,usual suspects,2001-10-23,2001,10,Cereal Grains and Pasta
+eel,1,threat,1,1,usual suspects,2001-10-23,2001,10,Finfish and Shellfish Products
+food,2,snoop dogg,1,2,vapors,1996-11-12,1996,11,
+honey,1,snoop dogg,1,1,vapors (dj battlecat remix),2017-04-19,2017,4,Sweets
+food,1,snoop dogg,1,1,vapors (dj battlecat remix),2017-04-19,2017,4,
+drink,3,snoop dogg,1,3,vibe (with a pimp),2007-03-27,2007,3,
+lollipop,1,azjah,1,1,ventalation,2019-08-16,2019,8,
+anise,1,snoop dogg,1,1,walking on air,2014-01-13,2014,1,
+anise,1,bella blue,1,1,walking on air,2014-01-13,2014,1,
+anise,1,ian thomas,1,1,walking on air,2014-01-13,2014,1,
+beef,1,snoop dogg,1,1,want to,2016-04-08,2016,4,Beef Products
+lox,1,lox chatterbox,1,1,want to,2016-04-08,2016,4,Finfish and Shellfish Products
+restaurant,4,cher lloyd,1,4,want u back (remix),2012-08-03,2012,8,Restaurant Foods
+lime,1,master p,1,1,war wounds,1998-06-02,1998,6,Sweets
+dough,1,master p,1,1,war wounds,1998-06-02,1998,6,
+lime,1,snoop dogg,1,1,war wounds,0,0,0,Sweets
+dough,1,snoop dogg,1,1,war wounds,0,0,0,
+bread,1,snoop dogg,1,1,wasn't your fault,2002-11-26,2002,11,Baked Products
+baguette,1,snoop dogg,1,1,waves,2018-02-20,2018,2,
+sour,1,snoop dogg,1,1,way i am,0,0,0,Fruits and Fruit Juices
+gin,1,snoop dogg,1,1,way i am,0,0,0,
+nut,1,kid rock,1,1,wcsr,2001-11-20,2001,11,Nut and Seed Products
+dough,1,lil' italy,1,1,we ain't hard 2 find,1999-08-03,1999,8,
+juice,1,snoop dogg,1,1,we be puttin' it down!,1999-01-08,1999,1,Baby Foods
+gin,1,snoop dogg,1,1,we be puttin' it down!,1999-01-08,1999,1,
+cheese,1,snoop dogg,1,1,we be puttin' it down!,1999-01-08,1999,1,Dairy and Egg Products
+candy,1,snoop dogg,1,1,weed n wax,2014-02-27,2014,2,Sweets
+cake,1,snoop dogg,1,1,weed n wax,2014-02-27,2014,2,Baked Products
+bread,1,snoop dogg,1,1,weed n wax,2014-02-27,2014,2,Baked Products
+cheese,1,snoop dogg,1,1,weed n wax,2014-02-27,2014,2,Dairy and Egg Products
+french toast,1,snoop dogg,1,1,weed n wax,2014-02-27,2014,2,Baked Products
+honey,1,bad azz,1,1,we from the lbc,2001-07-17,2001,7,Sweets
+cake,1,bad azz,1,1,we from the lbc,2001-07-17,2001,7,Baked Products
+gumbo,1,bad azz,1,1,we from the lbc,2001-07-17,2001,7,
+melon,1,freeway,1,1,we get around,2003-02-25,2003,2,Fruits and Fruit Juices
+dough,2,freeway,1,2,we get around,2003-02-25,2003,2,
+chicken,1,freeway,1,1,we get around,2003-02-25,2003,2,Poultry Products
+drinking,1,tha eastsidaz,1,1,welcome 2 tha house,2001-07-31,2001,7,Beverages
+cognac,1,tha eastsidaz,1,1,welcome 2 tha house,2001-07-31,2001,7,
+fish,1,tha eastsidaz,1,1,welcome 2 tha house,2001-07-31,2001,7,Finfish and Shellfish Products
+water,1,40 glocc,1,1,welcome to california (remix),0,0,0,Beverages
+bread,1,snoop dogg,1,1,welcome to california (remix),0,0,0,Baked Products
+lemonade,1,snoop dogg,1,1,welcome to the world of the plastic beach,2010-03-03,2010,3,Beverages
+lemonade,1,2d,1,1,welcome to the world of the plastic beach,2010-03-03,2010,3,Beverages
+turkey,1,snoop dogg,1,1,we'll miss u,2016-01-15,2016,1,Poultry Products
+dressing,1,snoop dogg,1,1,we'll miss u,2016-01-15,2016,1,Fats and Oils
+sugar,1,snoop dogg,1,1,we'll miss u,2016-01-15,2016,1,Sweets
+sugar free,1,snoop dogg,1,1,we'll miss u,2016-01-15,2016,1,Beverages
+drink,1,,1,1,we rest in cali,2011-03-29,2011,3,
+juice,1,,1,1,we rest in cali,2011-03-29,2011,3,Baby Foods
+sugar,1,snoop dogg,1,1,we rest in cali,2011-03-29,2011,3,Sweets
+hush puppy,1,snoop dogg,2,2,we rest in cali,2011-03-29,2011,3,Baked Products
+drink,1,,1,1,we rest n cali,0,0,0,
+juice,1,,1,1,we rest n cali,0,0,0,Baby Foods
+sugar,1,snoop dogg,1,1,we rest n cali,0,0,0,Sweets
+hush puppy,1,snoop dogg,2,2,we rest n cali,0,0,0,Baked Products
+sugar,1,method man,1,1,we some dogs,2004-05-18,2004,5,Sweets
+ice,1,method man,1,1,we some dogs,2004-05-18,2004,5,
+snail,1,method man,1,1,we some dogs,2004-05-18,2004,5,Finfish and Shellfish Products
+food,1,redman,1,1,we some dogs,2004-05-18,2004,5,
+nut,1,redman,1,1,we some dogs,2004-05-18,2004,5,Nut and Seed Products
+fish,1,snoop dogg,1,1,we some dogs,2004-05-18,2004,5,Finfish and Shellfish Products
+fry,1,snoop dogg,1,1,we some dogs,2004-05-18,2004,5,
+bean,1,snoop dogg,1,1,we some dogs,2004-05-18,2004,5,Legumes and Legume Products
+gum,1,snoop dogg,1,1,we some dogs,2004-05-18,2004,5,Sweets
+bubble gum,1,snoop dogg,1,1,we some dogs,2004-05-18,2004,5,
+juice,3,lacrim,1,3,west coast,2019-02-08,2019,2,Baby Foods
+juice,3,snoop dogg,1,3,west coast,2019-02-08,2019,2,Baby Foods
+gin,3,lacrim,1,3,west coast,2019-02-08,2019,2,
+gin,3,snoop dogg,1,3,west coast,2019-02-08,2019,2,
+bread,1,snoop dogg,1,1,west coast,2019-02-08,2019,2,Baked Products
+food,1,snoop dogg,1,1,wet (snoop dogg vs. david guetta) [extended remix],0,0,0,
+drink,1,snoop dogg,1,1,wet (snoop dogg vs. david guetta) [extended remix],0,0,0,
+meal,2,snoop dogg,1,2,wftv millionaire,2014-10-01,2014,10,Baked Products
+lime,1,snoop dogg,1,1,wftv millionaire,2014-10-01,2014,10,Sweets
+beverage,1,snoop dogg,1,1,what a job,2007-03-20,2007,3,Beverages
+corn,1,andre 3000,1,1,what a job,2007-03-20,2007,3,Cereal Grains and Pasta
+kernel,1,andre 3000,1,1,what a job,2007-03-20,2007,3,Vegetables and Vegetable Products
+candy,1,andre 3000,1,1,what a job,2007-03-20,2007,3,Sweets
+gin,1,snoop dogg,1,1,whatcha gon do?,1998-08-04,1998,8,
+juice,1,snoop dogg,1,1,whatcha gon do?,1998-08-04,1998,8,Baby Foods
+champagne,1,snoop dogg,1,1,whatcha gon do?,1998-08-04,1998,8,
+mayo,1,snoop dogg,1,1,whateva u do,2008-03-07,2008,3,
+fish,1,snoop dogg,1,1,whateva u do,2008-03-07,2008,3,Finfish and Shellfish Products
+pie,1,snoop dogg,1,1,whateva u do,2008-03-07,2008,3,Baked Products
+dough,2,snoop dogg,1,2,whateva u do,2008-03-07,2008,3,
+beef,1,suga free,1,1,what if,2016-07-01,2016,7,Beef Products
+juice,1,mac miller,1,1,what's the use?,2018-07-23,2018,7,Baby Foods
+juice,2,mac miller,1,2,what's the use?,2018-07-23,2018,7,Baby Foods
+juice,3,snoop dogg,1,3,what's the use?,2018-07-23,2018,7,Baby Foods
+cake,1,mia x,1,1,what's ya point?,1998-10-27,1998,10,Baked Products
+pie,1,mia x,1,1,what's ya point?,1998-10-27,1998,10,Baked Products
+cake,1,daz dillinger,1,1,whats yo pleasure,2014-02-27,2014,2,Baked Products
+moscato,1,daz dillinger,1,1,whats yo pleasure,2014-02-27,2014,2,
+lemon,1,daz dillinger,1,1,whats yo pleasure,2014-02-27,2014,2,Beverages
+wine,1,shon la won,1,1,whats yo pleasure,2014-02-27,2014,2,Beverages
+bread,1,snoop dogg,1,1,what's your pleasure,0,0,0,Baked Products
+cake,1,snoop dogg,1,1,what's your pleasure,0,0,0,Baked Products
+moscato,1,snoop dogg,1,1,what's your pleasure,0,0,0,
+lemon,1,snoop dogg,1,1,what's your pleasure,0,0,0,Beverages
+wine,1,snoop dogg,1,1,what's your pleasure,0,0,0,Beverages
+ice,1,snoop dogg,1,1,**** what they say,0,0,0,
+ice cube,1,snoop dogg,1,1,**** what they say,0,0,0,
+meal,1,snoop dogg,1,1,what we do,0,0,0,Baked Products
+champagne,3,snoop dogg,1,3,what we do,0,0,0,
+dough,1,snoop dogg,1,1,what we do,0,0,0,
+nut,1,snoop dogg,1,1,what we do,0,0,0,Nut and Seed Products
+candy,1,snoop dogg,1,1,what we do,0,0,0,Sweets
+filet mignon,1,snoop dogg,-1,-1,what we do,0,0,0,
+drink,1,krazy,1,1,what y'all want,2001-08-07,2001,8,
+burrito,1,,1,1,what you smokin' on,2012-03-26,2012,3,Fast Foods
+donut,1,,1,1,what you smokin' on,2012-03-26,2012,3,
+spinach,1,,1,1,what you smokin' on,2012-03-26,2012,3,Vegetables and Vegetable Products
+broccoli,1,,1,1,what you smokin' on,2012-03-26,2012,3,Vegetables and Vegetable Products
+sprite,1,,1,1,what you smokin' on,2012-03-26,2012,3,Beverages
+alcohol,1,,1,1,what you smokin' on,2012-03-26,2012,3,Spices and Herbs
+vegetable,1,,1,1,what you smokin' on,2012-03-26,2012,3,Baby Foods
+waffle,1,mr. magic,1,1,when drama came,1998-09-15,1998,9,Baked Products
+7up,1,bad azz,1,1,when you see me,2001-07-17,2001,7,
+hamburger,1,bad azz,1,1,when you see me,2001-07-17,2001,7,Fast Foods
+apple,1,bad azz,1,1,when you see me,2001-07-17,2001,7,Fruits and Fruit Juices
+snapple,1,bad azz,1,1,when you see me,2001-07-17,2001,7,Beverages
+egg,1,bad azz,1,1,when you see me,2001-07-17,2001,7,Dairy and Egg Products
+ham,1,bad azz,1,1,when you see me,2001-07-17,2001,7,Pork Products
+pit,1,bad azz,1,1,when you see me,2001-07-17,2001,7,
+pit,1,rbx,1,1,when you see me,2001-07-17,2001,7,
+sprinkle,1,bad azz,1,1,when you see me,2001-07-17,2001,7,
+food,1,rbx,1,1,when you see me,2001-07-17,2001,7,
+spinach,1,snoop dogg,1,1,where the hoes at,0,0,0,Vegetables and Vegetable Products
+nut,1,snoop dogg,1,1,where the hoes at,0,0,0,Nut and Seed Products
+candy,1,snoop dogg,1,1,which one of you,2006-11-21,2006,11,Sweets
+water,1,nnpp,1,1,whippin' it,0,0,0,Beverages
+soup,1,nnpp,1,1,whippin' it,0,0,0,"Soups, Sauces, and Gravies"
+cheese,1,nnpp,1,1,whistle while you hustle,0,0,0,Dairy and Egg Products
+honey,3,nnpp,1,3,whistle while you hustle,0,0,0,Sweets
+steak,1,snoop dogg,1,1,white boyz,1999-07-20,1999,7,Beef Products
+shrimp,1,snoop dogg,1,1,white boyz,1999-07-20,1999,7,Finfish and Shellfish Products
+candy,1,snoop dogg,1,1,white boyz,1999-07-20,1999,7,Sweets
+herb,1,snoop dogg,1,1,white boyz,1999-07-20,1999,7,Beverages
+rabbit,4,snoop dogg,1,4,white rabbit,2019-10-31,2019,10,"Lamb, Veal, and Game Products"
+rabbit,7,blythe baines,1,7,white rabbit,2019-10-31,2019,10,"Lamb, Veal, and Game Products"
+drink,1,blythe baines,1,1,white rabbit,2019-10-31,2019,10,
+cognac,1,blythe baines,1,1,white rabbit,2019-10-31,2019,10,
+nut,2,blythe baines,1,2,who am i,0,0,0,Nut and Seed Products
+nut,2,snoop dogg,1,2,who am i (what's my name)? (remix),0,0,0,Nut and Seed Products
+rose,1,juicy j,1,1,who da neighbors (remix),2011-09-29,2011,9,Beverages
+honey,1,snoop dogg,1,1,who got some gangstas? (feat. tha dogg pound & lil' style 7 young),0,0,0,Sweets
+honey,1,dat nigga daz,1,1,who got some gangsta shit?,1994-10-15,1994,10,Sweets
+corn,1,fiend,1,1,who got the fire,1998-05-05,1998,5,Cereal Grains and Pasta
+herbal,1,fiend,1,1,who got the fire,1998-05-05,1998,5,American Indian/Alaska Native Foods
+drinking,1,snoop dogg,1,1,whoop your ass,2004-04-26,2004,4,Beverages
+pit,1,snoop dogg,1,1,whoop your ass,2004-04-26,2004,4,
+water,1,methods of mayhem,1,1,who the hell cares,1999-12-07,1999,12,Beverages
+breakfast,4,snoop dogg,1,4,why did you leave me,2008-03-07,2008,3,Baked Products
+ice,1,snoop dogg,1,1,why did you leave me,2008-03-07,2008,3,
+patty,2,jason derulo,1,2,wiggle,2014-06-06,2014,6,Poultry Products
+cake,2,jason derulo,1,2,wiggle,2014-06-06,2014,6,Baked Products
+ham,2,jason derulo,1,2,wiggle,2014-06-06,2014,6,Pork Products
+sandwich,2,jason derulo,1,2,wiggle,2014-06-06,2014,6,Baked Products
+ham sandwich,2,jason derulo,-1,-2,wiggle,2014-06-06,2014,6,
+patty,2,snoop dogg,1,2,wiggle,2014-07-22,2014,7,Poultry Products
+patty,2,jason derulo,1,2,wiggle,2014-07-22,2014,7,Poultry Products
+cake,2,snoop dogg,1,2,wiggle,2014-07-22,2014,7,Baked Products
+cake,2,jason derulo,1,2,wiggle,2014-07-22,2014,7,Baked Products
+ham,1,snoop dogg,1,1,wiggle,2014-07-22,2014,7,Pork Products
+ham,1,jason derulo,1,1,wiggle,2014-07-22,2014,7,Pork Products
+ham,1,scott bradlee's postmodern jukebox,1,1,wiggle,2014-07-22,2014,7,Pork Products
+sandwich,1,snoop dogg,1,1,wiggle,2014-07-22,2014,7,Baked Products
+sandwich,1,jason derulo,1,1,wiggle,2014-07-22,2014,7,Baked Products
+sandwich,1,scott bradlee's postmodern jukebox,1,1,wiggle,2014-07-22,2014,7,Baked Products
+ham sandwich,1,snoop dogg,-1,-1,wiggle,2014-07-22,2014,7,
+ham sandwich,1,jason derulo,-1,-1,wiggle,2014-07-22,2014,7,
+ham sandwich,1,scott bradlee's postmodern jukebox,-1,-1,wiggle,2014-07-22,2014,7,
+chestnut,1,snoop dogg,1,1,winter wonderland / here comes santa claus,2015-05-12,2015,5,Nut and Seed Products
+roast,1,snoop dogg,1,1,winter wonderland / here comes santa claus,2015-05-12,2015,5,Beef Products
+wine,1,jozeemo,1,1,without you,2007-02-13,2007,2,Beverages
+white wine,1,jozeemo,1,1,without you,2007-02-13,2007,2,
+drink,1,uncle chucc,1,1,wonder what it do,2011-03-29,2011,3,
+drink,1,snoop dogg,1,1,wonder what it do,2011-03-29,2011,3,
+pie,1,uncle chucc,1,1,wonder what it do,2011-03-29,2011,3,Baked Products
+pie,1,snoop dogg,1,1,wonder what it do,2011-03-29,2011,3,Baked Products
+fish,1,uncle chucc,1,1,wonder what it do,2011-03-29,2011,3,Finfish and Shellfish Products
+fish,1,snoop dogg,1,1,wonder what it do,2011-03-29,2011,3,Finfish and Shellfish Products
+honey,2,kurupt,1,2,wonder why they call you bitch (g-mixx),0,0,0,Sweets
+popcorn,1,kurupt,1,1,wonder why they call you bitch (g-mixx),0,0,0,Snacks
+vitamin,1,kurupt,1,1,wonder why they call you bitch (g-mixx),0,0,0,
+ice,1,fiend,1,1,woof!,1998-08-04,1998,8,
+ice,1,mystikal,1,1,woof!,1998-08-04,1998,8,
+rice,1,mystikal,1,1,woof!,1998-08-04,1998,8,Cereal Grains and Pasta
+sprinkle,1,mac!,1,1,wooo,0,0,0,
+bourbon,1,mac!,1,1,wooo,0,0,0,
+food,1,snoop dogg,1,1,world of a gangsta (feat. harvey keitel),0,0,0,
+drinking,1,snoop dogg,1,1,world of a gangsta (feat. harvey keitel),0,0,0,Beverages
+water,1,snoop dogg,1,1,world of a gangsta (feat. harvey keitel),0,0,0,Beverages
+caper,1,snoop dogg,1,1,world of a gangsta (feat. harvey keitel),0,0,0,Spices and Herbs
+ice,1,ruff ryders,1,1,ww iii,2000-07-04,2000,7,
+pork,1,ruff ryders,1,1,ww iii,2000-07-04,2000,7,Pork Products
+food,5,j-black,1,5,xmas on soul,2008-12-16,2008,12,
+food,1,snoop dogg,1,1,xmas on soul,2008-12-16,2008,12,
+candy,1,j-black,1,1,xmas on soul,2008-12-16,2008,12,Sweets
+eggnog,1,j-black,1,1,xmas on soul,2008-12-16,2008,12,Dairy and Egg Products
+drink,1,j-black,1,1,xmas on soul,2008-12-16,2008,12,
+candy cane,1,j-black,1,1,xmas on soul,2008-12-16,2008,12,
+gravy,1,snoop dogg,1,1,y'all gone miss me,2000-12-19,2000,12,"Soups, Sauces, and Gravies"
+bread,1,kokane,1,1,y'all gone miss me,2000-12-19,2000,12,Baked Products
+drink,1,riff raff,1,1,yesterday,2014-11-28,2014,11,
+chocolate,1,warren g,1,1,yo' sassy ways,2001-12-11,2001,12,Sweets
+pudding,1,warren g,1,1,yo' sassy ways,2001-12-11,2001,12,Sweets
+sap,1,warren g,1,1,yo' sassy ways,2001-12-11,2001,12,
+chocolate pudding,1,warren g,-1,-1,yo' sassy ways,2001-12-11,2001,12,
+beef,1,q-tip,1,1,you,2000-05-23,2000,5,Beef Products
+macaroni,1,q-tip,1,1,you,2000-05-23,2000,5,Cereal Grains and Pasta
+breakfast,1,raphael saadiq,1,1,you,2000-05-23,2000,5,Baked Products
+bread,1,snoop dogg,1,1,"you can put it in a zag, i'mma put it in a blunt",0,0,0,Baked Products
+water,1,snoop dogg,1,1,you got love,2011-07-26,2011,7,Beverages
+meal,1,snoop dogg,1,1,you got love,2011-07-26,2011,7,Baked Products
+herb,1,snoop dogg,1,1,you got nerve,2005-08-23,2005,8,Beverages
+food,3,snapp dogg,1,3,you gotta be a dog,2018-05-25,2018,5,
+food,1,ice cube,1,1,you gotta lotta that,2006-06-06,2006,6,
+water,1,ice cube,1,1,you gotta lotta that,2006-06-06,2006,6,Beverages
+meat,1,ice cube,1,1,you gotta lotta that,2006-06-06,2006,6,Baby Foods
+vegetable,1,ice cube,1,1,you gotta lotta that,2006-06-06,2006,6,Baby Foods
+lollipop,2,ice cube,1,2,you gotta lotta that,2006-06-06,2006,6,
+orange,1,ice cube,1,1,you never know,1999-10-12,1999,10,Fruits and Fruit Juices
+dough,1,warren g,1,1,you never know,1999-10-12,1999,10,
+drink,1,,1,1,you're gonna luv me,2010-03-23,2010,3,
+juice,1,juicy j,1,1,100% juice [album art + tracklist],0,0,0,Baby Foods
+bean,1,juicy j,1,1,100% juice [album art + tracklist],0,0,0,Legumes and Legume Products
+herb,1,juicy j,1,1,100% juice [album art + tracklist],0,0,0,Beverages
+juice,1,juicy j wiz khalifa,1,1,100% juice intro,0,0,0,Baby Foods
+cake,1,juicy j,1,1,18k,2019-06-21,2019,6,Baked Products
+salad,1,juicy j,1,1,18k,2019-06-21,2019,6,
+lettuce,1,juicy j,1,1,18k,2019-06-21,2019,6,Vegetables and Vegetable Products
+dressing,1,juicy j,1,1,18k,2019-06-21,2019,6,Fats and Oils
+funnel cake,1,juicy j,1,1,18k,2019-06-21,2019,6,
+ranch dressing,1,juicy j,1,1,18k,2019-06-21,2019,6,Fats and Oils
+cake,1,chrome (hypnotize minds),1,1,23 and 1,2005-10-25,2005,10,Baked Products
+mm,1,juicy j,1,1,24hr strip club,2017-04-15,2017,4,
+spinach,1,juicy j,1,1,24hr strip club,2017-04-15,2017,4,Vegetables and Vegetable Products
+spinach dip,1,juicy j,1,1,24hr strip club,2017-04-15,2017,4,
+cheese,1,juicy j,1,1,2 bogus,0,0,0,Dairy and Egg Products
+juice,1,juicy j,1,1,2 bogus,0,0,0,Baby Foods
+nut,1,wildstyle,1,1,2 bogus,0,0,0,Nut and Seed Products
+rose,2,ykom,1,2,2 ounces,2018-02-17,2018,2,Beverages
+juice,1,three 6 mafia,1,1,2-way freak,2001-10-30,2001,10,Baby Foods
+chicken,1,three 6 mafia,1,1,2-way freak,2001-10-30,2001,10,Poultry Products
+cheese,1,three 6 mafia,1,1,2-way freak,2001-10-30,2001,10,Dairy and Egg Products
+soy,1,kidd keo,1,1,24,2020-06-24,2020,6,Baby Foods
+juice,1,juicy j,1,1,30 inches (remix),0,0,0,Baby Foods
+fish,1,juicy j,1,1,30 inches (remix),0,0,0,Finfish and Shellfish Products
+cherry,1,juicy j,1,1,30 inches (remix),0,0,0,Fruits and Fruit Juices
+candy,1,juicy j,1,1,30 inches (remix),0,0,0,Sweets
+cheese,1,lil flip,1,1,"3, 2, 1, go!",0,0,0,Dairy and Egg Products
+juice,1,lil flip,1,1,"3, 2, 1, go!",0,0,0,Baby Foods
+soda,1,lil flip,1,1,"3, 2, 1, go!",0,0,0,Baked Products
+cherry,1,lil flip,1,1,3-6 in the morning,1997-11-04,1997,11,Fruits and Fruit Juices
+pan,1,three 6 mafia,1,1,3-6 in the morning,1997-11-04,1997,11,
+rib,1,lord infamous,1,1,9mm,0,0,0,Beef Products
+cheese,1,project pat,1,1,a1's,2014-11-17,2014,11,Dairy and Egg Products
+bagel,1,project pat,1,1,a1's,2014-11-17,2014,11,Baked Products
+cheddar,1,project pat,1,1,a1's,2014-11-17,2014,11,Dairy and Egg Products
+bread,1,project pat,1,1,a1's,2014-11-17,2014,11,Baked Products
+syrup,6,juicy j,1,6,a couple,2017-12-08,2017,12,Sweets
+beef,1,juicy j,1,1,a couple,2017-12-08,2017,12,Beef Products
+sauce,1,juicy j,1,1,a couple,2017-12-08,2017,12,"Soups, Sauces, and Gravies"
+bean,3,juicy j,1,3,act,0,0,0,Legumes and Legume Products
+syrup,1,juicy j,1,1,act,0,0,0,Sweets
+juice,1,juicy j,1,1,act,0,0,0,Baby Foods
+goose,8,dj paul,1,8,act a fool,2006-01-01,2006,1,Poultry Products
+goose,8,lil jon],1,8,act a fool,2006-01-01,2006,1,Poultry Products
+goose,1,lil jon,1,1,act a fool,2006-01-01,2006,1,Poultry Products
+ice,1,juicy j,1,1,act a fool,2006-01-01,2006,1,
+peanut,1,juicy j,1,1,act a fool,2006-01-01,2006,1,Legumes and Legume Products
+butter,1,juicy j,1,1,act a fool,2006-01-01,2006,1,Dairy and Egg Products
+peanut butter,1,juicy j,-1,-1,act a fool,2006-01-01,2006,1,Legumes and Legume Products
+grain,1,three 6 mafia,1,1,act like you know me (point em' out),2000-06-13,2000,6,
+dough,1,three 6 mafia,1,1,act like you know me (point em' out),2000-06-13,2000,6,
+alcohol,1,three 6 mafia,1,1,act like you know me (point em' out),2000-06-13,2000,6,Spices and Herbs
+food,1,three 6 mafia,1,1,addiction,2018-01-23,2018,1,
+rib,1,three 6 mafia,1,1,addiction,2018-01-23,2018,1,Beef Products
+gin,1,reggie rude,1,1,addiction,2018-01-23,2018,1,
+cooking,1,reggie rude,1,1,addiction,2018-01-23,2018,1,Beverages
+pasta,1,juicy j,1,1,advance,2018-01-15,2018,1,"Soups, Sauces, and Gravies"
+nut,1,juicy j,1,1,after dark,1998-02-24,1998,2,Nut and Seed Products
+bread,1,project pat,1,1,ain't allowed where i'm from,0,0,0,Baked Products
+corn,1,project pat,1,1,ain't allowed where i'm from,0,0,0,Cereal Grains and Pasta
+roast,1,driicky graham,1,1,ain't allowed where i'm from,0,0,0,Beef Products
+alcohol,1,juicy j,1,1,ain't no coming down,2014-01-22,2014,1,Spices and Herbs
+bread,1,juicy j,1,1,ain't no coming down,2014-01-22,2014,1,Baked Products
+breakfast,1,juicy j,1,1,ain't no coming down,2014-01-22,2014,1,Baked Products
+juice,1,juicy j,1,1,ain't no coming down,2014-01-22,2014,1,Baby Foods
+bean,1,juicy j,1,1,aint no holding back,2015-12-14,2015,12,Legumes and Legume Products
+yam,1,juicy j,1,1,ain't no rapper,0,0,0,Vegetables and Vegetable Products
+beef,1,juicy j,1,1,ain't no rapper,0,0,0,Beef Products
+water,1,juicy j,1,1,ain't no rapper,0,0,0,Beverages
+caviar,1,yamine,1,1,ain't nothing (cover),2017-09-19,2017,9,Finfish and Shellfish Products
+vanilla,1,yamine,1,1,ain't nothing (cover),2017-09-19,2017,9,Sweets
+drink,1,yamine,1,1,ain't nothing (cover),2017-09-19,2017,9,
+water,1,lord infamous,1,1,all about them prophets,0,0,0,Beverages
+nut,1,mc mack,1,1,all about them prophets,0,0,0,Nut and Seed Products
+cheese,1,juicy j,1,1,all about them prophets,0,0,0,Dairy and Egg Products
+meal,1,dj paul,1,1,all about them prophets,0,0,0,Baked Products
+coffee,1,211,1,1,all about them prophets,0,0,0,Beverages
+nut,1,tear da club up thugs,1,1,all dirty hoes,1999-02-02,1999,2,Nut and Seed Products
+banana,1,tear da club up thugs,1,1,all dirty hoes,1999-02-02,1999,2,Fruits and Fruit Juices
+goat,1,tear da club up thugs,1,1,all dirty hoes,1999-02-02,1999,2,Dairy and Egg Products
+barbeque,1,tear da club up thugs,1,1,all dirty hoes,1999-02-02,1999,2,
+sauce,1,tear da club up thugs,1,1,all dirty hoes,1999-02-02,1999,2,"Soups, Sauces, and Gravies"
+barbeque sauce,1,tear da club up thugs,-1,-1,all dirty hoes,1999-02-02,1999,2,
+mentos,1,juicy j,1,1,all i blow is loud,2013-08-23,2013,8,
+gin,2,juicy j,1,2,all i blow is loud,2013-08-23,2013,8,
+sprite,1,juicy j,1,1,all i blow is loud,2013-08-23,2013,8,Beverages
+fish,1,juicy j,1,1,all i blow is loud,2013-08-23,2013,8,Finfish and Shellfish Products
+bread,1,juicy j,1,1,all i need,2015-03-23,2015,3,Baked Products
+bread,1,juicy j,1,1,all i need (one mo drank),2015-02-13,2015,2,Baked Products
+dough,1,lord infamous,1,1,all or nothin,1995-05-25,1995,5,
+dough,1,dj paul,1,1,all or nothin,1995-05-25,1995,5,
+banana,1,lord infamous,1,1,all or nothin,1995-05-25,1995,5,Fruits and Fruit Juices
+nut,1,juicy j,1,1,all or nothin,1995-05-25,1995,5,Nut and Seed Products
+yam,1,juicy j,1,1,all or nothin,1995-05-25,1995,5,Vegetables and Vegetable Products
+grain,1,juicy j,1,1,all or nothin,1995-05-25,1995,5,
+juice,1,juicy j,1,1,all or nothin,1995-05-25,1995,5,Baby Foods
+cheese,1,dj paul,1,1,all or nothin,1995-05-25,1995,5,Dairy and Egg Products
+candy,1,dj paul,1,1,all or nothin,1995-05-25,1995,5,Sweets
+corn,1,tear da club up thugs,1,1,a niggas worst downfall,1999-02-02,1999,2,Cereal Grains and Pasta
+cheese,1,tear da club up thugs,1,1,a niggas worst downfall,1999-02-02,1999,2,Dairy and Egg Products
+bread,1,juicy j,1,1,anybody,0,0,0,Baked Products
+dough,1,juicy j,1,1,anybody,0,0,0,
+diet,1,juicy j,1,1,anybody,0,0,0,Beverages
+dressing,1,juicy j,1,1,anybody,0,0,0,Fats and Oils
+dough,1,lord infamous,1,1,anyone out there,1997-11-04,1997,11,
+cheese,1,dayton family,1,1,are u ready 4 us,1997-11-04,1997,11,Dairy and Egg Products
+gin,1,lord infamous,1,1,are u ready 4 us,1997-11-04,1997,11,
+cheese,1,dj paul,1,1,armageddon comes,0,0,0,Dairy and Egg Products
+cognac,1,dj paul,1,1,armageddon comes,0,0,0,
+wine,1,indo g,1,1,ashes to ashes,1998-08-11,1998,8,Beverages
+champagne,1,indo g,1,1,ashes to ashes,1998-08-11,1998,8,
+nut,1,juicy j,1,1,as soon as you shake it i know they gon’ make it colossal in here,2016-06-01,2016,6,Nut and Seed Products
+cake,1,juicy j,1,1,as soon as you shake it i know they gon’ make it colossal in here,2016-06-01,2016,6,Baked Products
+cake,1,juicy j,1,1,august 27th flow,0,0,0,Baked Products
+beef,1,juicy j,1,1,august 27th flow,0,0,0,Beef Products
+bread,1,juicy j,1,1,august 27th flow,0,0,0,Baked Products
+bean,1,juicy j,1,1,a zip and a double cup,2011-01-01,2011,1,Legumes and Legume Products
+drinking,1,juicy j,1,1,a zip and a double cup,2011-01-01,2011,1,Beverages
+sprite,1,juicy j,1,1,a zip and a double cup,2011-01-01,2011,1,Beverages
+sugar,1,three 6 mafia,1,1,baby mama,2001-09-09,2001,9,Sweets
+biscuit,1,three 6 mafia,1,1,baby mama,2001-09-09,2001,9,Fast Foods
+cheese,2,three 6 mafia,1,2,baby mama,2001-09-09,2001,9,Dairy and Egg Products
+nut,1,dj paul,1,1,baby mama,2001-09-09,2001,9,Nut and Seed Products
+drink,1,yamine,1,1,back in the city,0,0,0,
+drink,1,juicy j,1,1,back on the porch,2017-12-08,2017,12,
+whiskey,1,juicy j,1,1,back on the porch,2017-12-08,2017,12,Beverages
+beer,2,juicy j,1,2,back on the porch,2017-12-08,2017,12,Beverages
+syrup,1,juicy j,1,1,back out,2016-07-11,2016,7,Sweets
+wendys,1,juicy j,1,1,baddest bitch in the world,2017-01-09,2017,1,Fast Foods
+wine,1,baby e.,1,1,baddest bitch in the world,2017-01-09,2017,1,Beverages
+dessert,1,baby e.,1,1,baddest bitch in the world,2017-01-09,2017,1,Baby Foods
+water,1,lil wyte,1,1,bald head hoes,0,0,0,Beverages
+yeast,1,lil wyte,1,1,bald head hoes,0,0,0,Baked Products
+juice,1,lil wyte,1,1,bald head hoes,0,0,0,Baby Foods
+cheese,1,lil wyte,1,1,bald head hoes,0,0,0,Dairy and Egg Products
+ice,1,project pat,1,1,ballers,1999-09-14,1999,9,
+cheese,2,project pat,1,2,ballers,1999-09-14,1999,9,Dairy and Egg Products
+cheese,1,gangsta boo,1,1,ballers,1999-09-14,1999,9,Dairy and Egg Products
+juice,1,lola monroe,1,1,b.b.,0,0,0,Baby Foods
+popsicle,1,lola monroe,1,1,b.b.,0,0,0,
+bread,1,chevy woods,1,1,b.b.,0,0,0,Baked Products
+drink,1,juicy j,1,1,bandz a make her dance,2012-09-09,2012,9,
+honey,1,juicy j,1,1,bandz a make her dance,2012-09-09,2012,9,Sweets
+dough,1,juicy j,1,1,be a g,0,0,0,
+yam,1,project pat,1,1,be a g,0,0,0,Vegetables and Vegetable Products
+bean,38,juicy j,1,38,beans and lean,0,0,0,Legumes and Legume Products
+dough,1,juicy j,1,1,beans and lean,0,0,0,
+mm,1,juicy j,1,1,beans and lean,0,0,0,
+cheddar,1,juicy j,1,1,beans and lean,0,0,0,Dairy and Egg Products
+skittle,1,juicy j,1,1,beat it up,2011-11-22,2011,11,
+drink,1,juicy j,1,1,beat it up,2011-11-22,2011,11,
+syrup,1,juicy j,1,1,beat it up,2011-11-22,2011,11,Sweets
+champagne,1,juicy j,1,1,beautiful ones,0,0,0,
+cheese,1,from killa klan kaze,1,1,be a witness,1995-11-21,1995,11,Dairy and Egg Products
+cheese,1,mc mack,1,1,be a witness,1995-11-21,1995,11,Dairy and Egg Products
+salt,1,from killa klan kaze,1,1,be a witness,1995-11-21,1995,11,Spices and Herbs
+salt,1,mc mack,1,1,be a witness,1995-11-21,1995,11,Spices and Herbs
+watermelon,1,from killa klan kaze,1,1,be a witness,1995-11-21,1995,11,Fruits and Fruit Juices
+watermelon,1,mc mack,1,1,be a witness,1995-11-21,1995,11,Fruits and Fruit Juices
+pit,1,from killa klan kaze,1,1,be a witness,1995-11-21,1995,11,
+pit,1,scan man,1,1,be a witness,1995-11-21,1995,11,
+beef,26,juicy j,1,26,beef,2015-12-14,2015,12,Beef Products
+nut,1,$ab1r,1,1,belphegor,2018-08-25,2018,8,Nut and Seed Products
+dough,1,gangsta boo,1,1,be real,1998-09-29,1998,9,
+ice,1,juicy j,1,1,betta run,2016-05-08,2016,5,
+crab,1,yo-yo munie,1,1,bet yo bankroll,0,0,0,Finfish and Shellfish Products
+crab,1,juicy j,1,1,bet yo bankroll,0,0,0,Finfish and Shellfish Products
+meal,1,yo-yo munie,1,1,bet yo bankroll,0,0,0,Baked Products
+drinking,1,juicy j,1,1,bet yo bankroll,0,0,0,Beverages
+beer,1,juicy j,1,1,bet yo bankroll,0,0,0,Beverages
+roast,1,dj paul,1,1,big bizness,1995-05-25,1995,5,Beef Products
+bread,1,juicy j,1,1,big blue,0,0,0,Baked Products
+cake,1,soulja boy,1,1,big blue,0,0,0,Baked Products
+cheese,1,tear da club up thugs,1,1,big business,1999-02-02,1999,2,Dairy and Egg Products
+grain,1,lord infamous,1,1,big business,1999-02-02,1999,2,
+tea,1,lord infamous,1,1,big business,1999-02-02,1999,2,Beverages
+bread,1,vince staples,1,1,big fish,2017-05-18,2017,5,Baked Products
+water,2,vince staples,1,2,big fish,2017-05-18,2017,5,Beverages
+pie,1,juicy j,1,1,big tymer,2017-09-18,2017,9,Baked Products
+dough,2,juicy j,1,2,big tymer,2017-09-18,2017,9,
+cake,1,juicy j,1,1,big tymer,2017-09-18,2017,9,Baked Products
+funnel cake,1,juicy j,1,1,big tymer,2017-09-18,2017,9,
+nut,1,juicy j,1,1,bitch from the gram,2017-09-18,2017,9,Nut and Seed Products
+mushroom,1,juicy j,1,1,blow money,0,0,0,Vegetables and Vegetable Products
+dough,1,juicy j,1,1,blow out,0,0,0,
+bread,1,juicy j,1,1,blow out,0,0,0,Baked Products
+ice,1,juicy j,1,1,blow out,0,0,0,
+cake,1,juicy j,1,1,blow out,0,0,0,Baked Products
+gin,1,juicy j,1,1,blue bently,2016-07-11,2016,7,
+bread,2,juicy j,1,2,blue bently,2016-07-11,2016,7,Baked Products
+cheese,1,mc mack,1,1,body parts,1996-12-03,1996,12,Dairy and Egg Products
+cheese,1,juicy j,1,1,body parts,1996-12-03,1996,12,Dairy and Egg Products
+pit,1,lord infamous,1,1,body parts,1996-12-03,1996,12,
+juice,1,gangsta blac,1,1,body parts,1996-12-03,1996,12,Baby Foods
+coco,1,dj paul,1,1,body parts,1996-12-03,1996,12,
+bacardi,1,three 6 mafia,1,1,bodyparts 2,1997-11-04,1997,11,
+fudge,1,three 6 mafia,1,1,bodyparts 2,1997-11-04,1997,11,Sweets
+nut,1,three 6 mafia,1,1,bodyparts 2,1997-11-04,1997,11,Nut and Seed Products
+orange,1,three 6 mafia,1,1,bodyparts 2,1997-11-04,1997,11,Fruits and Fruit Juices
+herb,2,three 6 mafia,1,2,bodyparts 2,1997-11-04,1997,11,Beverages
+grain,1,three 6 mafia,1,1,bodyparts 2,1997-11-04,1997,11,
+candy,1,three 6 mafia,1,1,body parts 3,2005-09-27,2005,9,Sweets
+juice,1,three 6 mafia,1,1,body parts 3,2005-09-27,2005,9,Baby Foods
+cheese,1,three 6 mafia,1,1,body parts 3,2005-09-27,2005,9,Dairy and Egg Products
+dough,1,three 6 mafia,1,1,body parts 3,2005-09-27,2005,9,
+drinking,1,dj paul,1,1,body parts iv,2013-11-12,2013,11,Beverages
+cake,1,juicy j,1,1,body parts iv,2013-11-12,2013,11,Baked Products
+nut,1,koopsta knicca,1,1,body parts iv,2013-11-12,2013,11,Nut and Seed Products
+bread,3,crunchy black,1,3,body parts iv,2013-11-12,2013,11,Baked Products
+banana,1,aka jgrxxn,1,1,body parts iv,2013-11-12,2013,11,Fruits and Fruit Juices
+banana,1,j-green,1,1,body parts iv,2013-11-12,2013,11,Fruits and Fruit Juices
+water,1,aka jgrxxn,1,1,body parts iv,2013-11-12,2013,11,Beverages
+water,1,j-green,1,1,body parts iv,2013-11-12,2013,11,Beverages
+vegetable,1,da mafia 6ix,1,1,body parts iv,2013-11-12,2013,11,Baby Foods
+twinkie,1,juicy j,1,1,bone ready (skit),2015-03-24,2015,3,
+syrup,1,juicy j,1,1,bone ready (skit),2015-03-24,2015,3,Sweets
+carrot,1,juicy j,1,1,bon voyage,0,0,0,Vegetables and Vegetable Products
+gin,1,juicy j,1,1,bon voyage,0,0,0,
+ice,1,juicy j,1,1,bon voyage,0,0,0,
+banana,1,juicy j,1,1,boss nigga,0,0,0,Fruits and Fruit Juices
+toaster,1,juicy j,1,1,boss nigga,0,0,0,
+tart,1,juicy j,1,1,boss nigga,0,0,0,Fruits and Fruit Juices
+pop tart,1,juicy j,1,1,boss nigga,0,0,0,
+dennys,1,dayton family,1,1,bout the south,1998-02-24,1998,2,Restaurant Foods
+mascarpone,1,dayton family,1,1,bout the south,1998-02-24,1998,2,
+cheese,1,project pat,1,1,bout the south,1998-02-24,1998,2,Dairy and Egg Products
+cheese,1,from killa klan kaze,1,1,bout the south,1998-02-24,1998,2,Dairy and Egg Products
+juice,1,koopsta knicca,1,1,break a hoe,0,0,0,Baby Foods
+nut,1,project pat,1,1,break da law 2001,2001-02-13,2001,2,Nut and Seed Products
+lemon,1,juicy j,1,1,break da law 2001,2001-02-13,2001,2,Beverages
+glaze,1,juicy j,1,1,break da law 2001,2001-02-13,2001,2,Sweets
+slaw,1,dj paul,1,1,"break da law ""95""",1995-05-25,1995,5,
+fruit,1,dj paul,1,1,"break da law ""95""",1995-05-25,1995,5,Baby Foods
+juice,1,dj paul,1,1,"break da law ""95""",1995-05-25,1995,5,Baby Foods
+whiskey,1,juicy j,1,1,break the law,2015-08-16,2015,8,Beverages
+whiskey,1,mac miller,1,1,break the law,2015-08-16,2015,8,Beverages
+nut,1,indo g,1,1,break the law '98,0,0,0,Nut and Seed Products
+cornbread,1,indo g,1,1,break the law '98,0,0,0,Baked Products
+cracker,1,t-rock,1,1,break the law '98,0,0,0,Baked Products
+iced,1,lil noid,1,1,break yo self bitch,0,0,0,Beverages
+cheese,2,lil noid,1,2,break yo self bitch,0,0,0,Dairy and Egg Products
+chicken,1,lil noid,1,1,break yo self bitch,0,0,0,Poultry Products
+dough,1,lil noid,1,1,break yo self bitch,0,0,0,
+ice,1,juicy j,1,1,broke niggaz,2018-01-15,2018,1,
+pie,1,god,1,1,broke remix,2015-10-12,2015,10,Baked Products
+dough,1,god,1,1,broke remix,2015-10-12,2015,10,
+banana,1,juicy j,1,1,broke remix,2015-10-12,2015,10,Fruits and Fruit Juices
+ice,1,god (rapper),1,1,broke remix,2015-10-12,2015,10,
+ice,1,juicy j,1,1,buckets,2017-12-08,2017,12,
+lamb,1,juicy j,1,1,buckets,2017-12-08,2017,12,"Lamb, Veal, and Game Products"
+dough,2,juicy j,1,2,buckets,2017-12-08,2017,12,
+honey,2,hodgy,1,2,bullshittin',0,0,0,Sweets
+milk,1,hodgy,1,1,bullshittin',0,0,0,Dairy and Egg Products
+lemon,1,young dolph,1,1,bundle,2017-08-25,2017,8,Beverages
+fish,1,young dolph,1,1,bundle,2017-08-25,2017,8,Finfish and Shellfish Products
+salad,1,young dolph,1,1,bundle,2017-08-25,2017,8,
+cream,1,berner,1,1,bundle,2017-08-25,2017,8,Dairy and Egg Products
+bread,1,berner,1,1,bundle,2017-08-25,2017,8,Baked Products
+reeses,1,oj da juiceman,1,1,bundle,2017-08-25,2017,8,Sweets
+juice,1,juicy j,1,1,busta ass niggaz,0,0,0,Baby Foods
+flapjack,1,yung gravy,1,1,buttered up,2019-05-31,2019,5,
+gravy,2,yung gravy,1,2,buttered up,2019-05-31,2019,5,"Soups, Sauces, and Gravies"
+tasty,1,yung gravy,1,1,buttered up,2019-05-31,2019,5,
+butter,1,yung gravy,1,1,buttered up,2019-05-31,2019,5,Dairy and Egg Products
+biscuit,1,yung gravy,1,1,buttered up,2019-05-31,2019,5,Fast Foods
+syrup,2,juicy j,1,2,buttered up,2019-05-31,2019,5,Sweets
+buttered,1,juicy j,1,1,buttered up,2019-05-31,2019,5,
+breakfast,1,juicy j,1,1,buttered up,2019-05-31,2019,5,Baked Products
+gelato,1,juicy j,1,1,buttered up,2019-05-31,2019,5,
+cake,1,juicy j,1,1,buttered up,2019-05-31,2019,5,Baked Products
+dessert,1,juicy j,1,1,buttered up,2019-05-31,2019,5,Baby Foods
+wedding cake,1,juicy j,1,1,buttered up,2019-05-31,2019,5,
+fish,1,young dolph,1,1,by mistake (remix),2019-04-01,2019,4,Finfish and Shellfish Products
+cherry,1,project pat,1,1,by mistake (remix),2019-04-01,2019,4,Fruits and Fruit Juices
+pie,1,project pat,1,1,by mistake (remix),2019-04-01,2019,4,Baked Products
+drink,1,juicy j,1,1,caddy's,2019-03-22,2019,3,
+fish,2,trae tha truth,1,2,cadillac,2006-06-27,2006,6,Finfish and Shellfish Products
+ice,1,trae tha truth,1,1,cadillac,2006-06-27,2006,6,
+iced,1,trae tha truth,1,1,cadillac,2006-06-27,2006,6,Beverages
+grain,1,trae tha truth,1,1,cadillac,2006-06-27,2006,6,
+candy,2,trae tha truth,1,2,cadillac,2006-06-27,2006,6,Sweets
+meat,1,king ray,1,1,cancel her,2014-09-30,2014,9,Baby Foods
+cake,1,juicy j,1,1,cancel her,2014-09-30,2014,9,Baked Products
+drinking,1,jeremih,1,1,can't go no mo,2014-08-04,2014,8,Beverages
+nut,1,lil cut throat,1,1,carrollton,2018-07-31,2018,7,Nut and Seed Products
+salt,1,lil cut throat,1,1,carrollton,2018-07-31,2018,7,Spices and Herbs
+cherry,1,ruby da cherry,1,1,carrollton,2018-07-31,2018,7,Fruits and Fruit Juices
+lime,1,ruby da cherry,1,1,carrollton,2018-07-31,2018,7,Sweets
+bourbon,1,$uicideboy$,1,1,carrollton,2018-07-31,2018,7,
+nut,1,juicy j,1,1,cash erewhere,0,0,0,Nut and Seed Products
+cashew,1,juicy j,1,1,cash erewhere,0,0,0,
+dough,1,juicy j,1,1,cash erewhere,0,0,0,
+rose,1,juicy j,1,1,cash erewhere,0,0,0,Beverages
+cheese,1,ace hood,1,1,cash erewhere,0,0,0,Dairy and Egg Products
+tonic,1,t-rock,1,1,catch a blast,1998-02-24,1998,2,
+water,1,project pat,1,1,catch a hot one,2009-02-24,2009,2,Beverages
+beef,1,project pat,1,1,catch a hot one,2009-02-24,2009,2,Beef Products
+ice,1,yamine,1,1,cell ready (pt2.),0,0,0,
+ice,1,isaac the rapper,1,1,cell ready (pt2.),0,0,0,
+beef,1,yamine,1,1,cell ready (pt2.),0,0,0,Beef Products
+beef,1,isaac the rapper,1,1,cell ready (pt2.),0,0,0,Beef Products
+cheese,1,yamine,1,1,cell ready (pt2.),0,0,0,Dairy and Egg Products
+cheese,1,isaac the rapper,1,1,cell ready (pt2.),0,0,0,Dairy and Egg Products
+chicken,1,yamine,1,1,cell ready (pt2.),0,0,0,Poultry Products
+chicken,1,isaac the rapper,1,1,cell ready (pt2.),0,0,0,Poultry Products
+bread,1,juicy j,1,1,centuries (remix),2015-10-30,2015,10,Baked Products
+cherry,1,patrick stump,1,1,centuries (remix),2015-10-30,2015,10,Fruits and Fruit Juices
+candy,1,berner,1,1,certified freak,2012-10-02,2012,10,Sweets
+gin,1,berner,1,1,certified freak,2012-10-02,2012,10,
+bread,1,berner,1,1,certified freak,2012-10-02,2012,10,Baked Products
+cookie,1,juicy j,1,1,certified freak,2012-10-02,2012,10,Baked Products
+popcorn,1,chevy woods,1,1,certified freak,2012-10-02,2012,10,Snacks
+sauce,2,chevy woods,1,2,certified freak,2012-10-02,2012,10,"Soups, Sauces, and Gravies"
+chicken,1,chevy woods,1,1,certified freak,2012-10-02,2012,10,Poultry Products
+water,1,chevy woods,1,1,certified freak,2012-10-02,2012,10,Beverages
+12 pack,1,berner,2,2,certified freak,2012-10-02,2012,10,
+hot sauce,1,chevy woods,1,1,certified freak,2012-10-02,2012,10,
+champagne,1,chevy woods,1,1,champagne,0,0,0,
+lettuce,1,juicy j,1,1,champagne,0,0,0,Vegetables and Vegetable Products
+cheese,1,juicy j,1,1,charging these hoes,1999-03-02,1999,3,Dairy and Egg Products
+mcdonalds,1,juicy j,1,1,charging these hoes,1999-03-02,1999,3,Fast Foods
+burger,1,juicy j,1,1,charging these hoes,1999-03-02,1999,3,
+wendys,1,juicy j,1,1,charging these hoes,1999-03-02,1999,3,Fast Foods
+dough,1,juicy j,1,1,charging these hoes,1999-03-02,1999,3,
+burger king,1,juicy j,1,1,charging these hoes,1999-03-02,1999,3,Fast Foods
+nut,1,project pat,1,1,cheese and dope,2001-02-13,2001,2,Nut and Seed Products
+cheese,2,project pat,1,2,cheese and dope,2001-02-13,2001,2,Dairy and Egg Products
+rabbit,1,project pat,1,1,cheese and dope,2001-02-13,2001,2,"Lamb, Veal, and Game Products"
+sugar,1,project pat,1,1,cheese and dope,2001-02-13,2001,2,Sweets
+chicken,48,project pat,1,48,chickenhead,2001-01-01,2001,1,Poultry Products
+chicken,4,project pat,1,4,chickenhead,2001-01-01,2001,1,Poultry Products
+gravy,1,project pat,1,1,chickenhead,2001-01-01,2001,1,"Soups, Sauces, and Gravies"
+cheese,1,project pat,1,1,chickenhead,2001-01-01,2001,1,Dairy and Egg Products
+gum,1,project pat,1,1,chickenhead,2001-01-01,2001,1,Sweets
+gum,1,la chat,1,1,chickenhead,2001-01-01,2001,1,Sweets
+meal,1,project pat,1,1,choices,1999-09-14,1999,9,Baked Products
+champagne,1,justin timberlake,1,1,chop me up,2006-09-08,2006,9,
+alcohol,1,justin timberlake,1,1,chop me up,2006-09-08,2006,9,Spices and Herbs
+juice,1,juicy j,1,1,choppa,2016-09-19,2016,9,Baby Foods
+beef,1,juicy j,1,1,choppa,2016-09-19,2016,9,Beef Products
+reeses,1,three 6 mafia,1,1,click bang,2008-06-24,2008,6,Sweets
+bread,1,three 6 mafia,1,1,click bang,2008-06-24,2008,6,Baked Products
+fruit,1,que,1,1,clip so long,0,0,0,Baby Foods
+snack,1,que,1,1,clip so long,0,0,0,Snacks
+chiquita,1,que,1,1,clip so long,0,0,0,
+banana,1,que,1,1,clip so long,0,0,0,Fruits and Fruit Juices
+ice,1,juicy j,1,1,clip so long,0,0,0,
+beef,1,juicy j,1,1,clip so long,0,0,0,Beef Products
+fruit snack,1,que,-1,-1,clip so long,0,0,0,Sweets
+bread,5,frayser boy,1,5,closed mouth,2003-08-26,2003,8,Baked Products
+pumpkin,1,frayser boy,1,1,closed mouth,2003-08-26,2003,8,Vegetables and Vegetable Products
+egg,1,frayser boy,1,1,closed mouth,2003-08-26,2003,8,Dairy and Egg Products
+fish,1,frayser boy,1,1,closed mouth,2003-08-26,2003,8,Finfish and Shellfish Products
+easter egg,1,frayser boy,1,1,closed mouth,2003-08-26,2003,8,
+drink,1,112,1,1,closing the club,2005-03-29,2005,3,
+herb,1,112,1,1,closing the club,2005-03-29,2005,3,Beverages
+goose,1,112,1,1,closing the club,2005-03-29,2005,3,Poultry Products
+rose,1,juicy j,1,1,codeine cups,2012-05-21,2012,5,Beverages
+oil,1,juicy j,1,1,codeine cups,2012-05-21,2012,5,Fats and Oils
+drink,1,juicy j,1,1,codeine cups,2012-05-21,2012,5,
+grapefruit,1,taylor gang,1,1,come through,2016-10-11,2016,10,Fruits and Fruit Juices
+dough,1,taylor gang,1,1,come through,2016-10-11,2016,10,
+nut,1,carmike,1,1,comin' at yo azz,0,0,0,Nut and Seed Products
+ice,1,pnb rock,1,1,confide,2017-11-17,2017,11,
+cream,1,pnb rock,1,1,confide,2017-11-17,2017,11,Dairy and Egg Products
+whipped cream,1,pnb rock,1,1,confide,2017-11-17,2017,11,
+bean,1,passion pit,1,1,constant conversations (remix),0,0,0,Legumes and Legume Products
+cream,1,passion pit,1,1,constant conversations (remix),0,0,0,Dairy and Egg Products
+drinking,1,passion pit,1,1,constant conversations (remix),0,0,0,Beverages
+lemonade,1,juicy j,1,1,control,2016-07-11,2016,7,Beverages
+dough,1,juicy j,1,1,control,2016-07-11,2016,7,
+honey,1,three 6 mafia,1,1,corner man,2008-06-24,2008,6,Sweets
+drink,1,juicy j,1,1,countin faces,0,0,0,
+bean,1,juicy j,1,1,countin faces,0,0,0,Legumes and Legume Products
+roast,1,gangsta blac,1,1,crank dis bitch up,1994-11-25,1994,11,Beef Products
+nut,1,gangsta blac,1,1,crank dis bitch up,1994-11-25,1994,11,Nut and Seed Products
+burger,1,project pat,1,1,crash out,2015-03-24,2015,3,
+drinking,1,project pat,1,1,crash out,2015-03-24,2015,3,Beverages
+drinking,4,ke$ha,1,4,crazy kids (juicy j remix),2013-05-21,2013,5,Beverages
+chicken,1,ke$ha,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Poultry Products
+breakfast,1,juicy j,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Baked Products
+orange,1,juicy j,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Fruits and Fruit Juices
+juice,1,juicy j,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Baby Foods
+bacon,1,juicy j,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Pork Products
+egg,1,juicy j,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Dairy and Egg Products
+apple,1,juicy j,1,1,crazy kids (juicy j remix),2013-05-21,2013,5,Fruits and Fruit Juices
+orange juice,1,juicy j,-1,-1,crazy kids (juicy j remix),2013-05-21,2013,5,Fruits and Fruit Juices
+drinking,4,ke$ha,1,4,crazy kids (remix),2013-04-30,2013,4,Beverages
+chicken,1,ke$ha,1,1,crazy kids (remix),2013-04-30,2013,4,Poultry Products
+alcohol,1,will.i.am,1,1,crazy kids (remix),2013-04-30,2013,4,Spices and Herbs
+rose,1,will.i.am,1,1,crazy kids (remix),2013-04-30,2013,4,Beverages
+drink,1,will.i.am,1,1,crazy kids (remix),2013-04-30,2013,4,
+cheese,1,fiend,1,1,crown me,0,0,0,Dairy and Egg Products
+cheese,1,"juicy ""j""",1,1,crown me,0,0,0,Dairy and Egg Products
+cheddar,1,fiend,1,1,crown me,0,0,0,Dairy and Egg Products
+dough,1,"juicy ""j""",1,1,crown me,0,0,0,
+cake,1,"juicy ""j""",1,1,crown me,0,0,0,Baked Products
+honey,1,dj paul,1,1,crown me,0,0,0,Sweets
+american cheese,1,fiend,1,1,crown me,0,0,0,Dairy and Egg Products
+nut,1,duke deuce,1,1,crunk ain't dead,2019-11-27,2019,11,Nut and Seed Products
+ice,1,juicy j,1,1,crunk ain't dead (remix),2020-02-05,2020,2,
+ice,1,lil jon,1,1,crunk ain't dead (remix),2020-02-05,2020,2,
+beef,1,juicy j,1,1,crunk ain't dead (remix),2020-02-05,2020,2,Beef Products
+beef,1,lil jon,1,1,crunk ain't dead (remix),2020-02-05,2020,2,Beef Products
+nut,1,duke deuce,1,1,crunk ain't dead (remix),2020-02-05,2020,2,Nut and Seed Products
+diet,1,project pat,1,1,crunk ain't dead (remix),2020-02-05,2020,2,Beverages
+candy,1,project pat,1,1,crunk ain't dead (remix),2020-02-05,2020,2,Sweets
+brandy,1,project pat,1,1,crunk ain't dead (remix),2020-02-05,2020,2,
+bread,1,juicy j,1,1,cut em off,2018-01-15,2018,1,Baked Products
+soda,1,verse 3,1,1,cut throat,2011-08-02,2011,8,Baked Products
+juice,1,three 6 mafia,1,1,da beginning,1995-05-25,1995,5,Baby Foods
+oil,1,tear da club up thugs,1,1,da first date,2000-01-25,2000,1,Fats and Oils
+chicken,2,juicy j,1,2,da first date,2000-01-25,2000,1,Poultry Products
+cheese,1,juicy j,1,1,da first date,2000-01-25,2000,1,Dairy and Egg Products
+cheese,1,koopsta knicca,1,1,da first date,2000-01-25,2000,1,Dairy and Egg Products
+drinking,2,juicy j,1,2,da first date,2000-01-25,2000,1,Beverages
+wine,1,lord infamous,1,1,da first date,2000-01-25,2000,1,Beverages
+honey,1,koopsta knicca,1,1,da first date,2000-01-25,2000,1,Sweets
+fried,1,juicy j,1,1,dangerous,2018-01-15,2018,1,Poultry Products
+food,1,juicy j,1,1,dangerous,2018-01-15,2018,1,
+yam,1,juicy j,1,1,dangerous,2018-01-15,2018,1,Vegetables and Vegetable Products
+vodka,1,juicy j,1,1,dangerous posse,2003-06-24,2003,6,Beverages
+nut,1,lil wyte,1,1,dangerous posse,2003-06-24,2003,6,Nut and Seed Products
+pie,1,poupie,1,1,dark horse,2018-06-17,2018,6,Baked Products
+pie,1,alexi blue,1,1,dark horse (acoustic),2013-12-28,2013,12,Baked Products
+pie,1,juicy j,1,1,dark horse (elephante remix),2014-01-30,2014,1,Baked Products
+pie,1,juicy j,1,1,dark horse,2013-10-18,2013,10,Baked Products
+milk,3,juicy j,1,3,dark horse (urban remix),0,0,0,Dairy and Egg Products
+milk,3,girl,1,3,dark horse (urban remix),0,0,0,Dairy and Egg Products
+sour,1,juicy j,1,1,dark horse (urban remix),0,0,0,Fruits and Fruit Juices
+sour,1,girl,1,1,dark horse (urban remix),0,0,0,Fruits and Fruit Juices
+pie,1,juicy j,1,1,dark horse (urban remix),0,0,0,Baked Products
+gin,1,koopsta knicca,1,1,da summa (remix),2000-10-31,2000,10,
+honey,1,lord infamous,1,1,da summa (remix),2000-10-31,2000,10,Sweets
+deli,1,baby e.,1,1,dat chick,2015-10-02,2015,10,Sausages and Luncheon Meats
+rib,2,lord infamous,1,2,dats what i thought,2017-09-18,2017,9,Beef Products
+rib,1,juicy j,1,1,dats what i thought,2017-09-18,2017,9,Beef Products
+bread,2,juicy j,1,2,dats what i thought,2017-09-18,2017,9,Baked Products
+sauce,2,juicy j,1,2,dats what i thought,2017-09-18,2017,9,"Soups, Sauces, and Gravies"
+banana,1,juicy j,1,1,deep down south,0,0,0,Fruits and Fruit Juices
+melon,1,juicy j,1,1,deep down south,0,0,0,Fruits and Fruit Juices
+water,1,project pat,1,1,deep down south,0,0,0,Beverages
+cheese,1,juicy j,1,1,deep in da hood,2012-05-20,2012,5,Dairy and Egg Products
+drink,1,tech n9ne,1,1,demons,2009-10-26,2009,10,
+ice,1,tech n9ne,1,1,demons,2009-10-26,2009,10,
+plum,4,mackenzie nicole,1,4,demons,2009-10-26,2009,10,Fruits and Fruit Juices
+juice,1,dj paul,1,1,demons,2009-10-26,2009,10,Baby Foods
+nut,1,juicy j,1,1,demons,2009-10-26,2009,10,Nut and Seed Products
+beer,1,juicy j,1,1,demons,2009-10-26,2009,10,Beverages
+barbeque,1,juicy j,1,1,demons,2009-10-26,2009,10,
+dough,1,juicy j,1,1,demons,2009-10-26,2009,10,
+gin,1,lil gin,1,1,demons in my soul,0,0,0,
+honeycomb,1,211,1,1,demons in my soul,0,0,0,
+soda,1,211,1,1,demons in my soul,0,0,0,Baked Products
+cream,1,juicy j,1,1,denna bitch,0,0,0,Dairy and Egg Products
+martini,1,juicy j,1,1,denna bitch,0,0,0,
+ice,1,juicy j,1,1,denna bitch,0,0,0,
+drinking,1,project pat,1,1,denna bitch,0,0,0,Beverages
+sour,1,juicy j,1,1,denna bitch,0,0,0,Fruits and Fruit Juices
+sushi,1,juicy j,1,1,denna bitch,0,0,0,
+breakfast,1,juicy j,1,1,details,0,0,0,Baked Products
+chicken,1,juicy j,1,1,dick sucking hoes,0,0,0,Poultry Products
+chicken,1,gangsta boo,1,1,dick suckin' hoes,0,0,0,Poultry Products
+sesame,1,t-rock,1,1,die a soldier,2000-01-25,2000,1,Baked Products
+cheese,1,gangsta boo,1,1,die a soldier,2000-01-25,2000,1,Dairy and Egg Products
+nut,1,three 6 mafia,1,1,dirty bitch,2008-06-24,2008,6,Nut and Seed Products
+apple,1,project pat,1,1,dirty bitch,2008-06-24,2008,6,Fruits and Fruit Juices
+cheese,1,project pat,1,1,dirty bitch,2008-06-24,2008,6,Dairy and Egg Products
+drinking,13,juicy j,1,13,disrespectin,0,0,0,Beverages
+sprite,1,juicy j,1,1,disrespectin,0,0,0,Beverages
+dessert,1,juicy j,1,1,disrespectin,0,0,0,Baby Foods
+ice,1,juicy j,1,1,disrespectin,0,0,0,
+drink,1,juicy j,1,1,disrespectin,0,0,0,
+juice,1,juicy j,1,1,disrespectin,0,0,0,Baby Foods
+syrup,1,dc young fly,1,1,disrespectin,0,0,0,Sweets
+juice,1,dc young fly,1,1,dj scream outro (100% juice),0,0,0,Baby Foods
+pez,1,take$hi g.o.d,1,1,dms,2018-04-27,2018,4,
+cola,1,take$hi g.o.d,1,1,dms,2018-04-27,2018,4,Beverages
+soy,2,take$hi g.o.d,1,2,dms,2018-04-27,2018,4,Baby Foods
+ahi,3,take$hi g.o.d,1,3,dms,2018-04-27,2018,4,
+cake,2,juicy j,1,2,dodgin' the snakes,2017-12-08,2017,12,Baked Products
+cherry,1,dj paul,1,1,doe boy fresh,2007-01-02,2007,1,Fruits and Fruit Juices
+mint,1,dj paul,1,1,doe boy fresh,2007-01-02,2007,1,
+peanut,1,juicy j,1,1,doe boy fresh,2007-01-02,2007,1,Legumes and Legume Products
+butter,1,juicy j,1,1,doe boy fresh,2007-01-02,2007,1,Dairy and Egg Products
+jelly,1,juicy j,1,1,doe boy fresh,2007-01-02,2007,1,Sweets
+deli,1,juicy j,1,1,doe boy fresh,2007-01-02,2007,1,Sausages and Luncheon Meats
+peanut butter,1,juicy j,-1,-1,doe boy fresh,2007-01-02,2007,1,Legumes and Legume Products
+klondike,1,three 6 mafia,1,1,don't be scared,1999-03-02,1999,3,Sweets
+orange,1,three 6 mafia,1,1,don't be scared,1999-03-02,1999,3,Fruits and Fruit Juices
+goat,1,three 6 mafia,1,1,don't be scared,1999-03-02,1999,3,Dairy and Egg Products
+cheese,1,mc mack,1,1,don't make me kill,0,0,0,Dairy and Egg Products
+bread,1,juicy j,1,1,don't play,2016-09-28,2016,9,Baked Products
+dough,1,juicy j,1,1,don't play,2016-09-28,2016,9,
+lime,1,juicy j,1,1,don't play,2016-09-28,2016,9,Sweets
+water,1,juicy j,1,1,don't play,2016-09-28,2016,9,Beverages
+cheese,1,project pat,1,1,don't save her,2001-01-01,2001,1,Dairy and Egg Products
+drink,1,project pat,1,1,don't save her,2001-01-01,2001,1,
+nut,1,project pat,1,1,don't save her,2001-01-01,2001,1,Nut and Seed Products
+chicken,1,project pat,1,1,don't save her (video/radio remix),0,0,0,Poultry Products
+cheese,1,kingpin skinny pimp,1,1,don't test me,1996-04-06,1996,4,Dairy and Egg Products
+peeled,1,kingpin skinny pimp,1,1,don't test me,1996-04-06,1996,4,Nut and Seed Products
+fry,2,kingpin skinny pimp,1,2,don't test me,1996-04-06,1996,4,
+nut,1,kingpin skinny pimp,1,1,don't test me,1996-04-06,1996,4,Nut and Seed Products
+rose,1,juicy j,1,1,don't trust,0,0,0,Beverages
+beef,1,juicy j,1,1,don't trust,0,0,0,Beef Products
+bread,1,juicy j,1,1,don't trust,0,0,0,Baked Products
+rose,1,juicy j,1,1,don't trust,2014-12-15,2014,12,Beverages
+beef,1,juicy j,1,1,don't trust,2014-12-15,2014,12,Beef Products
+bread,1,juicy j,1,1,don't trust,2014-12-15,2014,12,Baked Products
+juice,1,crunchy black & t rock,1,1,don't trust 'em,0,0,0,Baby Foods
+cheese,1,project pat,1,1,don't turn around,0,0,0,Dairy and Egg Products
+cheese,1,repeat 2x,1,1,don't turn around,0,0,0,Dairy and Egg Products
+beef,1,three 6 mafia,1,1,don't violate,2005-09-27,2005,9,Beef Products
+wine,1,denny strickland,1,1,don't you wanna?,2019-01-28,2019,1,Beverages
+candy,4,juicy j,1,4,dope fiend,2017-09-18,2017,9,Sweets
+bread,1,juicy j,1,1,dope fiend,2017-09-18,2017,9,Baked Products
+dough,1,juicy j,1,1,dope fiend,2017-09-18,2017,9,
+pineapple,1,juicy j,1,1,dope fiend,2017-09-18,2017,9,Fruits and Fruit Juices
+cream,1,juicy j,1,1,dope fiend,2017-09-18,2017,9,Dairy and Egg Products
+soda,1,juicy j,1,1,dope fiend,2017-09-18,2017,9,Baked Products
+cream soda,1,juicy j,-1,-1,dope fiend,2017-09-18,2017,9,Beverages
+drink,1,juicy j,1,1,do this all the time,0,0,0,
+drink,4,dj paul,1,4,drinkin on tha alizé,0,0,0,
+berry,1,dj paul,1,1,drinkin on tha alizé,0,0,0,
+lemonade,1,dj paul,1,1,drinkin on tha alizé,0,0,0,Beverages
+berry lemonade,1,dj paul,-1,-1,drinkin on tha alizé,0,0,0,
+dough,2,project pat,1,2,drive by,0,0,0,
+cheese,1,project pat,1,1,drive by,0,0,0,Dairy and Egg Products
+bread,1,juicy j,1,1,drop a bag,2017-12-08,2017,12,Baked Products
+ice,1,juicy j,1,1,drugged out,0,0,0,
+sprite,1,juicy j,1,1,drugged out,0,0,0,Beverages
+snack,1,juicy j,1,1,drugged out,0,0,0,Snacks
+berry,1,juicy j,1,1,drugged out,0,0,0,
+ice,1,juicy j,1,1,durdy,2015-12-14,2015,12,
+veggie,1,juicy j,1,1,durr she go,2011-05-01,2011,5,
+drinking,1,,1,1,durr she go,2011-05-01,2011,5,Beverages
+drink,1,juicy j,1,1,d'usse & ciroc,2017-09-18,2017,9,
+alcohol,1,project pat,1,1,easily executed,2000-07-25,2000,7,Spices and Herbs
+candy,1,project pat,1,1,easily executed,2000-07-25,2000,7,Sweets
+alcohol,1,juicy j,1,1,easily executed,1994-01-01,1994,1,Spices and Herbs
+candy,1,juicy j,1,1,easily executed,1994-01-01,1994,1,Sweets
+juice,16,juicy j,1,16,easily executed,1994-01-01,1994,1,Baby Foods
+nut,2,tear da club up thugs,1,2,elbow a nigga,1999-02-02,1999,2,Nut and Seed Products
+yogurt,1,juicy j,1,1,energy,2016-01-19,2016,1,Dairy and Egg Products
+wine,1,juicy j,1,1,energy,2016-01-19,2016,1,Beverages
+honey,1,juicy j,1,1,enjoy,2016-07-11,2016,7,Sweets
+yam,1,kingpin skinny pimp,1,1,"everything is business, pt. 1",0,0,0,Vegetables and Vegetable Products
+dough,1,,1,1,everything louie,2013-01-09,2013,1,
+jelly,2,sno (rap),1,2,eyes like a chinese,2011-04-19,2011,4,Sweets
+sour,1,sno (rap),1,1,eyes like a chinese,2011-04-19,2011,4,Fruits and Fruit Juices
+bean,1,sno (rap),1,1,eyes like a chinese,2011-04-19,2011,4,Legumes and Legume Products
+grape,1,sno (rap),1,1,eyes like a chinese,2011-04-19,2011,4,Vegetables and Vegetable Products
+jelly roll,1,sno (rap),1,1,eyes like a chinese,2011-04-19,2011,4,
+nut,1,m.c. mack,1,1,"ez come, ez go",1995-01-01,1995,1,Nut and Seed Products
+lemon,2,m.c. mack,1,2,"ez come, ez go",1995-01-01,1995,1,Beverages
+chicken,1,ykom,1,1,fall off,0,0,0,Poultry Products
+candy,1,juicy j,1,1,fall off,0,0,0,Sweets
+fish,1,three 6 mafia,1,1,favorite scary movie,1998-02-24,1998,2,Finfish and Shellfish Products
+meat,1,dj paul,1,1,favorite scary movie,1998-02-24,1998,2,Baby Foods
+bread,1,yamine,1,1,feed da streets cover,0,0,0,Baked Products
+dough,1,juicy j,1,1,feeling like obama,2016-09-19,2016,9,
+cheddar,1,mc mack,1,1,felt the pain,1998-09-08,1998,9,Dairy and Egg Products
+cheese,1,mc mack,1,1,felt the pain,1998-09-08,1998,9,Dairy and Egg Products
+gin,1,project pat,1,1,felt the pain,1998-09-08,1998,9,
+bread,2,juicy j,1,2,females welcomed remix,2014-01-22,2014,1,Baked Products
+grape,1,juicy j,1,1,females welcomed remix,2014-01-22,2014,1,Vegetables and Vegetable Products
+beef,1,project pat,1,1,fight,2002-08-06,2002,8,Beef Products
+goat,1,project pat,1,1,fight,2002-08-06,2002,8,Dairy and Egg Products
+goldfish,1,project pat,1,1,fight,2002-08-06,2002,8,Baked Products
+nut,1,project pat,1,1,fight,2002-08-06,2002,8,Nut and Seed Products
+cheese,1,juicy j] coughing/rapping,1,1,fiyayaya weed,2009-06-16,2009,6,Dairy and Egg Products
+candy,1,project pat,1,1,fiyayaya weed,2009-06-16,2009,6,Sweets
+candy coating,1,project pat,1,1,fiyayaya weed,2009-06-16,2009,6,
+chicken,1,three 6 mafia,1,1,flashes,1997-11-04,1997,11,Poultry Products
+drinking,1,juicy j,1,1,fly as us,2013-04-16,2013,4,Beverages
+candy,1,berner,1,1,fly as us,2013-04-16,2013,4,Sweets
+boost,1,berner,1,1,fly as us,2013-04-16,2013,4,
+ice,1,berner,1,1,fly as us,2013-04-16,2013,4,
+jolly rancher,1,juicy j,2,2,fly as us,2013-04-16,2013,4,
+drink,1,juicy j,1,1,focus,2017-05-15,2017,5,
+lotus,1,juicy j,1,1,focus,2017-05-15,2017,5,
+tea,1,juicy j,1,1,focus,2017-05-15,2017,5,Beverages
+salt,1,yamine,1,1,for everybody (diss track),2017-10-12,2017,10,Spices and Herbs
+water,1,benzel,1,1,four,2014-11-10,2014,11,Beverages
+bean,1,benzel,1,1,four,2014-11-10,2014,11,Legumes and Legume Products
+sprite,1,benzel,1,1,four,2014-11-10,2014,11,Beverages
+jelly,1,will.i.am,1,1,freshy,2013-04-19,2013,4,Sweets
+jelly,1,will.i.am,1,1,freshy - 1627979,0,0,0,Sweets
+cheese,9,gangsta boo,1,9,from da back,2000-06-13,2000,6,Dairy and Egg Products
+cheese,8,dj paul,1,8,from da back,2000-06-13,2000,6,Dairy and Egg Products
+bean,1,gangsta boo,1,1,from da back,2000-06-13,2000,6,Legumes and Legume Products
+clam,1,juicy j,1,1,from da back,2000-06-13,2000,6,Finfish and Shellfish Products
+gin,1,koopsta knicca,1,1,front a busta,1999-10-26,1999,10,
+cheese,1,project pat,1,1,fuck a bitch,2000-07-25,2000,7,Dairy and Egg Products
+cheese,1,project pat,1,1,fuck a bitch,2000-07-25,2000,7,Dairy and Egg Products
+nut,2,project pat,1,2,fuck a bitch,2000-07-25,2000,7,Nut and Seed Products
+pita,1,project pat,1,1,fuck a bitch,2000-07-25,2000,7,Baked Products
+nut,1,juicy j,1,1,fuck all dem hoes,1999-03-02,1999,3,Nut and Seed Products
+nut,1,juicy j,1,1,fuck all dem hoes,0,0,0,Nut and Seed Products
+nut,1,juicy j,1,1,fuck all dem hoes part 2,1994-11-25,1994,11,Nut and Seed Products
+ham,21,v slash,1,21,fuck all ya'll,0,0,0,Pork Products
+ham,21,juicy j,1,21,fuck all ya'll,0,0,0,Pork Products
+juice,1,juicy j,1,1,fuck dat shit,1999-08-24,1999,8,Baby Foods
+nut,1,juicy j,1,1,fuck dat shit,1999-08-24,1999,8,Nut and Seed Products
+drinking,2,juicy j,1,2,fucked up,0,0,0,Beverages
+drinking,1,lil whyte,1,1,fucked up,0,0,0,Beverages
+cranberry,4,juicy j,1,4,fucked up,0,0,0,Legumes and Legume Products
+vodka,3,juicy j,1,3,fucked up,0,0,0,Beverages
+vodka,1,lil whyte,1,1,fucked up,0,0,0,Beverages
+vodka,1,lil wyte,1,1,fucked up,0,0,0,Beverages
+ice,1,lil whyte,1,1,fucked up,0,0,0,
+cracker,1,lil whyte,1,1,fucked up,0,0,0,Baked Products
+wine,1,lil wyte,1,1,fucked up,0,0,0,Beverages
+whisky,1,lil wyte,1,1,fucked up,0,0,0,
+sour,1,lil wyte,1,1,fucked up,0,0,0,Fruits and Fruit Juices
+tequila,1,lil wyte,1,1,fucked up,0,0,0,
+rib,1,project pat,1,1,fuckin wit the best,2001-02-13,2001,2,Beef Products
+syrup,1,project pat,1,1,fuckin wit the best,2001-02-13,2001,2,Sweets
+ice,1,project pat,1,1,fuckin wit the best,2001-02-13,2001,2,
+meat,1,project pat,1,1,fuckin wit the best,2001-02-13,2001,2,Baby Foods
+nut,1,project pat,1,1,fuckin wit the best,2001-02-13,2001,2,Nut and Seed Products
+pie,1,project pat,1,1,fuckin wit the best,2001-02-13,2001,2,Baked Products
+syrup,1,dj paul,1,1,fuck that shit,2003-06-24,2003,6,Sweets
+syrup,1,lord infamous,1,1,fuck that shit,2003-06-24,2003,6,Sweets
+drink,1,lord infamous,1,1,fuck that shit,2003-06-24,2003,6,
+water,1,crunchy black,1,1,fuck that shit,2003-06-24,2003,6,Beverages
+syrup,1,juicy j,1,1,fuck what u heard,2000-10-31,2000,10,Sweets
+orange,1,three 6 mafia,1,1,fuck y'all hoes,2000-06-13,2000,6,Fruits and Fruit Juices
+gin,1,gangsta boo,1,1,fuck you,1998-09-29,1998,9,
+herb,1,gangsta boo,1,1,fuck you,1998-09-29,1998,9,Beverages
+rice,1,gangsta boo,1,1,fuck you,1998-09-29,1998,9,Cereal Grains and Pasta
+orange,1,m-child,1,1,fuck you,1998-09-29,1998,9,Fruits and Fruit Juices
+water,1,m-child,1,1,fuck you,1998-09-29,1998,9,Beverages
+fry,1,m-child,1,1,fuck you,1998-09-29,1998,9,
+raisin,1,koopsta knicca,1,1,fuck you,1998-09-29,1998,9,Baked Products
+toaster,1,juicy j,1,1,full alert,2010-11-05,2010,11,
+coffee,1,juicy j,1,1,full alert,2010-11-05,2010,11,Beverages
+steak,1,juicy j,1,1,full alert,2010-11-05,2010,11,Beef Products
+syrup,1,dj paul] 2x,1,1,funky town,1999-08-24,1999,8,Sweets
+fruity,1,dj paul] 2x,1,1,funky town,1999-08-24,1999,8,
+cherry,1,juicy j,1,1,funky town,1999-08-24,1999,8,Fruits and Fruit Juices
+ice,3,juicy j,1,3,ga damn,2016-09-19,2016,9,
+dough,1,juicy j,1,1,ga damn,2016-09-19,2016,9,
+rabbit,1,yamine,1,1,gang,2017-05-31,2017,5,"Lamb, Veal, and Game Products"
+grape,1,project pat,1,1,gang signs,0,0,0,Vegetables and Vegetable Products
+caper,2,project pat,1,2,gang signs,0,0,0,Spices and Herbs
+butter,1,project pat,1,1,gang signs,0,0,0,Dairy and Egg Products
+goose,1,project pat,1,1,gang signs,0,0,0,Poultry Products
+pita,2,mimi mercedez,1,2,gangsta boo,2018-05-17,2018,5,Baked Products
+orange,1,juicy j,1,1,gangsta music,2019-02-14,2019,2,Fruits and Fruit Juices
+juice,1,juicy j,1,1,gangsta music,2019-02-14,2019,2,Baby Foods
+orange juice,1,juicy j,-1,-1,gangsta music,2019-02-14,2019,2,Fruits and Fruit Juices
+lemon,1,juicy j,1,1,gangsta niggaz,2001-10-30,2001,10,Beverages
+chicken,1,juicy j,1,1,gangsta niggaz,2001-10-30,2001,10,Poultry Products
+juice,1,juicy j,1,1,gangster walk,2005-09-20,2005,9,Baby Foods
+syrup,2,ace hood,1,2,geek'n,2012-08-17,2012,8,Sweets
+syrup,1,choo choo,1,1,geek'n,2012-08-17,2012,8,Sweets
+protein,1,ace hood,1,1,geek'n,2012-08-17,2012,8,Poultry Products
+bean,1,ace hood,1,1,geek'n,2012-08-17,2012,8,Legumes and Legume Products
+bean,1,juicy j,1,1,geek'n,2012-08-17,2012,8,Legumes and Legume Products
+milk,1,juicy j,1,1,geek'n,2012-08-17,2012,8,Dairy and Egg Products
+jolly rancher,1,ace hood,2,2,geek'n,2012-08-17,2012,8,
+honey,1,project pat,1,1,gel & weave,0,0,0,Sweets
+orange,1,project pat,1,1,gel & weave,0,0,0,Fruits and Fruit Juices
+plum,1,project pat,1,1,gel & weave,0,0,0,Fruits and Fruit Juices
+similac,1,project pat,1,1,gel & weave,0,0,0,Baby Foods
+cafe,1,project pat,1,1,gel & weave,0,0,0,
+cornbread,1,project pat,1,1,gel & weave,0,0,0,Baked Products
+gin,1,tear da club up thugs,1,1,"get buck, get wild",1999-02-02,1999,2,
+drinking,1,tear da club up thugs,1,1,"get buck, get wild",1999-02-02,1999,2,Beverages
+juice,10,juicy j,1,10,get buck mothafucka,1994-01-01,1994,1,Baby Foods
+nut,1,lil wyte,1,1,get high to this,0,0,0,Nut and Seed Products
+water,1,lil wyte,1,1,get high to this,0,0,0,Beverages
+syrup,8,juicy j,1,8,get me high,0,0,0,Sweets
+syrup,1,reno,1,1,get me high,0,0,0,Sweets
+drink,8,juicy j,1,8,get me high,0,0,0,
+beer,9,juicy j,1,9,get me high,0,0,0,Beverages
+ice,1,juicy j,1,1,get me high,0,0,0,
+herb,1,reno,1,1,get me high,0,0,0,Beverages
+spam,1,juicy j,1,1,get me some money,0,0,0,
+food,1,crunchy black,1,1,get off my dick,0,0,0,
+cheddar,1,la chat,1,1,get paid (remix),2016-08-11,2016,8,Dairy and Egg Products
+cheese,1,la chat,1,1,get paid (remix),2016-08-11,2016,8,Dairy and Egg Products
+cheese,1,juicy j,1,1,get paid (remix),2016-08-11,2016,8,Dairy and Egg Products
+flavor,1,la chat,1,1,get paid (remix),2016-08-11,2016,8,
+nut,1,juicy j,1,1,get paid (remix),2016-08-11,2016,8,Nut and Seed Products
+broccoli,1,juicy j,1,1,get paid (remix),2016-08-11,2016,8,Vegetables and Vegetable Products
+manicotti,1,juicy j,1,1,get paid (remix),2016-08-11,2016,8,
+cheddar cheese,1,la chat,-1,-1,get paid (remix),2016-08-11,2016,8,Dairy and Egg Products
+nut,1,juicy j,1,1,gette'm crunk,1996-12-03,1996,12,Nut and Seed Products
+meal,1,gangsta boo,1,1,gette'm crunk,1996-12-03,1996,12,Baked Products
+dough,1,project pat,1,1,getting cash,2013-09-06,2013,9,
+steak,1,juicy j,1,1,getting cash,2013-09-06,2013,9,Beef Products
+shrimp,1,juicy j,1,1,getting cash,2013-09-06,2013,9,Finfish and Shellfish Products
+beef,4,juicy j,1,4,get to meet a g,2011-05-02,2011,5,Beef Products
+rose,1,slim jxmmi,1,1,get back,2017-08-11,2017,8,Beverages
+beef,1,juicy j,1,1,get back,2017-08-11,2017,8,Beef Products
+shredded,1,three 6 mafia,1,1,get ya rob,2008-06-24,2008,6,Dairy and Egg Products
+juice,1,three 6 mafia,1,1,get ya rob,2008-06-24,2008,6,Baby Foods
+bread,1,repeat 2x,1,1,get ya rob,2008-06-24,2008,6,Baked Products
+cheese,1,repeat 2x,1,1,ghetto chick,2003-06-24,2003,6,Dairy and Egg Products
+honey,1,repeat 2x,1,1,ghetto chick,2003-06-24,2003,6,Sweets
+drinking,1,three 6 mafia,1,1,ghetto chick,2003-06-24,2003,6,Beverages
+syrup,1,three 6 mafia,1,1,ghetto chick,2003-06-24,2003,6,Sweets
+lollipop,1,three 6 mafia,1,1,ghetto chick,2003-06-24,2003,6,
+cheese,1,project pat,1,1,ghetty green,1999-09-14,1999,9,Dairy and Egg Products
+orange,1,juicy j,1,1,ghost dope,2009-06-16,2009,6,Fruits and Fruit Juices
+sauce,1,yamine,1,1,gifts,2019-04-04,2019,4,"Soups, Sauces, and Gravies"
+drink,1,slim jxmmi,1,1,gifts,2019-04-04,2019,4,
+sauce,1,juicy j,1,1,gimme gimme,2016-11-21,2016,11,"Soups, Sauces, and Gravies"
+drink,1,slim jxmmi,1,1,gimme gimme,2016-11-21,2016,11,
+nut,1,la chat,1,1,gimme head,2002-07-16,2002,7,Nut and Seed Products
+cheese,2,juicy j,1,2,gimme sum,2002-07-16,2002,7,Dairy and Egg Products
+gum,1,juceefroot,1,1,girls kissing girls,2020-03-11,2020,3,Sweets
+creamer,1,juceefroot,1,1,girls kissing girls,2020-03-11,2020,3,
+yam,1,juicy j,1,1,give me some money (feat. project pat & v slash),0,0,0,Vegetables and Vegetable Products
+spam,1,juicy j,1,1,give me some money (feat. project pat & v slash),0,0,0,
+cumin,1,juicy j,1,1,give me some money (feat. project pat & v slash),0,0,0,
+bread,1,juicy j,1,1,give me some money (feat. project pat & v slash),0,0,0,Baked Products
+pita,1,reggie rude,1,1,g.l.o.a.t / three6,2018-09-23,2018,9,Baked Products
+dough,1,reggie rude,1,1,g.l.o.a.t / three6,2018-09-23,2018,9,
+food,1,reggie rude,1,1,g.l.o.a.t / three6,2018-09-23,2018,9,
+chicken,1,reggie rude,1,1,g.l.o.a.t / three6,2018-09-23,2018,9,Poultry Products
+cheese,1,project pat,1,1,gold shine,1999-09-14,1999,9,Dairy and Egg Products
+honey,1,project pat,1,1,gold shine,1999-09-14,1999,9,Sweets
+gin,1,project pat,1,1,gold shine,1999-09-14,1999,9,
+food,1,project pat,1,1,gold shine,1999-09-14,1999,9,
+coco,1,project pat,1,1,gold shine,1999-09-14,1999,9,
+dough,1,project pat,1,1,gold shine,1999-09-14,1999,9,
+spinach,1,project pat,1,1,gold shine,1999-09-14,1999,9,Vegetables and Vegetable Products
+drinking,1,da headbussaz,1,1,gone be sum shit,0,0,0,Beverages
+syrup,1,da headbussaz,1,1,gone be sum shit,0,0,0,Sweets
+juice,1,da headbussaz,1,1,gone be sum shit,0,0,0,Baby Foods
+ham,1,juicy j,1,1,good drugs,2017-08-25,2017,8,Pork Products
+lemon,1,gangsta boo,1,1,good & hi,0,0,0,Beverages
+cheese,1,gangsta boo,1,1,good & hi,0,0,0,Dairy and Egg Products
+spice,1,lord infamous,1,1,good stuff,1996-12-03,1996,12,Spices and Herbs
+ice,1,juicy j,1,1,good stuff,1996-12-03,1996,12,
+cream,1,juicy j,1,1,good stuff,1996-12-03,1996,12,Dairy and Egg Products
+cake,1,juicy j,1,1,good stuff,1996-12-03,1996,12,Baked Products
+cheese,1,juicy j,1,1,good stuff,1996-12-03,1996,12,Dairy and Egg Products
+rose,1,juicy j,1,1,good stuff,1996-12-03,1996,12,Beverages
+ice cream,1,juicy j,-1,-1,good stuff,1996-12-03,1996,12,Sweets
+doughnut,1,project pat,1,1,gooned up,2015-03-24,2015,3,Baked Products
+cheese,1,project pat,1,1,gorilla pimp,2001-02-27,2001,2,Dairy and Egg Products
+cheese,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Dairy and Egg Products
+dough,1,project pat,1,1,gorilla pimp,2001-02-27,2001,2,
+taco,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Spices and Herbs
+steak,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Beef Products
+corn,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Cereal Grains and Pasta
+bread,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Baked Products
+collard,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Vegetables and Vegetable Products
+taco bell,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,Fast Foods
+corn bread,1,pat,-1,-1,gorilla pimp,2001-02-27,2001,2,
+collard green,1,pat,1,1,gorilla pimp,2001-02-27,2001,2,
+slaw,1,gangsta boo,1,1,gotcha shakin',1996-12-03,1996,12,
+juice,1,juicy j,1,1,gotcha shakin',1996-12-03,1996,12,Baby Foods
+nut,1,lord infamous,1,1,gotcha shakin',1996-12-03,1996,12,Nut and Seed Products
+water,1,d.j. paul,1,1,gotcha shakin',1996-12-03,1996,12,Beverages
+drink,1,three 6 mafia,1,1,gotcha shakin',1996-12-03,1996,12,
+malt,1,three 6 mafia,1,1,gotcha shakin',1996-12-03,1996,12,Sweets
+milkshake,1,three 6 mafia,1,1,gotcha shakin',1996-12-03,1996,12,
+malt liquor,1,three 6 mafia,-1,-1,gotcha shakin',1996-12-03,1996,12,
+biscuit,1,,1,1,got it 4 sale,0,0,0,Fast Foods
+breakfast,1,,1,1,got it 4 sale,0,0,0,Baked Products
+dough,1,,1,1,got it 4 sale,0,0,0,
+candy,3,mike jones,1,3,got it sewed up (remix),2005-04-19,2005,4,Sweets
+drink,2,mike jones,1,2,got it sewed up (remix),2005-04-19,2005,4,
+grain,2,mike jones,1,2,got it sewed up (remix),2005-04-19,2005,4,
+cheese,2,mike jones,1,2,gotta stay strapped,0,0,0,Dairy and Egg Products
+cheese,9,juicy j,1,9,gotta stay strapped,0,0,0,Dairy and Egg Products
+drink,1,juicy j,1,1,gotta stay strapped,0,0,0,
+malt,1,juicy j,1,1,gotta stay strapped,0,0,0,Sweets
+bread,1,juicy j,1,1,gotta stay strapped,0,0,0,Baked Products
+pancake,1,juicy j,1,1,gotta stay strapped,0,0,0,Baked Products
+banana,2,juicy j,1,2,gotta stay strapped,0,0,0,Fruits and Fruit Juices
+cherry,1,juicy j,1,1,gotta stay strapped,0,0,0,Fruits and Fruit Juices
+malt liquor,1,juicy j,-1,-1,gotta stay strapped,0,0,0,
+banana split,1,juicy j,1,1,gotta stay strapped,0,0,0,
+cracker,1,juicy j,1,1,"gotta touch 'em, pt. 2",1995-05-25,1995,5,Baked Products
+honeycomb,1,dj paul,1,1,"gotta touch 'em, pt. 2",1995-05-25,1995,5,
+cake,1,juicy j,1,1,grab the gauge,2000-10-31,2000,10,Baked Products
+cake,1,dj paul,1,1,grab the gauge,2000-10-31,2000,10,Baked Products
+juice,1,juicy j,1,1,grab the gauge,2000-10-31,2000,10,Baby Foods
+juice,1,dj paul,1,1,grab the gauge,2000-10-31,2000,10,Baby Foods
+sprinkle,1,lord infamous,1,1,grab the gauge,2000-10-31,2000,10,
+rib,1,three 6 mafia,1,1,grab the gauge,2000-10-31,2000,10,Beef Products
+ice,1,juicy j,1,1,green carpet,2016-07-11,2016,7,
+drink,1,juicy j,1,1,green carpet,2016-07-11,2016,7,
+sauce,1,juicy j,1,1,green carpet,2016-07-11,2016,7,"Soups, Sauces, and Gravies"
+chocolate,1,three 6 mafia,1,1,gunclaps,1997-11-04,1997,11,Sweets
+chocolate chunk,1,three 6 mafia,1,1,gunclaps,1997-11-04,1997,11,
+potato,1,juicy j,1,1,gun plus a mask,2013-08-23,2013,8,Vegetables and Vegetable Products
+sprite,1,demon the devil,1,1,guns blazing,2018-08-30,2018,8,Beverages
+rabbit,1,azure the paradox,1,1,gxdlvl,2017-10-06,2017,10,"Lamb, Veal, and Game Products"
+nut,2,three 6 mafia,1,2,half on a sack or blow,1999-08-24,1999,8,Nut and Seed Products
+cheese,1,three 6 mafia,1,1,half on a sack or blow,1999-08-24,1999,8,Dairy and Egg Products
+diet,1,three 6 mafia,1,1,hard hittaz,2005-09-27,2005,9,Beverages
+boost,1,three 6 mafia,1,1,hard hittaz,2005-09-27,2005,9,
+snack,1,lord infamous,1,1,hard not to kill,1998-09-08,1998,9,Snacks
+scramble,1,lord infamous,1,1,hard not to kill,1998-09-08,1998,9,
+cake,1,pitbull,1,1,have some fun,2014-04-09,2014,4,Baked Products
+tamale,1,juicy j,1,1,have some fun,2014-04-09,2014,4,Restaurant Foods
+hot tamale,1,juicy j,1,1,have some fun,2014-04-09,2014,4,
+rose,1,fiend,1,1,headbussaz,0,0,0,Beverages
+fish,1,fiend,1,1,headbussaz,0,0,0,Finfish and Shellfish Products
+chicken,1,"juicy ""j""",1,1,headbussaz,0,0,0,Poultry Products
+dough,1,"juicy ""j""",1,1,headbussaz,0,0,0,
+syrup,3,yamine,1,3,h.e.a.t,2019-01-07,2019,1,Sweets
+dessert,2,yamine,1,2,h.e.a.t,2019-01-07,2019,1,Baby Foods
+cheese,1,dj paul,1,1,hell naw,1999-02-02,1999,2,Dairy and Egg Products
+cheese,1,juicy j,1,1,hell naw,1999-02-02,1999,2,Dairy and Egg Products
+honeycomb,1,dj paul,1,1,hell naw,1999-02-02,1999,2,
+gin,1,juicy j,1,1,hell naw,1999-02-02,1999,2,
+ginger,1,brockhampton,1,1,heaven belongs to you,2019-08-23,2019,8,Spices and Herbs
+water,1,brockhampton,1,1,heaven belongs to you,2019-08-23,2019,8,Beverages
+milk,1,t-rone,1,1,hello love (remix),0,0,0,Dairy and Egg Products
+milk,1,fat joe,1,1,hello love (remix),2014-01-22,2014,1,Dairy and Egg Products
+drink,1,juicy j,1,1,henny & dope,2018-05-31,2018,5,
+ice,1,juicy j,1,1,henny & dope,2018-05-31,2018,5,
+iced,1,juicy j,1,1,henny & dope,2018-05-31,2018,5,Beverages
+sauce,1,ykom,1,1,henny & dope,2018-05-31,2018,5,"Soups, Sauces, and Gravies"
+oregano,1,ykom,1,1,henny & dope,2018-05-31,2018,5,Spices and Herbs
+juice,1,ykom,1,1,henny & dope,2018-05-31,2018,5,Baby Foods
+dough,1,juicy j,1,1,highly intoxicated,2017-09-18,2017,9,
+ice,1,juicy j,1,1,highly intoxicated,2017-09-18,2017,9,
+taco,1,sobelilc,1,1,hit a mf (remix),2020-03-01,2020,3,Spices and Herbs
+cheese,1,sobelilc,1,1,hit a mf (remix),2020-03-01,2020,3,Dairy and Egg Products
+nacho,1,sobelilc,1,1,hit a mf (remix),2020-03-01,2020,3,Fast Foods
+dressing,1,sobelilc,1,1,hit a mf (remix),2020-03-01,2020,3,Fats and Oils
+creme,1,sobelilc,1,1,hit a mf (remix),2020-03-01,2020,3,
+nut,1,juicy j,1,1,hit a muthafucka,1997-09-04,1997,9,Nut and Seed Products
+cake,1,juicy j,1,1,hold up,0,0,0,Baked Products
+beef,1,juicy j,1,1,holy ghost,2014-07-04,2014,7,Beef Products
+fish,1,yamine,1,1,holy ghost,0,0,0,Finfish and Shellfish Products
+sour,1,yamine,1,1,holy ghost,0,0,0,Fruits and Fruit Juices
+syrup,1,crunchy black,1,1,hood drug warz,2006-08-22,2006,8,Sweets
+nut,1,juicy j,1,1,hood sprung,2009-10-16,2009,10,Nut and Seed Products
+milk,1,juicy j,1,1,hood sprung,2009-10-16,2009,10,Dairy and Egg Products
+sauce,1,three 6 mafia,1,1,hood star,2008-06-24,2008,6,"Soups, Sauces, and Gravies"
+water,1,lyfe jennings,1,1,hood star,2008-06-24,2008,6,Beverages
+drink,1,juicy j,1,1,hop out,2012-03-23,2012,3,
+gin,1,juicy j,1,1,hop out,2012-03-23,2012,3,
+grape,1,chevy woods,1,1,hop out,2012-03-23,2012,3,Vegetables and Vegetable Products
+fish,1,juicy j,1,1,hot as hell,2017-12-08,2017,12,Finfish and Shellfish Products
+bread,1,juicy j,1,1,hot as hell,2017-12-08,2017,12,Baked Products
+juice,5,juicy j,1,5,hot line,2018-01-15,2018,1,Baby Foods
+nut,1,juicy j,1,1,hot nigga (freestyle),0,0,0,Nut and Seed Products
+banana,1,juicy j,1,1,hot nigga (freestyle),0,0,0,Fruits and Fruit Juices
+bread,1,juicy j,1,1,how i'm coming,2017-05-15,2017,5,Baked Products
+onion,1,juicy j,1,1,how i'm coming,2017-05-15,2017,5,Vegetables and Vegetable Products
+grain,1,juicy j,1,1,how it go,2016-07-11,2016,7,
+dough,1,juicy j,1,1,how it go,2016-07-11,2016,7,
+tequila,1,juicy j,1,1,hustle till i die,2009-06-16,2009,6,
+juice,1,tear da club up thugs,1,1,hypnotize minds/profit posse,1999-02-02,1999,2,Baby Foods
+juice,1,juicy j],1,1,hypnotize minds/profit posse,1999-02-02,1999,2,Baby Foods
+cocoa,1,dj paul,1,1,hypnotize minds/profit posse,1999-02-02,1999,2,Sweets
+gatorade,1,dj paul,1,1,hypnotize minds/profit posse,1999-02-02,1999,2,Beverages
+fried,1,lord infamous,1,1,i ain't cha friend,1997-11-04,1997,11,Poultry Products
+rose,1,lord infamous,1,1,i ain't cha friend,1997-11-04,1997,11,Beverages
+nut,1,lord infamous,1,1,i ain't goin',1996-12-03,1996,12,Nut and Seed Products
+dough,1,koopsta knicca,1,1,i ain't goin',1996-12-03,1996,12,
+beef,2,juicy j,1,2,i ain't gotta say shit,2013-09-10,2013,9,Beef Products
+ice,2,young chop,1,2,i ain't gotta say shit,2013-09-10,2013,9,
+bread,6,juicy j,1,6,i ain't havin' it,2017-05-15,2017,5,Baked Products
+drink,6,juicy j,1,6,i ain't havin' it,2017-05-15,2017,5,
+cheese,1,kingpin skinny pimp,1,1,i don't lov'em,1996-04-06,1996,4,Dairy and Egg Products
+onion,1,kingpin skinny pimp,1,1,i don't lov'em,1996-04-06,1996,4,Vegetables and Vegetable Products
+nut,1,juicy j,1,1,i don't mind,2014-11-21,2014,11,Nut and Seed Products
+cake,1,juicy j,1,1,i don't mind,2014-11-21,2014,11,Baked Products
+nut,1,scott bradlee's postmodern jukebox,1,1,i don't mind,2015-06-11,2015,6,Nut and Seed Products
+cake,1,scott bradlee's postmodern jukebox,1,1,i don't mind,2015-06-11,2015,6,Baked Products
+nut,1,juicy j,1,1,i don't mind (remix),2015-02-03,2015,2,Nut and Seed Products
+cake,1,juicy j,1,1,i don't mind (remix),2015-02-03,2015,2,Baked Products
+beef,1,juicy j,1,1,i don't play with guns,2011-01-01,2011,1,Beef Products
+cake,1,juicy j,1,1,if it ain't,2013-08-23,2013,8,Baked Products
+dessert,1,juicy j,1,1,if it ain't,2013-08-23,2013,8,Baby Foods
+syrup,2,juicy j,1,2,if it ain't,2013-08-23,2013,8,Sweets
+lemonade,1,juicy j,1,1,if it ain't,2013-08-23,2013,8,Beverages
+sprite,1,juicy j,1,1,if it ain't,2013-08-23,2013,8,Beverages
+juice,1,project pat,1,1,if you aint from my hood,2001-02-27,2001,2,Baby Foods
+dough,1,project pat,1,1,if you aint from my hood,2001-02-27,2001,2,
+water,1,dom mclennon,1,1,if you pray right,2019-08-07,2019,8,Beverages
+banana,1,dom mclennon,1,1,if you pray right,2019-08-07,2019,8,Fruits and Fruit Juices
+food,1,merlyn wood,1,1,if you pray right,2019-08-07,2019,8,
+beef,1,joba,1,1,if you pray right,2019-08-07,2019,8,Beef Products
+nut,2,project pat,1,2,i get da chewin',0,0,0,Nut and Seed Products
+cheese,1,project pat,1,1,i get da chewin',0,0,0,Dairy and Egg Products
+popsicle,1,project pat,1,1,i get da chewin',0,0,0,
+pickle,1,project pat,1,1,i get da chewin',0,0,0,Vegetables and Vegetable Products
+juice,1,juicy j,1,1,i got,2017-02-21,2017,2,Baby Foods
+tasty,1,frayser boy,1,1,i got dat drank,0,0,0,
+ice,1,frayser boy,1,1,i got dat drank,0,0,0,
+candy,2,frayser boy,1,2,i got dat drank,0,0,0,Sweets
+tea,1,frayser boy,1,1,i got dat drank,0,0,0,Beverages
+sprite,1,frayser boy,1,1,i got dat drank,0,0,0,Beverages
+oil,1,frayser boy,1,1,i got dat drank,0,0,0,Fats and Oils
+syrup,1,frayser boy,1,1,i got dat drank,0,0,0,Sweets
+jolly rancher,1,frayser boy,2,2,i got dat drank,0,0,0,
+chili,1,frayser boy,1,1,i had to get'm,2003-08-26,2003,8,"Soups, Sauces, and Gravies"
+noodle,1,lil flip,1,1,i just wanna tell u,0,0,0,Cereal Grains and Pasta
+restaurant,1,lil flip,1,1,i just wanna tell u,0,0,0,Restaurant Foods
+ice,1,lil flip,1,1,i just wanna tell u,0,0,0,
+lemon,1,project pat,1,1,i like to smokeaaa,2015-03-24,2015,3,Beverages
+nut,1,project pat,1,1,i like to smokeaaa,2015-03-24,2015,3,Nut and Seed Products
+cheddar,1,project pat,1,1,i like to smokeaaa,2015-03-24,2015,3,Dairy and Egg Products
+honey,1,project pat,1,1,i like to smokeaaa,2015-03-24,2015,3,Sweets
+pepperoni,1,project pat,1,1,i like to smokeaaa,2015-03-24,2015,3,Sausages and Luncheon Meats
+papa john,1,project pat,2,2,i like to smokeaaa,2015-03-24,2015,3,
+wine,1,project pat,1,1,i'll be the other woman,1998-09-29,1998,9,Beverages
+cheese,1,gangsta boo,1,1,i'll be the other woman,1998-09-29,1998,9,Dairy and Egg Products
+candy,2,repeat 4x,1,2,i'm a playa,2005-09-13,2005,9,Sweets
+fry,1,paul wall,1,1,i'm a playa,2005-09-13,2005,9,
+ice,3,paul wall,1,3,i'm a playa,2005-09-13,2005,9,
+jelly,1,paul wall,1,1,i'm a playa,2005-09-13,2005,9,Sweets
+drink,2,paul wall,1,2,i'm a playa,2005-09-13,2005,9,
+cabbage,1,paul wall,1,1,i'm a playa,2005-09-13,2005,9,Vegetables and Vegetable Products
+dough,1,paul wall,1,1,i'm a playa,2005-09-13,2005,9,
+snail,1,paul wall,1,1,i'm a playa,2005-09-13,2005,9,Finfish and Shellfish Products
+salt,1,juicy j,1,1,i'm sicka,2015-02-16,2015,2,Spices and Herbs
+chicken,4,koopsta knicca,1,4,i'm so hi,2000-06-13,2000,6,Poultry Products
+milk,1,,1,1,i'm so high,2011-04-19,2011,4,Dairy and Egg Products
+honey,1,,1,1,i'm so high,2011-04-19,2011,4,Sweets
+nut,1,,1,1,i'm so high,2011-04-19,2011,4,Nut and Seed Products
+fried,1,juicy j,1,1,i'm so north memphis,2017-05-15,2017,5,Poultry Products
+chicken,1,juicy j,1,1,i'm so north memphis,2017-05-15,2017,5,Poultry Products
+fried chicken,1,juicy j,-1,-1,i'm so north memphis,2017-05-15,2017,5,Fast Foods
+cheese,1,juicy j,1,1,in da game,1995-05-25,1995,5,Dairy and Egg Products
+cheese,1,dj paul,1,1,in da game,1995-05-25,1995,5,Dairy and Egg Products
+nut,1,juicy j,1,1,in da game,1995-05-25,1995,5,Nut and Seed Products
+nut,1,dj paul,1,1,in da game,1995-05-25,1995,5,Nut and Seed Products
+grain,1,dj paul,1,1,in da game,1995-05-25,1995,5,
+candy,1,lord infamous,1,1,in da game,1995-05-25,1995,5,Sweets
+goat,1,eugenius,1,1,international break-up anthem,2015-01-31,2015,1,Dairy and Egg Products
+rose,5,eugenius,1,5,international break-up anthem,2015-01-31,2015,1,Beverages
+chocolate,1,eugenius,1,1,international break-up anthem,2015-01-31,2015,1,Sweets
+orange,1,cleff,1,1,international break-up anthem,2015-01-31,2015,1,Fruits and Fruit Juices
+soda,1,cleff,1,1,international break-up anthem,2015-01-31,2015,1,Baked Products
+pie,1,cleff,1,1,international break-up anthem,2015-01-31,2015,1,Baked Products
+orange soda,1,cleff,-1,-1,international break-up anthem,2015-01-31,2015,1,
+drink,1,dj paul,1,1,int'l players anthem (i choose you) (remix),2012-11-06,2012,11,
+syrup,1,juicy j,1,1,int'l players anthem (i choose you) (remix),2012-11-06,2012,11,Sweets
+ice,1,don trip,1,1,introduce,2011-05-02,2011,5,
+sushi,1,juicy j,1,1,introduce,2011-05-02,2011,5,
+tea,1,juicy j,1,1,introduce,2011-05-02,2011,5,Beverages
+ice cube,1,don trip,1,1,introduce,2011-05-02,2011,5,
+cake,1,juicy j,1,1,intro (highly intoxicated),2017-09-18,2017,9,Baked Products
+cake,2,juicy j,1,2,intro (o's to oscars),2015-12-14,2015,12,Baked Products
+food,1,juicy j,1,1,intro (o's to oscars),2015-12-14,2015,12,
+melon,1,juicy j,1,1,intro (o's to oscars),2015-12-14,2015,12,Fruits and Fruit Juices
+grape,1,juicy j,1,1,intro (o's to oscars),2015-12-14,2015,12,Vegetables and Vegetable Products
+cooking,1,juicy j,1,1,intro (o's to oscars),2015-12-14,2015,12,Beverages
+pie,1,andre 3000,1,1,international player's anthem (i choose you),2007-06-06,2007,6,Baked Products
+juice,1,big boi,1,1,intro (vol. 9mm),0,0,0,Baby Foods
+bread,1,charles hamilton,1,1,investment music,0,0,0,Baked Products
+butter,1,charles hamilton,1,1,investment music,0,0,0,Dairy and Egg Products
+lollipop,1,charles hamilton,1,1,investment music,0,0,0,
+breakfast,1,charles hamilton,1,1,investment music,0,0,0,Baked Products
+cheese,1,gangsta boo,1,1,i thought you knew,0,0,0,Dairy and Egg Products
+lemon,1,crunchy black,1,1,i thought you knew,0,0,0,Beverages
+food,1,frayser boy,1,1,it's da summa tyme,2005-07-12,2005,7,
+bbq,1,frayser boy,1,1,it's da summa tyme,2005-07-12,2005,7,Poultry Products
+breakfast,1,frayser boy,1,1,it's da summa tyme,2005-07-12,2005,7,Baked Products
+nut,1,frayser boy,1,1,it's da summa tyme,2005-07-12,2005,7,Nut and Seed Products
+meal,1,juicy j,1,1,it's hard out here for a pimp,0,0,0,Baked Products
+water,1,juicy j,1,1,it's hard out here for a pimp,0,0,0,Beverages
+bean,1,juicy j,1,1,its in me to hustle,0,0,0,Legumes and Legume Products
+cheese,1,juicy j,1,1,its in me to hustle,0,0,0,Dairy and Egg Products
+cake,2,juicy j,1,2,it's ok,2016-09-19,2016,9,Baked Products
+juice,2,juicy j,1,2,it's the glock,0,0,0,Baby Foods
+fish,1,three 6 mafia,1,1,it's whateva wit us,2005-03-29,2005,3,Finfish and Shellfish Products
+juice,1,three 6 mafia,1,1,it's whateva wit us,2005-03-29,2005,3,Baby Foods
+juice,1,juicy j,1,1,it was triple six,1994-01-01,1994,1,Baby Foods
+lemon,1,juicy j,1,1,it was triple six,1994-01-01,1994,1,Beverages
+lemon,1,kingpin skinny pimp,1,1,it was triple six,1994-01-01,1994,1,Beverages
+sauce,1,juicy j,1,1,i wonder,2016-09-19,2016,9,"Soups, Sauces, and Gravies"
+salt,1,dj paul,1,1,jealous ass bitch,2000-10-31,2000,10,Spices and Herbs
+cola,1,lord infamous,1,1,jealous ass bitch,2000-10-31,2000,10,Beverages
+drink,1,lord infamous,1,1,jealous ass bitch,2000-10-31,2000,10,
+calico,1,lord infamous,1,1,jealous ass bitch,2000-10-31,2000,10,
+fruit,1,juicy j,1,1,jealous ass bitch,2000-10-31,2000,10,Baby Foods
+cheese,1,juicy j,1,1,jealous ass bitch,2000-10-31,2000,10,Dairy and Egg Products
+drink,8,tuki carter,1,8,jerry maguire,0,0,0,
+champagne,1,tuki carter,1,1,jerry maguire,0,0,0,
+shrimp,1,tuki carter,1,1,jerry maguire,0,0,0,Finfish and Shellfish Products
+ham,2,juicy j,1,2,juicy j checks in,0,0,0,Pork Products
+champagne,2,blackbear,1,2,​juicy sweatsuits,2017-04-21,2017,4,
+ice,1,juicy j,1,1,​juicy sweatsuits,2017-04-21,2017,4,
+cheese,1,dj paul]x1,1,1,jus like us,2000-06-13,2000,6,Dairy and Egg Products
+calico,2,gangsta boo,1,2,just anotha crazy clique,2000-06-13,2000,6,
+sauce,1,ykom,1,1,just because,0,0,0,"Soups, Sauces, and Gravies"
+ice,1,juicy j,1,1,just because,0,0,0,
+seasoned,1,juicy j,1,1,killa,2011-05-02,2011,5,Baked Products
+meat,1,juicy j,1,1,killa,2011-05-02,2011,5,Baby Foods
+orange,1,juicy j,1,1,killa klan,2002-07-16,2002,7,Fruits and Fruit Juices
+juice,1,dj paul,1,1,king of kings,2002-05-28,2002,5,Baby Foods
+nut,1,lord infamous,1,1,king of kings,2002-05-28,2002,5,Nut and Seed Products
+meat,1,lord infamous,1,1,king of kings,2002-05-28,2002,5,Baby Foods
+gin,1,juicy j,1,1,king of kings,2002-05-28,2002,5,
+barbecue,1,three 6 mafia,1,1,knock tha black off yo ass,2005-09-27,2005,9,"Soups, Sauces, and Gravies"
+cheese,1,gangsta boo,1,1,land of the lost,1997-11-04,1997,11,Dairy and Egg Products
+cheese,1,juicy j,1,1,land of the lost,1997-11-04,1997,11,Dairy and Egg Products
+raisin,1,dj paul,1,1,land of the lost,1997-11-04,1997,11,Baked Products
+rib,3,joe budden,1,3,last day,2014-01-22,2014,1,Beef Products
+fry,3,joe budden,1,3,last day,2014-01-22,2014,1,
+pie,1,lloyd banks,1,1,last day,2014-01-22,2014,1,Baked Products
+malt,1,gangsta blac,1,1,last man standing,1996-12-03,1996,12,Sweets
+orange,1,m-child,1,1,last man standing,1996-12-03,1996,12,Fruits and Fruit Juices
+malt liquor,1,gangsta blac,-1,-1,last man standing,1996-12-03,1996,12,
+creme,1,juicy j,1,1,last name,2019-12-20,2019,12,
+breakfast,2,juicy j,1,2,last name,2019-12-20,2019,12,Baked Products
+cake,1,juicy j,1,1,last name,2019-12-20,2019,12,Baked Products
+creme brulee,1,juicy j,1,1,last name,2019-12-20,2019,12,
+candy,1,lil noid,1,1,late last night,1994-01-01,1994,1,Sweets
+drink,1,kevin rudolf,1,1,late night automatic,2010-06-11,2010,6,
+beer,2,kevin rudolf,1,2,late night automatic,2010-06-11,2010,6,Beverages
+fish,1,kevin rudolf,1,1,late night automatic,2010-06-11,2010,6,Finfish and Shellfish Products
+drink,1,lord infamous,1,1,late nite tip,1996-12-03,1996,12,
+juice,1,juicy j,1,1,late nite tip,1996-12-03,1996,12,Baby Foods
+bud light,1,juicy j,2,2,late nite tip,1996-12-03,1996,12,Beverages
+sour,1,crunchy black,1,1,left'em dead,1998-02-28,1998,2,Fruits and Fruit Juices
+sour,1,dj paul,1,1,left'em dead,1998-02-28,1998,2,Fruits and Fruit Juices
+cheese,1,scan man,1,1,left'em dead,1998-02-28,1998,2,Dairy and Egg Products
+meal,6,project pat,1,6,left'em dead,1998-02-28,1998,2,Baked Products
+rabbit,2,blocboy jb,1,2,left hand,2018-05-04,2018,5,"Lamb, Veal, and Game Products"
+grape,3,blocboy jb,1,3,left hand,2018-05-04,2018,5,Vegetables and Vegetable Products
+dough,1,prodigy,1,1,legendary,2014-04-01,2014,4,
+barbeque,1,prodigy,1,1,let me hit that,0,0,0,
+restaurant,1,prodigy,1,1,let me hit that,0,0,0,Restaurant Foods
+cheese,2,three 6 mafia,1,2,let me hit that,0,0,0,Dairy and Egg Products
+goose,1,juicy j,1,1,let's get high,2009-06-16,2009,6,Poultry Products
+beer,1,juicy j,1,1,let's get high,2009-06-16,2009,6,Beverages
+food,2,dj paul,1,2,let's ride nigga,2007-02-06,2007,2,
+beef,1,project pat,1,1,let's ride nigga,2007-02-06,2007,2,Beef Products
+jawbreaker,1,lord infamous,1,1,let's start a riot,2003-06-24,2003,6,
+nut,1,kingpin skinny pimp,1,1,let's start a riot,1996-04-06,1996,4,Nut and Seed Products
+vodka,1,kingpin skinny pimp,1,1,let's start a riot,1996-04-06,1996,4,Beverages
+fry,1,kingpin skinny pimp,1,1,let's start a riot,1996-04-06,1996,4,
+nut,8,three 6 mafia,1,8,lick my nuts,1999-08-24,1999,8,Nut and Seed Products
+nut,2,lord infamous,1,2,lick my nuts,1999-08-24,1999,8,Nut and Seed Products
+ensure,1,gangsta boo,1,1,life in the metro,1998-09-29,1998,9,Beverages
+pit,1,koopsta knicca,1,1,life or death,1996-12-03,1996,12,
+barbecue,1,project pat,1,1,life we live,2001-02-27,2001,2,"Soups, Sauces, and Gravies"
+syrup,1,domo genesis,1,1,lift,0,0,0,Sweets
+syrup,1,juicy j,1,1,lift,0,0,0,Sweets
+drink,1,hodgy beats,1,1,lift,0,0,0,
+drink,1,juicy j,1,1,lift,0,0,0,
+cheese,2,juicy j,1,2,like a pimp,2002-07-16,2002,7,Dairy and Egg Products
+dough,2,juicy j,1,2,like a pimp,2002-07-16,2002,7,
+dough,3,juicy j,1,3,like a pimp,2002-07-16,2002,7,
+dough,1,la chat,1,1,like a pimp,2002-07-16,2002,7,
+dough,1,la chat juicy j,1,1,like a pimp,2002-07-16,2002,7,
+meal,1,la chat,1,1,like a pimp,2002-07-16,2002,7,Baked Products
+cod,1,bun b,1,1,like a pimp,2001-11-13,2001,11,Finfish and Shellfish Products
+meal,1,bun b,1,1,like a pimp,2001-11-13,2001,11,Baked Products
+syrup,1,pimp c,1,1,like a pimp,2001-11-13,2001,11,Sweets
+syrup,1,ugk,1,1,like a pimp,2001-11-13,2001,11,Sweets
+syrup,1,juicy j,1,1,like a pimp,2001-11-13,2001,11,Sweets
+herb,1,pimp c,1,1,like a pimp,2001-11-13,2001,11,Beverages
+herb,1,ugk,1,1,like a pimp,2001-11-13,2001,11,Beverages
+grain,1,pimp c,1,1,like a pimp,2001-11-13,2001,11,
+cheese,2,ugk,1,2,like a pimp,2001-11-13,2001,11,Dairy and Egg Products
+cheese,1,juicy j,1,1,like a pimp,2001-11-13,2001,11,Dairy and Egg Products
+mozzarella,1,ugk,1,1,like a pimp,2001-11-13,2001,11,Dairy and Egg Products
+mozzarella cheese,1,ugk,-1,-1,like a pimp,2001-11-13,2001,11,Dairy and Egg Products
+dough,1,pimp c,1,1,like a pimp (remix),2003-06-24,2003,6,
+cheese,1,three 6 mafia,1,1,like a pimp (remix),2003-06-24,2003,6,Dairy and Egg Products
+grain,1,three 6 mafia,1,1,like a pimp (remix),2003-06-24,2003,6,
+candy,1,los,1,1,like me,2013-04-25,2013,4,Sweets
+dough,1,los,1,1,like me,2013-04-25,2013,4,
+beef,1,los,1,1,like me,2013-04-25,2013,4,Beef Products
+syrup,1,juicy j,1,1,like me,2013-04-25,2013,4,Sweets
+drink,1,juicy j,1,1,like me,2013-04-25,2013,4,
+water,1,juicy j,1,1,like me,2013-04-25,2013,4,Beverages
+doughnut,1,juicy j,1,1,like me,2013-04-25,2013,4,Baked Products
+cheese,2,mc mack,1,2,like to get away,0,0,0,Dairy and Egg Products
+pit,1,scan man,1,1,like to get away,0,0,0,
+meal,1,project pat,1,1,like to get away,0,0,0,Baked Products
+cream,1,juicy j,1,1,lil' freak (ugh ugh ugh),2009-09-15,2009,9,Dairy and Egg Products
+drink,1,dj paul,1,1,lil' freak (ugh ugh ugh),2009-09-15,2009,9,
+lime,13,lil image,1,13,lime,2018-12-07,2018,12,Sweets
+ice,1,lord infamous,1,1,liquor and dat bud,0,0,0,
+orange,1,lord infamous and dj paul,1,1,liquor and dat bud,0,0,0,Fruits and Fruit Juices
+rib,1,lord infamous,1,1,live by yo rep (radio),1995-11-21,1995,11,Beef Products
+gravy,1,lord infamous,1,1,live by yo rep (radio),1995-11-21,1995,11,"Soups, Sauces, and Gravies"
+rose,1,kingpin skinny pimp,1,1,live by yo rep (radio),1995-11-21,1995,11,Beverages
+cheese,1,kingpin skinny pimp,1,1,live by yo rep (radio),1995-11-21,1995,11,Dairy and Egg Products
+juice,1,kingpin skinny pimp,1,1,live by yo rep (radio),1995-11-21,1995,11,Baby Foods
+juice,1,juicy j,1,1,live by yo rep (radio),1995-11-21,1995,11,Baby Foods
+rib,1,three 6 mafia,1,1,live by yo rep (screwed),1995-11-21,1995,11,Beef Products
+rose,1,three 6 mafia,1,1,live by yo rep (screwed),1995-11-21,1995,11,Beverages
+cheese,1,three 6 mafia,1,1,live by yo rep (screwed),1995-11-21,1995,11,Dairy and Egg Products
+juice,1,three 6 mafia,1,1,live by yo rep (screwed),1995-11-21,1995,11,Baby Foods
+gravy,1,three 6 mafia,1,1,live by yo rep (screwed),1995-11-21,1995,11,"Soups, Sauces, and Gravies"
+drinking,1,,1,1,live forever,2014-06-10,2014,6,Beverages
+cheddar,1,,1,1,live forever,2014-06-10,2014,6,Dairy and Egg Products
+bacardi,1,,1,1,live forever,2014-06-10,2014,6,
+meal,1,,1,1,live forever,2014-06-10,2014,6,Baked Products
+candy,1,dj paul,1,1,lock down,0,0,0,Sweets
+juice,1,dj paul,1,1,lock down,0,0,0,Baby Foods
+cola,2,dj paul,1,2,lolli lolli (pop that body),2008-03-11,2008,3,Beverages
+chocolate,4,superpower,1,4,lolli lolli (pop that body),2008-03-11,2008,3,Sweets
+chocolate,1,yung d,1,1,lolli lolli (pop that body),2008-03-11,2008,3,Sweets
+cherry,4,superpower,1,4,lolli lolli (pop that body),2008-03-11,2008,3,Fruits and Fruit Juices
+cherry,1,yung d,1,1,lolli lolli (pop that body),2008-03-11,2008,3,Fruits and Fruit Juices
+juice,1,juicy j,1,1,lolli lolli (pop that body),2008-03-11,2008,3,Baby Foods
+nut,2,lord infamous,1,2,long and hard (original),1999-08-24,1999,8,Nut and Seed Products
+nut,1,dj paul,1,1,long and hard (original),1999-08-24,1999,8,Nut and Seed Products
+juice,1,koopsta knicca,1,1,long nite,1995-05-25,1995,5,Baby Foods
+grain,1,dj paul,1,1,long nite,1995-05-25,1995,5,
+cheese,1,dj paul,1,1,long nite,1995-05-25,1995,5,Dairy and Egg Products
+drink,1,kingpin skinny pimp,1,1,lookin' for da chewin',1996-04-06,1996,4,
+gelato,12,juicy j,1,12,lotto,2016-09-19,2016,9,
+taco,1,juicy j,1,1,lotto,2016-09-19,2016,9,Spices and Herbs
+cheese,1,juicy j,1,1,lotto,2016-09-19,2016,9,Dairy and Egg Products
+cilantro,1,juicy j,1,1,lotto,2016-09-19,2016,9,
+sauce,1,juicy j,1,1,lotto,2016-09-19,2016,9,"Soups, Sauces, and Gravies"
+nacho,1,juicy j,1,1,lotto,2016-09-19,2016,9,Fast Foods
+coco,1,def davyne,1,1,loud,2020-01-01,2020,1,
+meal,1,juicy j,1,1,lou will,2016-09-19,2016,9,Baked Products
+berry,1,juicy j,1,1,lou will,2016-09-19,2016,9,
+bread,2,juicy j,1,2,lou will,2016-09-19,2016,9,Baked Products
+bean,1,juicy j,1,1,lou will,2016-09-19,2016,9,Legumes and Legume Products
+nut,1,juicy j,1,1,love to make a stang,2000-10-31,2000,10,Nut and Seed Products
+ice,1,juicy j,1,1,love to make a stang,2000-10-31,2000,10,
+nut,1,juicy j,1,1,love to make a stang,0,0,0,Nut and Seed Products
+ice,1,juicy j,1,1,love to make a stang,0,0,0,
+drink,1,lord infamous,1,1,ltente[bowness]*disklaimr.[bouncetothstokasseteforbestquality],2016-07-31,2016,7,
+drinking,1,juicy j,1,1,lucky ass bitch,2012-03-23,2012,3,Beverages
+orange,1,juicy j,1,1,lucky ass bitch,2012-03-23,2012,3,Fruits and Fruit Juices
+juice,1,juicy j,1,1,lucky ass bitch,2012-03-23,2012,3,Baby Foods
+sour,1,mac miller,1,1,lucky ass bitch,2012-03-23,2012,3,Fruits and Fruit Juices
+nut,1,mac miller,1,1,lucky ass bitch,2012-03-23,2012,3,Nut and Seed Products
+syrup,1,mac miller,1,1,lucky ass bitch,2012-03-23,2012,3,Sweets
+bread,1,mac miller,1,1,lucky ass bitch,2012-03-23,2012,3,Baked Products
+orange juice,1,juicy j,-1,-1,lucky ass bitch,2012-03-23,2012,3,Fruits and Fruit Juices
+cheese,1,kingpin skinny pimp,1,1,mack of the year,1993-01-01,1993,1,Dairy and Egg Products
+juice,1,dj paul,1,1,mafia,2001-10-30,2001,10,Baby Foods
+drink,1,gangsta boo,1,1,mafia,2001-10-30,2001,10,
+drink,1,la chat,1,1,mafia,2001-10-30,2001,10,
+beef,1,juicy j,1,1,mafia niggaz,2002-07-16,2002,7,Beef Products
+sauce,1,lord infamous,1,1,mafia niggaz,2000-06-13,2000,6,"Soups, Sauces, and Gravies"
+cheese,1,crunchy black,1,1,mafia niggaz,2000-06-13,2000,6,Dairy and Egg Products
+food,1,juicy j,1,1,mafia niggaz,2000-06-13,2000,6,
+vodka,1,juicy j,1,1,mafia niggaz,2000-06-13,2000,6,Beverages
+sauce,1,lord infamous,1,1,mafia n***z,2000-06-13,2000,6,"Soups, Sauces, and Gravies"
+ice,1,lord infamous,1,1,mafia n***z,2000-06-13,2000,6,
+cheese,1,three 6 mafia,1,1,mafia n***z,2000-06-13,2000,6,Dairy and Egg Products
+food,1,three 6 mafia,1,1,mafia n***z,2000-06-13,2000,6,
+salmon,1,borgore,1,1,magic trick,2016-12-08,2016,12,Finfish and Shellfish Products
+roe,1,lola monroe,1,1,makaveli,2013-10-23,2013,10,Finfish and Shellfish Products
+beef,1,juicy j,1,1,makaveli,2013-10-23,2013,10,Beef Products
+cake,1,casey veggies,1,1,make it happen,2011-05-02,2011,5,Baked Products
+mango,1,casey veggies,1,1,make it happen,2011-05-02,2011,5,Fruits and Fruit Juices
+wine,2,t-pain,1,2,make that shit work,2015-06-07,2015,6,Beverages
+cake,2,t-pain,1,2,make that shit work,2015-06-07,2015,6,Baked Products
+dessert,2,t-pain,1,2,make that shit work,2015-06-07,2015,6,Baby Foods
+water,2,t-pain,1,2,make that shit work,2015-06-07,2015,6,Beverages
+bread,1,juicy j,1,1,make that shit work,2015-06-07,2015,6,Baked Products
+cola,1,project pat,1,1,makin plays,2015-03-24,2015,3,Beverages
+drink,2,juicy j,1,2,malia og,2018-01-15,2018,1,
+cheese,1,juicy j,1,1,malia og,2018-01-15,2018,1,Dairy and Egg Products
+blue cheese,1,juicy j,1,1,malia og,2018-01-15,2018,1,
+bean,1,juicy j,1,1,mansion,2016-07-11,2016,7,Legumes and Legume Products
+sauce,3,juicy j,1,3,mansion,2016-07-11,2016,7,"Soups, Sauces, and Gravies"
+dough,1,juicy j,1,1,mansion,2016-07-11,2016,7,
+juice,1,juicy j,1,1,mask 2 my face,0,0,0,Baby Foods
+salt,1,three 6 mafia,1,1,mean mug,2001-10-30,2001,10,Spices and Herbs
+cheese,2,three 6 mafia,1,2,m.e.m.p.h.i.s.,2000-06-13,2000,6,Dairy and Egg Products
+calico,1,three 6 mafia,1,1,m.e.m.p.h.i.s.,2000-06-13,2000,6,
+pit,1,three 6 mafia,1,1,m.e.m.p.h.i.s.,2000-06-13,2000,6,
+cheese,2,three 6 mafia,1,2,m.e.m.p.h.i.s. (remix),2000-10-31,2000,10,Dairy and Egg Products
+calico,1,three 6 mafia,1,1,m.e.m.p.h.i.s. (remix),2000-10-31,2000,10,
+pit,1,,1,1,m.e.m.p.h.i.s. (remix),2000-10-31,2000,10,
+cheese,1,kingpin skinny pimp,1,1,midnight hoes,1996-04-06,1996,4,Dairy and Egg Products
+drink,1,kingpin skinny pimp,1,1,midnight hoes,1996-04-06,1996,4,
+fried,1,project pat,1,1,mission impossible,2001-02-13,2001,2,Poultry Products
+cheese,1,project pat,1,1,mista don't play: everythangs workin [tracklist + album art],2001-02-27,2001,2,Dairy and Egg Products
+3 cheese,1,project pat,1,1,mista don't play: everythangs workin [tracklist + album art],2001-02-27,2001,2,
+sprite,4,juicy j,1,4,mix it,2015-09-09,2015,9,Beverages
+alcohol,1,juicy j,1,1,mix it,2015-09-09,2015,9,Spices and Herbs
+food,1,reno,1,1,mobbin',0,0,0,
+meal,1,reno,1,1,money,0,0,0,Baked Products
+calico,1,reno,1,1,money,0,0,0,
+bread,1,project pat,1,1,money,2017-09-05,2017,9,Baked Products
+nut,1,project pat,1,1,money,2017-09-05,2017,9,Nut and Seed Products
+bean,1,juicy j,1,1,money a do it,2013-08-23,2013,8,Legumes and Legume Products
+meal,1,juicy j,1,1,money a do it,2013-08-23,2013,8,Baked Products
+calico,1,juicy j,1,1,money a do it,2013-08-23,2013,8,
+water,1,lord infamous,1,1,money didn't change me,2003-06-24,2003,6,Beverages
+meal,1,juicy j,1,1,money didn't change me,2003-06-24,2003,6,Baked Products
+juice,1,k-rock,1,1,money flow,1996-12-03,1996,12,Baby Foods
+juice,1,of killa klan kaze,1,1,money flow,1996-12-03,1996,12,Baby Foods
+cheddar,1,gangsta boo,1,1,money flow,1996-12-03,1996,12,Dairy and Egg Products
+cheese,1,juicy j,1,1,money flow,1996-12-03,1996,12,Dairy and Egg Products
+rum,1,lola monroe,1,1,money on dey head,0,0,0,Beverages
+drink,1,nasty mane,1,1,money x marijuana,0,0,0,
+ice,1,juicy j,1,1,montana,2014-08-29,2014,8,
+muffin,1,juicy j,1,1,montana,2014-08-29,2014,8,Baked Products
+bread,1,juicy j,1,1,montana,2014-08-29,2014,8,Baked Products
+juice,1,lil bibby,1,1,montana,2014-08-29,2014,8,Baby Foods
+beef,1,lil bibby,1,1,montana,2014-08-29,2014,8,Beef Products
+pit,6,three 6 mafia,1,6,mosh pit,2003-06-24,2003,6,
+juice,1,three 6 mafia,1,1,mosh pit,2003-06-24,2003,6,Baby Foods
+beer,1,three 6 mafia,1,1,mosh pit,2003-06-24,2003,6,Beverages
+syrup,1,three 6 mafia,1,1,mosh pit,2003-06-24,2003,6,Sweets
+ice,1,three 6 mafia,1,1,mosh pit,2003-06-24,2003,6,
+chicken,1,three 6 mafia,1,1,mosh pit,2003-06-24,2003,6,Poultry Products
+cheese,1,three 6 mafia,1,1,motivated,1997-11-04,1997,11,Dairy and Egg Products
+nut,5,frayser boy,1,5,mouth write a check,2002-08-06,2002,8,Nut and Seed Products
+cooking,1,project pat,1,1,mouth write a check,2002-08-06,2002,8,Beverages
+rose,1,lord infamous,1,1,move bitch,2000-08-15,2000,8,Beverages
+cheddar,1,lil jon & the east side boyz,1,1,move bitch,2000-08-15,2000,8,Dairy and Egg Products
+orange,1,project pat,1,1,move mutha fucka,1998-09-08,1998,9,Fruits and Fruit Juices
+nut,1,project pat,1,1,move mutha fucka,1998-09-08,1998,9,Nut and Seed Products
+fry,1,mc mack,1,1,move mutha fucka,1998-09-08,1998,9,
+juice,1,gangsta boo,1,1,m-town representatives,0,0,0,Baby Foods
+rose,1,gangsta boo,1,1,m-town representatives,0,0,0,Beverages
+candy,1,gangsta boo,1,1,m-town representatives,0,0,0,Sweets
+donut,1,gangsta boo,1,1,m-town representatives,0,0,0,
+dough,1,gangsta boo,1,1,m-town representatives,0,0,0,
+meal,1,project pat,1,1,"murderer, robber",1998-02-24,1998,2,Baked Products
+gin,1,project pat,1,1,"murderer, robber",1998-02-24,1998,2,
+cheese,1,project pat,1,1,"murderer, robber",1998-02-24,1998,2,Dairy and Egg Products
+drinking,1,lord infamous aka scarecrow,1,1,murderers & robbers,1994-01-25,1994,1,Beverages
+bean,3,king louie,1,3,my hoes they do drugs,2012-12-08,2012,12,Legumes and Legume Products
+water,1,king l,1,1,my hoes they do drugs,2012-12-08,2012,12,Beverages
+orange,1,king l,1,1,my hoes they do drugs,2012-12-08,2012,12,Fruits and Fruit Juices
+juice,1,king l,1,1,my hoes they do drugs,2012-12-08,2012,12,Baby Foods
+juice,1,pusha t,1,1,my hoes they do drugs,2012-12-08,2012,12,Baby Foods
+champagne,1,juicy j,1,1,my hoes they do drugs,2012-12-08,2012,12,
+alcohol,1,juicy j,1,1,my hoes they do drugs,2012-12-08,2012,12,Spices and Herbs
+orange juice,1,king l,-1,-1,my hoes they do drugs,2012-12-08,2012,12,Fruits and Fruit Juices
+drink,1,,1,1,my niggaz,2009-06-16,2009,6,
+vodka,1,,1,1,my niggaz,2009-06-16,2009,6,Beverages
+ham,1,,1,1,my niggaz,2009-06-16,2009,6,Pork Products
+bean,1,,1,1,my niggaz,2009-06-16,2009,6,Legumes and Legume Products
+mint,1,,1,1,my niggaz,2009-06-16,2009,6,
+nut,1,,1,1,my niggaz (duplicate),0,0,0,Nut and Seed Products
+cream,1,,1,1,my niggaz (duplicate),0,0,0,Dairy and Egg Products
+cherry,1,,1,1,my niggaz (duplicate),0,0,0,Fruits and Fruit Juices
+strawberry,1,,1,1,my niggaz (duplicate),0,0,0,Dairy and Egg Products
+fry,1,three 6 mafia,1,1,my own way (remix),2008-06-24,2008,6,
+half baked,1,frayser boy,1,1,my smokin session,2005-07-12,2005,7,
+cheese,1,dj paul,1,1,mystic stylez,1995-05-25,1995,5,Dairy and Egg Products
+juice,1,dj paul,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+juice,1,lord infamous,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+juice,1,playa fly,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+juice,1,gangsta boo,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+juice,1,koopsta knicca,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+juice,1,juicy j,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+juice,1,lachat,1,1,mystic stylez,1995-05-25,1995,5,Baby Foods
+lemon,1,mc mack,1,1,mystic stylez,1995-05-25,1995,5,Beverages
+candy,1,juicy j,1,1,name it after me,2002-07-16,2002,7,Sweets
+grape,1,frayser boy,1,1,name it after me,2002-07-16,2002,7,Vegetables and Vegetable Products
+juice,2,juicy j,1,2,name it after me,2002-07-16,2002,7,Baby Foods
+klondike,1,juicy j,1,1,name it after me,2002-07-16,2002,7,Sweets
+cheese,2,juicy j,1,2,name it after me,2002-07-16,2002,7,Dairy and Egg Products
+chicken,1,gangsta boo,1,1,nasty trick,1998-09-29,1998,9,Poultry Products
+chicken finger,1,gangsta boo,1,1,nasty trick,1998-09-29,1998,9,Restaurant Foods
+dough,1,juicy j,1,1,never be a g,0,0,0,
+yam,1,project pat,1,1,never be a g,0,0,0,Vegetables and Vegetable Products
+dough,1,juicy j,1,1,never be a g (remix),2015-03-24,2015,3,
+steak,1,project pat,1,1,never be a g (remix),2015-03-24,2015,3,Beef Products
+bologna,1,project pat,1,1,never be a g (remix),2015-03-24,2015,3,Sausages and Luncheon Meats
+yam,1,project pat,1,1,never be a g (remix),2015-03-24,2015,3,Vegetables and Vegetable Products
+cheese,1,doe b,1,1,never be a g (remix),2015-03-24,2015,3,Dairy and Egg Products
+nut,1,project pat,1,1,niggas got me fucked up,1999-09-14,1999,9,Nut and Seed Products
+corn,1,frayser boy,1,1,niggas in da hood,2005-07-12,2005,7,Cereal Grains and Pasta
+cheese,1,frayser boy,1,1,niggas in da hood,2005-07-12,2005,7,Dairy and Egg Products
+soda,1,project pat,1,1,niggas so cut throat,0,0,0,Baked Products
+baking soda,1,project pat,1,1,niggas so cut throat,0,0,0,Baked Products
+honeycomb,1,juicy j,1,1,nigga wanna ass wooping,1993-01-01,1993,1,
+chicken,2,juicy j,1,2,nigga wanna ass wooping,1993-01-01,1993,1,Poultry Products
+juice,1,gangsta boo,1,1,nigga yeah know,1998-09-29,1998,9,Baby Foods
+bacon,1,gangsta boo,1,1,nigga yeah know,1998-09-29,1998,9,Pork Products
+fried,1,gangsta boo,1,1,nigga yeah know,1998-09-29,1998,9,Poultry Products
+orange,34,three 6 mafia,1,34,niggaz ain't barin' dat,1999-03-02,1999,3,Fruits and Fruit Juices
+orange,1,three 6 mafia,1,1,niggaz ain't barrin dat,1994-11-25,1994,11,Fruits and Fruit Juices
+cheese,1,three 6 mafia,1,1,niggaz down 2 make some endz,0,0,0,Dairy and Egg Products
+nut,1,three 6 mafia,1,1,niggaz down 2 make some endz,0,0,0,Nut and Seed Products
+soda,1,insane clown posse,1,1,night of the chainsaw (joe strange remix),0,0,0,Baked Products
+noodle,1,insane clown posse,1,1,night of the chainsaw (joe strange remix),0,0,0,Cereal Grains and Pasta
+strudel,1,insane clown posse,1,1,night of the chainsaw (joe strange remix),0,0,0,Baked Products
+juice,1,insane clown posse,1,1,night of the chainsaw (joe strange remix),0,0,0,Baby Foods
+bread,1,,1,1,night of the chainsaw (joe strange remix),0,0,0,Baked Products
+soda pop,1,insane clown posse,1,1,night of the chainsaw (joe strange remix),0,0,0,
+nut,1,project pat,1,1,nine to yo dome,1999-08-24,1999,8,Nut and Seed Products
+nut,2,kingpin skinny pimp,1,2,nobody crosses me,1996-04-06,1996,4,Nut and Seed Products
+water,1,kingpin skinny pimp,1,1,nobody crosses me,1996-04-06,1996,4,Beverages
+vodka,1,kingpin skinny pimp,1,1,nobody crosses me,1996-04-06,1996,4,Beverages
+sprite,1,juicy j,1,1,no flex zone (freestyle),0,0,0,Beverages
+ice,1,juicy j,1,1,no flex zone (freestyle),0,0,0,
+bread,1,juicy j,1,1,no flex zone (freestyle),0,0,0,Baked Products
+bread,1,juicy j,1,1,"no heart, no love",2013-08-23,2013,8,Baked Products
+ice,1,juicy j,1,1,"no heart, no love",2013-08-23,2013,8,
+soup,1,project pat,1,1,"no heart, no love",2013-08-23,2013,8,"Soups, Sauces, and Gravies"
+tomato,1,project pat,1,1,"no heart, no love",2013-08-23,2013,8,Vegetables and Vegetable Products
+nut,1,project pat,1,1,"no heart, no love",2013-08-23,2013,8,Nut and Seed Products
+nut,1,three 6 mafia,1,1,no i'm not dat nigga,1999-08-24,1999,8,Nut and Seed Products
+juice,1,three 6 mafia,1,1,no i'm not dat nigga,1999-08-24,1999,8,Baby Foods
+nut,1,juicy j,1,1,no look,2017-05-15,2017,5,Nut and Seed Products
+nut,3,zaytoven,1,3,no mo,2017-12-15,2017,12,Nut and Seed Products
+dough,3,zaytoven,1,3,no mo,2017-12-15,2017,12,
+cake,3,zaytoven,1,3,no mo,2017-12-15,2017,12,Baked Products
+ice,1,juicy j,1,1,no mo,0,0,0,
+goose,1,juicy j,1,1,north memphis like me,2009-06-16,2009,6,Poultry Products
+dough,1,project pat,1,1,north memphis like me,2009-06-16,2009,6,
+rose,1,project pat,1,1,north memphis like me,2009-06-16,2009,6,Beverages
+beef,1,project pat,1,1,north north,2001-02-13,2001,2,Beef Products
+candy,1,project pat,1,1,north north,2001-02-13,2001,2,Sweets
+hickory,1,project pat,1,1,north north,2001-02-13,2001,2,
+juice,1,juicy j,1,1,"north, north part 2",2002-07-16,2002,7,Baby Foods
+drink,1,project pat,1,1,"north, north part 2",2002-07-16,2002,7,
+beer,1,project pat,1,1,"north, north part 2",2002-07-16,2002,7,Beverages
+cocoa,1,juicy j,1,1,"north, north part 2",2002-07-16,2002,7,Sweets
+beef,1,juicy j,1,1,"north, north part 2",2002-07-16,2002,7,Beef Products
+juice,1,juicy j,1,1,"north, north pt. 2",2002-07-16,2002,7,Baby Foods
+drink,1,project pat,1,1,"north, north pt. 2",2002-07-16,2002,7,
+beer,1,project pat,1,1,"north, north pt. 2",2002-07-16,2002,7,Beverages
+cocoa,1,juicy j,1,1,"north, north pt. 2",2002-07-16,2002,7,Sweets
+beef,1,juicy j,1,1,"north, north pt. 2",2002-07-16,2002,7,Beef Products
+nut,1,lord infamous,1,1,notha nigga car/clothes,1998-02-24,1998,2,Nut and Seed Products
+potato,1,juicy j,1,1,notha nigga car/clothes,1998-02-24,1998,2,Vegetables and Vegetable Products
+dough,1,juicy j,1,1,notha nigga car/clothes,1998-02-24,1998,2,
+cheese,1,juicy j,1,1,notha nigga car/clothes,1998-02-24,1998,2,Dairy and Egg Products
+cheese,1,from killa klan kaze,1,1,notha nigga car/clothes,1998-02-24,1998,2,Dairy and Egg Products
+cheese,1,mc mack,1,1,notha nigga car/clothes,1998-02-24,1998,2,Dairy and Egg Products
+salt,1,from killa klan kaze,1,1,notha nigga car/clothes,1998-02-24,1998,2,Spices and Herbs
+salt,1,mc mack,1,1,notha nigga car/clothes,1998-02-24,1998,2,Spices and Herbs
+snail,1,from killa klan kaze,1,1,notha nigga car/clothes,1998-02-24,1998,2,Finfish and Shellfish Products
+snail,1,mc mack,1,1,notha nigga car/clothes,1998-02-24,1998,2,Finfish and Shellfish Products
+hickory,1,lord infamous,1,1,now i'm high,1994-11-25,1994,11,
+nut,1,playa fly,1,1,now i'm high,1994-11-25,1994,11,Nut and Seed Products
+hickory,1,lord infamous,1,1,"now i'm high, really high",1994-11-25,1994,11,
+onion,1,playa fly,1,1,"now i'm hi, pt. 3",1995-05-25,1995,5,Vegetables and Vegetable Products
+lemon,1,gangsta boo,1,1,"now i'm hi, pt. 3",1995-05-25,1995,5,Beverages
+herb,1,lord infamous,1,1,"now i'm hi, pt. 3",1995-05-25,1995,5,Beverages
+fruit,1,gangsta boo,1,1,oh no,1998-09-29,1998,9,Baby Foods
+cheese,1,gangsta boo,1,1,oh no,1998-09-29,1998,9,Dairy and Egg Products
+apple,1,gangsta boo,1,1,oh no,1998-09-29,1998,9,Fruits and Fruit Juices
+grain,1,yamine,1,1,old school,2017-09-29,2017,9,
+ham,2,juicy j,1,2,old triple six,0,0,0,Pork Products
+grain,1,juicy j,1,1,ol skool,2016-07-12,2016,7,
+pecan,1,yung mutt,1,1,omen,2016-01-10,2016,1,Nut and Seed Products
+juice,6,yamine,1,6,one last time,0,0,0,Baby Foods
+drinking,1,yamine,1,1,one last time,0,0,0,Beverages
+sprite,1,yamine,1,1,one last time,0,0,0,Beverages
+cheese,1,juicy j,1,1,one life 2 live,1996-04-06,1996,4,Dairy and Egg Products
+tequila,14,robin thicke,1,14,one shot,2016-11-11,2016,11,
+tequila,9,juicy j,1,9,one shot,2016-11-11,2016,11,
+drink,1,robin thicke,1,1,one shot,2016-11-11,2016,11,
+drink,1,juicy j,1,1,one shot,2016-11-11,2016,11,
+apple,1,juicy j,1,1,one shot,2016-11-11,2016,11,Fruits and Fruit Juices
+martini,1,juicy j,1,1,one shot,2016-11-11,2016,11,
+ice,4,juicy j,1,4,only for you,2018-01-15,2018,1,
+bread,1,juicy j,1,1,only for you,2018-01-15,2018,1,Baked Products
+lemonade,1,juicy j,1,1,only one up,2017-12-08,2017,12,Beverages
+drink,1,2,1,1,only one up,2017-12-08,2017,12,
+water,1,gangsta boo,1,1,only you,1998-09-29,1998,9,Beverages
+meal,1,gangsta boo,1,1,only you,1998-09-29,1998,9,Baked Products
+food,1,gangsta boo,1,1,only you,1998-09-29,1998,9,
+sprinkle,1,dj paul,1,1,on some chrome,2007-12-16,2007,12,
+candy,8,pimp c,1,8,on some chrome,2007-12-16,2007,12,Sweets
+grain,8,pimp c,1,8,on some chrome,2007-12-16,2007,12,
+goose,1,juicy j,1,1,on some chrome,2007-12-16,2007,12,Poultry Products
+drink,1,juicy j,1,1,on some chrome,2007-12-16,2007,12,
+cornbread,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Baked Products
+butter,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Dairy and Egg Products
+spaghetti,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Cereal Grains and Pasta
+meal,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Baked Products
+chicken,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Poultry Products
+corn,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Cereal Grains and Pasta
+cheese,1,project pat,1,1,ooh nuthin',2001-02-27,2001,2,Dairy and Egg Products
+orange,51,m-child,1,51,orange mound,1998-02-24,1998,2,Fruits and Fruit Juices
+nut,1,m-child,1,1,orange mound,1998-02-24,1998,2,Nut and Seed Products
+banana,1,m-child,1,1,orange mound,1998-02-24,1998,2,Fruits and Fruit Juices
+beef,1,m-child,1,1,o's to oscars mixtape art/track list,2015-12-15,2015,12,Beef Products
+fruit,1,three 6 mafia,1,1,outro,0,0,0,Baby Foods
+cheese,1,project pat,1,1,out there,1999-09-14,1999,9,Dairy and Egg Products
+melon,1,project pat,1,1,out there,1999-09-14,1999,9,Fruits and Fruit Juices
+muffin,2,chevy woods,1,2,oxy cotton 2,0,0,0,Baked Products
+waffle,1,lil wyte,1,1,oxy cotton 2,0,0,0,Baked Products
+juice,2,lil wyte,1,2,oxy cotton 2,0,0,0,Baby Foods
+spelt,1,lil wyte,1,1,oxy cotton 2,0,0,0,Cereal Grains and Pasta
+candy,1,juicy j,1,1,paid for (bitch i own you),2011-01-01,2011,1,Sweets
+candy,1,juicy j,1,1,paid for (bitch i own you),2011-01-01,2011,1,Sweets
+starbucks,1,curren$y,1,1,paid for (bitch i own you),2011-01-01,2011,1,
+chocolate,1,curren$y,1,1,paid for (bitch i own you),2011-01-01,2011,1,Sweets
+fish,1,curren$y,1,1,paid for (bitch i own you),2011-01-01,2011,1,Finfish and Shellfish Products
+drinking,1,juicy j,1,1,paid for (bitch i own you),2011-01-01,2011,1,Beverages
+hot chocolate,1,curren$y,1,1,paid for (bitch i own you),2011-01-01,2011,1,
+jelly,1,juicy j,1,1,pain no more,2011-04-19,2011,4,Sweets
+jelly,2,sno (rap),1,2,pain no more,2011-04-19,2011,4,Sweets
+jelly roll,1,juicy j,1,1,pain no more,2011-04-19,2011,4,
+jelly roll,2,sno (rap),1,2,pain no more,2011-04-19,2011,4,
+drink,3,jeremih,1,3,panties,2016-09-19,2016,9,
+rose,1,juicy j,1,1,panties,2016-09-19,2016,9,Beverages
+grain,1,juicy j,1,1,paper chase,1999-02-02,1999,2,
+beef,1,g.o.d.,1,1,pardon me,0,0,0,Beef Products
+drink,8,roscoe dash,1,8,party,2010-12-27,2010,12,
+ham,1,juicy j,1,1,party,2010-12-27,2010,12,Pork Products
+juice,3,jay idk,1,3,party animal (remix),2014-01-01,2014,1,Baby Foods
+vodka,2,jay idk,1,2,party animal (remix),2014-01-01,2014,1,Beverages
+drink,4,jay idk,1,4,party animal (remix),2014-01-01,2014,1,
+creamy,1,juicy j,1,1,party animal (remix),2014-01-01,2014,1,Legumes and Legume Products
+fettuccine,1,juicy j,1,1,party animal (remix),2014-01-01,2014,1,
+drink,1,crunchy blac,1,1,pass dat shit,2005-03-29,2005,3,
+bubblegum,1,lord infamous,1,1,pass dat shit,2005-03-29,2005,3,
+onion,1,lord infamous,1,1,pass dat shit,2005-03-29,2005,3,Vegetables and Vegetable Products
+alcohol,1,juicy j,1,1,pass dat shit,2005-03-29,2005,3,Spices and Herbs
+taffy,1,juicy j,1,1,pass dat shit,2005-03-29,2005,3,Sweets
+berry,1,juicy j,1,1,pass dat shit,2005-03-29,2005,3,
+blueberry,1,juicy j,1,1,pass dat shit,2005-03-29,2005,3,Baked Products
+fruit,1,three 6 mafia,1,1,pass me,2001-10-30,2001,10,Baby Foods
+banana,1,lord infamous,1,1,pass that junt,2000-10-31,2000,10,Fruits and Fruit Juices
+chicken,1,lord infamous,1,1,pass that junt,2000-10-31,2000,10,Poultry Products
+bread,1,juicy j,1,1,payday,2015-12-04,2015,12,Baked Products
+nut,1,juicy j,1,1,payday,2015-12-04,2015,12,Nut and Seed Products
+bread,1,juicy j,1,1,petty,2017-09-18,2017,9,Baked Products
+pizza,1,oddy nuff da $now leopard,1,1,phantom menace,2018-09-07,2018,9,Fast Foods
+orange,1,lil cut throat,1,1,phantom menace,2018-09-07,2018,9,Fruits and Fruit Juices
+orange,1,project pat,1,1,"pills, weed and pussy",2011-05-02,2011,5,Fruits and Fruit Juices
+goose,1,project pat,1,1,"pills, weed and pussy",2011-05-02,2011,5,Poultry Products
+cheddar,1,project pat,1,1,"pills, weed and pussy",2011-05-02,2011,5,Dairy and Egg Products
+bread,1,project pat,1,1,"pills, weed and pussy",2011-05-02,2011,5,Baked Products
+juice,1,three 6 mafia,1,1,p.i.m.p.,2005-03-29,2005,3,Baby Foods
+fruity,1,three 6 mafia,1,1,p.i.m.p.,2005-03-29,2005,3,
+flavor,1,three 6 mafia,1,1,p.i.m.p.,2005-03-29,2005,3,
+cheese,1,three 6 mafia,1,1,p.i.m.p.,2005-03-29,2005,3,Dairy and Egg Products
+macaroni,1,three 6 mafia,1,1,p.i.m.p.,2005-03-29,2005,3,Cereal Grains and Pasta
+bread,1,kingpin skinny pimp,1,1,pimpin' and hoin',1996-04-06,1996,4,Baked Products
+banana,1,kingpin skinny pimp,1,1,pimpin' and hoin',1996-04-06,1996,4,Fruits and Fruit Juices
+cheese,1,211,1,1,pimpin & robbin,1994-11-25,1994,11,Dairy and Egg Products
+honey,1,211,1,1,pimpin & robbin,1994-11-25,1994,11,Sweets
+beer,1,juicy j,1,1,pimp tight,0,0,0,Beverages
+gravy,1,slutty boyz,1,1,pimptro,2002-07-16,2002,7,"Soups, Sauces, and Gravies"
+juice,1,slutty boyz,1,1,pimptro,2002-07-16,2002,7,Baby Foods
+sour,1,meechy darko,1,1,piss test (remix),2013-02-01,2013,2,Fruits and Fruit Juices
+oil,2,juice,1,2,piss test (remix),2013-02-01,2013,2,Fats and Oils
+candy,1,juice,1,1,piss test (remix),2013-02-01,2013,2,Sweets
+mint,1,el-p,1,1,piss test (remix),2013-02-01,2013,2,
+fish,1,el-p,1,1,piss test (remix),2013-02-01,2013,2,Finfish and Shellfish Products
+nut,1,frayser boy,1,1,pistol playa,2003-08-26,2003,8,Nut and Seed Products
+water,1,frayser boy,1,1,pizzurp freestyle,2008-02-05,2008,2,Beverages
+water,1,jam-riv,1,1,pizzurp freestyle,2008-02-05,2008,2,Beverages
+cooking,1,jam-riv,1,1,pizzurp freestyle,2008-02-05,2008,2,Beverages
+shrimp,1,jam-riv,1,1,pizzurp freestyle,2008-02-05,2008,2,Finfish and Shellfish Products
+ice,1,jam-riv,1,1,pizzurp freestyle,2008-02-05,2008,2,
+mint,1,jam-riv,1,1,pizzurp freestyle,2008-02-05,2008,2,
+drink,1,lil wyte,1,1,players in da atmosphere,0,0,0,
+vodka,1,lil wyte,1,1,players in da atmosphere,0,0,0,Beverages
+pudding,3,lil wyte,1,3,players in da atmosphere,0,0,0,Sweets
+iced,1,lil wyte,1,1,players in da atmosphere,0,0,0,Beverages
+tea,1,lil wyte,1,1,players in da atmosphere,0,0,0,Beverages
+iced tea,1,lil wyte,-1,-1,players in da atmosphere,0,0,0,
+food,1,juicy j,1,1,playstation,2008-06-24,2008,6,
+klondike,1,juicy j,1,1,plenty,2016-09-19,2016,9,Sweets
+candy,1,juicy j,1,1,plenty,2016-09-19,2016,9,Sweets
+ice,1,project pat,1,1,poppin' my collar,2005-09-27,2005,9,
+cheese,1,project pat,1,1,poppin' my collar,2005-09-27,2005,9,Dairy and Egg Products
+bread,1,dj paul,1,1,poppin' my collar,2005-09-27,2005,9,Baked Products
+juice,1,juicy j,1,1,poppin' my collar,2005-09-27,2005,9,Baby Foods
+cheese,1,dj paul,1,1,porno movie,1995-05-25,1995,5,Dairy and Egg Products
+nut,6,dj paul & juicy j,1,6,porno movie,0,0,0,Nut and Seed Products
+nut,4,dj paul,1,4,porno movie,0,0,0,Nut and Seed Products
+corn,1,juicy j,1,1,porno movie,0,0,0,Cereal Grains and Pasta
+gin,1,project pat,1,1,posse song,0,0,0,
+syrup,1,project pat,1,1,posse song,0,0,0,Sweets
+nut,1,project pat,1,1,posse song,0,0,0,Nut and Seed Products
+scotch,1,project pat,1,1,posse song,0,0,0,
+cocoa,1,project pat,1,1,posse song,0,0,0,Sweets
+drink,1,lil scrappy,1,1,posted in the club,0,0,0,
+cheese,1,lil scrappy,1,1,posted in the club,0,0,0,Dairy and Egg Products
+fruit,1,three 6 mafia,1,1,powder (the higher version),0,0,0,Baby Foods
+syrup,1,three 6 mafia,1,1,powder (the higher version),0,0,0,Sweets
+mm,3,juicy j,1,3,pressure,2016-07-11,2016,7,
+meat,1,juicy j,1,1,pressure,2016-07-11,2016,7,Baby Foods
+taco,1,juicy j,1,1,pressure,2016-07-11,2016,7,Spices and Herbs
+cheese,1,project pat,1,1,project hoes,0,0,0,Dairy and Egg Products
+cheese,1,la chat,1,1,project hoes,0,0,0,Dairy and Egg Products
+chicken,1,t-rock,1,1,project hoes,0,0,0,Poultry Products
+nugget,1,t-rock,1,1,project hoes,0,0,0,"Meals, Entrees, and Side Dishes"
+dough,2,la chat,1,2,project hoes,0,0,0,
+chicken nugget,1,t-rock,1,1,project hoes,0,0,0,Fast Foods
+raisin,1,three 6 mafia,1,1,prophet posse,1997-11-04,1997,11,Baked Products
+dough,2,kingpin skinny pimp,1,2,psychopathic lunatic,0,0,0,
+nut,1,kingpin skinny pimp,1,1,psychopathic lunatic,0,0,0,Nut and Seed Products
+pit,1,yelawolf,1,1,punk,2017-08-31,2017,8,
+catfish,1,yelawolf,1,1,punk,2017-08-31,2017,8,Finfish and Shellfish Products
+chili,1,yelawolf,1,1,punk,2017-08-31,2017,8,"Soups, Sauces, and Gravies"
+pepper,1,yelawolf,1,1,punk,2017-08-31,2017,8,Vegetables and Vegetable Products
+grain,1,yelawolf,1,1,punk,2017-08-31,2017,8,
+salt,1,yelawolf,1,1,punk,2017-08-31,2017,8,Spices and Herbs
+chili pepper,1,yelawolf,-1,-1,punk,2017-08-31,2017,8,
+pit,1,project pat,1,1,pure anna,1998-09-08,1998,9,
+caper,1,project pat,1,1,pure anna,1998-09-08,1998,9,Spices and Herbs
+rib,1,scan man,1,1,pure anna,1998-09-08,1998,9,Beef Products
+strawberry,1,project pat,1,1,purple kush,2009-05-11,2009,5,Dairy and Egg Products
+cake,1,project pat,1,1,purple kush,2009-05-11,2009,5,Baked Products
+beer,1,juicy j,1,1,purple kush,2009-05-11,2009,5,Beverages
+ham,1,juicy j,1,1,purple kush,2009-05-11,2009,5,Pork Products
+drink,2,gorilla zoe,1,2,purple kush,2009-05-11,2009,5,
+fruity,1,gorilla zoe,1,1,purple kush,2009-05-11,2009,5,
+cheese,1,dj paul,1,1,push 'em off,1999-02-02,1999,2,Dairy and Egg Products
+beer,1,dj paul,1,1,push 'em off,1999-02-02,1999,2,Beverages
+pie,1,three 6 mafia,1,1,pussy got ya hooked,2005-09-27,2005,9,Baked Products
+noodle,1,three 6 mafia,1,1,pussy got ya hooked,2005-09-27,2005,9,Cereal Grains and Pasta
+syrup,1,three 6 mafia,1,1,put cha d. in her mouth,2003-06-24,2003,6,Sweets
+ice,1,three 6 mafia,1,1,put cha d. in her mouth,2003-06-24,2003,6,
+pie,1,three 6 mafia,1,1,put cha d. in her mouth,2003-06-24,2003,6,Baked Products
+creamer,1,three 6 mafia,1,1,put cha d. in her mouth,2003-06-24,2003,6,
+drinking,1,$crim,1,1,put the gun down,0,0,0,Beverages
+drink,1,$crim,1,1,put the gun down,0,0,0,
+barbeque,1,project pat,1,1,puttin hoez on da house,2000-07-25,2000,7,
+drink,2,project pat,1,2,puttin hoez on da house,2000-07-25,2000,7,
+honeycomb,1,project pat,1,1,puttin hoez on da house,2000-07-25,2000,7,
+cheese,2,project pat,1,2,puttin hoez on da house,2000-07-25,2000,7,Dairy and Egg Products
+chicken,1,project pat,1,1,puttin hoez on da house,2000-07-25,2000,7,Poultry Products
+cheese puff,1,project pat,1,1,puttin hoez on da house,2000-07-25,2000,7,
+rum,1,three 6 mafia,1,1,put ya signs,2000-06-13,2000,6,Beverages
+cheese,1,juicy j,1,1,put your guns in the air,1999-02-02,1999,2,Dairy and Egg Products
+toffee,1,lord infamous,1,1,put your guns in the air,1999-02-02,1999,2,Sweets
+syrup,11,lil flip,1,11,rainbow colors,2003-06-24,2003,6,Sweets
+syrup,11,three 6 mafia,1,11,rainbow colors,2003-06-24,2003,6,Sweets
+syrup,2,lil' flip,1,2,rainbow colors,2003-06-24,2003,6,Sweets
+syrup,1,dj paul,1,1,rainbow colors,2003-06-24,2003,6,Sweets
+syrup,1,juicy j,1,1,rainbow colors,2003-06-24,2003,6,Sweets
+blueberry,1,lil' flip,1,1,rainbow colors,2003-06-24,2003,6,Baked Products
+herb,1,lil' flip,1,1,rainbow colors,2003-06-24,2003,6,Beverages
+berry,2,dj paul,1,2,rainbow colors,2003-06-24,2003,6,
+jolly rancher,3,lil flip,2,6,rainbow colors,2003-06-24,2003,6,
+jolly rancher,3,three 6 mafia,2,6,rainbow colors,2003-06-24,2003,6,
+hash brown,1,dj paul,2,2,rainbow colors,2003-06-24,2003,6,Vegetables and Vegetable Products
+herb,1,project pat,1,1,raised in the projects,2006-12-05,2006,12,Beverages
+chicken,1,project pat,1,1,raised in the projects,2006-12-05,2006,12,Poultry Products
+jolly rancher,1,project pat,2,2,raised in the projects,2006-12-05,2006,12,
+seafood,1,koopsta knicca,1,1,ready 2 ride,1999-10-26,1999,10,
+water,1,koopsta knicca,1,1,ready 2 ride,1999-10-26,1999,10,Beverages
+barbecue,1,juicy j,1,1,real,0,0,0,"Soups, Sauces, and Gravies"
+champagne,1,juicy j,1,1,real,0,0,0,
+candy,1,juicy j,1,1,real d boyz,2009-06-16,2009,6,Sweets
+dough,1,juicy j,1,1,real d boyz,2009-06-16,2009,6,
+chicken,1,juicy j,1,1,real d boyz,2009-06-16,2009,6,Poultry Products
+rum,1,dj paul & juicy j,1,1,red rum,2000-07-25,2000,7,Beverages
+rum,8,project pat,1,8,red rum,2000-07-25,2000,7,Beverages
+fried,1,project pat,1,1,red rum,2000-07-25,2000,7,Poultry Products
+ice,1,lil flip,1,1,represent,0,0,0,
+peach,1,lil flip,1,1,represent,0,0,0,Fruits and Fruit Juices
+nut,2,lil flip,1,2,represent,0,0,0,Nut and Seed Products
+fish,1,lil flip,1,1,represent,0,0,0,Finfish and Shellfish Products
+cream,1,project pat,1,1,represent it,1999-09-14,1999,9,Dairy and Egg Products
+cheese,1,project pat,1,1,represent it,1999-09-14,1999,9,Dairy and Egg Products
+herb,1,project pat,1,1,represent it,1999-09-14,1999,9,Beverages
+drinking,1,juicy j,1,1,represent it,1999-09-14,1999,9,Beverages
+bread,1,juicy j,1,1,re up money,2015-12-14,2015,12,Baked Products
+bread,1,juicy j,1,1,rick james,2014-03-31,2014,3,Baked Products
+ice,1,juicy j,1,1,rick james,2014-03-31,2014,3,
+beef,1,keyshia cole,1,1,ride wit em,0,0,0,Beef Products
+honeycomb,1,juicy j,1,1,"ridin' n da chevy, pt. 2",0,0,0,
+grapefruit,1,juicy j,1,1,"ridin' n da chevy, pt. 2",0,0,0,Fruits and Fruit Juices
+gin,1,juicy j,1,1,"ridin' n da chevy, pt. 2",0,0,0,
+ice,1,three 6 mafia,1,1,ridin' on chrome,2001-10-30,2001,10,
+candy,1,three 6 mafia,1,1,ridin' on chrome,2001-10-30,2001,10,Sweets
+syrup,1,dj paul,1,1,ridin spinners,2003-06-13,2003,6,Sweets
+drink,2,lil' flip,1,2,ridin spinners,2003-06-13,2003,6,
+juice,1,lil' flip,1,1,ridin spinners,2003-06-13,2003,6,Baby Foods
+banana,1,juicy j,1,1,riley,0,0,0,Fruits and Fruit Juices
+diet,1,juicy j,1,1,riley,0,0,0,Beverages
+beef,1,project pat,1,1,rinky dink ii/we're gonna rumble,1999-09-14,1999,9,Beef Products
+nut,1,project pat,1,1,rinky dink ii/we're gonna rumble,1999-09-14,1999,9,Nut and Seed Products
+cream,1,project pat,1,1,rinky dink ii/we're gonna rumble,1999-09-14,1999,9,Dairy and Egg Products
+water,1,project pat,1,1,rinky dink ii/we're gonna rumble,1999-09-14,1999,9,Beverages
+cheese,1,project pat,1,1,rinky dink/whatever ho,1999-09-14,1999,9,Dairy and Egg Products
+nut,1,project pat,1,1,rinky dink/whatever ho,1999-09-14,1999,9,Nut and Seed Products
+cracker,1,project pat,1,1,rinky dink/whatever ho,1999-09-14,1999,9,Baked Products
+berry,1,project pat,1,1,rinky dink/whatever ho,1999-09-14,1999,9,
+drink,1,project pat,1,1,rinky dink/whatever ho,1999-09-14,1999,9,
+martini,1,juicy j,1,1,road to sri lanka,2016-07-11,2016,7,
+orange,1,three 6 mafia,1,1,rollin',2008-06-24,2008,6,Fruits and Fruit Juices
+orange,1,lil' wyte,1,1,rollin',2008-06-24,2008,6,Fruits and Fruit Juices
+juice,1,three 6 mafia,1,1,rollin',2008-06-24,2008,6,Baby Foods
+cheddar,2,three 6 mafia,1,2,rollin',2008-06-24,2008,6,Dairy and Egg Products
+naan,1,three 6 mafia,1,1,rollin',2008-06-24,2008,6,Baked Products
+orange juice,1,three 6 mafia,-1,-1,rollin',2008-06-24,2008,6,Fruits and Fruit Juices
+nut,2,juicy j,1,2,roll me up some weed,2011-04-20,2011,4,Nut and Seed Products
+drinking,14,fki,1,14,#rsd,0,0,0,Beverages
+drinking,1,1st down,1,1,#rsd,0,0,0,Beverages
+drinking,1,strap,1,1,#rsd,0,0,0,Beverages
+drinking,2,ray rich,1,2,#rsd,0,0,0,Beverages
+sauce,1,1st down,1,1,#rsd,0,0,0,"Soups, Sauces, and Gravies"
+ice,1,1st down,1,1,#rsd,0,0,0,
+syrup,2,strap,1,2,#rsd,0,0,0,Sweets
+syrup,1,juicy j,1,1,#rsd,0,0,0,Sweets
+sour,1,juicy j,1,1,#rsd,0,0,0,Fruits and Fruit Juices
+skittle,1,juicy j,1,1,#rsd,0,0,0,
+bean,1,juicy j,1,1,#rsd,0,0,0,Legumes and Legume Products
+chicken,1,project pat,1,1,rubber bands,2014-12-17,2014,12,Poultry Products
+pie,2,project pat,1,2,rubber bands,2014-12-17,2014,12,Baked Products
+banana,1,project pat,1,1,rubber bands,2014-12-17,2014,12,Fruits and Fruit Juices
+chicken pie,1,project pat,-1,-1,rubber bands,2014-12-17,2014,12,
+cheese,1,da headbussaz,1,1,ruffest niggaz out,0,0,0,Dairy and Egg Products
+drinking,1,da headbussaz,1,1,ruffest niggaz out,0,0,0,Beverages
+drink,1,,1,1,run a train,1999-09-14,1999,9,
+drinking,1,,1,1,run a train,1999-09-14,1999,9,Beverages
+nut,1,,1,1,run a train,1999-09-14,1999,9,Nut and Seed Products
+kiwi,1,,1,1,run a train,1999-09-14,1999,9,Fruits and Fruit Juices
+kiwi,1,project pat,1,1,run a train,1999-09-14,1999,9,Fruits and Fruit Juices
+fruit,1,,1,1,run a train,1999-09-14,1999,9,Baby Foods
+cream,1,project pat,1,1,run a train,1999-09-14,1999,9,Dairy and Egg Products
+candy,1,project pat,1,1,run a train,1999-09-14,1999,9,Sweets
+nut,6,juicy j,1,6,runnin' lip,0,0,0,Nut and Seed Products
+gin,1,k-rock,1,1,runnin' lip,0,0,0,
+juice,1,k-rock,1,1,runnin' lip,0,0,0,Baby Foods
+lemon,3,mc mack,1,3,runnin' lip,0,0,0,Beverages
+sauce,1,juicy j,1,1,sauce pic,2018-01-15,2018,1,"Soups, Sauces, and Gravies"
+alcohol,1,juicy j,1,1,sauce pic,2018-01-15,2018,1,Spices and Herbs
+fry,1,juicy j,1,1,sauce pic,2018-01-15,2018,1,
+noodle,1,juicy j,1,1,sauce pic,2018-01-15,2018,1,Cereal Grains and Pasta
+bread,1,juicy j,1,1,sauce pic,2018-01-15,2018,1,Baked Products
+cake,1,juicy j,1,1,sauce pic,2018-01-15,2018,1,Baked Products
+snail,1,lil gin,1,1,scopin' with that red dot,1994-01-01,1994,1,Finfish and Shellfish Products
+sugar,1,frayser boy,1,1,serious,0,0,0,Sweets
+banana,1,frayser boy,1,1,serious,0,0,0,Fruits and Fruit Juices
+cooking,1,azure the paradox,1,1,seventeen,2017-10-09,2017,10,Beverages
+jelly,18,three 6 mafia,1,18,shake dat jelly,2003-06-24,2003,6,Sweets
+popcorn,1,three 6 mafia,1,1,shake dat jelly,2003-06-24,2003,6,Snacks
+dough,1,three 6 mafia,1,1,shake dat jelly,2003-06-24,2003,6,
+drink,4,three 6 mafia,1,4,shake my,2009-09-08,2009,9,
+steak,1,three 6 mafia,1,1,shake my,2009-09-08,2009,9,Beef Products
+candy,1,three 6 mafia,1,1,shake my,2009-09-08,2009,9,Sweets
+iced,2,three 6 mafia,1,2,shake my,2009-09-08,2009,9,Beverages
+bacon,1,project pat,1,1,shake that ass,1999-09-14,1999,9,Pork Products
+water,1,eve,1,1,she bad bad (remix),2013-05-14,2013,5,Beverages
+cake,1,juicy j,1,1,she dancin,0,0,0,Baked Products
+ham,1,juicy j,1,1,she dancin,0,0,0,Pork Products
+lemonade,1,juicy j,1,1,she dancin,0,0,0,Beverages
+drink,2,juicy j,1,2,she dancin,0,0,0,
+rose,1,juicy j,1,1,she dancin,0,0,0,Beverages
+gum,1,juicy j,1,1,she solve all problems,0,0,0,Sweets
+fish,1,juicy j,1,1,she solve all problems,0,0,0,Finfish and Shellfish Products
+spinach,1,three 6 mafia,1,1,shoot up the club,2005-03-29,2005,3,Vegetables and Vegetable Products
+gin,1,project pat,1,1,show dem golds,0,0,0,
+cheese,1,project pat,1,1,show dem golds,0,0,0,Dairy and Egg Products
+meal,1,project pat,1,1,show dem golds,0,0,0,Baked Products
+dough,1,project pat,1,1,show out (bosa & andy visceral trap remix),0,0,0,
+dough,4,juicy j,1,4,show out (bosa & andy visceral trap remix),0,0,0,
+ice,1,juicy j,1,1,show out (bosa & andy visceral trap remix),0,0,0,
+goat,1,juicy j,1,1,show out (bosa & andy visceral trap remix),0,0,0,Dairy and Egg Products
+food,1,juicy j,1,1,show out (bosa & andy visceral trap remix),0,0,0,
+fast food,1,juicy j,1,1,show out (bosa & andy visceral trap remix),0,0,0,Fast Foods
+breakfast,1,juicy j,1,1,she knows,2014-09-09,2014,9,Baked Products
+ice,1,juicy j,1,1,she knows,2014-09-09,2014,9,
+cake,1,juicy j,1,1,she knows,2014-09-09,2014,9,Baked Products
+bread,1,juicy j,1,1,shut da fuc up,0,0,0,Baked Products
+pit,1,d'african,1,1,shut it down,0,0,0,
+champagne,1,d'african,1,1,shut it down,0,0,0,
+chicken,1,juicy j,1,1,side 2 side,2005-09-27,2005,9,Poultry Products
+chicken,1,juicy j,1,1,side 2 side (remix),2005-09-25,2005,9,Poultry Products
+sprite,1,inkmonstarr,1,1,sippin',0,0,0,Beverages
+sprite,1,juicy j,1,1,sippin',0,0,0,Beverages
+dough,1,inkmonstarr,1,1,sippin',0,0,0,
+syrup,1,juicy j,1,1,sippin',0,0,0,Sweets
+orange,1,juicy j,1,1,sippin',0,0,0,Fruits and Fruit Juices
+juice,1,juicy j,1,1,sippin',0,0,0,Baby Foods
+orange juice,1,juicy j,-1,-1,sippin',0,0,0,Fruits and Fruit Juices
+shrimp,1,pimp c,1,1,sippin' on some syrup,2000-02-06,2000,2,Finfish and Shellfish Products
+orange,1,pimp c,1,1,sippin' on some syrup,2000-02-06,2000,2,Fruits and Fruit Juices
+orange,1,dj paul,1,1,sippin' on some syrup,2000-02-06,2000,2,Fruits and Fruit Juices
+creamy,1,bun b,1,1,sippin' on some syrup,2000-02-06,2000,2,Legumes and Legume Products
+rum,1,bun b,1,1,sippin' on some syrup,2000-02-06,2000,2,Beverages
+syrup,1,dj paul,1,1,sippin' on some syrup,2000-02-06,2000,2,Sweets
+juice,1,dj paul,1,1,sippin' on some syrup,2000-02-06,2000,2,Baby Foods
+fruit,1,dj paul,1,1,sippin' on some syrup,2000-02-06,2000,2,Baby Foods
+orange juice,1,dj paul,-1,-1,sippin' on some syrup,2000-02-06,2000,2,Fruits and Fruit Juices
+candy,1,d.j. paul,1,1,sippin' on some syrup (purple punch remix),0,0,0,Sweets
+sauce,1,juelz santana,1,1,sippin' on some syrup (purple punch remix),0,0,0,"Soups, Sauces, and Gravies"
+alcohol,1,juelz santana,1,1,sippin' on some syrup (purple punch remix),0,0,0,Spices and Herbs
+bread,1,pouya,1,1,six speed,2019-05-30,2019,5,Baked Products
+catfish,2,juicy j,1,2,six speed,2019-05-30,2019,5,Finfish and Shellfish Products
+banana,1,project pat,1,1,ski mask,2001-02-27,2001,2,Fruits and Fruit Juices
+pie,1,project pat,1,1,ski mask,2001-02-27,2001,2,Baked Products
+dough,1,project pat,1,1,ski mask,2001-02-27,2001,2,
+banana,1,project pat,1,1,ski mask,0,0,0,Fruits and Fruit Juices
+pie,1,project pat,1,1,ski mask,0,0,0,Baked Products
+dough,1,project pat,1,1,ski mask,0,0,0,
+salt,1,juicy j,1,1,sigo fresh (remix),2020-05-15,2020,5,Spices and Herbs
+ice,2,fuego,1,2,sigo fresh (remix),2020-05-15,2020,5,
+ice,4,duki,1,4,sigo fresh (remix),2020-05-15,2020,5,
+pie,1,de la ghetto,1,1,sigo fresh (remix),2020-05-15,2020,5,Baked Products
+pie,1,duki,1,1,sigo fresh (remix),2020-05-15,2020,5,Baked Products
+ice,1,de la ghetto,1,1,skit 2 (hustle till i die),2009-06-16,2009,6,
+glaze,1,juicy j,1,1,sky high,2012-04-06,2012,4,Sweets
+dough,1,juicy j,1,1,sky high,2012-04-06,2012,4,
+cheese,1,project pat,1,1,slangin' rocks,1999-09-14,1999,9,Dairy and Egg Products
+herb,1,three 6 mafia,1,1,slang n serve,2001-10-30,2001,10,Beverages
+sour,1,three 6 mafia,1,1,slang n serve,2001-10-30,2001,10,Fruits and Fruit Juices
+grain,1,three 6 mafia,1,1,slang n serve,2001-10-30,2001,10,
+sauce,1,lord infamous,1,1,sleep,2000-10-31,2000,10,"Soups, Sauces, and Gravies"
+cheese,1,gangsta boo,1,1,sleep,2000-10-31,2000,10,Dairy and Egg Products
+rabbit,1,gangsta boo,1,1,sleep,2000-10-31,2000,10,"Lamb, Veal, and Game Products"
+drink,1,koopsta knicca,1,1,slippin',1995-11-21,1995,11,
+nut,2,young ksb,1,2,slob on my a**,2019-02-01,2019,2,Nut and Seed Products
+meat,2,juicy j,1,2,slob on my knob (pt. ii),1999-08-24,1999,8,Baby Foods
+drink,1,juicy j,1,1,slob on my knob (pt. ii),1999-08-24,1999,8,
+nut,2,juicy j,1,2,slob on my knob (pt. ii),1999-08-24,1999,8,Nut and Seed Products
+ham,1,juicy j,1,1,slob on my knob (pt. ii),1999-08-24,1999,8,Pork Products
+bacon,1,juicy j,1,1,smith & wesson,0,0,0,Pork Products
+sprinkle,1,juicy j,1,1,smoke a ni**a,0,0,0,
+nut,1,juicy j,1,1,smoke a ni**a,0,0,0,Nut and Seed Products
+drink,1,juicy j,1,1,smoke a ni**a,0,0,0,
+fruit,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Baby Foods
+vodka,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Beverages
+cranberry,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Legumes and Legume Products
+juice,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Baby Foods
+rose,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Beverages
+syrup,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Sweets
+syrup,1,lord infamous,1,1,smoke dat weed,2002-07-16,2002,7,Sweets
+egg,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Dairy and Egg Products
+tequila,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,
+food,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,
+herb,1,lord infamous,1,1,smoke dat weed,2002-07-16,2002,7,Beverages
+fruit punch,1,juicy j,1,1,smoke dat weed,2002-07-16,2002,7,Baby Foods
+cranberry juice,1,juicy j,-1,-1,smoke dat weed,2002-07-16,2002,7,Fruits and Fruit Juices
+water,1,juicy j,1,1,smoked out,1999-02-02,1999,2,Beverages
+drink,1,juicy j,1,1,smoked out,1999-02-02,1999,2,
+drink,1,twista,1,1,smoked out,1999-02-02,1999,2,
+sprinkle,1,lord infamous],1,1,smoked out,1999-02-02,1999,2,
+herb,2,twista,1,2,smoked out,1999-02-02,1999,2,Beverages
+gin,1,twista,1,1,smoked out,1999-02-02,1999,2,
+curry,1,denzel curry,1,1,smoked out locced out,2012-01-12,2012,1,
+lamb,1,denzel curry,1,1,smoked out locced out,2012-01-12,2012,1,"Lamb, Veal, and Game Products"
+cheese,1,gangsta blac,1,1,"smoked out, loced out",0,0,0,Dairy and Egg Products
+nut,1,gangsta blac,1,1,"smoked out, loced out",0,0,0,Nut and Seed Products
+juice,1,juicy j,1,1,"smoked out, loced out",0,0,0,Baby Foods
+nut,1,gangsta boo,1,1,"smoked out, loced out",1998-02-24,1998,2,Nut and Seed Products
+sour,1,juicy j x2,1,1,smoke that bitch,2011-05-02,2011,5,Fruits and Fruit Juices
+gin,1,juicy j,1,1,smoke that bitch,2011-05-02,2011,5,
+bean,1,vabp,1,1,smoke that bitch,2011-05-02,2011,5,Legumes and Legume Products
+brownie,1,juicy j,1,1,smokin' and sippin',2011-03-22,2011,3,Baked Products
+syrup,1,juicy j,1,1,smokin' and sippin',2011-03-22,2011,3,Sweets
+vodka,2,juicy j,1,2,smokin' and sippin',2011-03-22,2011,3,Beverages
+drink,1,juicy j,1,1,smokin' and sippin',2011-03-22,2011,3,
+drinking,1,koopsta knicca,1,1,smoking on a j,1999-10-26,1999,10,Beverages
+chicken,1,dj paul and la chat,1,1,smokin' on da dro,0,0,0,Poultry Products
+dough,1,three 6 mafia,1,1,smokin' on da dro,0,0,0,
+milk,1,lord infamous,1,1,smokin' on da dro,0,0,0,Dairy and Egg Products
+fruity,1,juicy j,1,1,smokin' on da dro,0,0,0,
+pita,1,t-rock,1,1,smokin' on da dro,0,0,0,Baked Products
+vanilla,1,t-rock,1,1,smokin' on da dro,0,0,0,Sweets
+flavor,1,t-rock,1,1,smokin' on da dro,0,0,0,
+food,1,t-rock,1,1,smokin' on da dro,0,0,0,
+sprite,1,juicy j,1,1,so damn fucked up,2011-05-02,2011,5,Beverages
+bean,2,juicy j,1,2,so damn fucked up,2011-05-02,2011,5,Legumes and Legume Products
+mushroom,1,juicy j,1,1,so damn fucked up,2011-05-02,2011,5,Vegetables and Vegetable Products
+cabbage,1,project pat,1,1,so hi,2001-02-13,2001,2,Vegetables and Vegetable Products
+orange,1,project pat,1,1,so hi,2001-02-13,2001,2,Fruits and Fruit Juices
+juice,1,project pat,1,1,so hi,2001-02-13,2001,2,Baby Foods
+orange juice,1,project pat,-1,-1,so hi,2001-02-13,2001,2,Fruits and Fruit Juices
+eggnog,1,crunchy black,1,1,some bodies gonna get it (mark henry),2006-05-23,2006,5,Dairy and Egg Products
+lamb,1,juicy j,1,1,so much money (rbb),0,0,0,"Lamb, Veal, and Game Products"
+berry,1,juicy j,1,1,so much money (rbb),0,0,0,
+nut,1,juicy j,1,1,so much money (rbb),0,0,0,Nut and Seed Products
+raisin,1,lil fly,1,1,south park nigga,0,0,0,Baked Products
+lemon,1,lil fly,1,1,south park nigga,0,0,0,Beverages
+nut,2,lil fly,1,2,south park nigga,0,0,0,Nut and Seed Products
+drink,1,lil fly,1,1,south park nigga,0,0,0,
+juice,1,key glock,1,1,spazzing out,2019-06-03,2019,6,Baby Foods
+chicken,1,lord infamous,1,1,spill my blood,1997-11-04,1997,11,Poultry Products
+poultry,1,lord infamous,1,1,spill my blood,1997-11-04,1997,11,Poultry Products
+sprinkle,1,lord infamous,1,1,spill my blood,1997-11-04,1997,11,
+juice,1,juicy j,1,1,spill my blood,1997-11-04,1997,11,Baby Foods
+juice,1,juicy j,1,1,stay fly,2005-09-27,2005,9,Baby Foods
+ice,2,juicy j,1,2,stay fly,2005-09-27,2005,9,
+grain,1,juicy j,1,1,stay fly,2005-09-27,2005,9,
+drinking,1,juicy j,1,1,stay fly,2005-09-27,2005,9,Beverages
+rose,1,8ball,1,1,stay fly,2005-09-27,2005,9,Beverages
+fruit,1,8ball,1,1,stay fly,2005-09-27,2005,9,Baby Foods
+bread,1,8ball,1,1,stay fly,2005-09-27,2005,9,Baked Products
+sprinkle,1,mjg,1,1,stay fly,2005-09-27,2005,9,
+drink,1,mjg,1,1,stay fly,2005-09-27,2005,9,
+meat,1,three 6 mafia,1,1,stay fly (still fly remix),2005-09-27,2005,9,Baby Foods
+grain,1,three 6 mafia,1,1,stay fly (still fly remix),2005-09-27,2005,9,
+candy,1,three 6 mafia,1,1,stay fly (still fly remix),2005-09-27,2005,9,Sweets
+molasses,1,three 6 mafia,1,1,stay fly (still fly remix),2005-09-27,2005,9,Baked Products
+sap,1,juicy j,1,1,stay trippy [credits],0,0,0,
+vodka,1,,1,1,still,0,0,0,Beverages
+coffee,1,,1,1,still,0,0,0,Beverages
+wonton,3,,1,3,still,0,0,0,"Soups, Sauces, and Gravies"
+soup,3,,1,3,still,0,0,0,"Soups, Sauces, and Gravies"
+wonton soup,3,,-1,-3,still,0,0,0,
+drink,2,don trip,1,2,still in the trap,2014-01-24,2014,1,
+vodka,1,don trip,1,1,still in the trap,2014-01-24,2014,1,Beverages
+water,1,don trip,1,1,still in the trap,2014-01-24,2014,1,Beverages
+cheese,28,project pat,1,28,still ridin' clean,2002-08-06,2002,8,Dairy and Egg Products
+nut,1,project pat,1,1,still ridin' clean,2002-08-06,2002,8,Nut and Seed Products
+juice,1,juicy j,1,1,still ridin' clean,2002-08-06,2002,8,Baby Foods
+lemon,1,juicy j,1,1,still ridin' clean,2002-08-06,2002,8,Beverages
+lotus,1,koopsta knicca,1,1,stomp,1996-12-03,1996,12,
+juice,1,dj paul & juicy j,1,1,stomp,0,0,0,Baby Foods
+nut,1,juicy j,1,1,stoner's night,2011-05-02,2011,5,Nut and Seed Products
+fried,1,juicy j,1,1,stoners night 3,0,0,0,Poultry Products
+breakfast,1,juicy j,1,1,stop it,2013-08-23,2013,8,Baked Products
+egg,1,juicy j,1,1,stop it,2013-08-23,2013,8,Dairy and Egg Products
+bread,1,juicy j,1,1,stop it,2013-08-23,2013,8,Baked Products
+water,1,freddie gibbs,1,1,str8 slammin',2011-10-31,2011,10,Beverages
+bread,1,juicy j,1,1,str8 slammin',2011-10-31,2011,10,Baked Products
+vegetarian,3,juicy j,1,3,street shit,2011-05-02,2011,5,Legumes and Legume Products
+beef,3,juicy j,1,3,street shit,2011-05-02,2011,5,Beef Products
+beef,1,smokepurpp,1,1,streets love me,2017-07-29,2017,7,Beef Products
+drink,1,smokepurpp,1,1,streets love me,2017-07-29,2017,7,
+cake,1,juicy j,1,1,streets love me,2017-07-29,2017,7,Baked Products
+pancake,1,juicy j,1,1,streets love me,2017-07-29,2017,7,Baked Products
+syrup,1,juicy j,1,1,streets love me,2017-07-29,2017,7,Sweets
+orange,1,juicy j,1,1,stunna's do,0,0,0,Fruits and Fruit Juices
+juice,1,juicy j,1,1,stunna's do,0,0,0,Baby Foods
+nut,1,juicy j,1,1,stunna's do,0,0,0,Nut and Seed Products
+orange juice,1,juicy j,-1,-1,stunna's do,0,0,0,Fruits and Fruit Juices
+vodka,1,juicy j,1,1,stupid high,2010-03-05,2010,3,Beverages
+tea,1,juicy j,1,1,stupid high,2010-03-05,2010,3,Beverages
+herb,1,juicy j,1,1,stupid high,2010-03-05,2010,3,Beverages
+bean,4,billy wes,1,4,styrofoam cup,0,0,0,Legumes and Legume Products
+bean,4,juicy j,1,4,styrofoam cup,0,0,0,Legumes and Legume Products
+food,1,juicy j,1,1,styrofoam cup,0,0,0,
+drinking,1,juicy j,1,1,styrofoam cup,0,0,0,Beverages
+vodka,1,juicy j,1,1,styrofoam cup,0,0,0,Beverages
+cream,1,gangsta boo,1,1,suck a little dick,0,0,0,Dairy and Egg Products
+nut,1,gangsta boo,1,1,suck a little dick,0,0,0,Nut and Seed Products
+juice,1,gangsta boo,1,1,suck a little dick,0,0,0,Baby Foods
+cheese,1,juicy j,1,1,suck a little dick,0,0,0,Dairy and Egg Products
+whipped cream,1,gangsta boo,1,1,suck a little dick,0,0,0,
+nut,1,juicy j,1,1,sucks on dick,1999-09-14,1999,9,Nut and Seed Products
+herb,1,project pat,1,1,sucks on dick,1999-09-14,1999,9,Beverages
+sugar,1,project pat,1,1,sucks on dick,1999-09-14,1999,9,Sweets
+nut,1,juicy j,1,1,super fire,2016-09-19,2016,9,Nut and Seed Products
+juice,2,juicy j,1,2,super fire,2016-09-19,2016,9,Baby Foods
+candy,1,juicy j,1,1,super fire,2016-09-19,2016,9,Sweets
+cake,1,juicy j,1,1,super fire,2016-09-19,2016,9,Baked Products
+grilled,1,dj paul,1,1,"sweet robbery, pt. 2",1995-05-25,1995,5,Beef Products
+rum,1,juicy j,1,1,"sweet robbery, pt. 2",1995-05-25,1995,5,Beverages
+juice,1,juicy j,1,1,"sweet robbery, pt. 2",1995-05-25,1995,5,Baby Foods
+syrup,4,lil flip] x5,1,4,syrup,2016-03-01,2016,3,Sweets
+syrup,4,lil flip] x2,1,4,syrup,2016-03-01,2016,3,Sweets
+mustard,1,chief keef,1,1,syrup,2016-03-01,2016,3,Spices and Herbs
+pineapple,1,chief keef,1,1,syrup,2016-03-01,2016,3,Fruits and Fruit Juices
+jolly rancher,1,lil flip] x5,2,2,syrup,2016-03-01,2016,3,
+jolly rancher,1,lil flip] x2,2,2,syrup,2016-03-01,2016,3,
+fruity,2,three 6 mafia,1,2,take a bump,2000-06-13,2000,6,
+fruit,2,three 6 mafia,1,2,take a bump,2000-06-13,2000,6,Baby Foods
+gin,1,three 6 mafia,1,1,take a bump,2000-06-13,2000,6,
+juice,1,three 6 mafia,1,1,take a bump,2000-06-13,2000,6,Baby Foods
+sprite,1,three 6 mafia,1,1,take a bump,2000-06-13,2000,6,Beverages
+cheese,2,juicy j,1,2,take sum,0,0,0,Dairy and Egg Products
+ice,1,young buck,1,1,taking hits,0,0,0,
+meat,3,hook,1,3,talkin' shit,2009-11-26,2009,11,Baby Foods
+bread,1,verse 2,1,1,talkin' shit,2009-11-26,2009,11,Baked Products
+white meat,3,hook,1,3,talkin' shit,2009-11-26,2009,11,"Meals, Entrees, and Side Dishes"
+mcdonalds,1,kingpin skinny pimp,1,1,talk yo ass off,0,0,0,Fast Foods
+burger,1,kingpin skinny pimp,1,1,talk yo ass off,0,0,0,
+lemon,1,kingpin skinny pimp,1,1,talk yo ass off,0,0,0,Beverages
+chicken,1,kingpin skinny pimp,1,1,talk yo ass off,0,0,0,Poultry Products
+banana,1,kingpin skinny pimp,1,1,talk yo ass off,0,0,0,Fruits and Fruit Juices
+nut,1,lul trapy,1,1,tati slut it up,2019-04-28,2019,4,Nut and Seed Products
+sprite,1,lul trapy,1,1,tati slut it up,2019-04-28,2019,4,Beverages
+mayonnaise,1,yamine,1,1,team red,0,0,0,Fats and Oils
+bread,1,yamine,1,1,team red,0,0,0,Baked Products
+juice,1,dj paul,1,1,tear da club up,1995-05-25,1995,5,Baby Foods
+eel,1,lord infamous,1,1,tear da club up '97,1997-11-04,1997,11,Finfish and Shellfish Products
+juice,1,dj paul,1,1,tear da club up (ysp remix),0,0,0,Baby Foods
+cheese,1,juicy j,1,1,tear da club up (ysp remix),0,0,0,Dairy and Egg Products
+pit,13,smo,1,13,tear da mud up,2018-06-11,2018,6,
+raisin,1,smo,1,1,tear da mud up,2018-06-11,2018,6,Baked Products
+whiskey,1,smo,1,1,tear da mud up,2018-06-11,2018,6,Beverages
+candy,8,big k.r.i.t.,1,8,temptation (remix),2012-05-23,2012,5,Sweets
+grain,1,big k.r.i.t.,1,1,temptation (remix),2012-05-23,2012,5,
+rice,1,big k.r.i.t.,1,1,temptation (remix),2012-05-23,2012,5,Cereal Grains and Pasta
+rabbit,1,dj paul,1,1,testin' my gangsta,2003-06-24,2003,6,"Lamb, Veal, and Game Products"
+cheese,1,dj paul,1,1,testin' my gangsta,2003-06-24,2003,6,Dairy and Egg Products
+water,1,lord infamous,1,1,testin' my gangsta,2003-06-24,2003,6,Beverages
+rum,1,juicy j,1,1,tha backyard,0,0,0,Beverages
+mm,1,juicy j,1,1,tha backyard,0,0,0,
+egg,1,juicy j,1,1,tha backyard,0,0,0,Dairy and Egg Products
+chicken,1,juicy j,1,1,tha backyard,0,0,0,Poultry Products
+similac,1,juicy j,1,1,tha backyard,0,0,0,Baby Foods
+food,6,juicy j,1,6,that ain't you,2017-09-18,2017,9,
+dough,2,juicy j,1,2,that ain't you,2017-09-18,2017,9,
+candy,1,lud foe,1,1,that be me,2018-09-07,2018,9,Sweets
+candy coated,1,lud foe,1,1,that be me,2018-09-07,2018,9,
+water,1,n.o.r.e.,1,1,that club shit,0,0,0,Beverages
+pepper,1,n.o.r.e.,1,1,that club shit,0,0,0,Vegetables and Vegetable Products
+beef,2,juvenile,1,2,that'll work,2009-07-07,2009,7,Beef Products
+fettucine,1,juvenile,1,1,that'll work,2009-07-07,2009,7,
+banana,1,juvenile,1,1,that'll work,2009-07-07,2009,7,Fruits and Fruit Juices
+nut,1,juicy j,1,1,thats the business,2014-03-04,2014,3,Nut and Seed Products
+vodka,1,juicy j,1,1,thats the business,2014-03-04,2014,3,Beverages
+peanut,1,juicy j,1,1,thats what a pimp does,0,0,0,Legumes and Legume Products
+butter,1,juicy j,1,1,thats what a pimp does,0,0,0,Dairy and Egg Products
+creamy,1,juicy j,1,1,thats what a pimp does,0,0,0,Legumes and Legume Products
+drink,1,juicy j,1,1,thats what a pimp does,0,0,0,
+beer,1,juicy j,1,1,thats what a pimp does,0,0,0,Beverages
+lemonade,1,juicy j,1,1,thats what a pimp does,0,0,0,Beverages
+lemon,1,juicy j,1,1,thats what a pimp does,0,0,0,Beverages
+souffle,1,juicy j,1,1,thats what a pimp does,0,0,0,
+peanut butter,1,juicy j,-1,-1,thats what a pimp does,0,0,0,Legumes and Legume Products
+pan,1,juicy j,1,1,thc believe,0,0,0,
+pie,1,juicy j,1,1,thc believe,0,0,0,Baked Products
+pizza,1,juicy j,1,1,thc believe,0,0,0,Fast Foods
+ice,1,juicy j,1,1,thc believe,0,0,0,
+bread,1,juicy j,1,1,thc believe,0,0,0,Baked Products
+beef,1,juicy j,1,1,thc believe,0,0,0,Beef Products
+mimosa,1,juicy j,1,1,the 420 freestyle,2015-04-21,2015,4,
+bread,1,juicy j,1,1,the 420 freestyle,2015-04-21,2015,4,Baked Products
+champagne,1,juicy j,1,1,the 420 freestyle,2015-04-21,2015,4,
+bread,1,juicy j,1,1,them drugs,2018-01-15,2018,1,Baked Products
+bean,1,juicy j,1,1,them drugs,2018-01-15,2018,1,Legumes and Legume Products
+corn,1,three 6 mafia,1,1,the most known unknown hits,2005-09-27,2005,9,Cereal Grains and Pasta
+curry,2,denzel curry,1,2,the phonk freestyle!!!!!,2011-09-24,2011,9,
+pillsbury,1,denzel curry,1,1,the phonk freestyle!!!!!,2011-09-24,2011,9,Baked Products
+dough,1,denzel curry,1,1,the phonk freestyle!!!!!,2011-09-24,2011,9,
+sprite,1,yamine,1,1,the plan,0,0,0,Beverages
+glaze,1,yamine,1,1,the plan,0,0,0,Sweets
+cooking,1,yamine,1,1,the plan,0,0,0,Beverages
+rabbit,1,juicy j,1,1,the woods,2013-08-23,2013,8,"Lamb, Veal, and Game Products"
+champagne,1,juicy j,1,1,the woods,2013-08-23,2013,8,
+ice,1,juicy j,1,1,the woods,2013-08-23,2013,8,
+fizz,1,three 6 mafia,1,1,they bout to find yo body,2003-06-24,2003,6,
+nut,1,three 6 mafia,1,1,they don't fuck wit u,2001-10-30,2001,10,Nut and Seed Products
+cheese,1,three 6 mafia,1,1,they don't fuck wit u,2001-10-30,2001,10,Dairy and Egg Products
+orange,1,project pat,1,1,this ain't no game,2000-07-25,2000,7,Fruits and Fruit Juices
+juice,1,s.o.g.,1,1,this ain't no game,2000-07-25,2000,7,Baby Foods
+honeycomb,1,s.o.g.,1,1,this ain't no game,2000-07-25,2000,7,
+bean,1,juicy j,1,1,this bitch by my side,0,0,0,Legumes and Legume Products
+ice,1,juicy j,1,1,this bitch by my side,0,0,0,
+wine,1,gangsta boo,1,1,this is personal,1998-09-29,1998,9,Beverages
+beef,2,gangsta boo,1,2,this is personal,1998-09-29,1998,9,Beef Products
+patty,1,gangsta boo,1,1,this is personal,1998-09-29,1998,9,Poultry Products
+honey,1,gangsta boo,1,1,this is personal,1998-09-29,1998,9,Sweets
+nut,1,juicy j,1,1,three 60,0,0,0,Nut and Seed Products
+bread,1,juicy j,1,1,throw dem racks,2015-02-16,2015,2,Baked Products
+candy,1,juicy j,1,1,throw dem racks,2015-02-16,2015,2,Sweets
+apple,1,juicy j,1,1,throw dem racks,2015-02-16,2015,2,Fruits and Fruit Juices
+candy apple,1,juicy j,-1,-1,throw dem racks,2015-02-16,2015,2,
+cheddar,1,indo g,1,1,throw them thangs,1998-08-11,1998,8,Dairy and Egg Products
+bread,1,indo g,1,1,throw them thangs,1998-08-11,1998,8,Baked Products
+lamb,1,lord infamous,1,1,throw them thangs,1998-08-11,1998,8,"Lamb, Veal, and Game Products"
+ice,1,kilo,1,1,throw your sets,1999-02-02,1999,2,
+wine,1,bones,1,1,timberlake,2020-02-24,2020,2,Beverages
+ice,1,bones,1,1,timberlake,2020-02-24,2020,2,
+ice,1,juicy j,1,1,timberlake,2020-02-24,2020,2,
+fried,1,juicy j,1,1,timberlake,2020-02-24,2020,2,Poultry Products
+juice,5,three 6 mafia,1,5,time for da juice mane (stomp),1999-03-02,1999,3,Baby Foods
+potato,1,action bronson,1,1,tim westwood freestyle,0,0,0,Vegetables and Vegetable Products
+fry,1,action bronson,1,1,tim westwood freestyle,0,0,0,
+dough,1,action bronson,1,1,tim westwood freestyle,0,0,0,
+lobster,1,action bronson,1,1,tim westwood freestyle,0,0,0,Finfish and Shellfish Products
+ostrich,1,action bronson,1,1,tim westwood freestyle,0,0,0,Poultry Products
+sour,1,action bronson,1,1,tim westwood freestyle,0,0,0,Fruits and Fruit Juices
+spicy,1,action bronson,1,1,tim westwood freestyle,0,0,0,
+umami,1,action bronson,1,1,tim westwood freestyle,0,0,0,
+oyster,1,action bronson,1,1,tim westwood freestyle,0,0,0,Finfish and Shellfish Products
+home fry,1,action bronson,1,1,tim westwood freestyle,0,0,0,
+cheese,1,,1,1,total,0,0,0,Dairy and Egg Products
+bread,1,,1,1,total,0,0,0,Baked Products
+rib,1,,1,1,total,0,0,0,Beef Products
+flavor,1,juicy j,1,1,touch da sky first,0,0,0,
+drink,1,juicy j,1,1,touch da sky first,0,0,0,
+bean,1,juicy j,1,1,touch da sky first,0,0,0,Legumes and Legume Products
+cheese,1,juicy j,1,1,touch da sky first,0,0,0,Dairy and Egg Products
+bread,1,three 6 mafia,1,1,touched wit it,2000-06-13,2000,6,Baked Products
+fish,1,three 6 mafia,1,1,touched wit it,2000-06-13,2000,6,Finfish and Shellfish Products
+syrup,1,project pat,1,1,trap boom,2008-06-24,2008,6,Sweets
+relish,1,juicy j,1,1,trap boom,2008-06-24,2008,6,
+juice,1,juicy j,1,1,trash,0,0,0,Baby Foods
+juice,1,three 6 mafia,1,1,triple 6 mafia,1995-11-21,1995,11,Baby Foods
+meat,1,tha joker (us),1,1,triple double,2011-06-17,2011,6,Baby Foods
+water,1,tha joker (us),1,1,triple double,2011-06-17,2011,6,Beverages
+boost,1,tear da club up thugs,1,1,triple six club house,1999-02-02,1999,2,
+wine,1,tear da club up thugs,1,1,triple six club house,1999-02-02,1999,2,Beverages
+soda,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Baked Products
+pit,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,
+sour,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Fruits and Fruit Juices
+lemon,2,project pat,1,2,trying to get a dollar,2015-03-24,2015,3,Beverages
+cheese,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Dairy and Egg Products
+pancake,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Baked Products
+syrup,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Sweets
+bread,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Baked Products
+baking soda,1,project pat,1,1,trying to get a dollar,2015-03-24,2015,3,Baked Products
+nut,1,juicy j,1,1,tryna fuck,0,0,0,Nut and Seed Products
+gum,1,juicy j,1,1,tryna fuck,0,0,0,Sweets
+ice,1,stuey rock,1,1,tryna fuck,0,0,0,
+bubble gum,1,juicy j,1,1,tryna fuck,0,0,0,
+bread,1,juicy j,1,1,try somethin',2003-06-24,2003,6,Baked Products
+nut,1,lord infamous,1,1,try somethin',2003-06-24,2003,6,Nut and Seed Products
+ramen,1,project pat,1,1,tunnel vision,2015-03-24,2015,3,
+noodle,1,project pat,1,1,tunnel vision,2015-03-24,2015,3,Cereal Grains and Pasta
+tbone,1,project pat,1,1,tunnel vision,2015-03-24,2015,3,
+steak,1,project pat,1,1,tunnel vision,2015-03-24,2015,3,Beef Products
+bread,2,project pat,1,2,tunnel vision,2015-03-24,2015,3,Baked Products
+cake,1,project pat,1,1,tunnel vision,2015-03-24,2015,3,Baked Products
+ramen noodle,1,project pat,-1,-1,tunnel vision,2015-03-24,2015,3,"Soups, Sauces, and Gravies"
+tbone steak,1,project pat,-1,-1,tunnel vision,2015-03-24,2015,3,Beef Products
+cheese,1,juicy j,1,1,twerk,0,0,0,Dairy and Egg Products
+pringles,1,juicy j,1,1,twerk,0,0,0,
+bread,1,project pat,1,1,twerk bitch,2015-12-17,2015,12,Baked Products
+drink,1,juicy j,1,1,twerk bitch,2015-12-17,2015,12,
+cheese,1,lloyd,1,1,twerk off,0,0,0,Dairy and Egg Products
+pringles,1,lloyd,1,1,twerk off,0,0,0,
+nut,1,chevy woods,1,1,two hundred,0,0,0,Nut and Seed Products
+food,1,chevy woods,1,1,two hundred,0,0,0,
+gin,2,tuki carter,1,2,two hundred,0,0,0,
+cream,1,juicy j,1,1,ugh ugh ugh,2009-05-11,2009,5,Dairy and Egg Products
+drink,2,juicy j,1,2,ugh ugh ugh,2009-05-11,2009,5,
+cream,1,juicy j,1,1,ugh ugh ugh (feat. weebie & project pat) - street,0,0,0,Dairy and Egg Products
+drink,2,juicy j,1,2,ugh ugh ugh (feat. weebie & project pat) - street,0,0,0,
+fish,1,juicy j,1,1,u got da game wrong,2001-10-30,2001,10,Finfish and Shellfish Products
+roasting,1,dj paul,1,1,u got da game wrong,2001-10-30,2001,10,Poultry Products
+bean,1,denzel curry,1,1,ultimate (remix),2017-09-21,2017,9,Legumes and Legume Products
+curry,2,denzel curry,1,2,ultimate (remix),2017-09-21,2017,9,
+juice,1,juicy j,1,1,ultimate (remix),2017-09-21,2017,9,Baby Foods
+dough,1,juicy j,1,1,ultimate (remix),2017-09-21,2017,9,
+bread,1,juicy j,1,1,ultimate (remix),2017-09-21,2017,9,Baked Products
+sauce,1,juicy j,1,1,ultimate (remix),2017-09-21,2017,9,"Soups, Sauces, and Gravies"
+pit,1,juicy j,1,1,undercover freaks,1999-02-02,1999,2,
+caramel,1,j randall,1,1,up against the wall remix,2012-07-16,2012,7,Sweets
+fry,1,krayzie bone,1,1,up there,1999-09-14,1999,9,
+dough,1,mac e,1,1,up there,1999-09-14,1999,9,
+sprinkle,1,lil wyte,1,1,u.s. soldier boy,0,0,0,
+nut,1,gangsta blac,1,1,victim of this shit,1994-11-25,1994,11,Nut and Seed Products
+nut,1,lil' fly,1,1,victim of this shit,1994-11-25,1994,11,Nut and Seed Products
+cheese,1,dj paul,1,1,walk up to yo house (original),1994-11-25,1994,11,Dairy and Egg Products
+cheese,1,dj paul,1,1,walk up to your house,1999-03-02,1999,3,Dairy and Egg Products
+cheese,1,gangsta boo,1,1,wanna go to war,1998-09-29,1998,9,Dairy and Egg Products
+juice,1,juicy j,1,1,war with us,2001-10-30,2001,10,Baby Foods
+orange,1,three 6 mafia,1,1,war wit us,2001-10-30,2001,10,Fruits and Fruit Juices
+beer,1,three 6 mafia,1,1,war wit us,2001-10-30,2001,10,Beverages
+drinking,1,three 6 mafia,1,1,war wit us,2001-10-30,2001,10,Beverages
+orange blossom,1,three 6 mafia,1,1,war wit us,2001-10-30,2001,10,
+beer,1,dj paul,1,1,watcha do,1997-11-04,1997,11,Beverages
+spice,1,lord infamous,1,1,watcha do,1997-11-04,1997,11,Spices and Herbs
+ice,1,lord infamous,1,1,watcha do,1997-11-04,1997,11,
+cream,1,lord infamous,1,1,watcha do,1997-11-04,1997,11,Dairy and Egg Products
+nut,1,gangsta boo,1,1,watcha do,1997-11-04,1997,11,Nut and Seed Products
+nut,1,koopsta knicca,1,1,watcha do,1997-11-04,1997,11,Nut and Seed Products
+corn,1,juicy j,1,1,watcha do,1997-11-04,1997,11,Cereal Grains and Pasta
+ice cream,1,lord infamous,-1,-1,watcha do,1997-11-04,1997,11,Sweets
+water,4,frayser boy,1,4,water,2005-07-12,2005,7,Beverages
+water,3,x2,1,3,water,2005-07-12,2005,7,Beverages
+pit,1,,1,1,water,2005-07-12,2005,7,
+water,1,gangsta boo,1,1,we ain't playin',0,0,0,Beverages
+gin,1,project pat,1,1,we ain't scared ho,2001-02-27,2001,2,
+beer,1,juicy j,1,1,weak ass bitch,2000-06-13,2000,6,Beverages
+marinate,1,hypnotize camp posse,1,1,we 'bout to ride,0,0,0,
+cheese,2,project pat,1,2,we can get gangsta,2001-02-27,2001,2,Dairy and Egg Products
+raisin,1,project pat,1,1,we can get gangsta,2001-02-27,2001,2,Baked Products
+drink,1,juicy j,1,1,we can't smoke no mo,2018-01-15,2018,1,
+chicken,1,project pat,1,1,we don't play about rubberbands,2017-01-01,2017,1,Poultry Products
+pie,2,project pat,1,2,we don't play about rubberbands,2017-01-01,2017,1,Baked Products
+banana,1,project pat,1,1,we don't play about rubberbands,2017-01-01,2017,1,Fruits and Fruit Juices
+chicken pie,1,project pat,-1,-1,we don't play about rubberbands,2017-01-01,2017,1,
+pie,1,juicy j,1,1,weed is got me high,1997-11-04,1997,11,Baked Products
+beer,1,juicy j,1,1,weed is got me high,1997-11-04,1997,11,Beverages
+twinkie,1,juicy j,1,1,we got da dope,0,0,0,
+drinking,1,juicy j,1,1,we got da dope,0,0,0,Beverages
+bread,1,juicy j,1,1,we got da dope,0,0,0,Baked Products
+cheese,2,juicy j,1,2,we got da dope,0,0,0,Dairy and Egg Products
+juice,1,gangsta boo,1,1,we shootin' 1st,2001-10-30,2001,10,Baby Foods
+water,2,juicy j,1,2,wet,0,0,0,Beverages
+juice,2,tear da club up thugs,1,2,wet party,1999-02-02,1999,2,Baby Foods
+pepperoni,1,tear da club up thugs,1,1,wet party,1999-02-02,1999,2,Sausages and Luncheon Meats
+milk,1,tear da club up thugs,1,1,wet party,1999-02-02,1999,2,Dairy and Egg Products
+nut,2,tear da club up thugs,1,2,wet party,1999-02-02,1999,2,Nut and Seed Products
+spice,1,tear da club up thugs,1,1,wet party,1999-02-02,1999,2,Spices and Herbs
+juice,2,spice 1,1,2,wet party,1999-02-02,1999,2,Baby Foods
+pepperoni,1,spice 1,1,1,wet party,1999-02-02,1999,2,Sausages and Luncheon Meats
+milk,1,spice 1,1,1,wet party,1999-02-02,1999,2,Dairy and Egg Products
+nut,2,spice 1,1,2,wet party,1999-02-02,1999,2,Nut and Seed Products
+spice,1,spice 1,1,1,wet party,1999-02-02,1999,2,Spices and Herbs
+drink,1,heny az,1,1,whad up,2011-04-19,2011,4,
+cake,1,juicy j,1,1,whatcha gone do,2016-09-19,2016,9,Baked Products
+dough,2,koopsta knicca,1,2,whatcha gonna do,1999-10-26,1999,10,
+chicken,1,big gipp,1,1,whatcha know,2000-06-13,2000,6,Poultry Products
+chicken,1,juicy j,1,1,whatcha know,2000-06-13,2000,6,Poultry Products
+gizzard,1,big gipp,1,1,whatcha know,2000-06-13,2000,6,Poultry Products
+gizzard,1,juicy j,1,1,whatcha know,2000-06-13,2000,6,Poultry Products
+roast,1,juicy j,1,1,whatcha know,2000-06-13,2000,6,Beef Products
+nut,1,juicy j,1,1,whatcha know,2000-06-13,2000,6,Nut and Seed Products
+drink,1,kevin rudolf,1,1,whatchu waitin' for?,2010-06-11,2010,6,
+bacardi,1,kevin rudolf,1,1,whatchu waitin' for?,2010-06-11,2010,6,
+sauce,1,juicy j,1,1,what did i do,2017-09-18,2017,9,"Soups, Sauces, and Gravies"
+goat,1,juicy j,1,1,what did i do,2017-09-18,2017,9,Dairy and Egg Products
+rum,4,juicy j,1,4,what the fuck y’all on,2011-05-02,2011,5,Beverages
+dough,1,dj paul,1,1,what you lookin' for,1999-02-02,1999,2,
+oil,1,project pat,1,1,what you lookin' for,1999-02-02,1999,2,Fats and Oils
+water,1,project pat,1,1,what you lookin' for,1999-02-02,1999,2,Beverages
+collard,1,project pat,1,1,what you lookin' for,1999-02-02,1999,2,Vegetables and Vegetable Products
+collard green,1,project pat,1,1,what you lookin' for,1999-02-02,1999,2,
+fruit,1,lord infamous,1,1,when god calls time out,1999-02-02,1999,2,Baby Foods
+lime,1,mr. bigg x2,1,1,when i pull up at the club,2005-09-27,2005,9,Sweets
+candy,1,paul wall,1,1,when i pull up at the club,2005-09-27,2005,9,Sweets
+grain,1,paul wall,1,1,when i pull up at the club,2005-09-27,2005,9,
+bread,2,paul wall,1,2,when i pull up at the club,2005-09-27,2005,9,Baked Products
+naan,2,paul wall,1,2,when i pull up at the club,2005-09-27,2005,9,Baked Products
+cheese,1,crunchy black,1,1,when i pull up at the club,2005-09-27,2005,9,Dairy and Egg Products
+beer,1,lord infamous,1,1,where da bud at (crazy off da budsack),1999-03-02,1999,3,Beverages
+cheese,9,crunchy black,1,9,where da cheese at,2000-06-13,2000,6,Dairy and Egg Products
+meal,1,crunchy black,1,1,where da cheese at,2000-06-13,2000,6,Baked Products
+rose,1,gangsta boo,1,1,where dem dollas at,1998-07-14,1998,7,Beverages
+cheese,1,gangsta boo,1,1,where dem dollas at,1998-07-14,1998,7,Dairy and Egg Products
+cheese,1,dj paul,1,1,where dem dollas at,1998-07-14,1998,7,Dairy and Egg Products
+cheese,1,juicy j,1,1,where dem dollas at,1998-07-14,1998,7,Dairy and Egg Products
+cheddar,1,gangsta boo,1,1,where dem dollas at,1998-07-14,1998,7,Dairy and Egg Products
+melon,1,dj paul,1,1,where dem dollas at,1998-07-14,1998,7,Fruits and Fruit Juices
+juice,2,juicy j,1,2,where dem dollas at,1998-07-14,1998,7,Baby Foods
+wine,1,juicy j,1,1,where dem dollas at,1998-07-14,1998,7,Beverages
+bourbon,1,dj paul,1,1,where i dwell,0,0,0,
+bourbon,1,juicy j,1,1,where i dwell,0,0,0,
+cheese,1,juicy j,1,1,where i dwell,0,0,0,Dairy and Egg Products
+calico,1,gangsta boo,1,1,where it'z goin' down,2000-10-31,2000,10,
+chicken,4,three 6 mafia,1,4,where's da bud,1996-12-03,1996,12,Poultry Products
+chicken,3,lord infamous,1,3,where's da bud,1996-12-03,1996,12,Poultry Products
+cabbage,1,lord infamous,1,1,where's da bud,1996-12-03,1996,12,Vegetables and Vegetable Products
+juice,1,lord infamous,1,1,where's da bud,1996-12-03,1996,12,Baby Foods
+chicken foot,1,lord infamous,1,1,where's da bud,1996-12-03,1996,12,
+beer,1,lord infamous,1,1,where's da bud,0,0,0,Beverages
+food,1,juicy j,1,1,where the justice at,2016-07-11,2016,7,
+bread,1,juicy j,1,1,white girl,2011-05-02,2011,5,Baked Products
+lamb,1,juicy j,1,1,white girl,2011-05-02,2011,5,"Lamb, Veal, and Game Products"
+beef,1,lachat,1,1,who da buckest,2002-07-16,2002,7,Beef Products
+nut,1,frayser boy,1,1,who da buckest,2002-07-16,2002,7,Nut and Seed Products
+nut,1,three 6 mafia,1,1,who da fuck you playin' wit?,2005-03-29,2005,3,Nut and Seed Products
+pineapple,1,three 6 mafia,1,1,who da fuck you playin' wit?,2005-03-29,2005,3,Fruits and Fruit Juices
+cognac,1,three 6 mafia,1,1,who da fuck you playin' wit?,2005-03-29,2005,3,
+cheese,1,three 6 mafia,1,1,who da fuck you playin' wit?,2005-03-29,2005,3,Dairy and Egg Products
+beef,1,dj paul,1,1,who gives a fuck where you from,2004-03-30,2004,3,Beef Products
+beef,1,frayser boy,1,1,who gives a fuck where you from,2004-03-30,2004,3,Beef Products
+burger,1,dj paul,1,1,who gives a fuck where you from,2004-03-30,2004,3,
+cheese,1,juicy j,1,1,who gives a fuck where you from,2004-03-30,2004,3,Dairy and Egg Products
+burger king,1,dj paul,1,1,who gives a fuck where you from,2004-03-30,2004,3,Fast Foods
+syrup,2,juicy j,1,2,who i is,2005-03-29,2005,3,Sweets
+cracker,1,lil' wyte,1,1,who i is,2005-03-29,2005,3,Baked Products
+pumpkin,1,project pat,1,1,whole lotta weed,2001-02-27,2001,2,Vegetables and Vegetable Products
+banana,1,project pat,1,1,whole lotta weed,2001-02-27,2001,2,Fruits and Fruit Juices
+cheese,2,project pat,1,2,whole lotta weed,2001-02-27,2001,2,Dairy and Egg Products
+cheddar,1,project pat,1,1,whole lotta weed,2001-02-27,2001,2,Dairy and Egg Products
+cheddar cheese,1,project pat,-1,-1,whole lotta weed,2001-02-27,2001,2,Dairy and Egg Products
+cheese,1,dj paul,1,1,who run it,2000-01-24,2000,1,Dairy and Egg Products
+water,1,dj paul,1,1,who run it,2000-01-24,2000,1,Beverages
+ice,1,juicy j,1,1,who run it,2000-01-24,2000,1,
+herb,1,juicy j,1,1,who run it,2000-01-24,2000,1,Beverages
+ham,1,mking,1,1,who run it,2018-04-20,2018,4,Pork Products
+juice,1,ocean (gråta djävulen),1,1,who run it freestyle,2018-04-05,2018,4,Baby Foods
+bread,1,g herbo,1,1,who run it,2018-03-22,2018,3,Baked Products
+water,1,g herbo,1,1,who run it,2018-03-22,2018,3,Beverages
+herb,1,g herbo,1,1,who run it,2018-03-22,2018,3,Beverages
+butter,1,juicy j,1,1,who run it (freestyle),2018-04-09,2018,4,Dairy and Egg Products
+flavor,2,federal da general,1,2,who run it (freestyle),2018-04-14,2018,4,
+vanilla,1,federal da general,1,1,who run it (freestyle),2018-04-14,2018,4,Sweets
+ice,1,federal da general,1,1,who run it (freestyle),2018-04-14,2018,4,
+cooking,1,federal da general,1,1,who run it (freestyle),2018-04-14,2018,4,Beverages
+oil,1,federal da general,1,1,who run it (freestyle),2018-04-14,2018,4,Fats and Oils
+goat,1,federal da general,1,1,who run it (freestyle),2018-04-14,2018,4,Dairy and Egg Products
+cooking oil,1,federal da general,-1,-1,who run it (freestyle),2018-04-14,2018,4,
+pan,1,mastamiind,1,1,who run it (freestyle),0,0,0,
+yam,1,mastamiind,1,1,who run it (freestyle),0,0,0,Vegetables and Vegetable Products
+diet,1,mastamiind,1,1,who run it (remix),2018-04-08,2018,4,Beverages
+cake,1,mastamiind,1,1,who run it (remix),2018-04-08,2018,4,Baked Products
+sprinkle,1,mastamiind,1,1,who run it (remix),2018-04-08,2018,4,
+sour,1,mastamiind,1,1,who run it (remix),2018-04-08,2018,4,Fruits and Fruit Juices
+fish,1,moneyatmidnight,1,1,who run it (remix),2018-04-16,2018,4,Finfish and Shellfish Products
+tea,2,moneyatmidnight,1,2,who run it (remix),2018-04-16,2018,4,Beverages
+sugar,1,moneyatmidnight,1,1,who run it (remix),2018-04-16,2018,4,Sweets
+drinking,1,moneyatmidnight,1,1,who run it (remix),2018-04-16,2018,4,Beverages
+cake,1,moneyatmidnight,1,1,who run it (remix),2018-04-16,2018,4,Baked Products
+bread,1,moneyatmidnight,1,1,who run it (remix),2018-04-16,2018,4,Baked Products
+bread,1,kiu,1,1,who run it (remix),2018-04-08,2018,4,Baked Products
+berry,1,kiu,1,1,who run it (remix),2018-04-08,2018,4,
+dough,2,kiu,1,2,who run it (remix),2018-04-08,2018,4,
+carrot,1,uzy,1,1,who run it (remix),2018-07-01,2018,7,Vegetables and Vegetable Products
+rabbit,1,uzy,1,1,who run it (remix),2018-07-01,2018,7,"Lamb, Veal, and Game Products"
+ice,1,uzy,1,1,who run it (remix),2018-07-01,2018,7,
+rose,1,uzy,1,1,who run it (remix),2018-07-01,2018,7,Beverages
+food,1,uzy,1,1,who run it (remix),2018-07-01,2018,7,
+juice,5,uzy,1,5,who run it (remix),2018-07-01,2018,7,Baby Foods
+ham,1,uzy,1,1,who run it (remix),2018-07-01,2018,7,Pork Products
+breakfast,1,polo g,1,1,who run it (remix),2018-05-28,2018,5,Baked Products
+chicken,1,polo g,1,1,who run it (remix),2018-05-28,2018,5,Poultry Products
+bread,1,polo g,1,1,who run it (remix),2018-05-28,2018,5,Baked Products
+tea,1,n.o.e.,1,1,who run it (remix),2018-04-15,2018,4,Beverages
+cheese,1,n.o.e.,1,1,who run it (remix),2018-04-15,2018,4,Dairy and Egg Products
+choco,1,saske,1,1,who run it (remix),2018-04-15,2018,4,
+blue cheese,1,n.o.e.,1,1,who run it (remix),2018-04-15,2018,4,
+milk,1,mkultra,1,1,who run its remix,2018-05-04,2018,5,Dairy and Egg Products
+crab,1,mkultra,1,1,who run its remix,2018-05-04,2018,5,Finfish and Shellfish Products
+pan,2,christina milian,1,2,who's gonna ride,0,0,0,
+ramen,1,christina milian,1,1,who's gonna ride,0,0,0,
+noodle,1,christina milian,1,1,who's gonna ride,0,0,0,Cereal Grains and Pasta
+ramen noodle,1,christina milian,-1,-1,who's gonna ride,0,0,0,"Soups, Sauces, and Gravies"
+flour,1,tear da club up thugs,1,1,who the crunkest,1999-02-02,1999,2,Cereal Grains and Pasta
+cake,1,tear da club up thugs,1,1,who the crunkest,1999-02-02,1999,2,Baked Products
+meal,1,project pat],1,1,who the crunkest,1999-02-02,1999,2,Baked Products
+rum,1,gangsta boo,1,1,who we be,1998-09-29,1998,9,Beverages
+drink,1,gangsta boo,1,1,who we be,1998-09-29,1998,9,
+juice,1,gangsta boo,1,1,who we be,1998-09-29,1998,9,Baby Foods
+drinking,1,gangsta boo,1,1,who we be,1998-09-29,1998,9,Beverages
+cookie,1,dj paul,1,1,will blast,1997-11-04,1997,11,Baked Products
+dough,1,crunchy black,1,1,will blast,1997-11-04,1997,11,
+nut,1,juicy j,1,1,winnin',2016-07-11,2016,7,Nut and Seed Products
+champagne,1,juicy j,1,1,winnin',2016-07-11,2016,7,
+lemon,1,la chat,1,1,wolf pack,0,0,0,Beverages
+meal,1,la chat,1,1,wolf pack,0,0,0,Baked Products
+cheese,1,la chat,1,1,wolf pack,0,0,0,Dairy and Egg Products
+dough,1,juicy j,1,1,"wolf, wolf!",2003-06-24,2003,6,
+honey,1,juicy j,1,1,"wolf, wolf!",2003-06-24,2003,6,Sweets
+candy,1,three 6 mafia,1,1,wonabees,2000-10-31,2000,10,Sweets
+herb,1,three 6 mafia,1,1,wonabees,2000-10-31,2000,10,Beverages
+meal,2,crunchy black,1,2,wonabees,2000-10-31,2000,10,Baked Products
+steamed,1,juicy j,1,1,wonabees,2000-10-31,2000,10,Vegetables and Vegetable Products
+cheddar,1,t-rock,1,1,"wona get some, i got some",2001-10-30,2001,10,Dairy and Egg Products
+breakfast,1,juicy j,1,1,working for it,2018-01-15,2018,1,Baked Products
+chicken,1,project pat,1,1,work n rubberbands,2016-11-16,2016,11,Poultry Products
+pie,1,project pat,1,1,work n rubberbands,2016-11-16,2016,11,Baked Products
+banana,1,project pat,1,1,work n rubberbands,2016-11-16,2016,11,Fruits and Fruit Juices
+gravy,1,kingpin skinny pimp,1,1,y'all ain't no killaz,0,0,0,"Soups, Sauces, and Gravies"
+pit,1,lord infamous,1,1,y'all ain't no killaz,0,0,0,
+rose,3,juicy j,1,3,yao ming,2010-11-16,2010,11,Beverages
+beef,1,dj paul,1,1,yeah i rob,2005-03-29,2005,3,Beef Products
+candy,1,juicy j,1,1,yeah i rob,2005-03-29,2005,3,Sweets
+lime,1,mr. bigg,1,1,yeah i rob,2005-03-29,2005,3,Sweets
+drink,1,juicy j,1,1,yet,0,0,0,
+juice,1,juicy j,1,1,yet,0,0,0,Baby Foods
+cheese,3,la chat,1,3,you ain't mad iz ya?,0,0,0,Dairy and Egg Products
+bread,1,juicy j,1,1,you can cry,2018-05-04,2018,5,Baked Products
+biscuit,2,juicy j,1,2,you can cry,2018-05-04,2018,5,Fast Foods
+cake,1,juicy j,1,1,you can cry,2018-05-04,2018,5,Baked Products
+cake,1,marshmello & juicy j,1,1,you can cry (sumr camp remix),2018-06-15,2018,6,Baked Products
+nut,1,juicy j,1,1,you can get murked,2009-06-16,2009,6,Nut and Seed Products
+chicken,1,juicy j,1,1,you can't,2015-12-14,2015,12,Poultry Products
+champagne,1,juicy j,1,1,you don't know,2014-07-04,2014,7,
+omelet,1,juicy j,1,1,you don't know,2014-07-04,2014,7,Dairy and Egg Products
+cheetos,1,juicy j,1,1,you don't know,2014-07-04,2014,7,
+icing,1,juicy j,1,1,you don't know,2014-07-04,2014,7,
+cake,1,juicy j,1,1,you don't know,2014-07-04,2014,7,Baked Products
+glaze,1,juicy j,1,1,you don't know,2014-07-04,2014,7,Sweets
+tuna,1,juicy j,1,1,you don't know,2014-07-04,2014,7,Finfish and Shellfish Products
+fish,1,juicy j,1,1,you don't know,2014-07-04,2014,7,Finfish and Shellfish Products
+lemonade,1,juicy j,1,1,you don't know,2014-07-04,2014,7,Beverages
+bread,1,juicy j,1,1,you knew,0,0,0,Baked Products
+drink,1,juicy j,1,1,you knew,0,0,0,
+cooking,1,project pat,1,1,you know the biss,1999-09-14,1999,9,Beverages
+dough,1,casey,1,1,young niggas,0,0,0,
+orange,1,frayser boy,1,1,young niggaz,0,0,0,Fruits and Fruit Juices
+juice,1,frayser boy,1,1,young niggaz,0,0,0,Baby Foods
+gin,1,frayser boy,1,1,young niggaz,0,0,0,
+meal,1,frayser boy,1,1,young niggaz,0,0,0,Baked Products
+barbecue,1,frayser boy,1,1,young niggaz,0,0,0,"Soups, Sauces, and Gravies"
+orange juice,1,frayser boy,-1,-1,young niggaz,0,0,0,Fruits and Fruit Juices
+bread,1,juicy j,1,1,you niggaz pussy,2009-06-16,2009,6,Baked Products
+pie,1,juicy j,1,1,you niggaz pussy,2009-06-16,2009,6,Baked Products
+ham,2,juicy j,1,2,you niggaz pussy,2009-06-16,2009,6,Pork Products
+meal,1,lord infamous,1,1,you scared part ii,2003-06-24,2003,6,Baked Products
+ham,1,juicy j,1,1,zanzibar,2016-02-03,2016,2,Pork Products
+broccoli,4,juicy j,1,4,zanzibar,2016-02-03,2016,2,Vegetables and Vegetable Products

@@ -1,0 +1,1084 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+meal,1,young scooter,1,1,made it through the struggle,2013-01-01,2013,1,Baked Products
+coffee,1,mac dre,1,1,all damn day,0,0,0,Beverages
+zesty,1,mac dre,1,1,all damn day,0,0,0,
+chocolate,1,mac dre,1,1,all damn day,0,0,0,Sweets
+nestle,1,mac dre,1,1,all damn day,0,0,0,Sweets
+hamburger,1,mac dre,1,1,all damn day,0,0,0,Fast Foods
+steak,1,mac dre,1,1,all damn day,0,0,0,Beef Products
+lobster,1,mac dre,1,1,all damn day,0,0,0,Finfish and Shellfish Products
+drink,1,mac dre,1,1,all it takes,1998-04-28,1998,4,
+sardine,1,mac dre,1,1,all it takes,1998-04-28,1998,4,Finfish and Shellfish Products
+prawn,1,mac dre,1,1,all it takes,1998-04-28,1998,4,
+garlic,1,mac dre,1,1,all it takes,1998-04-28,1998,4,Vegetables and Vegetable Products
+bread,2,mac dre,1,2,all it takes,1998-04-28,1998,4,Baked Products
+nut,1,mac dre,1,1,all it takes,1998-04-28,1998,4,Nut and Seed Products
+butter,1,mac dre,1,1,all it takes,1998-04-28,1998,4,Dairy and Egg Products
+sauce,1,mac dre,1,1,all it takes,1998-04-28,1998,4,"Soups, Sauces, and Gravies"
+caper,1,mac dre,1,1,all it takes,1998-04-28,1998,4,Spices and Herbs
+garlic bread,1,mac dre,-1,-1,all it takes,1998-04-28,1998,4,Baked Products
+butter sauce,1,mac dre,-1,-1,all it takes,1998-04-28,1998,4,
+dough,1,mac dre,1,1,andre-n-andre,0,0,0,
+pancake,1,mac dre,1,1,andre-n-andre,0,0,0,Baked Products
+syrup,1,mac dre,1,1,andre-n-andre,0,0,0,Sweets
+cherry,2,andre nickatina,1,2,andre-n-andre,0,0,0,Fruits and Fruit Juices
+lemon,1,andre nickatina,1,1,andre-n-andre,0,0,0,Beverages
+lime,1,andre nickatina,1,1,andre-n-andre,0,0,0,Sweets
+candy,1,andre nickatina,1,1,andre-n-andre,0,0,0,Sweets
+spicy,1,andre nickatina,1,1,andre-n-andre,0,0,0,
+prawn,1,andre nickatina,1,1,andre-n-andre,0,0,0,
+pie,1,andre nickatina,1,1,andre-n-andre,0,0,0,Baked Products
+pancake syrup,1,mac dre,-1,-1,andre-n-andre,0,0,0,
+lemon lime,1,andre nickatina,-1,-1,andre-n-andre,0,0,0,
+cherry pie,1,andre nickatina,-1,-1,andre-n-andre,0,0,0,
+pit,1,cutthoat committee,1,1,cutthoat committee,0,0,0,
+cabbage,1,cutthoat committee,1,1,cutthoat committee,0,0,0,Vegetables and Vegetable Products
+nut,1,mac dre,1,1,dipped when you see me,2003-11-04,2003,11,Nut and Seed Products
+prawn,1,mac dre,1,1,dipped when you see me,2003-11-04,2003,11,
+lobster,1,mac dre,1,1,dipped when you see me,2003-11-04,2003,11,Finfish and Shellfish Products
+linguini,1,mac dre,1,1,dipped when you see me,2003-11-04,2003,11,
+hot dog,1,mac dre,2,2,dipped when you see me,2003-11-04,2003,11,Sausages and Luncheon Meats
+champagne,1,mac dre,1,1,doin' what i do,0,0,0,
+buttered,1,mac dre,1,1,doin' what i do,0,0,0,
+drink,1,mac dre,1,1,early retirement,2004-07-20,2004,7,
+martini,1,mac dre,1,1,early retirement,2004-07-20,2004,7,
+olive,1,mac dre,1,1,early retirement,2004-07-20,2004,7,Fruits and Fruit Juices
+garlic,1,mac dre,1,1,early retirement,2004-07-20,2004,7,Vegetables and Vegetable Products
+cheese,1,mac dre,1,1,early retirement,2004-07-20,2004,7,Dairy and Egg Products
+bread,1,mac dre,1,1,early retirement,2004-07-20,2004,7,Baked Products
+wine,1,mac dre,1,1,early retirement,2004-07-20,2004,7,Beverages
+dirty martini,1,mac dre,1,1,early retirement,2004-07-20,2004,7,
+spanish olive,1,mac dre,-1,-1,early retirement,2004-07-20,2004,7,
+french bread,1,mac dre,1,1,early retirement,2004-07-20,2004,7,
+yam,2,mac dre,1,2,first time i seen her,2001-02-27,2001,2,Vegetables and Vegetable Products
+nut,1,mac dre,1,1,first time i seen her,2001-02-27,2001,2,Nut and Seed Products
+gumbo,6,mac dre,1,6,gumbo,1996-12-06,1996,12,
+gum,1,mac dre,1,1,gumbo,1996-12-06,1996,12,Sweets
+potato,1,mac dre,1,1,gumbo,1996-12-06,1996,12,Vegetables and Vegetable Products
+rabbit,1,mac dre,1,1,gumbo,1996-12-06,1996,12,"Lamb, Veal, and Game Products"
+cooking,1,mac dre,1,1,gumbo,1996-12-06,1996,12,Beverages
+spice,1,mac dre,1,1,gumbo,1996-12-06,1996,12,Spices and Herbs
+mushroom,1,mac dre,1,1,hot jalapeños,2008-08-19,2008,8,Vegetables and Vegetable Products
+orange,1,mac dre,1,1,hot jalapeños,2008-08-19,2008,8,Fruits and Fruit Juices
+juice,1,mac dre,1,1,hot jalapeños,2008-08-19,2008,8,Baby Foods
+tasty,1,mac dre,1,1,hot jalapeños,2008-08-19,2008,8,
+jalapeno,5,smoov-e,1,5,hot jalapeños,2008-08-19,2008,8,Vegetables and Vegetable Products
+orange juice,1,mac dre,-1,-1,hot jalapeños,2008-08-19,2008,8,Fruits and Fruit Juices
+captain morgan,1,smoov-e,2,2,hot jalapeños,2008-08-19,2008,8,
+turkey,1,mac dre,1,1,hotta den steam,2003-07-15,2003,7,Poultry Products
+rib,1,mac dre,1,1,my homeboy's chevy,2008-06-17,2008,6,Beef Products
+cheddar,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Dairy and Egg Products
+blackberry,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Fruits and Fruit Juices
+garlic,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Vegetables and Vegetable Products
+butter,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Dairy and Egg Products
+crab,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Finfish and Shellfish Products
+onion,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Vegetables and Vegetable Products
+garlic butter,1,andre nickatina,-1,-1,my homeboy's chevy,2008-06-17,2008,6,
+onion ring,1,andre nickatina,1,1,my homeboy's chevy,2008-06-17,2008,6,Vegetables and Vegetable Products
+toasted,1,mac dre,1,1,northside,0,0,0,Baked Products
+orange,1,mac dre,1,1,northside,0,0,0,Fruits and Fruit Juices
+nut,1,mac dre,1,1,northside,0,0,0,Nut and Seed Products
+sap,1,mac dre,1,1,northside,0,0,0,
+roast,1,mac dre,1,1,not my job,2004-07-20,2004,7,Beef Products
+beef,1,mac dre,1,1,not my job,2004-07-20,2004,7,Beef Products
+meat,1,mac dre,1,1,not my job,2004-07-20,2004,7,Baby Foods
+drinking,1,mac dre,1,1,not my job,2004-07-20,2004,7,Beverages
+gravy,1,mac dre,1,1,not my job,2004-07-20,2004,7,"Soups, Sauces, and Gravies"
+roast beef,1,mac dre,-1,-1,not my job,2004-07-20,2004,7,Sausages and Luncheon Meats
+guinness,1,mac dre,1,1,out of control,2001-01-01,2001,1,
+guinness,2,smoov-e,1,2,out of control,2001-01-01,2001,1,
+buttered,1,smoov-e,1,1,out of control,2001-01-01,2001,1,
+orange,1,smoov-e,1,1,out of control,2001-01-01,2001,1,Fruits and Fruit Juices
+breaded,1,mac dre,1,1,screw-e-boo-boo,2004-10-19,2004,10,Vegetables and Vegetable Products
+goose,1,mac dre,1,1,screw-e-boo-boo,2004-10-19,2004,10,Poultry Products
+water,1,black jesus,1,1,screw-e-boo-boo,2004-10-19,2004,10,Beverages
+biscuit,1,mac dre,1,1,show me the way,2003-01-01,2003,1,Fast Foods
+triscuit,1,mac dre,1,1,show me the way,2003-01-01,2003,1,
+prawn,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,
+omelet,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,Dairy and Egg Products
+gin,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,
+iced,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,Beverages
+tea,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,Beverages
+rose,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,Beverages
+lime,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,Sweets
+diet,1,mac dre,1,1,the adventures of al boo boo,2005-01-01,2005,1,Beverages
+iced tea,1,mac dre,-1,-1,the adventures of al boo boo,2005-01-01,2005,1,
+juice,1,chuck beez,1,1,thizzle dance,2002-08-27,2002,8,Baby Foods
+goose,1,mac dre,1,1,u beezy,2008-08-19,2008,8,Poultry Products
+martini,1,mac dre,1,1,u beezy,2008-08-19,2008,8,
+ice,1,mac dre,1,1,u beezy,2008-08-19,2008,8,
+dirty martini,1,mac dre,1,1,u beezy,2008-08-19,2008,8,
+brandy,1,remy ma,1,1,conceited,2006-02-07,2006,2,
+juice,1,deltron 3030,1,1,battlesong,2000-10-17,2000,10,Baby Foods
+chocolate,1,tajai,1,1,classic,2003-10-07,2003,10,Sweets
+nut,1,tajai,1,1,classic,2003-10-07,2003,10,Nut and Seed Products
+nestle,1,tajai,1,1,classic,2003-10-07,2003,10,Sweets
+milk,1,tajai,1,1,classic,2003-10-07,2003,10,Dairy and Egg Products
+beer,1,del the funky homosapien,1,1,corner story,1997-11-18,1997,11,Beverages
+meat,1,del the funky homosapien,1,1,corner story,1997-11-18,1997,11,Baby Foods
+6 pack,1,del the funky homosapien,2,2,corner story,1997-11-18,1997,11,
+herb,1,del the funky homosapien,1,1,fragments,2005-10-18,2005,10,Beverages
+beef,1,del the funky homosapien,1,1,fragments,2005-10-18,2005,10,Beef Products
+steak,1,del the funky homosapien,1,1,jaw gymnastics,2000-04-11,2000,4,Beef Products
+bisque,1,del the funky homosapien,1,1,jaw gymnastics,2000-04-11,2000,4,
+raisin,1,pep love,1,1,lighters,0,0,0,Baked Products
+ripe,1,pep love,1,1,lighters,0,0,0,Fruits and Fruit Juices
+brandy,1,a-plus,1,1,lighters,0,0,0,
+nut,1,a-plus,1,1,lighters,0,0,0,Nut and Seed Products
+cream,1,deltron 3030,1,1,memory loss,2000-10-17,2000,10,Dairy and Egg Products
+water,1,del the funky homosapien,1,1,press rewind,2000-04-11,2000,4,Beverages
+beef,1,del the funky homosapien,1,1,press rewind,2000-04-11,2000,4,Beef Products
+pancake,1,del the funky homosapien,1,1,the wacky world of rapid transit,1991-10-22,1991,10,Baked Products
+drink,2,deltron 3030,1,2,turbulence (remix),2000-10-17,2000,10,
+water,1,deltron 3030,1,1,turbulence (remix),2000-10-17,2000,10,Beverages
+nectar,1,deltron 3030,1,1,turbulence (remix),2000-10-17,2000,10,
+oreo,1,ice cube,1,1,turn off the radio,1990-05-16,1990,5,
+cookie,1,ice cube,1,1,turn off the radio,1990-05-16,1990,5,Baked Products
+fried,1,ice cube,1,1,turn off the radio,1990-05-16,1990,5,Poultry Products
+chicken,1,ice cube,1,1,turn off the radio,1990-05-16,1990,5,Poultry Products
+biscuit,1,ice cube,1,1,turn off the radio,1990-05-16,1990,5,Fast Foods
+ice,3,ice cube,1,3,turn off the radio,1990-05-16,1990,5,
+fried chicken,1,ice cube,-1,-1,turn off the radio,1990-05-16,1990,5,Fast Foods
+ice cube,2,ice cube,1,2,turn off the radio,1990-05-16,1990,5,
+popcorn,1,ice cube,1,1,why ya wanna get funkee wit me?,0,0,0,Snacks
+fry,2,del the funky homosapien,1,2,why ya wanna get funkee wit me?,0,0,0,
+glaze,1,del the funky homosapien,1,1,why ya wanna get funkee wit me?,0,0,0,Sweets
+chicken,1,del the funky homosapien,1,1,why ya wanna get funkee wit me?,0,0,0,Poultry Products
+chicken wing,1,del the funky homosapien,1,1,why ya wanna get funkee wit me?,0,0,0,
+bourbon,1,m.i.a.,1,1,27,2011-07-23,2011,7,
+coffee,1,m.i.a.,1,1,27,2011-07-23,2011,7,Beverages
+muffin,1,m.i.a.,1,1,27,2011-07-23,2011,7,Baked Products
+drink,1,m.i.a.,1,1,bingo,0,0,0,
+rum,1,m.i.a.,1,1,bingo,0,0,0,Beverages
+rum,1,m.i.a.,1,1,let me hump you,2010-12-31,2010,12,Beverages
+lucozade,1,m.i.a.,1,1,xr2,2007-08-08,2007,8,
+drink,2,m.i.a.,1,2,xr2,2007-08-08,2007,8,
+bacardi,1,m.i.a.,1,1,xr2,2007-08-08,2007,8,
+cake,1,webbie,1,1,bad bitch (remix),2005-04-06,2005,4,Baked Products
+candy,1,webbie,1,1,bad bitch (remix),2005-04-06,2005,4,Sweets
+food,1,webbie,1,1,bad bitch (remix),2005-04-06,2005,4,
+cornbread,1,trina,1,1,bad bitch (remix),2005-04-06,2005,4,Baked Products
+cabbage,1,trina,1,1,bad bitch (remix),2005-04-06,2005,4,Vegetables and Vegetable Products
+meal,1,trina,1,1,bad bitch (remix),2005-04-06,2005,4,Baked Products
+cream,1,trina,1,1,bad bitch (remix),2005-04-06,2005,4,Dairy and Egg Products
+cooking,1,trina,1,1,come to far,0,0,0,Beverages
+starbucks,1,trina,1,1,come to far,0,0,0,
+bread,4,trina,1,4,head turner,0,0,0,Baked Products
+collard,1,trina,1,1,look back at me,2008-04-01,2008,4,Vegetables and Vegetable Products
+rose,1,trina,1,1,look back at me,2008-04-01,2008,4,Beverages
+nut,1,trina,1,1,look back at me,2008-04-01,2008,4,Nut and Seed Products
+nut,1,killer mike,1,1,look back at me,2008-04-01,2008,4,Nut and Seed Products
+collard green,1,trina,1,1,look back at me,2008-04-01,2008,4,
+breakfast,1,trick daddy,1,1,tonight,2006-12-18,2006,12,Baked Products
+oil,1,trina,1,1,tonight,2006-12-18,2006,12,Fats and Oils
+deli,1,andre nickatina,1,1,1-flight,2010-04-20,2010,4,Sausages and Luncheon Meats
+drinking,1,andre nickatina,1,1,1-flight,2010-04-20,2010,4,Beverages
+soda,1,andre nickatina,1,1,1st time,2018-03-23,2018,3,Baked Products
+candy,1,andre nickatina & equipto,1,1,2 b u,2005-05-17,2005,5,Sweets
+cream,3,andre nickatina & equipto,1,3,2 b u,2005-05-17,2005,5,Dairy and Egg Products
+butter,1,andre nickatina & equipto,1,1,2 b u,2005-05-17,2005,5,Dairy and Egg Products
+raisin,1,andre nickatina & equipto,1,1,2 b u,2005-05-17,2005,5,Baked Products
+popeyes,1,andre nickatina & equipto,1,1,2 b u,2005-05-17,2005,5,Fast Foods
+gourmet,1,andre nickatina & equipto,1,1,2 b u,2005-05-17,2005,5,
+fish,1,andre nickatina & equipto,1,1,2 t-shirts n a adidas suit,2004-05-18,2004,5,Finfish and Shellfish Products
+cookie,1,andre nickatina & equipto,1,1,2 t-shirts n a adidas suit,2004-05-18,2004,5,Baked Products
+beef,1,andre nickatina & equipto,1,1,2 t-shirts n a adidas suit,2004-05-18,2004,5,Beef Products
+pie,1,andre nickatina,1,1,2 t-shirts n a adidas suit,2004-05-18,2004,5,Baked Products
+bacardi,1,andre nickatina,1,1,2 t-shirts n a adidas suit,2004-05-18,2004,5,
+food,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,
+lobster,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Finfish and Shellfish Products
+fish,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Finfish and Shellfish Products
+alcohol,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Spices and Herbs
+bread,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Baked Products
+vanilla,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Sweets
+ice,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,
+cream,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Dairy and Egg Products
+coconut,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Fats and Oils
+juice,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,Baby Foods
+sea food,1,andre nickatina,1,1,45 caliber raps,1998-06-23,1998,6,
+ice cream,1,andre nickatina,-1,-1,45 caliber raps,1998-06-23,1998,6,Sweets
+coconut juice,1,andre nickatina,-1,-1,45 caliber raps,1998-06-23,1998,6,
+cocoa,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,Sweets
+goose,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,Poultry Products
+milky,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,
+bread,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,Baked Products
+grain,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,
+cherry,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,Fruits and Fruit Juices
+juice,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,Baby Foods
+soda,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,Baked Products
+soda pop,1,andre nickatina & equipto,1,1,4 a.m. : bay bridge music,2005-11-15,2005,11,
+apple,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,Fruits and Fruit Juices
+cream,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,Dairy and Egg Products
+skittle,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,
+cheddar,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,Dairy and Egg Products
+mayonnaise,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,Fats and Oils
+cranberry,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,Legumes and Legume Products
+juice,1,andre nickatina,1,1,5th gear,2003-04-22,2003,4,Baby Foods
+cranberry juice,1,andre nickatina,-1,-1,5th gear,2003-04-22,2003,4,Fruits and Fruit Juices
+cake,2,andre nickatina,1,2,88,1998-06-23,1998,6,Baked Products
+yeast,1,andre nickatina,1,1,88,1998-06-23,1998,6,Baked Products
+gin,1,andre nickatina,1,1,88,1998-06-23,1998,6,
+drink,1,andre nickatina,1,1,88,1998-06-23,1998,6,
+cream,1,andre nickatina,1,1,88,1998-06-23,1998,6,Dairy and Egg Products
+bread,1,andre nickatina,1,1,a diamond,1995-04-19,1995,4,Baked Products
+malt,1,andre nickatina,1,1,a diamond,1995-04-19,1995,4,Sweets
+malt liquor,1,andre nickatina,-1,-1,a diamond,1995-04-19,1995,4,
+skittle,1,andre nickatina,1,1,alligator blood,2002-01-15,2002,1,
+boar,1,andre nickatina,1,1,alligator blood,2002-01-15,2002,1,"Lamb, Veal, and Game Products"
+pumpkin,1,andre nickatina,1,1,alligator blood,2002-01-15,2002,1,Vegetables and Vegetable Products
+rose,1,andre nickatina,1,1,alligator blood,2002-01-15,2002,1,Beverages
+flavor,1,andre nickatina,1,1,alligator blood,2002-01-15,2002,1,
+wild boar,1,andre nickatina,1,1,alligator blood,2002-01-15,2002,1,
+gumdrop,1,andre nickatina,1,1,all star chuck taylors,2002-01-15,2002,1,Sweets
+dough,2,andre nickatina,1,2,all star chuck taylors,2002-01-15,2002,1,
+banana,2,andre nickatina,1,2,all star chuck taylors,2002-01-15,2002,1,Fruits and Fruit Juices
+gin,1,andre nickatina,1,1,all star chuck taylors,2002-01-15,2002,1,
+tonic,1,andre nickatina,1,1,all star chuck taylors,2002-01-15,2002,1,
+spinach,1,andre nickatina,1,1,all star chuck taylors,2002-01-15,2002,1,Vegetables and Vegetable Products
+pistachio,1,andre nickatina,1,1,all star chuck taylors,2002-01-15,2002,1,
+lemon,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,Beverages
+pepper,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,Vegetables and Vegetable Products
+cabbage,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,Vegetables and Vegetable Products
+salad,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,
+spinach,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,Vegetables and Vegetable Products
+cheese,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,Dairy and Egg Products
+syrup,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,Sweets
+cognac,1,andre nickatina,1,1,alpha,2013-09-24,2013,9,
+lemon pepper,1,andre nickatina,-1,-1,alpha,2013-09-24,2013,9,
+salt,1,andre nickatina,1,1,andre nickatina,1998-06-23,1998,6,Spices and Herbs
+toffee,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Sweets
+caramel,2,andre nickatina,1,2,a peez paradise,2006-12-12,2006,12,Sweets
+coffee,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Beverages
+flavor,2,andre nickatina,1,2,a peez paradise,2006-12-12,2006,12,
+banana,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Fruits and Fruit Juices
+vanilla,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Sweets
+cheddar,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Dairy and Egg Products
+rose,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Beverages
+margarine,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Fats and Oils
+butter,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Dairy and Egg Products
+cream,1,andre nickatina,1,1,a peez paradise,2006-12-12,2006,12,Dairy and Egg Products
+caramel coffee,1,andre nickatina,-1,-1,a peez paradise,2006-12-12,2006,12,
+butterscotch,1,andre nickatina & equipto,1,1,a pimp's blood,2005-11-15,2005,11,Sweets
+sugar,1,andre nickatina & equipto,1,1,a pimp's blood,2005-11-15,2005,11,Sweets
+bread,1,andre nickatina,1,1,ate miles from the city of dope,2006-12-12,2006,12,Baked Products
+peanut,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Legumes and Legume Products
+butter,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Dairy and Egg Products
+glazed,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Baked Products
+doughnut,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Baked Products
+dough,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,
+garlic,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Vegetables and Vegetable Products
+bread,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Baked Products
+steak,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Beef Products
+cream,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Dairy and Egg Products
+spinach,1,andre nickatina,1,1,awake like an owl,2000-06-06,2000,6,Vegetables and Vegetable Products
+peanut butter,1,andre nickatina,-1,-1,awake like an owl,2000-06-06,2000,6,Legumes and Legume Products
+garlic bread,1,andre nickatina,-1,-1,awake like an owl,2000-06-06,2000,6,Baked Products
+cheddar,1,andre nickatina,1,1,bakin' soda in minnesota,2000-06-06,2000,6,Dairy and Egg Products
+soda,2,andre nickatina,1,2,bakin' soda in minnesota,2000-06-06,2000,6,Baked Products
+pit,1,andre nickatina,1,1,bakin' soda in minnesota,2000-06-06,2000,6,
+candy,1,andre nickatina,1,1,bakin' soda in minnesota,2000-06-06,2000,6,Sweets
+food,1,andre nickatina,1,1,bakin' soda in minnesota,2000-06-06,2000,6,
+yam,1,andre nickatina,1,1,bakin' soda in minnesota,2000-06-06,2000,6,Vegetables and Vegetable Products
+cream,1,andre nickatina,1,1,bakin' soda in minnesota,2000-06-06,2000,6,Dairy and Egg Products
+cabbage,1,andre nickatina & equipto,1,1,balla race,0,0,0,Vegetables and Vegetable Products
+dough,2,andre nickatina & equipto,1,2,balla race,0,0,0,
+bread,3,andre nickatina & equipto,1,3,balla race,0,0,0,Baked Products
+caramel,1,andre nickatina & equipto,1,1,balla race,0,0,0,Sweets
+candy,2,andre nickatina & equipto,1,2,balla race,0,0,0,Sweets
+rabbit,1,andre nickatina & equipto,1,1,balla race,0,0,0,"Lamb, Veal, and Game Products"
+calico,1,andre nickatina,1,1,birds with no wings,2000-06-06,2000,6,
+kabob,1,andre nickatina,1,1,birds with no wings,2000-06-06,2000,6,
+steak,1,andre nickatina,1,1,birds with no wings,2000-06-06,2000,6,Beef Products
+cake,1,andre nickatina,1,1,birds with no wings,2000-06-06,2000,6,Baked Products
+water,1,andre nickatina,1,1,birds with no wings,2000-06-06,2000,6,Beverages
+tea,1,andre nickatina,1,1,bitch,2008-08-19,2008,8,Beverages
+dough,1,andre nickatina,1,1,bitch,2008-08-19,2008,8,
+icecream,1,andre nickatina,1,1,bitch,2008-08-19,2008,8,
+beer,1,andre nickatina,1,1,bitch,2008-08-19,2008,8,Beverages
+root beer,1,andre nickatina,1,1,bitch,2008-08-19,2008,8,Beverages
+popeyes,1,andre nickatina,1,1,blind genius,2010-04-20,2010,4,Fast Foods
+blackberry,1,andre nickatina,1,1,blind genius,2010-04-20,2010,4,Fruits and Fruit Juices
+breakfast,1,andre nickatina,1,1,blind genius,2010-04-20,2010,4,Baked Products
+ice,1,andre nickatina,1,1,blind genius,2010-04-20,2010,4,
+barbeque,1,andre nickatina,1,1,blind genius,2010-04-20,2010,4,
+ice,1,andre nickatina,1,1,blueberry rain,2005-05-17,2005,5,
+cream,1,andre nickatina,1,1,blueberry rain,2005-05-17,2005,5,Dairy and Egg Products
+cherry,1,andre nickatina,1,1,blueberry rain,2005-05-17,2005,5,Fruits and Fruit Juices
+pie,1,andre nickatina,1,1,blueberry rain,2005-05-17,2005,5,Baked Products
+bread,1,andre nickatina & equipto,1,1,blueberry rain,2005-05-17,2005,5,Baked Products
+mustard,1,andre nickatina & equipto,1,1,blueberry rain,2005-05-17,2005,5,Spices and Herbs
+cookie,1,andre nickatina & equipto,1,1,blueberry rain,2005-05-17,2005,5,Baked Products
+cupcake,1,andre nickatina & equipto,1,1,blueberry rain,2005-05-17,2005,5,
+dough,1,andre nickatina & equipto,1,1,blueberry rain,2005-05-17,2005,5,
+frosted,1,andre nickatina & equipto,1,1,blueberry rain,2005-05-17,2005,5,
+ice cream,1,andre nickatina,-1,-1,blueberry rain,2005-05-17,2005,5,Sweets
+cherry pie,1,andre nickatina,-1,-1,blueberry rain,2005-05-17,2005,5,
+wine,1,black c,1,1,bobble heads,2013-09-24,2013,9,Beverages
+pineapple,1,andre nickatina,1,1,bobble heads,2013-09-24,2013,9,Fruits and Fruit Juices
+ham,1,andre nickatina,1,1,bonus,2013-09-24,2013,9,Pork Products
+bean,1,andre nickatina,1,1,bonus,2013-09-24,2013,9,Legumes and Legume Products
+bread,1,andre nickatina,1,1,bonus,2013-09-24,2013,9,Baked Products
+butter,1,andre nickatina,1,1,bonus,2013-09-24,2013,9,Dairy and Egg Products
+sugar,1,andre nickatina,1,1,bonus,2013-09-24,2013,9,Sweets
+salt,1,andre nickatina,1,1,ayo,2002-01-15,2002,1,Spices and Herbs
+cake,1,san quinn,1,1,ayo for yayo,0,0,0,Baked Products
+juice,1,andre nickatina,1,1,blood n my hair,2004-05-18,2004,5,Baby Foods
+tea,1,andre nickatina,1,1,blood n my hair,2004-05-18,2004,5,Beverages
+sauce,1,andre nickatina,1,1,blood n my hair,2004-05-18,2004,5,"Soups, Sauces, and Gravies"
+batter,1,andre nickatina,1,1,blood n my hair,2004-05-18,2004,5,Poultry Products
+hot sauce,1,andre nickatina,1,1,blood n my hair,2004-05-18,2004,5,
+herb,1,andre nickatina,1,1,bobby shaw is my tiga,2000-06-06,2000,6,Beverages
+cherry,1,andre nickatina,1,1,bobby shaw is my tiga,2000-06-06,2000,6,Fruits and Fruit Juices
+pie,1,andre nickatina,1,1,bobby shaw is my tiga,2000-06-06,2000,6,Baked Products
+fry,1,andre nickatina,1,1,bobby shaw is my tiga,2000-06-06,2000,6,
+cherry pie,1,andre nickatina,-1,-1,bobby shaw is my tiga,2000-06-06,2000,6,
+nut,1,andre nickatina & equipto,1,1,bonus (gun-mouth 4 hire),2005-11-15,2005,11,Nut and Seed Products
+butter,1,andre nickatina & equipto,1,1,bonus (gun-mouth 4 hire),2005-11-15,2005,11,Dairy and Egg Products
+breakfast,1,andre nickatina & equipto,1,1,bonus (gun-mouth 4 hire),2005-11-15,2005,11,Baked Products
+steak,1,andre nickatina & equipto,1,1,bonus (gun-mouth 4 hire),2005-11-15,2005,11,Beef Products
+pasta,1,andre nickatina & equipto,1,1,bonus (gun-mouth 4 hire),2005-11-15,2005,11,"Soups, Sauces, and Gravies"
+fish,1,andre nickatina & equipto,1,1,bonus (gun-mouth 4 hire),2005-11-15,2005,11,Finfish and Shellfish Products
+cheese,1,andre nickatina & equipto,1,1,boss soss talk,2005-05-17,2005,5,Dairy and Egg Products
+pit,1,andre nickatina & equipto,1,1,boss soss talk,2005-05-17,2005,5,
+butter,1,andre nickatina & equipto,1,1,boss soss talk,2005-05-17,2005,5,Dairy and Egg Products
+roast,1,andre nickatina & equipto,1,1,boss soss talk,2005-05-17,2005,5,Beef Products
+chicken,1,andre nickatina & equipto,1,1,box of lucky charms,2005-11-15,2005,11,Poultry Products
+waffle,1,andre nickatina & equipto,1,1,box of lucky charms,2005-11-15,2005,11,Baked Products
+cheese,1,andre nickatina & equipto,1,1,box of lucky charms,2005-11-15,2005,11,Dairy and Egg Products
+water,1,andre nickatina & equipto,1,1,box of lucky charms,2005-11-15,2005,11,Beverages
+candy,2,andre nickatina & equipto,1,2,box of lucky charms,2005-11-15,2005,11,Sweets
+candy coated,1,andre nickatina & equipto,1,1,box of lucky charms,2005-11-15,2005,11,
+gumbo,1,andre nickatina,1,1,break bread,2013-03-27,2013,3,
+flavor,1,andre nickatina,1,1,break bread,2013-03-27,2013,3,
+bread,13,andre nickatina,1,13,break bread,2013-03-27,2013,3,Baked Products
+cocoa,6,andre nickatina,1,6,break bread,2013-03-27,2013,3,Sweets
+ice,1,andre nickatina,1,1,break bread,2013-03-27,2013,3,
+sugar,1,andre nickatina,1,1,break bread,2013-03-27,2013,3,Sweets
+butter,1,andre nickatina,1,1,break bread,2013-03-27,2013,3,Dairy and Egg Products
+goose,1,richie rich,1,1,break bread,2013-03-27,2013,3,Poultry Products
+guinness,1,richie rich,1,1,break bread,2013-03-27,2013,3,
+candy,7,andre nickatina,1,7,candy paint,2013-09-24,2013,9,Sweets
+candy,8,andre nickatina,1,8,candy paint,2013-09-24,2013,9,Sweets
+butter,3,andre nickatina,1,3,candy paint,2013-09-24,2013,9,Dairy and Egg Products
+prawn,1,andre nickatina,1,1,candy paint,2013-09-24,2013,9,
+steak,1,andre nickatina,1,1,candy paint,2013-09-24,2013,9,Beef Products
+lemon,1,andre nickatina,1,1,candy paint,2013-09-24,2013,9,Beverages
+food,1,andre nickatina,1,1,candy paint,2013-09-24,2013,9,
+nut,1,100s,1,1,candy paint,2013-09-24,2013,9,Nut and Seed Products
+goose,1,mac mall,1,1,candy paint,2013-09-24,2013,9,Poultry Products
+candy,1,andre nickatina,1,1,candy rain,2000-11-14,2000,11,Sweets
+butter,1,andre nickatina,1,1,ceazar enrico,2004-05-18,2004,5,Dairy and Egg Products
+chicken,1,andre nickatina,1,1,ceazar enrico,2004-05-18,2004,5,Poultry Products
+sugar,1,andre nickatina,1,1,ceazar enrico,2004-05-18,2004,5,Sweets
+chocolate,1,andre nickatina,1,1,classified,1999-05-18,1999,5,Sweets
+cherry,1,andre nickatina,1,1,classified,1999-05-18,1999,5,Fruits and Fruit Juices
+fish,1,andre nickatina,1,1,cobra status,0,0,0,Finfish and Shellfish Products
+snapper,1,andre nickatina,1,1,cobra status,0,0,0,Finfish and Shellfish Products
+rabbit,1,andre nickatina,1,1,cobra status,0,0,0,"Lamb, Veal, and Game Products"
+ice,1,andre nickatina,1,1,cobra status,0,0,0,
+mm,3,andre nickatina,1,3,cocaine,2008-08-19,2008,8,
+soda,1,andre nickatina,1,1,coka cola,0,0,0,Baked Products
+biscuit,1,andre nickatina,1,1,coka cola,0,0,0,Fast Foods
+icecream,1,andre nickatina,1,1,coka cola,0,0,0,
+rabbit,1,andre nickatina,1,1,color of the benz,2008-08-19,2008,8,"Lamb, Veal, and Game Products"
+steak,1,andre nickatina,1,1,color of the benz,2008-08-19,2008,8,Beef Products
+potato,1,andre nickatina,1,1,color of the benz,2008-08-19,2008,8,Vegetables and Vegetable Products
+ice,1,andre nickatina,1,1,color of the benz,2008-08-19,2008,8,
+cream,1,andre nickatina,1,1,color of the benz,2008-08-19,2008,8,Dairy and Egg Products
+cheese,1,andre nickatina,1,1,color of the benz,2008-08-19,2008,8,Dairy and Egg Products
+ice cream,1,andre nickatina,-1,-1,color of the benz,2008-08-19,2008,8,Sweets
+milk,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,Dairy and Egg Products
+butter,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,Dairy and Egg Products
+pineapple,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,Fruits and Fruit Juices
+apple,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,Fruits and Fruit Juices
+water,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,Beverages
+sprinkle,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,
+fish,1,andre nickatina & equipto,1,1,comb my hair,0,0,0,Finfish and Shellfish Products
+apple,2,andre nickatina,1,2,comb my hair like,2006-12-12,2006,12,Fruits and Fruit Juices
+water,1,andre nickatina,1,1,comb my hair like,2006-12-12,2006,12,Beverages
+sprinkle,1,andre nickatina,1,1,comb my hair like,2006-12-12,2006,12,
+fish,1,andre nickatina,1,1,comb my hair like,2006-12-12,2006,12,Finfish and Shellfish Products
+milk,1,equipto,1,1,comb my hair like,2006-12-12,2006,12,Dairy and Egg Products
+butter,1,equipto,1,1,comb my hair like,2006-12-12,2006,12,Dairy and Egg Products
+sugar,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,Sweets
+peanut,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,Legumes and Legume Products
+butter,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,Dairy and Egg Products
+oil,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,Fats and Oils
+cake,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,Baked Products
+drink,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,
+chicken,1,andre nickatina,1,1,conversation with a devil,2003-04-22,2003,4,Poultry Products
+peanut butter,1,andre nickatina,-1,-1,conversation with a devil,2003-04-22,2003,4,Legumes and Legume Products
+burger,1,andre nickatina & equipto,1,1,couger,2002-01-15,2002,1,
+fry,1,andre nickatina & equipto,1,1,couger,2002-01-15,2002,1,
+rose,1,andre nickatina,1,1,couger,2002-01-15,2002,1,Beverages
+donut,1,andre nickatina,1,1,crackin' like pistachio's,2004-05-18,2004,5,
+candy,1,andre nickatina,1,1,crackin' like pistachio's,2004-05-18,2004,5,Sweets
+pie,1,andre nickatina,1,1,crackin' like pistachio's,2004-05-18,2004,5,Baked Products
+cookie,1,andre nickatina,1,1,crackin' like pistachio's,2004-05-18,2004,5,Baked Products
+cotton candy,1,andre nickatina,1,1,crackin' like pistachio's,2004-05-18,2004,5,
+mm,2,andre nickatina,1,2,crack raider razor,1997-10-07,1997,10,
+flavor,1,andre nickatina,1,1,crack raider razor,1997-10-07,1997,10,
+juice,1,andre nickatina,1,1,crack raider razor,1997-10-07,1997,10,Baby Foods
+food,1,andre nickatina,1,1,crack raider razor,1997-10-07,1997,10,
+fried,1,andre nickatina,1,1,crack raider razor,1997-10-07,1997,10,Poultry Products
+grilled,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,Beef Products
+cheese,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,Dairy and Egg Products
+pit,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,
+chicken,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,Poultry Products
+lemon,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,Beverages
+sour,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,Fruits and Fruit Juices
+lime,1,andre nickatina,1,1,crooked crow,1995-12-25,1995,12,Sweets
+grilled cheese,1,andre nickatina,-1,-1,crooked crow,1995-12-25,1995,12,
+daiquiri,1,andre nickatina,1,1,daiquiri factory,2000-06-06,2000,6,Beverages
+biscuit,1,andre nickatina,1,1,daiquiri factory,2000-06-06,2000,6,Fast Foods
+ice,1,andre nickatina,1,1,daiquiri factory,2000-06-06,2000,6,
+cream,1,andre nickatina,1,1,daiquiri factory,2000-06-06,2000,6,Dairy and Egg Products
+ice cream,1,andre nickatina,-1,-1,daiquiri factory,2000-06-06,2000,6,Sweets
+beer,1,andre nickatina & equipto,1,1,da spitz,2005-11-15,2005,11,Beverages
+grape,1,andre nickatina & equipto,1,1,da spitz,2005-11-15,2005,11,Vegetables and Vegetable Products
+beef,1,andre nickatina & equipto,1,1,da spitz,2005-11-15,2005,11,Beef Products
+ice,1,andre nickatina & equipto,1,1,da spitz,2005-11-15,2005,11,
+whiskey,1,andre nickatina & equipto,1,1,da spitz,2005-11-15,2005,11,Beverages
+root beer,1,andre nickatina & equipto,1,1,da spitz,2005-11-15,2005,11,Beverages
+water,1,andre nickatina},1,1,da whip,2006-12-12,2006,12,Beverages
+pancake,1,andre nickatina},1,1,da whip,2006-12-12,2006,12,Baked Products
+donut,1,andre nickatina},1,1,da whip,2006-12-12,2006,12,
+gravy,1,andre nickatina},1,1,da whip,2006-12-12,2006,12,"Soups, Sauces, and Gravies"
+candy,1,shag nasty,1,1,da whip,2006-12-12,2006,12,Sweets
+grain,1,shag nasty,1,1,da whip,2006-12-12,2006,12,
+chocolate,1,andre nickatina & equipto,1,1,dice of life (the bottle),2003-04-22,2003,4,Sweets
+caper,1,andre nickatina & equipto,1,1,dice of life (the bottle),2003-04-22,2003,4,Spices and Herbs
+garlic,2,andre nickatina,1,2,dice of life (the bottle),2003-04-22,2003,4,Vegetables and Vegetable Products
+ice,1,andre nickatina,1,1,dice of life (the bottle),2003-04-22,2003,4,
+pepper,1,andre nickatina,1,1,drought season,2013-09-24,2013,9,Vegetables and Vegetable Products
+candy,3,andre nickatina,1,3,enter heaven thru the backdoor,2004-05-18,2004,5,Sweets
+yam,3,andre nickatina,1,3,enter heaven thru the backdoor,2004-05-18,2004,5,Vegetables and Vegetable Products
+cabbage,1,andre nickatina,1,1,enter heaven thru the backdoor,2004-05-18,2004,5,Vegetables and Vegetable Products
+cheddar,1,andre nickatina,1,1,even pimps get broken hearts,1999-05-18,1999,5,Dairy and Egg Products
+fudge,1,andre nickatina,1,1,even pimps get broken hearts,1999-05-18,1999,5,Sweets
+candy,4,andre nickatina,1,4,drug luv,2008-08-19,2008,8,Sweets
+cake,4,andre nickatina,1,4,drug luv,2008-08-19,2008,8,Baked Products
+sugar,2,andre nickatina,1,2,drug luv,2008-08-19,2008,8,Sweets
+cooking,2,andre nickatina,1,2,drug luv,2008-08-19,2008,8,Beverages
+pie,2,andre nickatina,1,2,drug luv,2008-08-19,2008,8,Baked Products
+candy coated,2,andre nickatina,1,2,drug luv,2008-08-19,2008,8,
+betty crocker,2,andre nickatina,2,4,drug luv,2008-08-19,2008,8,
+cream,1,andre nickatina,1,1,falcon and the snowman,2003-04-22,2003,4,Dairy and Egg Products
+moonshine,1,andre nickatina,1,1,falcon and the snowman,2003-04-22,2003,4,
+cereal,1,andre nickatina,1,1,fa' sho',2002-03-22,2002,3,Breakfast Cereals
+pie,1,andre nickatina,1,1,fa' sho',2002-03-22,2002,3,Baked Products
+bacon,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Pork Products
+cola,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Beverages
+candy,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Sweets
+cream,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Dairy and Egg Products
+sandwich,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Baked Products
+pepper,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Vegetables and Vegetable Products
+gummy,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,
+canadian bacon,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,Pork Products
+hot pepper,1,andre nickatina & equipto,1,1,fa' sho',2002-03-22,2002,3,
+dough,1,andre nickatina,1,1,fillmoe,1995-04-19,1995,4,
+honey,1,andre nickatina,1,1,fillmoe,1995-04-19,1995,4,Sweets
+sugar,1,andre nickatina,1,1,fillmoe,1995-04-19,1995,4,Sweets
+cherry,1,andre nickatina,1,1,fist full of dollars 'green eyes',2003-04-22,2003,4,Fruits and Fruit Juices
+flavor,1,andre nickatina,1,1,fist full of dollars 'green eyes',2003-04-22,2003,4,
+pie,1,andre nickatina,1,1,fist full of dollars 'green eyes',2003-04-22,2003,4,Baked Products
+potato,1,andre nickatina,1,1,fist full of dollars 'green eyes',2003-04-22,2003,4,Vegetables and Vegetable Products
+pizza,1,andre nickatina,1,1,fist full of dollars 'green eyes',2003-04-22,2003,4,Fast Foods
+soda,2,andre nickatina,1,2,fly like a bird,2003-04-22,2003,4,Baked Products
+strawberry,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,Dairy and Egg Products
+garlic,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,Vegetables and Vegetable Products
+bread,2,andre nickatina,1,2,fly like a bird,2003-04-22,2003,4,Baked Products
+steak,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,Beef Products
+blueberry,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,Baked Products
+champagne,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,
+rose,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,Beverages
+mustard,1,andre nickatina,1,1,fly like a bird,2003-04-22,2003,4,Spices and Herbs
+strawberry soda,1,andre nickatina,-1,-1,fly like a bird,2003-04-22,2003,4,
+garlic bread,1,andre nickatina,-1,-1,fly like a bird,2003-04-22,2003,4,Baked Products
+rabbit,1,andre nickatina,1,1,ghost of fillmoe,2000-06-06,2000,6,"Lamb, Veal, and Game Products"
+sugar,1,andre nickatina,1,1,ghost of fillmoe,2000-06-06,2000,6,Sweets
+cognac,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,
+bread,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,Baked Products
+gingerbread,2,andre nickatina,1,2,gingerbread man,2000-06-06,2000,6,Baked Products
+butter,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,Dairy and Egg Products
+pecan,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,Nut and Seed Products
+gumbo,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,
+shrimp,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,Finfish and Shellfish Products
+butter pecan,1,andre nickatina,-1,-1,gingerbread man,2000-06-06,2000,6,Sweets
+jumbo shrimp,1,andre nickatina,1,1,gingerbread man,2000-06-06,2000,6,
+cake,1,andre nickatina & equipto,1,1,git down,2005-05-17,2005,5,Baked Products
+ice,1,the jacka,1,1,glamorous lifestyle,2009-06-16,2009,6,
+spinach,1,andre nickatina,1,1,glorified,2000-11-14,2000,11,Vegetables and Vegetable Products
+rose,1,andre nickatina,1,1,glorified,2000-11-14,2000,11,Beverages
+fry,1,andre nickatina,1,1,glorified,2000-11-14,2000,11,
+steak,1,andre nickatina & equipto,1,1,god gimme g's,2005-11-15,2005,11,Beef Products
+breakfast,1,andre nickatina & equipto,1,1,god gimme g's,2005-11-15,2005,11,Baked Products
+meal,1,andre nickatina & equipto,1,1,god gimme g's,2005-11-15,2005,11,Baked Products
+crab,1,andre nickatina & equipto,1,1,god gimme g's,2005-11-15,2005,11,Finfish and Shellfish Products
+cheddar,1,andre nickatina & equipto,1,1,god gimme g's,2005-11-15,2005,11,Dairy and Egg Products
+cake,1,andre nickatina & equipto,1,1,heelz,2005-05-17,2005,5,Baked Products
+espresso,1,andre nickatina & equipto,1,1,heelz,2005-05-17,2005,5,Beverages
+chicken,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Poultry Products
+watermelon,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Fruits and Fruit Juices
+pit,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,
+garlic,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Vegetables and Vegetable Products
+bread,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Baked Products
+spaghetti,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Cereal Grains and Pasta
+cherry,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Fruits and Fruit Juices
+ice,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,
+drink,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,
+pumpkin,1,andre nickatina,1,1,hell's kitchen,2002-01-15,2002,1,Vegetables and Vegetable Products
+garlic bread,1,andre nickatina,-1,-1,hell's kitchen,2002-01-15,2002,1,Baked Products
+mayonnaise,1,andre nickatina,1,1,henny all gone,2013-09-24,2013,9,Fats and Oils
+water,2,andre nickatina,1,2,henny all gone,2013-09-24,2013,9,Beverages
+sugar,1,andre nickatina,1,1,henny all gone,2013-09-24,2013,9,Sweets
+gin,1,clyde carson,1,1,henny all gone,2013-09-24,2013,9,
+champagne,1,clyde carson,1,1,henny all gone,2013-09-24,2013,9,
+pie,1,andre nickatina,1,1,hit it from the back (lips 2),1995-04-19,1995,4,Baked Products
+cherry,1,andre nickatina,1,1,hit it from the back (lips 2),1995-04-19,1995,4,Fruits and Fruit Juices
+caramel,3,andre nickatina,1,3,hit it from the back (lips 2),1995-04-19,1995,4,Sweets
+muffin,1,andre nickatina,1,1,hit it from the back (lips 2),1995-04-19,1995,4,Baked Products
+nut,2,andre nickatina,1,2,hit it from the back (lips 2),1995-04-19,1995,4,Nut and Seed Products
+wine,1,andre nickatina,1,1,ho'lat,2013-09-24,2013,9,Beverages
+pie,1,andre nickatina,1,1,ho'lat,2013-09-24,2013,9,Baked Products
+pasta,1,andre nickatina,1,1,ho'lat,2013-09-24,2013,9,"Soups, Sauces, and Gravies"
+fish,2,andre nickatina,1,2,ho'lat,2013-09-24,2013,9,Finfish and Shellfish Products
+dough,1,andre nickatina,1,1,ho'lat,2013-09-24,2013,9,
+coffee,1,krazyie bone,1,1,ho'lat,2013-09-24,2013,9,Beverages
+meal,1,krayzie bone,1,1,ho'lat,2013-09-24,2013,9,Baked Products
+butter,1,andre nickatina,1,1,girls say (remix),2010-12-14,2010,12,Dairy and Egg Products
+breakfast,1,andre nickatina,1,1,girls say (remix),2010-12-14,2010,12,Baked Products
+steak,1,andre nickatina,1,1,girls say (remix),2010-12-14,2010,12,Beef Products
+nut,1,the jacka,1,1,girls say (remix),2010-12-14,2010,12,Nut and Seed Products
+pasta,1,the jacka,1,1,girls say (remix),2010-12-14,2010,12,"Soups, Sauces, and Gravies"
+fish,1,the jacka,1,1,girls say (remix),2010-12-14,2010,12,Finfish and Shellfish Products
+cream,1,nocturnal hustlers,1,1,honeycomb,0,0,0,Dairy and Egg Products
+honeycomb,5,nocturnal hustlers,1,5,honeycomb,0,0,0,
+bacardi,1,nocturnal hustlers,1,1,honeycomb,0,0,0,
+nut,1,nocturnal hustlers,1,1,honeycomb,0,0,0,Nut and Seed Products
+coffee,1,andre nickatina,1,1,ike turner,1995-04-19,1995,4,Beverages
+cognac,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,
+candy,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,Sweets
+yam,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,Vegetables and Vegetable Products
+ice,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,
+sauce,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,"Soups, Sauces, and Gravies"
+rib,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,Beef Products
+hot sauce,1,andre nickatina,1,1,i'm a junkie,2004-05-18,2004,5,
+jelly,1,andre nickatina,1,1,i'm a pisces,0,0,0,Sweets
+bean,1,andre nickatina,1,1,i'm a pisces,0,0,0,Legumes and Legume Products
+fried,1,andre nickatina,1,1,i'm a pisces,0,0,0,Poultry Products
+popeyes,1,andre nickatina,1,1,i'm a pisces,0,0,0,Fast Foods
+pear,1,andre nickatina,1,1,i'm a pisces,0,0,0,Fruits and Fruit Juices
+jelly bean,1,andre nickatina,-1,-1,i'm a pisces,0,0,0,
+red hots,1,andre nickatina,2,2,i'm a pisces,0,0,0,
+cognac,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,
+candy,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,Sweets
+yam,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,Vegetables and Vegetable Products
+ice,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,
+sauce,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,"Soups, Sauces, and Gravies"
+rib,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,Beef Products
+hot sauce,1,andre nickatina,1,1,i'm a sav,2008-08-19,2008,8,
+honey,1,andre nickatina,1,1,i'm gone,2005-05-17,2005,5,Sweets
+steak,1,andre nickatina,1,1,jelly,2012-08-29,2012,8,Beef Products
+peanut,3,andre nickatina,1,3,jelly,2012-08-29,2012,8,Legumes and Legume Products
+peanut,1,problem,1,1,jelly,2012-08-29,2012,8,Legumes and Legume Products
+butter,3,andre nickatina,1,3,jelly,2012-08-29,2012,8,Dairy and Egg Products
+butter,1,problem,1,1,jelly,2012-08-29,2012,8,Dairy and Egg Products
+jelly,2,andre nickatina,1,2,jelly,2012-08-29,2012,8,Sweets
+jelly,1,problem,1,1,jelly,2012-08-29,2012,8,Sweets
+pancake,1,andre nickatina,1,1,jelly,2012-08-29,2012,8,Baked Products
+vodka,1,andre nickatina,1,1,jelly,2012-08-29,2012,8,Beverages
+7up,1,andre nickatina,1,1,jelly,2012-08-29,2012,8,
+candy,1,andre nickatina,1,1,jelly,2012-08-29,2012,8,Sweets
+peanut butter,3,andre nickatina,-1,-3,jelly,2012-08-29,2012,8,Legumes and Legume Products
+peanut butter,1,problem,-1,-1,jelly,2012-08-29,2012,8,Legumes and Legume Products
+cheesecake,1,problem,1,1,jelly bean colored suits,2010-04-20,2010,4,Baked Products
+blueberry,1,problem,1,1,jelly bean colored suits,2010-04-20,2010,4,Baked Products
+gummy,1,problem,1,1,jelly bean colored suits,2010-04-20,2010,4,
+jelly,1,andre nickatina,1,1,jelly bean colored suits,2010-04-20,2010,4,Sweets
+bean,1,andre nickatina,1,1,jelly bean colored suits,2010-04-20,2010,4,Legumes and Legume Products
+oil,1,andre nickatina,1,1,jelly bean colored suits,2010-04-20,2010,4,Fats and Oils
+cabbage,1,andre nickatina,1,1,jelly bean colored suits,2010-04-20,2010,4,Vegetables and Vegetable Products
+pie,1,andre nickatina,1,1,jelly bean colored suits,2010-04-20,2010,4,Baked Products
+gummy bear,1,problem,1,1,jelly bean colored suits,2010-04-20,2010,4,
+jelly bean,1,andre nickatina,-1,-1,jelly bean colored suits,2010-04-20,2010,4,
+spice,1,andre nickatina,1,1,jim jones posse,1993-01-01,1993,1,Spices and Herbs
+pit,1,andre nickatina,1,1,jim jones posse,1993-01-01,1993,1,
+pumpkin,1,andre nickatina,1,1,jim jones posse,1993-01-01,1993,1,Vegetables and Vegetable Products
+rabbit,1,andre nickatina,1,1,jim jones posse,1993-01-01,1993,1,"Lamb, Veal, and Game Products"
+juice,1,andre nickatina,1,1,jim jones posse,1993-01-01,1993,1,Baby Foods
+cheese,1,andre nickatina,1,1,july the 4th,2002-01-15,2002,1,Dairy and Egg Products
+beef,1,andre nickatina,1,1,july the 4th,2002-01-15,2002,1,Beef Products
+salt,1,andre nickatina,1,1,killa whale,1995-04-19,1995,4,Spices and Herbs
+pepper,1,andre nickatina,1,1,killa whale,1995-04-19,1995,4,Vegetables and Vegetable Products
+wishbone,1,andre nickatina,1,1,killa whale,1995-04-19,1995,4,
+sugar,1,andre nickatina,1,1,killa whale,1995-04-19,1995,4,Sweets
+chocolate,1,andre nickatina,1,1,killa whale,1995-04-19,1995,4,Sweets
+bread,1,andre nickatina,1,1,killa whale,1995-04-19,1995,4,Baked Products
+rabbit,1,andre nickatina,1,1,killin of the caine,1995-04-19,1995,4,"Lamb, Veal, and Game Products"
+salt,1,andre nickatina,1,1,killin of the caine,1995-04-19,1995,4,Spices and Herbs
+snail,1,andre nickatina,1,1,killin of the caine,1995-04-19,1995,4,Finfish and Shellfish Products
+sour,1,andre nickatina,1,1,killin of the caine,1995-04-19,1995,4,Fruits and Fruit Juices
+cream,1,andre nickatina,1,1,honeycomb,2008-08-19,2008,8,Dairy and Egg Products
+honeycomb,5,andre nickatina,1,5,honeycomb,2008-08-19,2008,8,
+bacardi,1,andre nickatina,1,1,honeycomb,2008-08-19,2008,8,
+nut,1,andre nickatina,1,1,honeycomb,2008-08-19,2008,8,Nut and Seed Products
+fried,1,nickatina,1,1,jungle,2002-03-22,2002,3,Poultry Products
+fish,1,nickatina,1,1,jungle,2002-03-22,2002,3,Finfish and Shellfish Products
+sauce,1,nickatina,1,1,jungle,2002-03-22,2002,3,"Soups, Sauces, and Gravies"
+turkey,1,nickatina,1,1,jungle,2002-03-22,2002,3,Poultry Products
+soda,1,nickatina,1,1,jungle,2002-03-22,2002,3,Baked Products
+slider,1,equipto,1,1,jungle,2002-03-22,2002,3,
+deep fried,1,nickatina,1,1,jungle,2002-03-22,2002,3,
+hot sauce,1,nickatina,1,1,jungle,2002-03-22,2002,3,
+baking soda,1,nickatina,1,1,jungle,2002-03-22,2002,3,Baked Products
+barbque,1,andre nickatina,1,1,king nicky's crown,2000-06-06,2000,6,
+cookie,1,andre nickatina,1,1,king nicky's crown,2000-06-06,2000,6,Baked Products
+noodle,1,andre nickatina & equipto,1,1,knyte rydah,2005-11-15,2005,11,Cereal Grains and Pasta
+water,1,andre nickatina & equipto,1,1,knyte rydah,2005-11-15,2005,11,Beverages
+cake,1,andre nickatina,1,1,laugh so serious,2013-09-24,2013,9,Baked Products
+dough,1,andre nickatina,1,1,laugh so serious,2013-09-24,2013,9,
+honey,1,andre nickatina,1,1,leopard,2005-01-25,2005,1,Sweets
+cola,1,andre nickatina,1,1,leopard,2005-01-25,2005,1,Beverages
+chocolate,1,andre nickatina,1,1,leopard,2005-01-25,2005,1,Sweets
+vanilla,1,andre nickatina,1,1,leopard,2005-01-25,2005,1,Sweets
+dough,1,andre nickatina,1,1,leopard,2005-01-25,2005,1,
+cake,1,andre nickatina,1,1,leopard,2005-01-25,2005,1,Baked Products
+sandwich,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Baked Products
+ham,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Pork Products
+rye,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Baked Products
+honey,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Sweets
+water,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Beverages
+flavor,1,andre nickatina,1,1,lips,1993-06-17,1993,6,
+chocolate,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Sweets
+butterscotch,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Sweets
+juice,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Baby Foods
+yam,1,andre nickatina,1,1,lips,1993-06-17,1993,6,Vegetables and Vegetable Products
+ice,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,
+tea,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Beverages
+coco,6,andre nickatina,1,6,little coco,2000-06-06,2000,6,
+pineapple,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Fruits and Fruit Juices
+sauce,2,andre nickatina,1,2,little coco,2000-06-06,2000,6,"Soups, Sauces, and Gravies"
+shrimp,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Finfish and Shellfish Products
+prawn,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,
+fish,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Finfish and Shellfish Products
+cake,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Baked Products
+chicken,2,andre nickatina,1,2,little coco,2000-06-06,2000,6,Poultry Products
+pie,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Baked Products
+bread,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Baked Products
+lemonade,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,Beverages
+fry,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,
+ice tea,1,andre nickatina,-1,-1,little coco,2000-06-06,2000,6,
+hot sauce,2,andre nickatina,1,2,little coco,2000-06-06,2000,6,
+hot wing,1,andre nickatina,2,2,little coco,2000-06-06,2000,6,
+curly fry,1,andre nickatina,1,1,little coco,2000-06-06,2000,6,
+ham,1,pimpton,1,1,little darrell,2013-02-11,2013,2,Pork Products
+bean,1,pimpton,1,1,little darrell,2013-02-11,2013,2,Legumes and Legume Products
+bread,1,pimpton,1,1,little darrell,2013-02-11,2013,2,Baked Products
+butter,1,pimpton,1,1,little darrell,2013-02-11,2013,2,Dairy and Egg Products
+sugar,1,pimpton,1,1,little darrell,2013-02-11,2013,2,Sweets
+cheesecake,1,andre nickatina,1,1,lost hawks,2005-01-25,2005,1,Baked Products
+rose,1,andre nickatina,1,1,lost hawks,2005-01-25,2005,1,Beverages
+taffy,1,andre nickatina,1,1,lost hawks,2005-01-25,2005,1,Sweets
+pit,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,
+cheese,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Dairy and Egg Products
+pancake,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Baked Products
+batter,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Poultry Products
+egg,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Dairy and Egg Products
+fried,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Poultry Products
+pork,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Pork Products
+fish,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Finfish and Shellfish Products
+shrimp,1,andre nickatina,1,1,mind full of hatred,1995-04-19,1995,4,Finfish and Shellfish Products
+pancake batter,1,andre nickatina,-1,-1,mind full of hatred,1995-04-19,1995,4,
+pepper,1,andre nickatina,1,1,monday like a friday,2006-12-12,2006,12,Vegetables and Vegetable Products
+candy,1,the jacka,1,1,monday like a friday,2006-12-12,2006,12,Sweets
+cranberry,1,the jacka,1,1,monday like a friday,2006-12-12,2006,12,Legumes and Legume Products
+sprite,1,the jacka,1,1,monday like a friday,2006-12-12,2006,12,Beverages
+sugar,1,the jacka,1,1,money sharks,2010-12-14,2010,12,Sweets
+crab,1,the jacka,1,1,money sharks,2010-12-14,2010,12,Finfish and Shellfish Products
+mustard,1,the jacka,1,1,money sharks,2010-12-14,2010,12,Spices and Herbs
+mayonnaise,1,the jacka,1,1,money sharks,2010-12-14,2010,12,Fats and Oils
+fried,1,the jacka,1,1,money sharks,2010-12-14,2010,12,Poultry Products
+candy,1,andre nickatina & equipto,1,1,morire da solo (die alone),2005-05-17,2005,5,Sweets
+cotton candy,1,andre nickatina & equipto,1,1,morire da solo (die alone),2005-05-17,2005,5,
+jolly rancher,1,andre nickatina & equipto,2,2,morire da solo (die alone),2005-05-17,2005,5,
+batter,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Poultry Products
+chicken,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Poultry Products
+watermelon,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Fruits and Fruit Juices
+catfish,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Finfish and Shellfish Products
+snapper,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Finfish and Shellfish Products
+bacon,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Pork Products
+egg,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Dairy and Egg Products
+honey,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Sweets
+spearmint,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Spices and Herbs
+gum,1,andre nickatina,1,1,mother,1998-06-23,1998,6,Sweets
+spearmint gum,1,andre nickatina,-1,-1,mother,1998-06-23,1998,6,
+fruit,1,andre nickatina,1,1,muthafucka,1995-04-19,1995,4,Baby Foods
+nut,1,andre nickatina,1,1,muthafucka,1995-04-19,1995,4,Nut and Seed Products
+chicken,1,mob figaz,1,1,my 15th birthday,2006-01-01,2006,1,Poultry Products
+rum,1,mob figaz,1,1,my 15th birthday,2006-01-01,2006,1,Beverages
+calico,1,mob figaz,1,1,my 15th birthday,2006-01-01,2006,1,
+beef,1,mob figaz,1,1,my 15th birthday,2006-01-01,2006,1,Beef Products
+steak,1,andre nickatina,1,1,my middle name is crime,2010-12-14,2010,12,Beef Products
+bean,1,andre nickatina,1,1,my middle name is crime,2010-12-14,2010,12,Legumes and Legume Products
+rice,1,andre nickatina,1,1,my middle name is crime,2010-12-14,2010,12,Cereal Grains and Pasta
+cognac,1,andre nickatina,1,1,my middle name is crime,2010-12-14,2010,12,
+cheese,1,the jacka,1,1,my middle name is crime,2010-12-14,2010,12,Dairy and Egg Products
+agua,1,the jacka,1,1,my middle name is crime,2010-12-14,2010,12,
+cheddar,1,andre nickatina,1,1,my name is money,2010-04-20,2010,4,Dairy and Egg Products
+cheese,1,andre nickatina,1,1,my name is money,2010-04-20,2010,4,Dairy and Egg Products
+honey,1,andre nickatina,1,1,my name is money,2010-04-20,2010,4,Sweets
+cheddar cheese,1,andre nickatina,-1,-1,my name is money,2010-04-20,2010,4,Dairy and Egg Products
+strawberry,1,andre nickatina,1,1,my rap world (remix),1999-05-18,1999,5,Dairy and Egg Products
+gum,1,andre nickatina,1,1,my rap world (remix),1999-05-18,1999,5,Sweets
+pie,1,andre nickatina,1,1,my rap world (remix),1999-05-18,1999,5,Baked Products
+cake,1,andre nickatina,1,1,my wishes,2004-05-18,2004,5,Baked Products
+licorice,2,andre nickatina,1,2,my wishes,2004-05-18,2004,5,
+beef,1,andre nickatina,1,1,my wishes,2004-05-18,2004,5,Beef Products
+tonic,1,andre nickatina,1,1,my wishes,2004-05-18,2004,5,
+fish,1,andre nickatina,1,1,my wishes,2004-05-18,2004,5,Finfish and Shellfish Products
+red licorice,2,andre nickatina,1,2,my wishes,2004-05-18,2004,5,
+cream,1,andre nickatina,1,1,nasty like college chicks,2004-05-18,2004,5,Dairy and Egg Products
+goldfish,1,andre nickatina,1,1,nasty like college chicks,2004-05-18,2004,5,Baked Products
+peach,1,andre nickatina,1,1,nasty like college chicks,2004-05-18,2004,5,Fruits and Fruit Juices
+georgia peach,1,andre nickatina,1,1,nasty like college chicks,2004-05-18,2004,5,
+flavor,1,andre nickatina,1,1,nickatina creation,0,0,0,
+oil,1,andre nickatina,1,1,nickatina creation,0,0,0,Fats and Oils
+licorice,1,andre nickatina,1,1,nickatina creation,0,0,0,
+crab,1,andre nickatina,1,1,nickatina creation,0,0,0,Finfish and Shellfish Products
+meat,1,andre nickatina,1,1,nickatina creation,0,0,0,Baby Foods
+lobster,1,andre nickatina,1,1,nickatina creation,0,0,0,Finfish and Shellfish Products
+sauce,1,andre nickatina,1,1,nickatina creation,0,0,0,"Soups, Sauces, and Gravies"
+crab meat,1,andre nickatina,-1,-1,nickatina creation,0,0,0,
+beef,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Beef Products
+cheese,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Dairy and Egg Products
+ice,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,
+cream,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Dairy and Egg Products
+wine,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Beverages
+pie,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Baked Products
+rum,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Beverages
+water,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Beverages
+melon,1,andre nickatina,1,1,nickatina says,2000-06-06,2000,6,Fruits and Fruit Juices
+ice cream,1,andre nickatina,-1,-1,nickatina says,2000-06-06,2000,6,Sweets
+water melon,1,andre nickatina,-1,-1,nickatina says,2000-06-06,2000,6,
+iced,1,andre nickatina,1,1,nicky's (strip club),2010-04-20,2010,4,Beverages
+drink,1,andre nickatina,1,1,nicky's (strip club),2010-04-20,2010,4,
+champagne,1,andre nickatina,1,1,nicky's (strip club),2010-04-20,2010,4,
+candy,1,andre nickatina,1,1,nino did the cartah,2003-04-22,2003,4,Sweets
+freeze pop,1,andre nickatina,2,2,nino did the cartah,2003-04-22,2003,4,
+fruit,1,andre nickatina,1,1,n yo eye's,2006-12-12,2006,12,Baby Foods
+sugar,1,andre nickatina,1,1,n yo eye's,2006-12-12,2006,12,Sweets
+bread,1,andre nickatina,1,1,n yo eye's,2006-12-12,2006,12,Baked Products
+cream,1,andre nickatina,1,1,n yo eye's,2006-12-12,2006,12,Dairy and Egg Products
+cocktail,1,andre nickatina,1,1,off that chewy,1993-06-17,1993,6,"Soups, Sauces, and Gravies"
+pit,1,andre nickatina,1,1,off that chewy,1993-06-17,1993,6,
+coffee,1,equipto,1,1,oh god,2006-12-12,2006,12,Beverages
+bean,1,equipto,1,1,oh god,2006-12-12,2006,12,Legumes and Legume Products
+pizza,1,andre nickatina,1,1,oh god,2006-12-12,2006,12,Fast Foods
+sugar,3,andre nickatina,1,3,oh god,2006-12-12,2006,12,Sweets
+barracuda,1,andre nickatina,1,1,oh god,2006-12-12,2006,12,
+coffee bean,1,equipto,-1,-1,oh god,2006-12-12,2006,12,
+sugar cane,1,andre nickatina,1,1,oh god,2006-12-12,2006,12,
+biscuit,1,andre nickatina,1,1,one ticket please,2000-11-14,2000,11,Fast Foods
+caper,1,andre nickatina,1,1,one ticket please,2000-11-14,2000,11,Spices and Herbs
+dough,2,andre nickatina,1,2,one ticket please,2000-11-14,2000,11,
+prawn,1,andre nickatina,1,1,one ticket please,2000-11-14,2000,11,
+caviar,1,andre nickatina,1,1,one ticket please,2000-11-14,2000,11,Finfish and Shellfish Products
+strawberry,1,andre nickatina,1,1,my rap world,1999-05-18,1999,5,Dairy and Egg Products
+gum,1,andre nickatina,1,1,my rap world,1999-05-18,1999,5,Sweets
+pie,1,andre nickatina,1,1,my rap world,1999-05-18,1999,5,Baked Products
+cream,1,andre nickatina,1,1,phat ass,0,0,0,Dairy and Egg Products
+cake,1,andre nickatina,1,1,phat ass,0,0,0,Baked Products
+cornbread,1,andre nickatina,1,1,phat ass,0,0,0,Baked Products
+lettuce,1,andre nickatina,1,1,phat ass,0,0,0,Vegetables and Vegetable Products
+funnel cake,1,andre nickatina,1,1,phat ass,0,0,0,
+bacon,1,andre nickatina,1,1,pick-cha,2003-04-22,2003,4,Pork Products
+egg,1,andre nickatina,1,1,pick-cha,2003-04-22,2003,4,Dairy and Egg Products
+sour,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Fruits and Fruit Juices
+gum,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Sweets
+beef,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Beef Products
+jerky,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,
+chicken,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Poultry Products
+turkey,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Poultry Products
+sardine,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Finfish and Shellfish Products
+cream,1,andre nickatina,1,1,piece of my mind,1995-04-19,1995,4,Dairy and Egg Products
+beef jerky,1,andre nickatina,-1,-1,piece of my mind,1995-04-19,1995,4,Snacks
+soup,1,andre nickatina,1,1,pieces of a broken man,2006-12-12,2006,12,"Soups, Sauces, and Gravies"
+coco,1,andre nickatina,1,1,pieces of a broken man,2006-12-12,2006,12,
+drink,1,andre nickatina,1,1,pieces of a broken man,2006-12-12,2006,12,
+steak,1,equipto,1,1,pieces of a broken man,2006-12-12,2006,12,Beef Products
+barracuda,1,andre nickatina,1,1,pimp hop,2010-04-20,2010,4,
+breakfast,1,andre nickatina,1,1,pimp hop,2010-04-20,2010,4,Baked Products
+waffle,1,andre nickatina,1,1,pimp hop,2010-04-20,2010,4,Baked Products
+pineapple,4,andre nickatina,1,4,pineapple juice,2007-09-18,2007,9,Fruits and Fruit Juices
+juice,4,andre nickatina,1,4,pineapple juice,2007-09-18,2007,9,Baby Foods
+drink,5,andre nickatina,1,5,pineapple juice,2007-09-18,2007,9,
+cognac,1,andre nickatina,1,1,pineapple juice,2007-09-18,2007,9,
+lemon,1,andre nickatina,1,1,pineapple juice,2007-09-18,2007,9,Beverages
+lime,1,andre nickatina,1,1,pineapple juice,2007-09-18,2007,9,Sweets
+pineapple juice,4,andre nickatina,-1,-4,pineapple juice,2007-09-18,2007,9,Fruits and Fruit Juices
+lemon lime,1,andre nickatina,-1,-1,pineapple juice,2007-09-18,2007,9,
+cream,1,andre nickatina & equipto,1,1,pitbull terrier,2002-03-22,2002,3,Dairy and Egg Products
+flavor,1,andre nickatina & equipto,1,1,pitbull terrier,2002-03-22,2002,3,
+caper,1,andre nickatina & equipto,1,1,pitbull terrier,2002-03-22,2002,3,Spices and Herbs
+steak,2,andre nickatina & equipto,1,2,pitbull terrier,2002-03-22,2002,3,Beef Products
+cheese,1,andre nickatina & equipto,1,1,pitbull terrier,2002-03-22,2002,3,Dairy and Egg Products
+dough,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,
+pineapple,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,Fruits and Fruit Juices
+butter,5,andre nickatina & equipto,1,5,p-nut butter breakdown,2002-03-22,2002,3,Dairy and Egg Products
+jelly,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,Sweets
+peanut,3,andre nickatina & equipto,1,3,p-nut butter breakdown,2002-03-22,2002,3,Legumes and Legume Products
+scramble,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,
+macaroni,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,Cereal Grains and Pasta
+chicken,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,Poultry Products
+cognac,1,andre nickatina & equipto,1,1,p-nut butter breakdown,2002-03-22,2002,3,
+peanut butter,3,andre nickatina & equipto,-1,-3,p-nut butter breakdown,2002-03-22,2002,3,Legumes and Legume Products
+pina,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,
+flavor,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,
+water,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,Beverages
+popeyes,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,Fast Foods
+meal,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,Baked Products
+fry,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,
+lime,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,Sweets
+skittle,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,
+goldfish,1,andre nickatina & equipto,1,1,popeye's certified,2010-04-20,2010,4,Baked Products
+onion,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,Vegetables and Vegetable Products
+burger,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,
+restaurant,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,Restaurant Foods
+steak,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,Beef Products
+pork,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,Pork Products
+pina colada,1,andre nickatina & equipto,-1,-1,popeye's certified,2010-04-20,2010,4,Beverages
+onion ring,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,Vegetables and Vegetable Products
+burger king,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,Fast Foods
+pork chop,1,andre nickatina,1,1,popeye's certified,2010-04-20,2010,4,
+cola,1,andre nickatina,1,1,powda 4 the hoes,1995-04-19,1995,4,Beverages
+honey,2,andre nickatina,1,2,powda 4 the hoes,1995-04-19,1995,4,Sweets
+potato,1,andre nickatina,1,1,powda 4 the hoes,1995-04-19,1995,4,Vegetables and Vegetable Products
+stuffing,1,andre nickatina,1,1,powda 4 the hoes,1995-04-19,1995,4,Baked Products
+cherry,1,andre nickatina,1,1,powda 4 the hoes,1995-04-19,1995,4,Fruits and Fruit Juices
+butterscotch,1,andre nickatina,1,1,powda 4 the hoes,1995-04-19,1995,4,Sweets
+sugar,1,andre nickatina,1,1,powda 4 the hoes,1995-04-19,1995,4,Sweets
+hash brown,1,andre nickatina,2,2,powda 4 the hoes,1995-04-19,1995,4,Vegetables and Vegetable Products
+apple,1,andre nickatina & equipto,1,1,public enemy #7,2002-03-22,2002,3,Fruits and Fruit Juices
+red apple,1,andre nickatina & equipto,1,1,public enemy #7,2002-03-22,2002,3,
+cracker,1,andre nickatina & equipto,1,1,pumped,2002-03-22,2002,3,Baked Products
+dough,1,andre nickatina & equipto,1,1,pumped,2002-03-22,2002,3,
+nut,1,andre nickatina & equipto,1,1,pure pressure,0,0,0,Nut and Seed Products
+steak,1,andre nickatina & equipto,1,1,pure pressure,0,0,0,Beef Products
+cheese,1,andre nickatina,1,1,pure pressure,0,0,0,Dairy and Egg Products
+spaghetti,1,andre nickatina & equipto,1,1,purrfect storm,0,0,0,Cereal Grains and Pasta
+prawn,1,andre nickatina & equipto,1,1,purrfect storm,0,0,0,
+bread,1,andre nickatina & equipto,1,1,purrfect storm,0,0,0,Baked Products
+candy,1,andre nickatina & equipto,1,1,purrfect storm,0,0,0,Sweets
+banana,1,andre nickatina & equipto,1,1,purrfect storm,0,0,0,Fruits and Fruit Juices
+cream,1,andre nickatina & equipto,1,1,purrfect storm,0,0,0,Dairy and Egg Products
+banana cream,1,andre nickatina & equipto,-1,-1,purrfect storm,0,0,0,Baked Products
+candy,10,andre nickatina & equipto,1,10,rap candy bars,0,0,0,Sweets
+lemonhead,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+bean,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Legumes and Legume Products
+licorice,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+reeses,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+gummy,2,andre nickatina & equipto,1,2,rap candy bars,0,0,0,
+chocolate,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+whatchamacallit,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+sour,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Fruits and Fruit Juices
+toffee,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+taffy,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+fish,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Finfish and Shellfish Products
+twix,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+sugar,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+oatmeal,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Baked Products
+peppermint,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Spices and Herbs
+honey,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+jawbreaker,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+almond,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Nut and Seed Products
+apple,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Fruits and Fruit Juices
+caramel,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+grape,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Vegetables and Vegetable Products
+cake,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Baked Products
+hershey,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+pumpkin,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Vegetables and Vegetable Products
+baked bean,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+reeses piece,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+kit kat,1,andre nickatina & equipto,2,2,rap candy bars,0,0,0,
+gummy bear,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+gummy worm,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+baby ruth,1,andre nickatina & equipto,2,2,rap candy bars,0,0,0,
+swedish fish,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+oatmeal cooky,1,andre nickatina & equipto,-1,-1,rap candy bars,0,0,0,
+almond joy,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+candy bar,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,Sweets
+candy apple,1,andre nickatina & equipto,-1,-1,rap candy bars,0,0,0,
+cake mix,1,andre nickatina & equipto,1,1,rap candy bars,0,0,0,
+bread,1,andre nickatina,1,1,raven,1998-06-23,1998,6,Baked Products
+grain,1,andre nickatina,1,1,raven,1998-06-23,1998,6,
+gin,1,andre nickatina,1,1,raven,1998-06-23,1998,6,
+rose,3,andre nickatina,1,3,rose,2000-11-14,2000,11,Beverages
+nut,1,andre nickatina,1,1,r these your shoes,1999-05-18,1999,5,Nut and Seed Products
+drink,1,andre nickatina,1,1,r these your shoes,1999-05-18,1999,5,
+7up,1,andre nickatina,1,1,r these your shoes,1999-05-18,1999,5,
+bread,1,andre nickatina,1,1,r these your shoes,1999-05-18,1999,5,Baked Products
+pit,1,andre nickatina,1,1,r these your shoes,1999-05-18,1999,5,
+drink,1,andre nickatina,1,1,rumppa bum bum,2000-06-06,2000,6,
+drink,1,the jacka,1,1,say jack*,2019-09-27,2019,9,
+nut,2,andre nickatina,1,2,scottie 15,1998-04-28,1998,4,Nut and Seed Products
+dressing,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,Fats and Oils
+juice,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,Baby Foods
+drink,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,
+cappuccino,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,
+pina,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,
+pit,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,
+heinz,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,Baked Products
+donut,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,
+ice,2,andre nickatina,1,2,scottie 15,1998-04-28,1998,4,
+cream,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,Dairy and Egg Products
+soda,1,andre nickatina,1,1,scottie 15,1998-04-28,1998,4,Baked Products
+ice cream,2,andre nickatina,-1,-2,scottie 15,1998-04-28,1998,4,Sweets
+nut,2,,1,2,shaggy's 15s,1998-04-28,1998,4,Nut and Seed Products
+dressing,1,,1,1,shaggy's 15s,1998-04-28,1998,4,Fats and Oils
+juice,1,,1,1,shaggy's 15s,1998-04-28,1998,4,Baby Foods
+drink,1,,1,1,shaggy's 15s,1998-04-28,1998,4,
+pina,1,,1,1,shaggy's 15s,1998-04-28,1998,4,
+pit,1,,1,1,shaggy's 15s,1998-04-28,1998,4,
+donut,1,,1,1,shaggy's 15s,1998-04-28,1998,4,
+ice,1,,1,1,shaggy's 15s,1998-04-28,1998,4,
+cream,1,,1,1,shaggy's 15s,1998-04-28,1998,4,Dairy and Egg Products
+soda,1,,1,1,shaggy's 15s,1998-04-28,1998,4,Baked Products
+ice cream,1,,-1,-1,shaggy's 15s,1998-04-28,1998,4,Sweets
+dressing,1,,1,1,show gone wrong,2003-04-22,2003,4,Fats and Oils
+nut,2,,1,2,smoke dope and rap,1993-06-17,1993,6,Nut and Seed Products
+barbeque,1,,1,1,smoke dope and rap,1993-06-17,1993,6,
+beef,1,,1,1,smoke dope and rap,1993-06-17,1993,6,Beef Products
+drink,2,andre nickatina,1,2,smoke dope and rap,1993-06-17,1993,6,
+beer,1,andre nickatina,1,1,smoke dope and rap,1993-06-17,1993,6,Beverages
+gin,1,andre nickatina,1,1,smoke dope and rap,1993-06-17,1993,6,
+barbeque beef,1,,-1,-1,smoke dope and rap,1993-06-17,1993,6,
+nut,2,andre nickatina,1,2,smoke dope & rap live,2000-11-14,2000,11,Nut and Seed Products
+barbeque,1,andre nickatina,1,1,smoke dope & rap live,2000-11-14,2000,11,
+beef,1,andre nickatina,1,1,smoke dope & rap live,2000-11-14,2000,11,Beef Products
+drink,2,andre nickatina,1,2,smoke dope & rap live,2000-11-14,2000,11,
+beer,1,andre nickatina,1,1,smoke dope & rap live,2000-11-14,2000,11,Beverages
+gin,1,andre nickatina,1,1,smoke dope & rap live,2000-11-14,2000,11,
+barbeque beef,1,andre nickatina,-1,-1,smoke dope & rap live,2000-11-14,2000,11,
+beef,1,andre nickatina,1,1,soul of a coke dealer,2003-04-22,2003,4,Beef Products
+cheese,1,andre nickatina,1,1,soul of a coke dealer,2003-04-22,2003,4,Dairy and Egg Products
+cake,1,andre nickatina,1,1,soul of a coke dealer,2003-04-22,2003,4,Baked Products
+pumpkin,6,andre nickatina,1,6,speed ball,2013-09-24,2013,9,Vegetables and Vegetable Products
+coco,1,andre nickatina,1,1,speed ball,2013-09-24,2013,9,
+milkshake,1,andre nickatina,1,1,speed ball,2013-09-24,2013,9,
+oil,1,andre nickatina,1,1,square crows,2010-12-14,2010,12,Fats and Oils
+ice,1,the jacka,1,1,square crows,2010-12-14,2010,12,
+cream,1,the jacka,1,1,square crows,2010-12-14,2010,12,Dairy and Egg Products
+flour,1,andre nickatina,1,1,summer in florida,2003-04-22,2003,4,Cereal Grains and Pasta
+sour,1,andre nickatina,1,1,summer in florida,2003-04-22,2003,4,Fruits and Fruit Juices
+macaroni,1,andre nickatina,1,1,summer in florida,2003-04-22,2003,4,Cereal Grains and Pasta
+ginger,1,andre nickatina,1,1,sun duck kim,1999-05-18,1999,5,Spices and Herbs
+bread,1,andre nickatina,1,1,sun duck kim,1999-05-18,1999,5,Baked Products
+drink,1,andre nickatina,1,1,sun duck kim,1999-05-18,1999,5,
+drink,1,andre nickatina,1,1,sun duck kim,1999-05-18,1999,5,
+coffee,1,andre nickatina,1,1,sun duck kim,1999-05-18,1999,5,Beverages
+fish,2,andre nickatina,1,2,sun duck kim,1999-05-18,1999,5,Finfish and Shellfish Products
+ginger bread,1,andre nickatina,-1,-1,sun duck kim,1999-05-18,1999,5,
+beer,1,andre nickatina,1,1,saw a gangsta cry,2000-11-14,2000,11,Beverages
+soda,1,andre nickatina,1,1,saw a gangsta cry,2000-11-14,2000,11,Baked Products
+burger,1,andre nickatina,1,1,situation critical,1995-04-19,1995,4,
+bread,3,andre nickatina,1,3,situation critical,1995-04-19,1995,4,Baked Products
+fruit,1,andre nickatina,1,1,situation critical,1995-04-19,1995,4,Baby Foods
+alcohol,1,andre nickatina,1,1,sunny kim,2005-01-25,2005,1,Spices and Herbs
+cranberry,1,andre nickatina,1,1,sunny kim,2005-01-25,2005,1,Legumes and Legume Products
+cherry,1,andre nickatina,1,1,sunny kim,2005-01-25,2005,1,Fruits and Fruit Juices
+icecream,1,andre nickatina,1,1,sunny kim,2005-01-25,2005,1,
+soda,1,ii sicc,1,1,talez from the sicc,0,0,0,Baked Products
+bread,1,ii sicc,1,1,talez from the sicc,0,0,0,Baked Products
+scramble,1,ii sicc,1,1,talez from the sicc,0,0,0,
+cake,1,ii sicc,1,1,talez from the sicc,0,0,0,Baked Products
+berry,1,ii sicc,1,1,talez from the sicc,0,0,0,
+cappuccino,2,andre nickatina,1,2,tears of a clown,1999-05-18,1999,5,
+cake,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,Baked Products
+moonshine,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,
+cognac,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,
+burger,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,
+milkshake,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,
+fry,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,
+bacardi,1,andre nickatina,1,1,tears of a clown,1999-05-18,1999,5,
+burger,1,andre nickatina & equipto,1,1,tell dat to dummies,2005-11-15,2005,11,
+sap,1,andre nickatina & equipto,1,1,tell dat to dummies,2005-11-15,2005,11,
+flavor,2,andre nickatina & equipto,1,2,tell dat to dummies,2005-11-15,2005,11,
+doublemint,1,andre nickatina & equipto,1,1,tell dat to dummies,2005-11-15,2005,11,
+water,1,andre nickatina & equipto,1,1,that!,2002-03-22,2002,3,Beverages
+daiquiri,1,andre nickatina & equipto,1,1,that!,2002-03-22,2002,3,Beverages
+prawn,1,andre nickatina & equipto,1,1,that!,2002-03-22,2002,3,
+goat,1,equipto,1,1,that pt. 2,2004-02-10,2004,2,Dairy and Egg Products
+nestle,1,,1,1,the al capone suite,2000-06-06,2000,6,Sweets
+milky,1,,1,1,the al capone suite,2000-06-06,2000,6,
+fried,1,,1,1,the al capone suite,2000-06-06,2000,6,Poultry Products
+gravy,1,,1,1,the al capone suite,2000-06-06,2000,6,"Soups, Sauces, and Gravies"
+espresso,1,,1,1,the al capone suite,2000-06-06,2000,6,Beverages
+nestle crunch,1,,1,1,the al capone suite,2000-06-06,2000,6,
+milky way,1,,1,1,the al capone suite,2000-06-06,2000,6,
+sugar,1,,1,1,the ave.,1993-06-17,1993,6,Sweets
+gum,1,andre nickatina,1,1,the ave.,1993-06-17,1993,6,Sweets
+chicken,1,andre nickatina,1,1,the ave.,1993-06-17,1993,6,Poultry Products
+pit,1,andre nickatina,1,1,the ave.,1993-06-17,1993,6,
+sugar,1,andre nickatina,1,1,the ave. remix,2000-11-14,2000,11,Sweets
+flavor,1,andre nickatina,1,1,the banger,2013-09-24,2013,9,
+coconut,1,andre nickatina,1,1,the banger,2013-09-24,2013,9,Fats and Oils
+bean,1,andre nickatina,1,1,the most hated man in frisco,1993-06-17,1993,6,Legumes and Legume Products
+pie,1,andre nickatina,1,1,the most hated man in frisco,1993-06-17,1993,6,Baked Products
+bean pie,1,andre nickatina,-1,-1,the most hated man in frisco,1993-06-17,1993,6,
+water,1,andre nickatina,1,1,the rap gods,1999-05-18,1999,5,Beverages
+cream,1,andre nickatina,1,1,the rap gods,1999-05-18,1999,5,Dairy and Egg Products
+bacon,1,andre nickatina,1,1,the rap gods,1999-05-18,1999,5,Pork Products
+egg,1,andre nickatina,1,1,the rap gods,1999-05-18,1999,5,Dairy and Egg Products
+oil,1,andre nickatina & equipto,1,1,these clowns,2005-05-17,2005,5,Fats and Oils
+ice,2,andre nickatina & equipto,1,2,these clowns,2005-05-17,2005,5,
+water,1,andre nickatina & equipto,1,1,these clowns,2005-05-17,2005,5,Beverages
+milk,1,andre nickatina & equipto,1,1,these clowns,2005-05-17,2005,5,Dairy and Egg Products
+steak,1,andre nickatina & equipto,1,1,these clowns,2005-05-17,2005,5,Beef Products
+butter,1,andre nickatina & equipto,1,1,these r the tales,2000-11-14,2000,11,Dairy and Egg Products
+steak,1,andre nickatina & equipto,1,1,these r the tales,2000-11-14,2000,11,Beef Products
+tbone,1,andre nickatina,1,1,timex ticker,2013-09-24,2013,9,
+steak,1,andre nickatina,1,1,timex ticker,2013-09-24,2013,9,Beef Products
+tbone steak,1,andre nickatina,-1,-1,timex ticker,2013-09-24,2013,9,Beef Products
+bread,1,andre nickatina,1,1,the stress factor,1995-04-19,1995,4,Baked Products
+coconut,1,andre nickatina,1,1,tony montana,2010-04-20,2010,4,Fats and Oils
+bread,1,andre nickatina,1,1,tony montana,2010-04-20,2010,4,Baked Products
+scallion,1,andre nickatina,1,1,u ain't my folks,1995-04-19,1995,4,
+butterscotch,1,andre nickatina,1,1,u ain't my folks,1995-04-19,1995,4,Sweets
+honey,2,andre nickatina & equipto,1,2,u got talent,2005-11-15,2005,11,Sweets
+banana,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Fruits and Fruit Juices
+pea,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Vegetables and Vegetable Products
+candy,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Sweets
+vanilla,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Sweets
+strawberry,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Dairy and Egg Products
+sauce,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,"Soups, Sauces, and Gravies"
+cheesecake,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Baked Products
+rose,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,Beverages
+cotton candy,1,andre nickatina & equipto,1,1,u got talent,2005-11-15,2005,11,
+ice,1,andre nickatina,1,1,wack mc's,0,0,0,
+waffle,6,andre nickatina,1,6,waffle house,2010-04-20,2010,4,Baked Products
+steak,1,andre nickatina,1,1,walkin' assassin,1997-01-01,1997,1,Beef Products
+pork,1,andre nickatina,1,1,walkin' assassin,1997-01-01,1997,1,Pork Products
+meat,1,andre nickatina,1,1,walkin' assassin,1997-01-01,1997,1,Baby Foods
+rice,1,andre nickatina,1,1,walkin' assassin,1997-01-01,1997,1,Cereal Grains and Pasta
+morsel,1,andre nickatina,1,1,yssup,1998-06-23,1998,6,
+cake,1,andre nickatina,1,1,yssup,1998-06-23,1998,6,Baked Products
+tootsie roll,1,andre nickatina,2,2,yssup,1998-06-23,1998,6,Sweets
+orange,1,andre nickatina,1,1,y-u-smilin,2006-12-12,2006,12,Fruits and Fruit Juices
+butter,1,andre nickatina,1,1,y-u-smilin,2006-12-12,2006,12,Dairy and Egg Products
+pancake,1,andre nickatina,1,1,y-u-smilin,2006-12-12,2006,12,Baked Products
+rib,1,equipto,1,1,y-u-smilin,2006-12-12,2006,12,Beef Products
+fish,1,equipto,1,1,y-u-smilin,2006-12-12,2006,12,Finfish and Shellfish Products
+boost,1,andre nickatina,1,1,train with no love,2003-04-22,2003,4,
+meat,1,andre nickatina,1,1,train with no love,2003-04-22,2003,4,Baby Foods
+flavor,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,
+steak,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,Beef Products
+potato,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,Vegetables and Vegetable Products
+garlic,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,Vegetables and Vegetable Products
+bread,2,andre nickatina,1,2,yeah,2006-08-15,2006,8,Baked Products
+prawn,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,
+breakfast,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,Baked Products
+gin,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,
+popeyes,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,Fast Foods
+fry,1,andre nickatina,1,1,yeah,2006-08-15,2006,8,
+garlic bread,1,andre nickatina,-1,-1,yeah,2006-08-15,2006,8,Baked Products

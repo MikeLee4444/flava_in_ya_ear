@@ -1,0 +1,1523 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+honeycomb,1,mack 10,1,1,10 million ways,0,0,0,
+biscuit,1,mack 10,1,1,10 million ways,0,0,0,Fast Foods
+raisin,1,mack 10,1,1,10 million ways,0,0,0,Baked Products
+nut,1,mack 10,1,1,10 million ways,0,0,0,Nut and Seed Products
+ice,2,ice cube,1,2,2 decades ago (insert),2006-06-06,2006,6,
+ice cube,2,ice cube,1,2,2 decades ago (insert),2006-06-06,2006,6,
+barbecue,1,ice cube,1,1,2 n the morning,1994-11-22,1994,11,"Soups, Sauces, and Gravies"
+ice,1,ice cube,1,1,2 n the morning,1994-11-22,1994,11,
+nut,1,ice cube,1,1,2 n the morning,1994-11-22,1994,11,Nut and Seed Products
+dennys,1,ice cube,1,1,2 n the morning,1994-11-22,1994,11,Restaurant Foods
+drink,1,ice cube,1,1,2 n the morning,1994-11-22,1994,11,
+ice cube,1,ice cube,1,1,2 n the morning,1994-11-22,1994,11,
+chicken,1,ice cube,1,1,3 time felons,1996-10-22,1996,10,Poultry Products
+ice,1,westside connection,1,1,3 time felons,1996-10-22,1996,10,
+chicken finger,1,ice cube,1,1,3 time felons,1996-10-22,1996,10,Restaurant Foods
+ice cube,1,westside connection,1,1,3 time felons,1996-10-22,1996,10,
+food,1,wc,1,1,80's babies,2007-08-14,2007,8,
+fast food,1,wc,1,1,80's babies,2007-08-14,2007,8,Fast Foods
+chocolate,1,wc,1,1,addicted to it,2007-08-14,2007,8,Sweets
+dough,1,wc,1,1,addicted to it,2007-08-14,2007,8,
+ice,2,wc,1,2,addicted to it,2007-08-14,2007,8,
+cream,1,wc,1,1,addicted to it,2007-08-14,2007,8,Dairy and Egg Products
+meal,1,wc,1,1,addicted to it,2007-08-14,2007,8,Baked Products
+ice cream,1,wc,-1,-1,addicted to it,2007-08-14,2007,8,Sweets
+ice,1,ice cube,1,1,$100 dollar bill y'all,2001-12-04,2001,12,
+ice cube,1,ice cube,1,1,$100 dollar bill y'all,2001-12-04,2001,12,
+ice,1,ice cube,1,1,24 mo' hours,2000-03-21,2000,3,
+ice,2,ice cube,1,2,24 mo' hours,2000-03-21,2000,3,
+fish,1,ice cube,1,1,24 mo' hours,2000-03-21,2000,3,Finfish and Shellfish Products
+meal,1,ice cube,1,1,24 mo' hours,2000-03-21,2000,3,Baked Products
+bread,1,ice cube,1,1,24 mo' hours,2000-03-21,2000,3,Baked Products
+soda,1,ice cube,1,1,24 mo' hours,2000-03-21,2000,3,Baked Products
+ice cube,1,ice cube,1,1,24 mo' hours,2000-03-21,2000,3,
+ice cube,2,ice cube,1,2,24 mo' hours,2000-03-21,2000,3,
+sesame,1,ice cube,1,1,a bird in the hand,1991-10-29,1991,10,Baked Products
+ice,1,ice cube,1,1,a bird in the hand,1991-10-29,1991,10,
+mcdonalds,1,ice cube,1,1,a bird in the hand,1991-10-29,1991,10,Fast Foods
+food,1,ice cube,1,1,a bird in the hand,1991-10-29,1991,10,
+dough,1,ice cube,1,1,a bird in the hand,1991-10-29,1991,10,
+ice cube,1,ice cube,1,1,a bird in the hand,1991-10-29,1991,10,
+ice,1,,1,1,affirmation of faith,2018-09-06,2018,9,
+ice,19,viracocha mendoza,1,19,affirmation of faith,2018-09-06,2018,9,
+drink,1,,1,1,affirmation of faith,2018-09-06,2018,9,
+salt,1,viracocha mendoza,1,1,affirmation of faith,2018-09-06,2018,9,Spices and Herbs
+ice cube,1,,1,1,affirmation of faith,2018-09-06,2018,9,
+rock salt,1,viracocha mendoza,1,1,affirmation of faith,2018-09-06,2018,9,
+ice,1,viracocha mendoza,1,1,a gangsta's fairytale,1990-05-16,1990,5,
+ice,1,ice cube,1,1,a gangsta's fairytale,1990-05-16,1990,5,
+ice,2,ice cube,1,2,a gangsta's fairytale,1990-05-16,1990,5,
+sesame,1,ice cube,1,1,a gangsta's fairytale,1990-05-16,1990,5,Baked Products
+sesame,1,ice cube,1,1,a gangsta's fairytale,1990-05-16,1990,5,Baked Products
+hickory,1,ice cube,1,1,a gangsta's fairytale,1990-05-16,1990,5,
+bacon,1,ice cube,1,1,a gangsta's fairytale,1990-05-16,1990,5,Pork Products
+ice cube,1,viracocha mendoza,1,1,a gangsta's fairytale,1990-05-16,1990,5,
+berry,1,king tee,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,
+nut,1,king tee,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,Nut and Seed Products
+wiener,1,king tee,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,
+honey,1,king t,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,Sweets
+ramen,1,king t,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,
+bologna,1,king t,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,Sausages and Luncheon Meats
+ice,1,king t,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,
+top ramen,1,king t,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,
+ice cube,1,king t,1,1,a hoe b-4 tha homie,1993-01-26,1993,1,
+oatmeal,1,da lench mob,1,1,ain't got no class,1992-09-22,1992,9,Baked Products
+meal,1,da lench mob,1,1,ain't got no class,1992-09-22,1992,9,Baked Products
+nutrition,1,da lench mob,1,1,ain't got no class,1992-09-22,1992,9,
+flavor,1,dazzie dee,1,1,ain't no busters this way,1996-01-01,1996,1,
+rabbit,1,ice cube,1,1,all day everyday,2010-09-28,2010,9,"Lamb, Veal, and Game Products"
+bread,1,ice cube,1,1,all day everyday,2010-09-28,2010,9,Baked Products
+ice,1,ice cube,1,1,all on my nutsac,1992-09-22,1992,9,
+ice,16,da lench mob,1,16,all on my nutsac,1992-09-22,1992,9,
+mcdonalds,1,da lench mob,1,1,all on my nutsac,1992-09-22,1992,9,Fast Foods
+ice cube,1,ice cube,1,1,all on my nutsac,1992-09-22,1992,9,
+ice cube,16,da lench mob,1,16,all on my nutsac,1992-09-22,1992,9,
+banana,1,westside connection,1,1,all the critics in new york,1996-10-22,1996,10,Fruits and Fruit Juices
+ice,5,ice cube,1,5,amerikkka's most wanted,1990-04-17,1990,4,
+ice,1,ice cube,1,1,amerikkka's most wanted,1990-04-17,1990,4,
+guinness,1,ice cube,1,1,amerikkka's most wanted,1990-04-17,1990,4,
+herb,1,ice cube,1,1,amerikkka's most wanted,1990-04-17,1990,4,Beverages
+tbone,1,ice cube,1,1,amerikkka's most wanted,1990-04-17,1990,4,
+ice cube,5,ice cube,1,5,amerikkka's most wanted,1990-04-17,1990,4,
+ice cube,1,ice cube,1,1,amerikkka's most wanted,1990-04-17,1990,4,
+oreo,1,da lench mob,1,1,ankle blues,1992-09-22,1992,9,
+fry,1,ice cube,1,1,anybody seen the popo's,2005-04-26,2005,4,
+ice,3,mack 10,1,3,aqua boogie (insert),1997-09-16,1997,9,
+water,1,mack 10,1,1,aqua boogie (insert),1997-09-16,1997,9,Beverages
+ice cube,3,mack 10,1,3,aqua boogie (insert),1997-09-16,1997,9,
+ice,5,ice cube,1,5,architect of gangsta rap,2015-01-10,2015,1,
+ice cube,5,ice cube,1,5,architect of gangsta rap,2015-01-10,2015,1,
+rum,1,mack 10,1,1,armed & dangerous,1995-06-20,1995,6,Beverages
+chicken,1,mack 10,1,1,armed & dangerous,1995-06-20,1995,6,Poultry Products
+orange,1,ice cube,1,1,arrest the president,2018-11-09,2018,11,Fruits and Fruit Juices
+ice,1,ice cube,1,1,arrest the president,2018-11-09,2018,11,
+fruit,1,ice cube,1,1,arrest the president,2018-11-09,2018,11,Baby Foods
+vegetable,1,ice cube,1,1,arrest the president,2018-11-09,2018,11,Baby Foods
+mimosa,1,ice cube,1,1,ask about me,1998-11-17,1998,11,
+cheese,2,ice cube,1,2,ask about me,1998-11-17,1998,11,Dairy and Egg Products
+ice,3,luke,1,3,asshole naked,0,0,0,
+nut,1,luke,1,1,asshole naked,0,0,0,Nut and Seed Products
+drink,1,luke,1,1,asshole naked,0,0,0,
+ice cube,3,luke,1,3,asshole naked,0,0,0,
+bread,1,killer mike,1,1,bad day/worst day remix,0,0,0,Baked Products
+cracker,1,killer mike,1,1,bad day/worst day remix,0,0,0,Baked Products
+bourbon,1,killer mike,1,1,bad day/worst day remix,0,0,0,
+water,2,killer mike,1,2,bad day/worst day remix,0,0,0,Beverages
+food,1,killer mike,1,1,bad day/worst day remix,0,0,0,
+rabbit,1,ice cube,1,1,bad dope,2018-12-07,2018,12,"Lamb, Veal, and Game Products"
+ice,2,master p,1,2,bangin',1997-01-28,1997,1,
+ice,2,ice cube,1,2,bangin',1997-01-28,1997,1,
+cream,1,master p,1,1,bangin',1997-01-28,1997,1,Dairy and Egg Products
+cream,1,ice cube,1,1,bangin',1997-01-28,1997,1,Dairy and Egg Products
+calico,1,ice cube,1,1,bangin',1997-01-28,1997,1,
+beef,1,ice cube,1,1,bangin',1997-01-28,1997,1,Beef Products
+ice cream,1,master p,-1,-1,bangin',1997-01-28,1997,1,Sweets
+ice cream,1,ice cube,-1,-1,bangin',1997-01-28,1997,1,Sweets
+ice cube,1,master p,1,1,bangin',1997-01-28,1997,1,
+ice cube,1,ice cube,1,1,bangin',1997-01-28,1997,1,
+aunt jemima,1,ice cube,2,2,bangin',1997-01-28,1997,1,
+aunt jemima,1,mack 10,2,2,bangin',1997-01-28,1997,1,
+ice,4,mack 10,1,4,bangin' at the party,2003-12-09,2003,12,
+ice,4,wc,1,4,bangin' at the party,2003-12-09,2003,12,
+ice,4,ice cube,1,4,bangin' at the party,2003-12-09,2003,12,
+ice cube,4,mack 10,1,4,bangin' at the party,2003-12-09,2003,12,
+ice cube,4,wc,1,4,bangin' at the party,2003-12-09,2003,12,
+ice cube,4,ice cube,1,4,bangin' at the party,2003-12-09,2003,12,
+ice,9,mack 10,1,9,bangin gears (insert),1997-09-16,1997,9,
+barbecue,1,mack 10,1,1,bangin gears (insert),1997-09-16,1997,9,"Soups, Sauces, and Gravies"
+ice cube,9,mack 10,1,9,bangin gears (insert),1997-09-16,1997,9,
+ice,6,ice cube,1,6,believe it or not,2008-08-19,2008,8,
+sandwich,1,ice cube,1,1,believe it or not,2008-08-19,2008,8,Baked Products
+ice cube,5,ice cube,1,5,believe it or not,2008-08-19,2008,8,
+ice,1,ice cube,1,1,bend a corner wit me,1993-12-16,1993,12,
+drink,1,mr. short khop,1,1,bend a corner wit me,1993-12-16,1993,12,
+cake,1,mr. short khop,1,1,bend a corner wit me,1993-12-16,1993,12,Baked Products
+cheese,1,mr. short khop,1,1,bend a corner wit me,1993-12-16,1993,12,Dairy and Egg Products
+cheddar,1,mr. short khop,1,1,bend a corner wit me,1993-12-16,1993,12,Dairy and Egg Products
+ice cube,1,ice cube,1,1,bend a corner wit me,1993-12-16,1993,12,
+chicken,1,ice cube,1,1,big boys,2003-11-18,2003,11,Poultry Products
+chicken,1,gangsta,1,1,big boys,2003-11-18,2003,11,Poultry Products
+watermelon,1,ice cube,1,1,big boys,2003-11-18,2003,11,Fruits and Fruit Juices
+watermelon,1,gangsta,1,1,big boys,2003-11-18,2003,11,Fruits and Fruit Juices
+drink,1,ice cube,1,1,big boys,2003-11-18,2003,11,
+drink,1,gangsta,1,1,big boys,2003-11-18,2003,11,
+bread,1,gangsta,1,1,big boys,2003-11-18,2003,11,Baked Products
+cashew,1,gangsta,1,1,big boys,2003-11-18,2003,11,
+nut,1,gangsta,1,1,big boys,2003-11-18,2003,11,Nut and Seed Products
+corn,1,gangsta,1,1,big boys,2003-11-18,2003,11,Cereal Grains and Pasta
+dough,1,gangsta,1,1,big boys,2003-11-18,2003,11,
+dough,1,bet,1,1,bet 2010 father son cypher,2010-10-12,2010,10,
+ice,1,bet,1,1,bet 2010 father son cypher,2010-10-12,2010,10,
+cake,1,bet,1,1,bet 2010 father son cypher,2010-10-12,2010,10,Baked Products
+cream,1,bet,1,1,bet 2010 father son cypher,2010-10-12,2010,10,Dairy and Egg Products
+honey,1,ice cube,1,1,black korea,1991-10-29,1991,10,Sweets
+juice,1,ice cube,1,1,black korea,1991-10-29,1991,10,Baby Foods
+beer,1,threat,1,1,blind fold test,0,0,0,Beverages
+beer,1,dj pooh,1,1,blind fold test,0,0,0,Beverages
+beer,1,ice cube,1,1,blind fold test,0,0,0,Beverages
+drinking,1,threat,1,1,blind fold test,0,0,0,Beverages
+drinking,1,dj pooh,1,1,blind fold test,0,0,0,Beverages
+drinking,1,ice cube,1,1,blind fold test,0,0,0,Beverages
+chicken,1,ice cube,1,1,bonnie & clyde ii,1996-10-29,1996,10,Poultry Products
+cabbage,1,yo-yo,1,1,bonnie & clyde ii,1996-10-29,1996,10,Vegetables and Vegetable Products
+dough,1,yo-yo,1,1,bonnie & clyde ii,1996-10-29,1996,10,
+mcdonalds,6,yo-yo,1,6,bonnie & clyde ii,1996-10-29,1996,10,Fast Foods
+ice,1,ice cube,1,1,bop gun (one nation),1993-07-12,1993,7,
+ice cube,1,ice cube,1,1,bop gun (one nation),1993-07-12,1993,7,
+drink,1,cel,1,1,"bounce, rock, skate",1995-10-10,1995,10,
+drink,1,gonzoe,1,1,"bounce, rock, skate",1995-10-10,1995,10,
+drink,1,kaydo,1,1,"bounce, rock, skate",1995-10-10,1995,10,
+food,1,gonzoe,1,1,"bounce, rock, skate",1995-10-10,1995,10,
+food,1,kaydo,1,1,"bounce, rock, skate",1995-10-10,1995,10,
+potato,1,gonzoe,1,1,"bounce, rock, skate",1995-10-10,1995,10,Vegetables and Vegetable Products
+potato,1,kaydo,1,1,"bounce, rock, skate",1995-10-10,1995,10,Vegetables and Vegetable Products
+potato chip,1,gonzoe,1,1,"bounce, rock, skate",1995-10-10,1995,10,Snacks
+potato chip,1,kaydo,1,1,"bounce, rock, skate",1995-10-10,1995,10,Snacks
+juice,1,gonzoe,1,1,boyz in the hood,2000-05-23,2000,5,Baby Foods
+bacardi,1,dynamite hack,1,1,boyz in the hood,2000-05-23,2000,5,
+nut,1,mark breen,1,1,broke up my crew,0,0,0,Nut and Seed Products
+dough,1,mark breen,1,1,broke up my crew,0,0,0,
+nut,1,mark breeze,1,1,broke up my crew(edited),0,0,0,Nut and Seed Products
+dough,1,mark breeze,1,1,broke up my crew(edited),0,0,0,
+breakfast,1,mark breeze,1,1,b-side bad day ballad,2018-02-11,2018,2,Baked Products
+drink,1,da lench mob,1,1,buck tha devil,1992-09-22,1992,9,
+ice,4,da lench mob,1,4,buck tha devil,1992-09-22,1992,9,
+tbone,1,da lench mob,1,1,buck tha devil,1992-09-22,1992,9,
+ice cube,4,da lench mob,1,4,buck tha devil,1992-09-22,1992,9,
+fish,1,ice cube,1,1,bow down,1996-08-28,1996,8,Finfish and Shellfish Products
+cheese,1,ice cube,1,1,bow down,1996-08-28,1996,8,Dairy and Egg Products
+cheese,1,mack 10,1,1,bow down,1996-08-28,1996,8,Dairy and Egg Products
+baguette,1,mack 10,1,1,bow down,1996-08-28,1996,8,
+gin,1,ice cube,1,1,call 9-1-1,2003-12-09,2003,12,
+tonic,1,ice cube,1,1,call 9-1-1,2003-12-09,2003,12,
+mm,3,ice cube,1,3,can't hold back,1998-04-28,1998,4,
+meal,1,wc,1,1,can't hold back,1998-04-28,1998,4,Baked Products
+cheese,1,wc,1,1,can't hold back,1998-04-28,1998,4,Dairy and Egg Products
+drink,1,wc,1,1,can't hold back,1998-04-28,1998,4,
+pepper,1,wc,1,1,can't hold back,1998-04-28,1998,4,Vegetables and Vegetable Products
+drink,4,ice cube,1,4,can you bounce,2000-03-02,2000,3,
+milk,1,ice cube,1,1,can you bounce,2000-03-02,2000,3,Dairy and Egg Products
+ice,1,ice cube,1,1,can you bounce,2000-03-02,2000,3,
+ice cube,1,ice cube,1,1,can you bounce,2000-03-02,2000,3,
+butter,1,airplane 1980,1,1,can you dig it?,2018-12-07,2018,12,Dairy and Egg Products
+cherry,1,ice cube,1,1,can you dig it?,2018-12-07,2018,12,Fruits and Fruit Juices
+bread,1,ice cube,1,1,can you dig it?,2018-12-07,2018,12,Baked Products
+ice,1,yo-yo,1,1,can you handle it?,1993-06-22,1993,6,
+ice cube,1,yo-yo,1,1,can you handle it?,1993-06-22,1993,6,
+water,1,ice cube,1,1,cash over ass,1998-11-17,1998,11,Beverages
+honey,1,ice cube,1,1,cash over ass,1998-11-17,1998,11,Sweets
+ice,1,ice cube,1,1,cash over ass,1998-11-17,1998,11,
+dough,2,ice cube,1,2,cash over ass,1998-11-17,1998,11,
+ice cube,1,ice cube,1,1,cash over ass,1998-11-17,1998,11,
+buttermilk,1,dr. khalid muhammad,1,1,cave bitch,1993-12-07,1993,12,Dairy and Egg Products
+ice,2,ice cube,1,2,cave bitch,1993-12-07,1993,12,
+patty,1,ice cube,1,1,cave bitch,1993-12-07,1993,12,Poultry Products
+meat,1,ice cube,1,1,cave bitch,1993-12-07,1993,12,Baby Foods
+ice cube,2,ice cube,1,2,cave bitch,1993-12-07,1993,12,
+dark meat,1,ice cube,1,1,cave bitch,1993-12-07,1993,12,Poultry Products
+nut,8,ice cube,1,8,chase down the bully,2018-12-07,2018,12,Nut and Seed Products
+spaghetti,1,ice cube,1,1,chase down the bully,2018-12-07,2018,12,Cereal Grains and Pasta
+bread,1,ice cube,1,1,chase down the bully,2018-12-07,2018,12,Baked Products
+water,1,ice cube,1,1,chase down the bully,2018-12-07,2018,12,Beverages
+ice,1,ice cube,1,1,chase down the bully,2018-12-07,2018,12,
+ice cube,1,ice cube,1,1,chase down the bully,2018-12-07,2018,12,
+ice,1,das efx,1,1,check yo self,1993-08-17,1993,8,
+dough,2,ice cube,1,2,check yo self,1993-08-17,1993,8,
+ice cube,1,das efx,1,1,check yo self,1993-08-17,1993,8,
+dough,2,ice cube,1,2,check yo self ['the message' remix],1992-11-17,1992,11,
+salt,1,wc,1,1,cheddar,1998-04-28,1998,4,Spices and Herbs
+cookie,1,wc,1,1,cheddar,1998-04-28,1998,4,Baked Products
+cheddar,6,wc,1,6,cheddar,1998-04-28,1998,4,Dairy and Egg Products
+cheese,1,wc,1,1,cheddar,1998-04-28,1998,4,Dairy and Egg Products
+oyster,1,wc,1,1,cheddar,1998-04-28,1998,4,Finfish and Shellfish Products
+dough,2,wc,1,2,cheddar,1998-04-28,1998,4,
+baguette,1,wc,1,1,cheddar,1998-04-28,1998,4,
+pit,1,wc,1,1,cheddar,1998-04-28,1998,4,
+caviar,1,wc,1,1,cheddar,1998-04-28,1998,4,Finfish and Shellfish Products
+chicken,5,mack 10,1,5,chicken hawk,1995-06-20,1995,6,Poultry Products
+chicken,4,ice cube,1,4,chicken hawk,1995-06-20,1995,6,Poultry Products
+brownie,1,mack 10,1,1,chicken hawk,1995-06-20,1995,6,Baked Products
+cabbage,1,mack 10,1,1,chicken hawk,1995-06-20,1995,6,Vegetables and Vegetable Products
+chicken,4,mack 10,1,4,chicken hawk ii,1997-09-16,1997,9,Poultry Products
+noodle,1,mack 10,1,1,chicken hawk ii,1997-09-16,1997,9,Cereal Grains and Pasta
+nut,1,ice cube,1,1,chrome & paint,2006-06-06,2006,6,Nut and Seed Products
+rib,1,ice cube,1,1,chrome & paint,2006-06-06,2006,6,Beef Products
+meat,1,ice cube,1,1,"click, clack - get back",2006-06-06,2006,6,Baby Foods
+nut,1,ice cube,1,1,"click, clack - get back",2006-06-06,2006,6,Nut and Seed Products
+ice,1,ice cube,1,1,"click, clack - get back",2006-06-06,2006,6,
+ice cube,1,ice cube,1,1,"click, clack - get back",2006-06-06,2006,6,
+ice,5,bobcat,1,5,comin' after you,1998-07-26,1998,7,
+ice cube,5,bobcat,1,5,comin' after you,1998-07-26,1998,7,
+ice,1,bobcat,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+ice,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+drink,2,conan o'brien,1,2,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+snack,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Snacks
+nutella,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+beer,2,conan o'brien,1,2,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Beverages
+food,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+wendys,6,conan o'brien,1,6,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Fast Foods
+spicy,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+nugget,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,"Meals, Entrees, and Side Dishes"
+meal,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Baked Products
+toasted,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Baked Products
+bread,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Baked Products
+asiago,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+chicken,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,Poultry Products
+ice cube,1,bobcat,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+ice cube,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+flat bread,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+chicken club,1,conan o'brien,1,1,conan ice cube and kevin hart share a lyft,2013-12-10,2013,12,
+pit,1,ice cube,1,1,connected for life,2001-12-04,2001,12,
+ice,1,ice cube,1,1,connected for life,2001-12-04,2001,12,
+ice cube,1,ice cube,1,1,connected for life,2001-12-04,2001,12,
+gravy,1,ice cube,1,1,crack baby?,2008-08-19,2008,8,"Soups, Sauces, and Gravies"
+soda,1,ice cube,1,1,crack baby?,2008-08-19,2008,8,Baked Products
+donut,1,ice cube,1,1,crack baby?,2008-08-19,2008,8,
+drink,1,ice cube,1,1,crack baby?,2008-08-19,2008,8,
+drink,2,samples,1,2,crooked i for all ages,0,0,0,
+drink,3,ice cube,1,3,crooked i for all ages,0,0,0,
+iced,2,ice cube,1,2,crooked i for all ages,0,0,0,Beverages
+tea,2,ice cube,1,2,crooked i for all ages,0,0,0,Beverages
+fruit,1,ice cube,1,1,crooked i for all ages,0,0,0,Baby Foods
+nonalcoholic,1,ice cube,1,1,crooked i for all ages,0,0,0,Beverages
+ice,1,ice cube,1,1,crooked i for all ages,0,0,0,
+pina,1,ice cube,1,1,crooked i for all ages,0,0,0,
+malt,1,ice cube,1,1,crooked i for all ages,0,0,0,Sweets
+snapple,1,ice cube,1,1,crooked i for all ages,0,0,0,Beverages
+apple,1,ice cube,1,1,crooked i for all ages,0,0,0,Fruits and Fruit Juices
+iced tea,2,ice cube,-1,-2,crooked i for all ages,0,0,0,
+fruit punch,1,ice cube,1,1,crooked i for all ages,0,0,0,Baby Foods
+ice cube,1,ice cube,1,1,crooked i for all ages,0,0,0,
+pina colada,1,ice cube,-1,-1,crooked i for all ages,0,0,0,Beverages
+malt liquor,1,ice cube,-1,-1,crooked i for all ages,0,0,0,
+water,1,mack 10,1,1,cross 'em out and put a 'k,1996-10-22,1996,10,Beverages
+dough,1,mack 10,1,1,cross 'em out and put a 'k,1996-10-22,1996,10,
+apple,1,wc,1,1,cross 'em out and put a 'k,1996-10-22,1996,10,Fruits and Fruit Juices
+cucumber,1,wc,1,1,cross 'em out and put a 'k,1996-10-22,1996,10,Vegetables and Vegetable Products
+chicken,1,ice cube,1,1,crowded,2013-01-04,2013,1,Poultry Products
+drink,1,ice cube,1,1,crowded,2013-01-04,2013,1,
+nut,1,ice cube,1,1,crowded,2013-01-04,2013,1,Nut and Seed Products
+cherry,1,ice cube,1,1,crowded,2013-01-04,2013,1,Fruits and Fruit Juices
+milky,1,ice cube,1,1,crowded,2013-01-04,2013,1,
+milky way,1,ice cube,1,1,crowded,2013-01-04,2013,1,
+ice,1,yo-yo,1,1,cube gets played,1991-03-19,1991,3,
+ice cube,1,yo-yo,1,1,cube gets played,1991-03-19,1991,3,
+rum,1,mack 10,1,1,cut throats,1994-01-01,1994,1,Beverages
+spaghetti,1,ice cube,1,1,cut throats,1994-01-01,1994,1,Cereal Grains and Pasta
+alcohol,1,ice cube,1,1,cut throats,1994-01-01,1994,1,Spices and Herbs
+beer,1,ice cube,1,1,dead homiez,1990-12-18,1990,12,Beverages
+food,1,ice cube,1,1,dead homiez,1990-12-18,1990,12,
+ice,1,ice cube,1,1,dead homiez,1990-12-18,1990,12,
+ice cube,1,ice cube,1,1,dead homiez,1990-12-18,1990,12,
+beer,1,supersuckers,1,1,dead homiez,1992-08-01,1992,8,Beverages
+food,1,supersuckers,1,1,dead homiez,1992-08-01,1992,8,
+ice,2,ice cube,1,2,definition of a west coast g' (intro),2006-06-06,2006,6,
+ice cube,2,ice cube,1,2,definition of a west coast g' (intro),2006-06-06,2006,6,
+huevos,1,fatman scoop,1,1,dick tease,2006-06-06,2006,6,
+huevos,1,ice cube,1,1,dick tease,2006-06-06,2006,6,
+cake,1,fatman scoop,1,1,dick tease,2006-06-06,2006,6,Baked Products
+cake,1,ice cube,1,1,dick tease,2006-06-06,2006,6,Baked Products
+pancake,1,fatman scoop,1,1,dick tease,2006-06-06,2006,6,Baked Products
+pancake,1,ice cube,1,1,dick tease,2006-06-06,2006,6,Baked Products
+sap,1,ice cube,1,1,dimes & nicks (a call from mike epps),2006-06-06,2006,6,
+restaurant,1,,1,1,dinner with the ceo (skit),2000-03-21,2000,3,Restaurant Foods
+lobster,1,,1,1,dinner with the ceo (skit),2000-03-21,2000,3,Finfish and Shellfish Products
+steak,1,,1,1,dinner with the ceo (skit),2000-03-21,2000,3,Beef Products
+drink,1,,1,1,dinner with the ceo (skit),2000-03-21,2000,3,
+meat,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,Baby Foods
+rabbit,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,"Lamb, Veal, and Game Products"
+vanilla,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,Sweets
+wafer,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,Baked Products
+caper,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,Spices and Herbs
+cracker,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,Baked Products
+food,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,
+ice,1,ice cube,1,1,dirty mack,1992-11-17,1992,11,
+vanilla wafer,1,ice cube,-1,-1,dirty mack,1992-11-17,1992,11,Baked Products
+candy,1,ice cube,1,1,doing dumb shit,1991-10-29,1991,10,Sweets
+peach,1,ice cube,1,1,doing dumb shit,1991-10-29,1991,10,Fruits and Fruit Juices
+nut,1,ice cube,1,1,doing dumb shit,1991-10-29,1991,10,Nut and Seed Products
+drink,1,ice cube,1,1,dominate the weak,2017-06-09,2017,6,
+snack,1,ice cube,1,1,dominate the weak,2017-06-09,2017,6,Snacks
+octopus,1,ice cube,1,1,dominate the weak,2017-06-09,2017,6,Finfish and Shellfish Products
+fry,2,ice cube,1,2,don't bring me no bag,2018-12-07,2018,12,
+rose,1,westside connection,1,1,don't get outta pocket,2003-12-09,2003,12,Beverages
+bacon,1,westside connection,1,1,don't get outta pocket,2003-12-09,2003,12,Pork Products
+soda,1,westside connection,1,1,don't get outta pocket,2003-12-09,2003,12,Baked Products
+ice,1,westside connection,1,1,don't get outta pocket,2003-12-09,2003,12,
+ice cube,1,westside connection,1,1,don't get outta pocket,2003-12-09,2003,12,
+ice,2,ice cube,1,2,doin what it pose 2do,2006-06-06,2006,6,
+pickle,1,ice cube,1,1,doin what it pose 2do,2006-06-06,2006,6,Vegetables and Vegetable Products
+honey,1,ice cube,1,1,doin what it pose 2do,2006-06-06,2006,6,Sweets
+ice cube,2,ice cube,1,2,doin what it pose 2do,2006-06-06,2006,6,
+jolly rancher,1,ice cube,2,2,doin what it pose 2do,2006-06-06,2006,6,
+corn,1,ice cube,1,1,don't make me hurt ya feelings,2008-08-19,2008,8,Cereal Grains and Pasta
+relish,1,ice cube,1,1,don't make me hurt ya feelings,2008-08-19,2008,8,
+hot dog,1,ice cube,2,2,don't make me hurt ya feelings,2008-08-19,2008,8,Sausages and Luncheon Meats
+chicken,1,mack 10,1,1,dopeman,1997-09-16,1997,9,Poultry Products
+juice,1,mack 10,1,1,dopeman,1997-09-16,1997,9,Baby Foods
+strawberry,5,mack 10,1,5,dopeman,1997-09-16,1997,9,Dairy and Egg Products
+donut,1,ice cube,1,1,down for whatever,1993-12-07,1993,12,
+ice,1,ice cube,1,1,down for whatever,1993-12-07,1993,12,
+ice cube,1,ice cube,1,1,down for whatever,1993-12-07,1993,12,
+grain,1,ice cube,1,1,do ya thang,2008-07-01,2008,7,
+ice,4,ice cube,1,4,do ya thang,2008-07-01,2008,7,
+drink,1,ice cube,1,1,do ya thang,2008-07-01,2008,7,
+gravy,1,ice cube,1,1,do ya thang,2008-07-01,2008,7,"Soups, Sauces, and Gravies"
+ice cube,4,ice cube,1,4,do ya thang,2008-07-01,2008,7,
+malt,1,ice cube,1,1,do you like criminals?,1996-10-22,1996,10,Sweets
+dough,1,ice cube,1,1,do you like criminals?,1996-10-22,1996,10,
+ice,1,westside connection,1,1,do you like criminals?,1996-10-22,1996,10,
+drinking,1,westside connection,1,1,do you like criminals?,1996-10-22,1996,10,Beverages
+spice,1,westside connection,1,1,do you like criminals?,1996-10-22,1996,10,Spices and Herbs
+sauce,1,westside connection,1,1,do you like criminals?,1996-10-22,1996,10,"Soups, Sauces, and Gravies"
+nut,1,westside connection,1,1,do you like criminals?,1996-10-22,1996,10,Nut and Seed Products
+malt liquor,1,ice cube,-1,-1,do you like criminals?,1996-10-22,1996,10,
+ice cube,1,westside connection,1,1,do you like criminals?,1996-10-22,1996,10,
+ice,2,ice cube,1,2,dr. frankenstein,1998-11-17,1998,11,
+buttered,1,ice cube,1,1,dr. frankenstein,1998-11-17,1998,11,
+ice cube,2,ice cube,1,2,dr. frankenstein,1998-11-17,1998,11,
+ice,2,dj pooh scratching quotes below,1,2,east meets west malt liquor,0,0,0,
+ice,1,epmd,1,1,east meets west malt liquor,0,0,0,
+ice,1,parrish smith,1,1,east meets west malt liquor,0,0,0,
+drink,3,epmd,1,3,east meets west malt liquor,0,0,0,
+ice cube,2,dj pooh scratching quotes below,1,2,east meets west malt liquor,0,0,0,
+ice cube,1,epmd,1,1,east meets west malt liquor,0,0,0,
+ice cube,1,parrish smith,1,1,east meets west malt liquor,0,0,0,
+dough,2,ice cube,1,2,don't trust em,1992-11-17,1992,11,
+ice,4,ice cube,1,4,don't trust em,1992-11-17,1992,11,
+nut,1,ice cube,1,1,don't trust em,1992-11-17,1992,11,Nut and Seed Products
+ice cube,4,ice cube,1,4,don't trust em,1992-11-17,1992,11,
+water,1,ice cube,1,1,drink the kool-aid,2010-07-27,2010,7,Beverages
+drink,5,ice cube,1,5,drink the kool-aid,2010-07-27,2010,7,
+succotash,1,ice cube,1,1,endangered species (tales from the darkside) (remix),1990-12-18,1990,12,Vegetables and Vegetable Products
+ice,1,ice cube,1,1,endangered species (tales from the darkside) (remix),1990-12-18,1990,12,
+ice cube,1,ice cube,1,1,endangered species (tales from the darkside) (remix),1990-12-18,1990,12,
+cracker,1,ice cube,1,1,enemy,1993-12-07,1993,12,Baked Products
+apple,1,ice cube,1,1,enemy,1993-12-07,1993,12,Fruits and Fruit Juices
+snapple,1,ice cube,1,1,enemy,1993-12-07,1993,12,Beverages
+raisin,1,ice cube,1,1,enemy,1993-12-07,1993,12,Baked Products
+chicken,1,ice cube,1,1,everythang's corrupt,2013-01-04,2013,1,Poultry Products
+fish,1,ice cube,1,1,everythang's corrupt,2013-01-04,2013,1,Finfish and Shellfish Products
+tea,1,ice cube,1,1,everythang's corrupt,2013-01-04,2013,1,Beverages
+food,1,ice cube,1,1,everythang's corrupt,2013-01-04,2013,1,
+mint,1,ice cube,1,1,everythang's corrupt,2013-01-04,2013,1,
+nut,1,ice cube,1,1,extradition,1998-11-17,1998,11,Nut and Seed Products
+dennys,1,ice cube,1,1,extradition,1998-11-17,1998,11,Restaurant Foods
+sausage,1,ice cube,1,1,extradition,1998-11-17,1998,11,Sausages and Luncheon Meats
+vegetable,1,ice cube,1,1,extradition,1998-11-17,1998,11,Baby Foods
+ale,6,gasoline,1,6,farmazon (młody błażej diss),2020-03-01,2020,3,
+meal,1,k-dee,1,1,fa-sho,0,0,0,Baked Products
+ice,3,k-dee,1,3,fa-sho,0,0,0,
+lobster,1,k-dee,1,1,fa-sho,0,0,0,Finfish and Shellfish Products
+shrimp,1,k-dee,1,1,fa-sho,0,0,0,Finfish and Shellfish Products
+whey,1,k-dee,1,1,fa-sho,0,0,0,Dairy and Egg Products
+cheese,1,k-dee,1,1,fa-sho,0,0,0,Dairy and Egg Products
+jelly,1,k-dee,1,1,fa-sho,0,0,0,Sweets
+ice cube,2,k-dee,1,2,fa-sho,0,0,0,
+ice,3,ice cube,1,3,fat cat,2010-09-28,2010,9,
+ice cube,2,ice cube,1,2,fat cat,2010-09-28,2010,9,
+salt,7,ice cube,1,7,fire water,2018-12-07,2018,12,Spices and Herbs
+sugar,7,ice cube,1,7,fire water,2018-12-07,2018,12,Sweets
+water,28,ice cube,1,28,fire water,2018-12-07,2018,12,Beverages
+apple,1,ice cube,1,1,fire water,2018-12-07,2018,12,Fruits and Fruit Juices
+alcohol,1,ice cube,1,1,fire water,2018-12-07,2018,12,Spices and Herbs
+drink,1,ice cube,1,1,fire water,2018-12-07,2018,12,
+pizza,1,ice cube,1,1,fire water,2018-12-07,2018,12,Fast Foods
+ice,8,neil cicierega,1,8,first sunday,2007-12-26,2007,12,
+ice cube,8,neil cicierega,1,8,first sunday,2007-12-26,2007,12,
+ice,1,mack 10,1,1,foe life,1995-01-01,1995,1,
+ice,1,ice cube,1,1,foe life,1995-01-01,1995,1,
+ice,1,mack 10,1,1,foe life,1995-01-01,1995,1,
+herb,1,mack 10,1,1,foe life,1995-01-01,1995,1,Beverages
+dough,1,mack 10,1,1,foe life,1995-01-01,1995,1,
+ice cube,1,mack 10,1,1,foe life,1995-01-01,1995,1,
+ice cube,1,ice cube,1,1,foe life,1995-01-01,1995,1,
+ice cube,1,mack 10,1,1,foe life,1995-01-01,1995,1,
+succotash,1,ice cube,1,1,endangered species (tales from the darkside),1990-05-16,1990,5,Vegetables and Vegetable Products
+ice,1,ice cube,1,1,endangered species (tales from the darkside),1990-05-16,1990,5,
+ice cube,1,ice cube,1,1,endangered species (tales from the darkside),1990-05-16,1990,5,
+ice,1,ice cube,1,1,foe life,0,0,0,
+ice,1,mack 10,1,1,foe life,0,0,0,
+herb,1,mack 10,1,1,foe life,0,0,0,Beverages
+dough,1,mack 10,1,1,foe life,0,0,0,
+ice cube,1,ice cube,1,1,foe life,0,0,0,
+ice cube,1,mack 10,1,1,foe life,0,0,0,
+chicken,1,ice cube,1,1,friday,1995-04-11,1995,4,Poultry Products
+ice,5,ice cube,1,5,fuck dying,1998-11-17,1998,11,
+ice cube,5,ice cube,1,5,fuck dying,1998-11-17,1998,11,
+ice,2,,1,2,fuck 'em (insert),1992-11-17,1992,11,
+ice cube,2,,1,2,fuck 'em (insert),1992-11-17,1992,11,
+kfc,1,,1,1,fuck school,2016-05-02,2016,5,Fast Foods
+rabbit,1,ice cube,1,1,gangsta rap made me do it,2008-01-03,2008,1,"Lamb, Veal, and Game Products"
+ice,2,ice cube,1,2,gangsta rap made me do it,2008-01-03,2008,1,
+milk,1,ice cube,1,1,gangsta rap made me do it,2008-01-03,2008,1,Dairy and Egg Products
+cereal,1,ice cube,1,1,gangsta rap made me do it,2008-01-03,2008,1,Breakfast Cereals
+ice cube,2,ice cube,1,2,gangsta rap made me do it,2008-01-03,2008,1,
+rabbit,1,j-dee,1,1,freedom got an ak,1992-09-22,1992,9,"Lamb, Veal, and Game Products"
+apple,1,j-dee,1,1,freedom got an ak,1992-09-22,1992,9,Fruits and Fruit Juices
+ice,2,street dogg,1,2,gangsta rap made me do it (russian),2017-02-04,2017,2,
+ice cube,2,street dogg,1,2,gangsta rap made me do it (russian),2017-02-04,2017,2,
+roast,1,ice cube,1,1,gangsta's fairytale 2,1992-11-17,1992,11,Beef Products
+sesame,1,ice cube,1,1,gangsta's fairytale 2,1992-11-17,1992,11,Baked Products
+fruit,1,ice cube,1,1,gangsta's fairytale 2,1992-11-17,1992,11,Baby Foods
+fried,1,ice cube,1,1,gangsta's fairytale 2,1992-11-17,1992,11,Poultry Products
+bacon,1,ice cube,1,1,gangsta's fairytale 2,1992-11-17,1992,11,Pork Products
+ice,1,ice cube,1,1,gangsta's fairytale 2,1992-11-17,1992,11,
+cheese,1,ice cube,1,1,gangstas make the world go round,1996-10-22,1996,10,Dairy and Egg Products
+cheese,1,mack 10,1,1,gangstas make the world go round,1996-10-22,1996,10,Dairy and Egg Products
+fish,1,ice cube,1,1,gangstas make the world go round,1996-10-22,1996,10,Finfish and Shellfish Products
+ice,1,westside connection,1,1,gangstas make the world go round,1996-10-22,1996,10,
+chicken,1,westside connection,1,1,gangstas make the world go round,1996-10-22,1996,10,Poultry Products
+chicken,1,mack 10,1,1,gangstas make the world go round,1996-10-22,1996,10,Poultry Products
+fruit,1,mack 10,1,1,gangstas make the world go round,1996-10-22,1996,10,Baby Foods
+water,1,mack 10,1,1,gangstas make the world go round,1996-10-22,1996,10,Beverages
+ice cube,1,westside connection,1,1,gangstas make the world go round,1996-10-22,1996,10,
+forbidden fruit,1,mack 10,1,1,gangstas make the world go round,1996-10-22,1996,10,
+ice,1,ice cube,1,1,gangster rapper,0,0,0,
+lobster,1,ice cube,1,1,gangster rapper,0,0,0,Finfish and Shellfish Products
+ice,1,ice cube,1,1,getchu high,2019-10-18,2019,10,
+ice,1,d-frank africa,1,1,getchu high,2019-10-18,2019,10,
+drinking,2,d-frank africa,1,2,getchu high,2019-10-18,2019,10,Beverages
+malt,2,d-frank africa,1,2,getchu high,2019-10-18,2019,10,Sweets
+ice cube,1,ice cube,1,1,getchu high,2019-10-18,2019,10,
+ice cube,1,d-frank africa,1,1,getchu high,2019-10-18,2019,10,
+ice,1,oakenfold,1,1,get em up,0,0,0,
+ice cube,1,oakenfold,1,1,get em up,0,0,0,
+bacardi,3,westside connection,1,3,get ignit,2003-12-09,2003,12,
+ice,1,westside connection,1,1,get ignit,2003-12-09,2003,12,
+cabbage,1,westside connection,1,1,get ignit,2003-12-09,2003,12,Vegetables and Vegetable Products
+drinking,2,westside connection,1,2,get ignit,2003-12-09,2003,12,Beverages
+candy,1,westside connection,1,1,get ignit,2003-12-09,2003,12,Sweets
+meat,1,westside connection,1,1,get ignit,2003-12-09,2003,12,Baby Foods
+chili,1,westside connection,1,1,get ignit,2003-12-09,2003,12,"Soups, Sauces, and Gravies"
+cheese,1,westside connection,1,1,get ignit,2003-12-09,2003,12,Dairy and Egg Products
+chili cheese,1,westside connection,-1,-1,get ignit,2003-12-09,2003,12,
+ice,1,ice cube,1,1,"get money, spend money, no money",2008-08-19,2008,8,
+ice cube,1,ice cube,1,1,"get money, spend money, no money",2008-08-19,2008,8,
+nut,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,Nut and Seed Products
+nut,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,Nut and Seed Products
+ice,2,ice cube,1,2,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,
+ice,3,ice cube,1,3,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,
+pickle,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,Vegetables and Vegetable Products
+popsicle,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,
+bubblegum,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,
+juice,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,Baby Foods
+beer,1,ice cube,1,1,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,Beverages
+ice cube,2,ice cube,1,2,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,
+ice cube,3,ice cube,1,3,get off my dick and tell yo bitch to come here (remix),1990-12-18,1990,12,
+wine,1,wc,1,1,get out,2002-10-22,2002,10,Beverages
+dough,1,wc,1,1,get out,2002-10-22,2002,10,
+blueberry,1,wc,1,1,get out,2002-10-22,2002,10,Baked Products
+chicken,1,wc,1,1,get out,2002-10-22,2002,10,Poultry Products
+bacardi,1,wc,1,1,get out,2002-10-22,2002,10,
+cheese,1,wc,1,1,get out,2002-10-22,2002,10,Dairy and Egg Products
+pork,1,get the fist movement,1,1,get the fist,0,0,0,Pork Products
+cayenne,1,get the fist movement,1,1,get the fist,0,0,0,
+pepper,1,get the fist movement,1,1,get the fist,0,0,0,Vegetables and Vegetable Products
+cracker,1,get the fist movement,1,1,get the fist,0,0,0,Baked Products
+cayenne pepper,1,get the fist movement,-1,-1,get the fist,0,0,0,
+fish,1,ice cube,1,1,ghetto bird,1993-12-07,1993,12,Finfish and Shellfish Products
+water,1,mack 10,1,1,ghetto horror show,0,0,0,Beverages
+popcorn,1,mack 10,1,1,ghetto horror show,0,0,0,Snacks
+ice,1,] x 2,1,1,ghetto horror show,0,0,0,
+ice cube,1,] x 2,1,1,ghetto horror show,0,0,0,
+water,1,ice cube,1,1,ghetto vet,1998-11-17,1998,11,Beverages
+nut,1,ice cube,1,1,ghetto vet,1998-11-17,1998,11,Nut and Seed Products
+alcohol,1,ice cube,1,1,ghetto vet,1998-11-17,1998,11,Spices and Herbs
+ice,1,ice cube,1,1,ghetto vet,1998-11-17,1998,11,
+drinking,1,ice cube,1,1,ghetto vet,1998-11-17,1998,11,Beverages
+ice cube,1,ice cube,1,1,ghetto vet,1998-11-17,1998,11,
+ice,2,ice cube,1,2,get off my dick and tell yo bitch to come here,1990-05-16,1990,5,
+ice cube,2,ice cube,1,2,get off my dick and tell yo bitch to come here,1990-05-16,1990,5,
+honey,6,morris day,1,6,gigalos get lonely too,1994-11-15,1994,11,Sweets
+dough,2,k-dee,1,2,gigalos get lonely too,1994-11-15,1994,11,
+drink,1,k-dee,1,1,gigalos get lonely too,1994-11-15,1994,11,
+ice,1,yo-yo,1,1,"girl, don't be no fool",1991-03-19,1991,3,
+coffee,1,yo-yo,1,1,"girl, don't be no fool",1991-03-19,1991,3,Beverages
+chicken,1,yo-yo,1,1,"girl, don't be no fool",1991-03-19,1991,3,Poultry Products
+ice cube,1,yo-yo,1,1,"girl, don't be no fool",1991-03-19,1991,3,
+chicken dinner,1,yo-yo,-1,-1,"girl, don't be no fool",1991-03-19,1991,3,
+cracker,1,yo-yo,1,1,girls got a gun,1993-06-22,1993,6,Baked Products
+nut,3,ice cube,1,3,givin' up the nappy dug out,1991-10-29,1991,10,Nut and Seed Products
+cactus,1,ice cube,1,1,givin' up the nappy dug out,1991-10-29,1991,10,
+drink,2,ice cube,1,2,givin' up the nappy dug out,1991-10-29,1991,10,
+candy,1,ice cube,1,1,givin' up the nappy dug out,1991-10-29,1991,10,Sweets
+cake,1,ice cube,1,1,greed,1997-11-17,1997,11,Baked Products
+icing,1,ice cube,1,1,greed,1997-11-17,1997,11,
+fish,1,ice cube,1,1,greed,1997-11-17,1997,11,Finfish and Shellfish Products
+ice,2,ice cube,1,2,greed,1997-11-17,1997,11,
+hot dog,1,ice cube,2,2,greed,1997-11-17,1997,11,Sausages and Luncheon Meats
+ice cube,2,ice cube,1,2,greed,1997-11-17,1997,11,
+fish,1,ice cube,1,1,gtfomf (hard left),0,0,0,Finfish and Shellfish Products
+drink,1,pat battle,1,1,gtfomf (hard left),0,0,0,
+cracker,1,da lench mob,1,1,guerillas ain't gangstas,1993-05-26,1993,5,Baked Products
+spice,1,da lench mob,1,1,guerillas ain't gangstas,1993-05-26,1993,5,Spices and Herbs
+coconut,1,da lench mob,1,1,guerillas in tha mist,1992-09-22,1992,9,Fats and Oils
+nut,2,da lench mob,1,2,guerillas in tha mist,1992-09-22,1992,9,Nut and Seed Products
+banana,1,da lench mob,1,1,guerillas in tha mist,1992-09-22,1992,9,Fruits and Fruit Juices
+grape,1,da lench mob,1,1,guerillas in tha mist,1992-09-22,1992,9,Vegetables and Vegetable Products
+ice,1,da lench mob,1,1,guerillas in tha mist,1992-09-22,1992,9,
+tbone,1,da lench mob,1,1,guerillas in tha mist,1992-09-22,1992,9,
+ice cube,1,da lench mob,1,1,guerillas in tha mist,1992-09-22,1992,9,
+food,1,w.c.,1,1,guilty by affiliation,2007-08-14,2007,8,
+breaded,1,w.c.,1,1,guilty by affiliation,2007-08-14,2007,8,Vegetables and Vegetable Products
+ice,1,w.c.,1,1,heaven,0,0,0,
+ice,1,ice cube,1,1,heaven,0,0,0,
+bean,1,ice cube,1,1,heaven,0,0,0,Legumes and Legume Products
+pie,1,ice cube,1,1,heaven,0,0,0,Baked Products
+ice cube,1,w.c.,1,1,heaven,0,0,0,
+ice cube,1,ice cube,1,1,heaven,0,0,0,
+pig foot,1,ice cube,2,2,heaven,0,0,0,
+bean pie,1,ice cube,-1,-1,heaven,0,0,0,
+cereal,1,ice cube,1,1,growin up,2006-06-06,2006,6,Breakfast Cereals
+tea,1,ice cube,1,1,here he come,2008-08-19,2008,8,Beverages
+grape,1,ice cube,1,1,here he come,2008-08-19,2008,8,Vegetables and Vegetable Products
+water,1,ice cube,1,1,here he come,2008-08-19,2008,8,Beverages
+chocolate,1,ice cube,1,1,higher,0,0,0,Sweets
+drink,1,ice cube,1,1,higher,0,0,0,
+chocolate,1,mack 10,1,1,h-o-e-k,1995-06-20,1995,6,Sweets
+nut,2,mack 10,1,2,h-o-e-k,1995-06-20,1995,6,Nut and Seed Products
+chicken,1,mack 10,1,1,h-o-e-k,1995-06-20,1995,6,Poultry Products
+rib,1,mack 10,1,1,h-o-e-k,1995-06-20,1995,6,Beef Products
+skippy,1,yo-yo,1,1,home girl don't play dat,1992-06-23,1992,6,
+candy,1,yo-yo,1,1,home girl don't play dat,1992-06-23,1992,6,Sweets
+honey,1,yo-yo,1,1,home girl don't play dat,1992-06-23,1992,6,Sweets
+macaroni,1,yo-yo,1,1,home girl don't play dat,1992-06-23,1992,6,Cereal Grains and Pasta
+beef,1,yo-yo,1,1,home girl don't play dat,1992-06-23,1992,6,Beef Products
+chili,1,wc and the maad circle,1,1,homesick,1995-10-03,1995,10,"Soups, Sauces, and Gravies"
+juice,1,wc and the maad circle,1,1,homesick,1995-10-03,1995,10,Baby Foods
+fry,1,wc and the maad circle,1,1,homesick,1995-10-03,1995,10,
+chicken,1,mack 10,1,1,hoo-bangin',0,0,0,Poultry Products
+fish,1,westside connection,1,1,hoo-bangin' (wscg style),1996-10-22,1996,10,Finfish and Shellfish Products
+ice,1,westside connection,1,1,hoo-bangin' (wscg style),1996-10-22,1996,10,
+chicken,2,westside connection,1,2,hoo-bangin' (wscg style),1996-10-22,1996,10,Poultry Products
+drinking,1,westside connection,1,1,hoo-bangin' (wscg style),1996-10-22,1996,10,Beverages
+gin,1,westside connection,1,1,hoo-bangin' (wscg style),1996-10-22,1996,10,
+baguette,1,westside connection,1,1,hoo-bangin' (wscg style),1996-10-22,1996,10,
+ice cube,1,westside connection,1,1,hoo-bangin' (wscg style),1996-10-22,1996,10,
+nut,1,ice cube,1,1,hood mentality,2008-08-19,2008,8,Nut and Seed Products
+oil,1,ice cube,1,1,hood mentality,2008-08-19,2008,8,Fats and Oils
+nut,2,ice cube,1,2,horny lil' devil,1991-10-29,1991,10,Nut and Seed Products
+snail,1,ice cube,1,1,horny lil' devil,1991-10-29,1991,10,Finfish and Shellfish Products
+chocolate,1,ice cube,1,1,horny lil' devil,1991-10-29,1991,10,Sweets
+spam,1,ice cube,1,1,horny lil' devil,1991-10-29,1991,10,
+pork,1,ice cube,1,1,horny lil' devil,1991-10-29,1991,10,Pork Products
+juice,1,ice cube,1,1,horny lil' devil,1991-10-29,1991,10,Baby Foods
+diet,1,ice cube,1,1,horny lil' devil,1991-10-29,1991,10,Beverages
+apple,1,yo-yo,1,1,ibwin' wit my crewin',1993-06-22,1993,6,Fruits and Fruit Juices
+snapple,1,yo-yo,1,1,ibwin' wit my crewin',1993-06-22,1993,6,Beverages
+iced,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,Beverages
+tea,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,Beverages
+rump,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,Pork Products
+cayenne,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,
+pepper,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,Vegetables and Vegetable Products
+ice,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,
+iced tea,1,k-dee,-1,-1,hittin' corners,1994-11-15,1994,11,
+cayenne pepper,1,k-dee,-1,-1,hittin' corners,1994-11-15,1994,11,
+ice cube,1,k-dee,1,1,hittin' corners,1994-11-15,1994,11,
+drinking,1,ice cube,1,1,hood robbin',2010-09-28,2010,9,Beverages
+rabbit,2,ice cube,1,2,hood robbin',2010-09-28,2010,9,"Lamb, Veal, and Game Products"
+lamb,1,ice cube,1,1,hood robbin',2010-09-28,2010,9,"Lamb, Veal, and Game Products"
+dough,1,k-mac,1,1,if i was fucking you,1998-11-17,1998,11,
+mm,1,k-mac,1,1,if i was fucking you,1998-11-17,1998,11,
+gin,1,mr. short khop,1,1,if i was fucking you,1998-11-17,1998,11,
+juice,1,mr. short khop,1,1,if i was fucking you,1998-11-17,1998,11,Baby Foods
+nut,1,mr. short khop,1,1,if i was fucking you,1998-11-17,1998,11,Nut and Seed Products
+rabbit,2,yo-yo,1,2,i got played,1991-03-19,1991,3,"Lamb, Veal, and Game Products"
+ice,2,yo-yo,1,2,i gotta say what up!!!,1990-12-18,1990,12,
+ice,1,,1,1,i gotta say what up!!!,1990-12-18,1990,12,
+tbone,1,yo-yo,1,1,i gotta say what up!!!,1990-12-18,1990,12,
+ice cube,2,yo-yo,1,2,i gotta say what up!!!,1990-12-18,1990,12,
+ice cube,1,,1,1,i gotta say what up!!!,1990-12-18,1990,12,
+ice,1,mc eiht,1,1,iii tha hood way,1999-06-08,1999,6,
+ice cube,1,mc eiht,1,1,iii tha hood way,1999-06-08,1999,6,
+pit,1,ice cube,1,1,i'm afraid of americans (nin v3 mix),1997-10-14,1997,10,
+pea,1,flavor flav,1,1,i'm only out for one thang,1990-05-16,1990,5,Vegetables and Vegetable Products
+flavor,1,flavor flav,1,1,i'm only out for one thang,1990-05-16,1990,5,
+flavor,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,
+ice,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,
+ice,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,
+ice,1,,1,1,i'm only out for one thang,1990-05-16,1990,5,
+sugar,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,Sweets
+wine,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,Beverages
+ice cube,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,
+ice cube,1,ice cube,1,1,i'm only out for one thang,1990-05-16,1990,5,
+ice cube,1,,1,1,i'm only out for one thang,1990-05-16,1990,5,
+biscuit,1,k-dee,1,1,into you,1994-11-15,1994,11,Fast Foods
+nut,1,k-dee,1,1,into you,1994-11-15,1994,11,Nut and Seed Products
+cheese,1,k-dee,1,1,intro,1994-11-15,1994,11,Dairy and Egg Products
+swiss cheese,1,k-dee,1,1,intro,1994-11-15,1994,11,
+meal,1,westside connection,1,1,irresistible (west side connection),2002-12-03,2002,12,Baked Products
+ice,3,ice cube,1,3,it's a man's world,1990-05-16,1990,5,
+bacon,2,ice cube,1,2,it's a man's world,1990-05-16,1990,5,Pork Products
+drink,1,ice cube,1,1,it's a man's world,1990-05-16,1990,5,
+beer,1,ice cube,1,1,it's a man's world,1990-05-16,1990,5,Beverages
+ice cube,3,ice cube,1,3,it's a man's world,1990-05-16,1990,5,
+nut,1,ice cube,1,1,it takes a nation,2008-08-19,2008,8,Nut and Seed Products
+popcorn,1,ice cube,1,1,it takes a nation,2008-08-19,2008,8,Snacks
+butter,1,ice cube,1,1,it takes a nation,2008-08-19,2008,8,Dairy and Egg Products
+drink,1,ice cube,1,1,it takes a nation,2008-08-19,2008,8,
+lemonade,1,ice cube,1,1,it takes a nation,2008-08-19,2008,8,Beverages
+beef,1,ice cube,1,1,it takes a nation,2008-08-19,2008,8,Beef Products
+breakfast,1,ice cube,1,1,it was a good day (remix),0,0,0,Baked Products
+ice,2,ice cube,1,2,it was a good day (remix),0,0,0,
+berry,1,ice cube,1,1,it was a good day (remix),0,0,0,
+ice cube,2,ice cube,1,2,it was a good day (remix),0,0,0,
+agua,1,nomada,1,1,it was a strange day (eternal 1999),2017-06-24,2017,6,
+ice,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,
+berry,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,
+beer,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,Beverages
+carrot,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,Vegetables and Vegetable Products
+ham,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,Pork Products
+candy,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,Sweets
+chicken,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,Poultry Products
+ice cube,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,
+blue berry,1,westside connection,1,1,it'z the holidaze,2002-11-19,2002,11,
+banana,1,ice cube,1,1,i wanna kill sam,1991-10-29,1991,10,Fruits and Fruit Juices
+caper,1,ice cube,1,1,i wanna kill sam,1991-10-29,1991,10,Spices and Herbs
+sardine,1,ice cube,1,1,i wanna kill sam,1991-10-29,1991,10,Finfish and Shellfish Products
+fish,1,westside connection,1,1,izm,2003-12-09,2003,12,Finfish and Shellfish Products
+ice,2,westside connection,1,2,izm,2003-12-09,2003,12,
+ice cube,1,westside connection,1,1,izm,2003-12-09,2003,12,
+cheese,1,daz dillinger,1,1,iz you ready 2 die,2011-04-19,2011,4,Dairy and Egg Products
+cheddar,1,daz dillinger,1,1,iz you ready 2 die,2011-04-19,2011,4,Dairy and Egg Products
+bean,12,,1,12,jack and the bean stalk,0,0,0,Legumes and Legume Products
+pit,1,westside connection,1,1,jack and the bean stalk,0,0,0,
+tbone,1,ice cube,1,1,jackin' for beats,1990-12-18,1990,12,
+ice,4,ice cube,1,4,jackin' for beats,1990-12-18,1990,12,
+nut,1,ice cube,1,1,jackin' for beats,1990-12-18,1990,12,Nut and Seed Products
+ice cube,3,ice cube,1,3,jackin' for beats,1990-12-18,1990,12,
+malt,1,ice cube,1,1,jackin for malt liquor,0,0,0,Sweets
+ice,1,ice cube,1,1,jackin for malt liquor,0,0,0,
+drink,2,ice cube,1,2,jackin for malt liquor,0,0,0,
+malt liquor,1,ice cube,-1,-1,jackin for malt liquor,0,0,0,
+ice cube,1,ice cube,1,1,jackin for malt liquor,0,0,0,
+ice,1,ice cube,1,1,jack n the box,2008-08-19,2008,8,
+ice cube,1,ice cube,1,1,jack n the box,2008-08-19,2008,8,
+breakfast,1,ice cube,1,1,it was a good day,1992-11-17,1992,11,Baked Products
+ice,2,ice cube,1,2,it was a good day,1992-11-17,1992,11,
+berry,1,ice cube,1,1,it was a good day,1992-11-17,1992,11,
+ice cube,2,ice cube,1,2,it was a good day,1992-11-17,1992,11,
+cherry,1,ice cube,1,1,i rep that west,2010-04-25,2010,4,Fruits and Fruit Juices
+food,1,ice cube,1,1,i rep that west,2010-04-25,2010,4,
+burrito,1,ice cube,1,1,i rep that west,2010-04-25,2010,4,Fast Foods
+fish,1,ice cube,1,1,i rep that west,2010-04-25,2010,4,Finfish and Shellfish Products
+scrambled,1,wc,1,1,keep it 100,2007-08-14,2007,8,Dairy and Egg Products
+oil,1,wc,1,1,keep it 100,2007-08-14,2007,8,Fats and Oils
+calico,1,wc,1,1,keep it 100,2007-08-14,2007,8,
+barbecue,1,wc,1,1,keep it 100,2007-08-14,2007,8,"Soups, Sauces, and Gravies"
+sauce,1,wc,1,1,keep it 100,2007-08-14,2007,8,"Soups, Sauces, and Gravies"
+goose,1,wc,1,1,keep it 100,2007-08-14,2007,8,Poultry Products
+barbecue sauce,1,wc,-1,-1,keep it 100,2007-08-14,2007,8,
+ice,1,sister souljah,1,1,killing me softly: deadly code of silence,0,0,0,
+ice,2,ice cube,1,2,killing me softly: deadly code of silence,0,0,0,
+cracker,2,ice cube,1,2,killing me softly: deadly code of silence,0,0,0,Baked Products
+ice cube,1,sister souljah,1,1,killing me softly: deadly code of silence,0,0,0,
+ice cube,2,ice cube,1,2,killing me softly: deadly code of silence,0,0,0,
+peeled,1,ice cube,1,1,king of the hill,1996-10-22,1996,10,Nut and Seed Products
+drink,1,ice cube,1,1,king of the hill,1996-10-22,1996,10,
+beer,1,ice cube,1,1,king of the hill,1996-10-22,1996,10,Beverages
+nut,1,ice cube,1,1,king of the hill,1996-10-22,1996,10,Nut and Seed Products
+fish,1,ice cube,1,1,king of the hill,1996-10-22,1996,10,Finfish and Shellfish Products
+fish,1,mack 10,1,1,king of the hill,1996-10-22,1996,10,Finfish and Shellfish Products
+ice,2,ice cube,1,2,king of the hill,1996-10-22,1996,10,
+ice,2,mack 10,1,2,king of the hill,1996-10-22,1996,10,
+ice cube,2,ice cube,1,2,king of the hill,1996-10-22,1996,10,
+ice cube,2,mack 10,1,2,king of the hill,1996-10-22,1996,10,
+beer,4,king t,1,4,king tee's beer stand,1993-01-26,1993,1,Beverages
+ice,1,king t,1,1,king tee's beer stand,1993-01-26,1993,1,
+malt,2,king t,1,2,king tee's beer stand,1993-01-26,1993,1,Sweets
+ice cube,1,king t,1,1,king tee's beer stand,1993-01-26,1993,1,
+malt liquor,2,king t,-1,-2,king tee's beer stand,1993-01-26,1993,1,
+nut,2,k-dee,1,2,k-swinga,1994-11-15,1994,11,Nut and Seed Products
+peeled,1,k-dee,1,1,k-swinga,1994-11-15,1994,11,Nut and Seed Products
+rib,1,cel,1,1,land of the skanless,1995-10-10,1995,10,Beef Products
+nut,1,gonzoe,1,1,land of the skanless,1995-10-10,1995,10,Nut and Seed Products
+cheese,1,gonzoe,1,1,land of the skanless,1995-10-10,1995,10,Dairy and Egg Products
+drink,1,ice cube,1,1,"laugh now, cry later",2006-06-06,2006,6,
+chocolate,1,da lench mob,1,1,lenchmob also in tha group,1992-09-22,1992,9,Sweets
+ice,2,ice cube,1,2,keep it gangster,0,0,0,
+chicken,3,ice cube,1,3,keep it gangster,0,0,0,Poultry Products
+wine,1,ice cube,1,1,keep it gangster,0,0,0,Beverages
+goose,1,ice cube,1,1,keep it gangster,0,0,0,Poultry Products
+fish,2,ice cube,1,2,keep it gangster,0,0,0,Finfish and Shellfish Products
+honey,1,ice cube,1,1,keep it gangster,0,0,0,Sweets
+cabbage,1,ice cube,1,1,keep it gangster,0,0,0,Vegetables and Vegetable Products
+ice cube,2,ice cube,1,2,keep it gangster,0,0,0,
+ice,2,ice cube,1,2,lakers national anthem 2010,2008-10-06,2008,10,
+oil,1,ice cube,1,1,lakers national anthem 2010,2008-10-06,2008,10,Fats and Oils
+pie,1,ice cube,1,1,lakers national anthem 2010,2008-10-06,2008,10,Baked Products
+ice cube,2,ice cube,1,2,lakers national anthem 2010,2008-10-06,2008,10,
+juice,1,mack 10,1,1,let it reign,0,0,0,Baby Foods
+grain,1,mack 10,1,1,let it reign,0,0,0,
+candy,1,w.c,1,1,let it reign,0,0,0,Sweets
+sandwich,1,martin lawrence,1,1,letter to the pen,1993-06-22,1993,6,Baked Products
+cheese,1,martin lawrence,1,1,letter to the pen,1993-06-22,1993,6,Dairy and Egg Products
+ice,1,martin lawrence,1,1,level-n-service,1994-04-26,1994,4,
+ice,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,
+tangy,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,
+berry,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,
+cracker,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,Baked Products
+nut,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,Nut and Seed Products
+honey,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,Sweets
+flavor,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,
+ice cube,1,martin lawrence,1,1,level-n-service,1994-04-26,1994,4,
+ice cube,1,anotha level,1,1,level-n-service,1994-04-26,1994,4,
+dough,6,ice cube,1,6,life in california,2010-09-28,2010,9,
+ice,1,ice cube,1,1,life in california,2010-09-28,2010,9,
+cantaloupe,1,ice cube,1,1,life in california,2010-09-28,2010,9,Fruits and Fruit Juices
+ice cube,1,ice cube,1,1,life in california,2010-09-28,2010,9,
+drink,1,mack 10,1,1,lights out,2003-07-22,2003,7,
+gummy,1,w.c.,1,1,lights out,2003-07-22,2003,7,
+ice,1,daz dillinger,1,1,like that,1998-04-28,1998,4,
+ice,2,wc,1,2,like that,1998-04-28,1998,4,
+ice,2,ice cube,1,2,like that,1998-04-28,1998,4,
+lemon,1,wc,1,1,like that,1998-04-28,1998,4,Beverages
+chicken,1,cj mac,1,1,like that,1998-04-28,1998,4,Poultry Products
+taco,1,cj mac,1,1,like that,1998-04-28,1998,4,Spices and Herbs
+cheddar,1,ice cube,1,1,like that,1998-04-28,1998,4,Dairy and Egg Products
+ice cube,1,daz dillinger,1,1,like that,1998-04-28,1998,4,
+ice cube,1,wc,1,1,like that,1998-04-28,1998,4,
+ice cube,2,ice cube,1,2,like that,1998-04-28,1998,4,
+nut,1,sammy l,1,1,"lil $$$tutter, it’s your turn",2017-09-21,2017,9,Nut and Seed Products
+juice,1,sammy l,1,1,"lil $$$tutter, it’s your turn",2017-09-21,2017,9,Baby Foods
+nut,1,ice cube,1,1,"limos, demos & bimbos",1998-11-17,1998,11,Nut and Seed Products
+ice,1,ice cube,1,1,look at me,2017-08-25,2017,8,
+ice cube,1,ice cube,1,1,look at me,2017-08-25,2017,8,
+water,1,ice cube,1,1,look who's burnin',1991-10-29,1991,10,Beverages
+pickle,1,ice cube,1,1,look who's burnin',1991-10-29,1991,10,Vegetables and Vegetable Products
+nut,2,shorty,1,2,lord have mercy,1992-09-22,1992,9,Nut and Seed Products
+water,1,da lench mob,1,1,lost in tha system,1992-09-22,1992,9,Beverages
+nut,1,da lench mob,1,1,lost in tha system,1992-09-22,1992,9,Nut and Seed Products
+ice,2,funkmaster flex,1,2,mack 10 freestyle,0,0,0,
+beef,1,funkmaster flex,1,1,mack 10 freestyle,0,0,0,Beef Products
+dough,1,funkmaster flex,1,1,mack 10 freestyle,0,0,0,
+ice cube,2,funkmaster flex,1,2,mack 10 freestyle,0,0,0,
+ice,5,mack 10,1,5,mack manson (intro),1997-09-16,1997,9,
+ice cube,5,mack 10,1,5,mack manson (intro),1997-09-16,1997,9,
+ice,5,ice cube,1,5,"make it ruff, make it smooth",1993-12-07,1993,12,
+nut,2,ice cube,1,2,"make it ruff, make it smooth",1993-12-07,1993,12,Nut and Seed Products
+dough,1,ice cube,1,1,"make it ruff, make it smooth",1993-12-07,1993,12,
+honey,1,ice cube,1,1,"make it ruff, make it smooth",1993-12-07,1993,12,Sweets
+chocolate,1,ice cube,1,1,"make it ruff, make it smooth",1993-12-07,1993,12,Sweets
+ice cube,5,ice cube,1,5,"make it ruff, make it smooth",1993-12-07,1993,12,
+slurpee,1,k-dee,1,1,make the music,1994-11-15,1994,11,
+rum,1,k-dee,1,1,make the music,1994-11-15,1994,11,Beverages
+soup,1,k-dee,1,1,make the music,1994-11-15,1994,11,"Soups, Sauces, and Gravies"
+nut,1,k-dee,1,1,make the music,1994-11-15,1994,11,Nut and Seed Products
+twinkie,1,k-dee,1,1,make the music,1994-11-15,1994,11,
+beef,1,k-dee,1,1,make the music,1994-11-15,1994,11,Beef Products
+jerky,1,k-dee,1,1,make the music,1994-11-15,1994,11,
+flavor,1,k-dee,1,1,make the music,1994-11-15,1994,11,
+smoked beef,1,k-dee,1,1,make the music,1994-11-15,1994,11,
+beef jerky,1,k-dee,-1,-1,make the music,1994-11-15,1994,11,Snacks
+ice,3,mack 10,1,3,maniac in the brainiac,1998-04-21,1998,4,
+ice,1,ice cube,1,1,maniac in the brainiac,1998-04-21,1998,4,
+nut,1,mack 10,1,1,maniac in the brainiac,1998-04-21,1998,4,Nut and Seed Products
+beer,1,ice cube,1,1,maniac in the brainiac,1998-04-21,1998,4,Beverages
+fish,1,ice cube,1,1,maniac in the brainiac,1998-04-21,1998,4,Finfish and Shellfish Products
+chicken,1,ice cube,1,1,maniac in the brainiac,1998-04-21,1998,4,Poultry Products
+ice cube,3,mack 10,1,3,maniac in the brainiac,1998-04-21,1998,4,
+ice cube,1,ice cube,1,1,maniac in the brainiac,1998-04-21,1998,4,
+ice,1,ice cube,1,1,man's best friend,1991-10-29,1991,10,
+pit,1,ice cube,1,1,man's best friend,1991-10-29,1991,10,
+ice cube,1,ice cube,1,1,man's best friend,1991-10-29,1991,10,
+corn,1,ice cube,1,1,man vs. machine,2010-09-28,2010,9,Cereal Grains and Pasta
+fish,1,ice cube,1,1,man vs. machine,2010-09-28,2010,9,Finfish and Shellfish Products
+meat,1,ice cube,1,1,man vs. machine,2010-09-28,2010,9,Baby Foods
+mcdonalds,1,mack 10,1,1,mickey d's lick (intro),1995-06-20,1995,6,Fast Foods
+fry,5,mack 10,1,5,mickey d's lick (intro),1995-06-20,1995,6,
+strawberry,1,mack 10,1,1,mickey d's lick (intro),1995-06-20,1995,6,Dairy and Egg Products
+meal,1,mack 10,1,1,mickey d's lick (intro),1995-06-20,1995,6,Baked Products
+ice,1,dj crazy toones,1,1,mixtape shit,0,0,0,
+calico,1,dj crazy toones,1,1,mixtape shit,0,0,0,
+salad,1,dj crazy toones,1,1,mixtape shit,0,0,0,
+ice cube,1,dj crazy toones,1,1,mixtape shit,0,0,0,
+meat,1,dj crazy toones,1,1,mozi-wozi,1995-06-20,1995,6,Baby Foods
+rabbit,1,dj crazy toones,1,1,mozi-wozi,1995-06-20,1995,6,"Lamb, Veal, and Game Products"
+sauce,1,mack 10,1,1,mozi-wozi,1995-06-20,1995,6,"Soups, Sauces, and Gravies"
+dark meat,1,dj crazy toones,1,1,mozi-wozi,1995-06-20,1995,6,Poultry Products
+ice,1,,1,1,mp,1998-11-17,1998,11,
+salted,1,,1,1,mp,1998-11-17,1998,11,Dairy and Egg Products
+cheddar,1,,1,1,mp,1998-11-17,1998,11,Dairy and Egg Products
+ice cube,1,,1,1,mp,1998-11-17,1998,11,
+hot wing,1,,2,2,mp,1998-11-17,1998,11,
+drink,1,scrap d.,1,1,mr. happy,1996-11-19,1996,11,
+juice,1,prince,1,1,mr. happy,1996-11-19,1996,11,Baby Foods
+drink,1,ice cube,1,1,my loved one,0,0,0,
+cognac,1,ice cube,1,1,my loved one,0,0,0,
+food,1,ice cube,1,1,my loved one,0,0,0,
+nut,1,ice cube,1,1,my loved one,0,0,0,Nut and Seed Products
+champagne,1,ice cube,1,1,my name,0,0,0,
+ice,1,ice cube,1,1,my name,0,0,0,
+water,1,ice cube,1,1,my name,0,0,0,Beverages
+chicken,2,ice cube,1,2,my skin is my sin,1994-11-22,1994,11,Poultry Products
+watermelon,1,ice cube,1,1,my skin is my sin,1994-11-22,1994,11,Fruits and Fruit Juices
+cracker,2,ice cube,1,2,my skin is my sin,1994-11-22,1994,11,Baked Products
+goat,1,ice cube,1,1,my skin is my sin,1994-11-22,1994,11,Dairy and Egg Products
+lamb,1,ice cube,1,1,my skin is my sin,1994-11-22,1994,11,"Lamb, Veal, and Game Products"
+drink,1,k-dee,1,1,neva was a baller,1994-11-15,1994,11,
+nut,1,k-dee,1,1,neva was a baller,1994-11-15,1994,11,Nut and Seed Products
+ice,2,k-dee,1,2,neva was a baller,1994-11-15,1994,11,
+cereal,1,k-dee,1,1,neva was a baller,1994-11-15,1994,11,Breakfast Cereals
+honey,1,k-dee,1,1,neva was a baller,1994-11-15,1994,11,Sweets
+food,1,k-dee,1,1,neva was a baller,1994-11-15,1994,11,
+popcorn,1,k-dee,1,1,neva was a baller,1994-11-15,1994,11,Snacks
+ice cube,2,k-dee,1,2,neva was a baller,1994-11-15,1994,11,
+water,1,ice cube,1,1,non believers,2018-12-07,2018,12,Beverages
+wine,1,ice cube,1,1,non believers,2018-12-07,2018,12,Beverages
+skittle,1,ice cube,1,1,non believers,2018-12-07,2018,12,
+water,1,ice cube,1,1,no country for young men,2010-09-28,2010,9,Beverages
+vodka,1,ice cube,1,1,no country for young men,2010-09-28,2010,9,Beverages
+drink,2,ice cube,1,2,no country for young men,2010-09-28,2010,9,
+ice,1,ice cube,1,1,no country for young men,2010-09-28,2010,9,
+meat,1,ice cube,1,1,no country for young men,2010-09-28,2010,9,Baby Foods
+ice cube,1,ice cube,1,1,no country for young men,2010-09-28,2010,9,
+ice,7,ice cube,1,7,no vaseline,1991-10-29,1991,10,
+dough,1,ice cube,1,1,no vaseline,1991-10-29,1991,10,
+lamb,1,ice cube,1,1,no vaseline,1991-10-29,1991,10,"Lamb, Veal, and Game Products"
+cracker,1,ice cube,1,1,no vaseline,1991-10-29,1991,10,Baked Products
+ice cube,7,ice cube,1,7,no vaseline,1991-10-29,1991,10,
+candy,1,ice cube,1,1,now i gotta wet'cha,1992-11-17,1992,11,Sweets
+pan,1,ice cube,1,1,now i gotta wet'cha,1992-11-17,1992,11,
+ice,1,ice cube,1,1,now i gotta wet'cha,1992-11-17,1992,11,
+chopped liver,1,ice cube,2,2,now i gotta wet'cha,1992-11-17,1992,11,
+ice cube,1,ice cube,1,1,now i gotta wet'cha,1992-11-17,1992,11,
+roasted,1,kausion,1,1,o/g's trippin,1995-10-10,1995,10,Poultry Products
+ale,1,kausion,1,1,o/g's trippin,1995-10-10,1995,10,
+ice,1,ice cube,1,1,once upon a time in the projects,1990-05-16,1990,5,
+coffee,1,ice cube,1,1,once upon a time in the projects,1990-05-16,1990,5,Beverages
+ice cube,1,ice cube,1,1,once upon a time in the projects,1990-05-16,1990,5,
+gin,1,ice cube,1,1,once upon a time in the projects 2,1998-11-17,1998,11,
+salt,1,ice cube,1,1,once upon a time in the projects 2,1998-11-17,1998,11,Spices and Herbs
+ice,1,ice cube,1,1,once upon a time in the projects 2,1998-11-17,1998,11,
+ice cube,1,ice cube,1,1,once upon a time in the projects 2,1998-11-17,1998,11,
+honey,5,ice cube,1,5,one for the money,2018-12-07,2018,12,Sweets
+drink,1,ice cube,1,1,one for the money,2018-12-07,2018,12,
+ice,2,ice cube,1,2,only one me,2017-06-01,2017,6,
+snapple,1,ice cube,1,1,only one me,2017-06-01,2017,6,Beverages
+apple,1,ice cube,1,1,only one me,2017-06-01,2017,6,Fruits and Fruit Juices
+tabasco,1,ice cube,1,1,only one me,2017-06-01,2017,6,"Soups, Sauces, and Gravies"
+drink,1,ice cube,1,1,only one me,2017-06-01,2017,6,
+rabbit,1,ice cube,1,1,only one me,2017-06-01,2017,6,"Lamb, Veal, and Game Products"
+oil,1,ice cube,1,1,only one me,2017-06-01,2017,6,Fats and Oils
+banana,1,ice cube,1,1,only one me,2017-06-01,2017,6,Fruits and Fruit Juices
+ice cube,1,ice cube,1,1,only one me,2017-06-01,2017,6,
+heath,2,ice cube,1,2,on them pills,2018-12-07,2018,12,
+pastrami,1,w.c.,1,1,paranoid,2007-08-14,2007,8,Sausages and Luncheon Meats
+cheese,1,w.c.,1,1,paranoid,2007-08-14,2007,8,Dairy and Egg Products
+fry,1,w.c.,1,1,paranoid,2007-08-14,2007,8,
+fried,1,w.c.,1,1,paranoid,2007-08-14,2007,8,Poultry Products
+chicken,1,w.c.,1,1,paranoid,2007-08-14,2007,8,Poultry Products
+cheese fry,1,w.c.,-1,-1,paranoid,2007-08-14,2007,8,
+fried chicken,1,w.c.,-1,-1,paranoid,2007-08-14,2007,8,Fast Foods
+chocolate,1,lady t?,1,1,pass it on,1993-06-22,1993,6,Sweets
+meat,1,ice cube,1,1,penitentiary,1998-11-17,1998,11,Baby Foods
+nut,1,ice cube,1,1,penitentiary,1998-11-17,1998,11,Nut and Seed Products
+gummy,1,wc,1,1,pimp the system,2003-12-09,2003,12,
+tbone,3,da lench mob,1,3,planet of da apes,1994-10-31,1994,10,
+cracker,1,da lench mob,1,1,planet of da apes,1994-10-31,1994,10,Baked Products
+drink,1,da lench mob,1,1,planet of da apes,1994-10-31,1994,10,
+apple,1,da lench mob,1,1,planet of da apes,1994-10-31,1994,10,Fruits and Fruit Juices
+cider,1,da lench mob,1,1,planet of da apes,1994-10-31,1994,10,Spices and Herbs
+apple cider,1,da lench mob,-1,-1,planet of da apes,1994-10-31,1994,10,
+ice,3,king tee,1,3,played like a piano,1990-09-24,1990,9,
+ice,1,ice cube,1,1,played like a piano,1990-09-24,1990,9,
+nut,2,mc breeze,1,2,played like a piano,1990-09-24,1990,9,Nut and Seed Products
+ice cube,3,king tee,1,3,played like a piano,1990-09-24,1990,9,
+ice cube,1,ice cube,1,1,played like a piano,1990-09-24,1990,9,
+ice,3,king tee,1,3,played like a piano (west coast classics radio),0,0,0,
+ice,1,ice cube,1,1,played like a piano (west coast classics radio),0,0,0,
+nut,2,mc breeze,1,2,played like a piano (west coast classics radio),0,0,0,Nut and Seed Products
+ice cube,3,king tee,1,3,played like a piano (west coast classics radio),0,0,0,
+ice cube,1,ice cube,1,1,played like a piano (west coast classics radio),0,0,0,
+cola,1,ice cube,1,1,play witcha mama,1994-10-25,1994,10,Beverages
+ice,1,willie d,1,1,play witcha mama,1994-10-25,1994,10,
+ice cube,1,willie d,1,1,play witcha mama,1994-10-25,1994,10,
+rose,1,willie d,1,1,please,0,0,0,Beverages
+ice,1,e-a-ski,1,1,please,0,0,0,
+apple,1,e-a-ski,1,1,please,0,0,0,Fruits and Fruit Juices
+potato,1,e-a-ski,1,1,please,0,0,0,Vegetables and Vegetable Products
+ice cube,1,e-a-ski,1,1,please,0,0,0,
+dough,2,ice cube,1,2,pockets stay fat-fake,2006-06-06,2006,6,
+drink,1,ice cube,1,1,pockets stay fat-fake,2006-06-06,2006,6,
+ice,1,ice cube,1,1,potential victims,2003-12-09,2003,12,
+peanut,1,westside connection,1,1,potential victims,2003-12-09,2003,12,Legumes and Legume Products
+butter,1,westside connection,1,1,potential victims,2003-12-09,2003,12,Dairy and Egg Products
+reeses,1,westside connection,1,1,potential victims,2003-12-09,2003,12,Sweets
+peeled,1,westside connection,1,1,potential victims,2003-12-09,2003,12,Nut and Seed Products
+ice cube,1,ice cube,1,1,potential victims,2003-12-09,2003,12,
+peanut butter,1,westside connection,-1,-1,potential victims,2003-12-09,2003,12,Legumes and Legume Products
+ice,5,ice cube,1,5,pros vs. joes (bonus track),2010-09-28,2010,9,
+ice,2,repeat 2x,1,2,pros vs. joes (bonus track),2010-09-28,2010,9,
+ice cube,5,ice cube,1,5,pros vs. joes (bonus track),2010-09-28,2010,9,
+ice cube,2,repeat 2x,1,2,pros vs. joes (bonus track),2010-09-28,2010,9,
+ice,2,ice cube,1,2,pushin' weight,1998-10-28,1998,10,
+baguette,1,ice cube,1,1,pushin' weight,1998-10-28,1998,10,
+crouton,1,mr. short khop,1,1,pushin' weight,1998-10-28,1998,10,Baked Products
+ice cube,2,ice cube,1,2,pushin' weight,1998-10-28,1998,10,
+ham,1,killer mike,1,1,pressure,2008-07-08,2008,7,Pork Products
+ice,1,,1,1,pressure,2008-07-08,2008,7,
+ice cube,1,,1,1,pressure,2008-07-08,2008,7,
+ice,2,ice cube,1,2,pushin weight remix,0,0,0,
+drink,1,ice cube,1,1,pushin weight remix,0,0,0,
+alcohol,1,ice cube,1,1,pushin weight remix,0,0,0,Spices and Herbs
+beef,1,ice cube,1,1,pushin weight remix,0,0,0,Beef Products
+cheese,1,ice cube,1,1,pushin weight remix,0,0,0,Dairy and Egg Products
+ice cube,2,ice cube,1,2,pushin weight remix,0,0,0,
+malt,1,ice cube,1,1,put it in your egg nog,0,0,0,Sweets
+egg,1,ice cube,1,1,put it in your egg nog,0,0,0,Dairy and Egg Products
+egg,1,dj pooh,1,1,put it in your egg nog,0,0,0,Dairy and Egg Products
+malt liquor,1,ice cube,-1,-1,put it in your egg nog,0,0,0,
+egg nog,1,ice cube,1,1,put it in your egg nog,0,0,0,
+egg nog,1,dj pooh,1,1,put it in your egg nog,0,0,0,
+ice,1,ice cube,1,1,race card,0,0,0,
+cake,1,ice cube,1,1,really doe,1993-12-07,1993,12,Baked Products
+sauce,1,ice cube,1,1,really doe,1993-12-07,1993,12,"Soups, Sauces, and Gravies"
+rump,1,ice cube,1,1,really doe,1993-12-07,1993,12,Pork Products
+ice,1,mc ren,1,1,rebel music (remix),2014-06-09,2014,6,
+ice,2,ice cube,1,2,rebel music (remix),2014-06-09,2014,6,
+ice cube,1,mc ren,1,1,rebel music (remix),2014-06-09,2014,6,
+ice cube,2,ice cube,1,2,rebel music (remix),2014-06-09,2014,6,
+drink,1,ice cube,1,1,record company pimpin',2000-03-21,2000,3,
+ice,1,ice cube & paul oakenfold,1,1,"right here, right now",2002-03-19,2002,3,
+ice cube,1,ice cube & paul oakenfold,1,1,"right here, right now",2002-03-19,2002,3,
+dough,1,joell ortiz,1,1,r.n.s.,2015-07-24,2015,7,
+meat,1,joell ortiz,1,1,r.n.s.,2015-07-24,2015,7,Baby Foods
+sausage,1,joe budden,1,1,r.n.s.,2015-07-24,2015,7,Sausages and Luncheon Meats
+ice,1,kxng crooked,1,1,r.n.s.,2015-07-24,2015,7,
+white meat,1,joell ortiz,1,1,r.n.s.,2015-07-24,2015,7,"Meals, Entrees, and Side Dishes"
+meat,1,ice cube,1,1,robbin' hood (cause it ain't all good),1994-11-22,1994,11,Baby Foods
+nut,1,,1,1,robin lench,1991-10-29,1991,10,Nut and Seed Products
+strawberry,1,,1,1,robin lench,1991-10-29,1991,10,Dairy and Egg Products
+watermelon,1,,1,1,robin lench,1991-10-29,1991,10,Fruits and Fruit Juices
+chicken,2,ice cube,1,2,roll all day,2000-03-21,2000,3,Poultry Products
+tbone,1,ice cube,1,1,rollin' wit the lench mob,1990-05-16,1990,5,
+beer,1,ice cube,1,1,rollin' wit the lench mob,1990-05-16,1990,5,Beverages
+bacon,1,ice cube,1,1,rollin' wit the lench mob,1990-05-16,1990,5,Pork Products
+ice,2,ice cube,1,2,rollin' wit the lench mob,1990-05-16,1990,5,
+cake,1,ice cube,1,1,rollin' wit the lench mob,1990-05-16,1990,5,Baked Products
+ice cube,2,ice cube,1,2,rollin' wit the lench mob,1990-05-16,1990,5,
+ice,9,ice cube,1,9,run,2006-06-06,2006,6,
+ice cube,9,ice cube,1,9,run,2006-06-06,2006,6,
+diet,1,ice cube,1,1,sasquatch,2013-10-25,2013,10,Beverages
+water,1,ice cube,1,1,sasquatch,2013-10-25,2013,10,Beverages
+drink,1,ice cube,1,1,scare lil’ nigga (insert),1994-10-31,1994,10,
+honey,1,wyte knight,1,1,second hand smoke,2019-05-15,2019,5,Sweets
+ice,2,wyte knight,1,2,second hand smoke,2019-05-15,2019,5,
+tea,1,wyte knight,1,1,second hand smoke,2019-05-15,2019,5,Beverages
+fruit,1,wyte knight,1,1,second hand smoke,2019-05-15,2019,5,Baby Foods
+drink,1,wyte knight,1,1,second hand smoke,2019-05-15,2019,5,
+ice cube,1,wyte knight,1,1,second hand smoke,2019-05-15,2019,5,
+mountain dew,1,wyte knight,2,2,second hand smoke,2019-05-15,2019,5,
+dough,1,doughboy,1,1,she couldn't make it on her own,2010-08-31,2010,8,
+ice,1,ice cube,1,1,she couldn't make it on her own,2010-08-31,2010,8,
+ice cube,1,ice cube,1,1,she couldn't make it on her own,2010-08-31,2010,8,
+ice,6,mack 10,1,6,should i stay or should i go,1998-10-06,1998,10,
+ice cube,6,mack 10,1,6,should i stay or should i go,1998-10-06,1998,10,
+ham,5,ice cube,1,5,sic them youngins on 'em,2014-02-11,2014,2,Pork Products
+squid,1,ice cube,1,1,sic them youngins on 'em,2014-02-11,2014,2,Finfish and Shellfish Products
+ice,2,ice cube,1,2,sic them youngins on 'em,2014-02-11,2014,2,
+cheddar,1,ice cube,1,1,sic them youngins on 'em,2014-02-11,2014,2,Dairy and Egg Products
+beef,1,ice cube,1,1,sic them youngins on 'em,2014-02-11,2014,2,Beef Products
+chicken,1,ice cube,1,1,sic them youngins on 'em,2014-02-11,2014,2,Poultry Products
+ice cube,2,ice cube,1,2,sic them youngins on 'em,2014-02-11,2014,2,
+ice,1,yo-yo,1,1,sisterland,1991-03-19,1991,3,
+wine,1,yo-yo,1,1,sisterland,1991-03-19,1991,3,Beverages
+ice cube,1,yo-yo,1,1,sisterland,1991-03-19,1991,3,
+ice,2,,1,2,say hi to the bad guy,1992-11-17,1992,11,
+whopper,1,,1,1,say hi to the bad guy,1992-11-17,1992,11,Fast Foods
+peeled,1,,1,1,say hi to the bad guy,1992-11-17,1992,11,Nut and Seed Products
+patty,1,,1,1,say hi to the bad guy,1992-11-17,1992,11,Poultry Products
+donut,1,,1,1,say hi to the bad guy,1992-11-17,1992,11,
+donut,2,*cube talkin with officer*,1,2,say hi to the bad guy,1992-11-17,1992,11,
+cream,1,,1,1,say hi to the bad guy,1992-11-17,1992,11,Dairy and Egg Products
+glazed,1,*cube talkin with officer*,1,1,say hi to the bad guy,1992-11-17,1992,11,Baked Products
+ice cube,2,,1,2,say hi to the bad guy,1992-11-17,1992,11,
+chef boyardee,1,,2,2,say hi to the bad guy,1992-11-17,1992,11,
+powdered donut,1,,1,1,say hi to the bad guy,1992-11-17,1992,11,
+glazed donut,1,*cube talkin with officer*,-1,-1,say hi to the bad guy,1992-11-17,1992,11,
+cream,1,westside connection,1,1,so many rappers in love,2003-12-09,2003,12,Dairy and Egg Products
+drink,1,westside connection,1,1,so many rappers in love,2003-12-09,2003,12,
+coffee,2,ice cube,1,2,soul on ice,2010-09-28,2010,9,Beverages
+toffee,2,ice cube,1,2,soul on ice,2010-09-28,2010,9,Sweets
+ice,9,ice cube,1,9,soul on ice,2010-09-28,2010,9,
+ice,2,mike epps,1,2,soul on ice,2010-09-28,2010,9,
+candy,1,ice cube,1,1,soul on ice,2010-09-28,2010,9,Sweets
+sugar,2,ice cube,1,2,soul on ice,2010-09-28,2010,9,Sweets
+marshmallow,1,ice cube,1,1,soul on ice,2010-09-28,2010,9,Baked Products
+ice cube,1,ice cube,1,1,soul on ice,2010-09-28,2010,9,
+ice cube,2,mike epps,1,2,soul on ice,2010-09-28,2010,9,
+ice,1,ice cube,1,1,spittin' pollaseeds,2006-06-06,2006,6,
+berry,1,ice cube,1,1,spittin' pollaseeds,2006-06-06,2006,6,
+salt,3,kokane,1,3,spittin' pollaseeds,2006-06-06,2006,6,Spices and Herbs
+ravioli,1,w.c.,1,1,spittin' pollaseeds,2006-06-06,2006,6,"Meals, Entrees, and Side Dishes"
+ice cube,1,ice cube,1,1,spittin' pollaseeds,2006-06-06,2006,6,
+ice,2,ice cube,1,2,stand tall,2008-08-19,2008,8,
+ice cube,2,ice cube,1,2,stand tall,2008-08-19,2008,8,
+beer,1,dj pooh,1,1,s.t. crooked,0,0,0,Beverages
+ice,1,dj pooh,1,1,s.t. crooked,0,0,0,
+ice,2,ice cube,1,2,s.t. crooked,0,0,0,
+malt,1,ice cube,1,1,s.t. crooked,0,0,0,Sweets
+drink,1,ice cube,1,1,s.t. crooked,0,0,0,
+ice cube,1,dj pooh,1,1,s.t. crooked,0,0,0,
+ice cube,2,ice cube,1,2,s.t. crooked,0,0,0,
+malt liquor,1,ice cube,-1,-1,s.t. crooked,0,0,0,
+nut,2,ice cube,1,2,steady,0,0,0,Nut and Seed Products
+bean,1,ice cube,1,1,steady mobbin',1991-08-09,1991,8,Legumes and Legume Products
+pie,1,ice cube,1,1,steady mobbin',1991-08-09,1991,8,Baked Products
+ice,2,ice cube,1,2,steady mobbin',1991-08-09,1991,8,
+nut,2,ice cube,1,2,steady mobbin',1991-08-09,1991,8,Nut and Seed Products
+drink,1,ice cube,1,1,steady mobbin',1991-08-09,1991,8,
+food,1,ice cube,1,1,steady mobbin',1991-08-09,1991,8,
+mm,1,ice cube,1,1,steady mobbin',1991-08-09,1991,8,
+bean pie,1,ice cube,-1,-1,steady mobbin',1991-08-09,1991,8,
+ice cube,2,ice cube,1,2,steady mobbin',1991-08-09,1991,8,
+ice,3,ice cube,1,3,steal the show,2006-06-06,2006,6,
+ice,3,ice cube,1,3,steal the show,2006-06-06,2006,6,
+drink,1,ice cube,1,1,steal the show,2006-06-06,2006,6,
+pancake,1,ice cube,1,1,steal the show,2006-06-06,2006,6,Baked Products
+sugar,1,mike epps,1,1,steal the show,2006-06-06,2006,6,Sweets
+ice cube,3,ice cube,1,3,steal the show,2006-06-06,2006,6,
+ice cube,3,ice cube,1,3,steal the show,2006-06-06,2006,6,
+coffee,1,ice cube,1,1,st. i.d.e.,0,0,0,Beverages
+dough,4,ice cube,1,4,still in the kitchen,2018-12-07,2018,12,
+chicken,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Poultry Products
+cake,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Baked Products
+sugar,2,ice cube,1,2,still in the kitchen,2018-12-07,2018,12,Sweets
+steak,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Beef Products
+herb,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Beverages
+spice,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Spices and Herbs
+wendys,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Fast Foods
+twinkie,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,
+cream,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Dairy and Egg Products
+cookie,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Baked Products
+gumbo,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,
+jerky,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,
+turkey,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Poultry Products
+clam,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Finfish and Shellfish Products
+chowder,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,
+sauce,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,"Soups, Sauces, and Gravies"
+syrup,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,Sweets
+clam chowder,1,ice cube,-1,-1,still in the kitchen,2018-12-07,2018,12,"Soups, Sauces, and Gravies"
+hot sauce,1,ice cube,1,1,still in the kitchen,2018-12-07,2018,12,
+aunt jemima,1,ice cube,2,2,still in the kitchen,2018-12-07,2018,12,
+drinking,2,ice cube,1,2,smoke some weed,2006-06-06,2006,6,Beverages
+ice,2,ice cube,1,2,smoke some weed,2006-06-06,2006,6,
+ice cube,2,ice cube,1,2,smoke some weed,2006-06-06,2006,6,
+ice,2,ice cube,1,2,stop snitchin,2006-06-06,2006,6,
+ice,1,repeat 4x,1,1,stop snitchin,2006-06-06,2006,6,
+fish,2,ice cube,1,2,stop snitchin,2006-06-06,2006,6,Finfish and Shellfish Products
+ice cube,2,ice cube,1,2,stop snitchin,2006-06-06,2006,6,
+ice cube,1,repeat 4x,1,1,stop snitchin,2006-06-06,2006,6,
+deep dish,1,ice cube,2,2,stop snitchin,2006-06-06,2006,6,Baked Products
+ice,1,ice cube,1,1,street fighter,1994-12-06,1994,12,
+chocolate,1,ice cube,1,1,street fighter,1994-12-06,1994,12,Sweets
+rice,1,ice cube,1,1,street fighter,1994-12-06,1994,12,Cereal Grains and Pasta
+cake,1,ice cube,1,1,street fighter,1994-12-06,1994,12,Baked Products
+grasshopper,1,ice cube,1,1,street fighter,1994-12-06,1994,12,
+deli,1,ice cube,1,1,street fighter,1994-12-06,1994,12,Sausages and Luncheon Meats
+malt,1,ice cube,1,1,street fighter,1994-12-06,1994,12,Sweets
+wonton,1,ice cube,1,1,street fighter,1994-12-06,1994,12,"Soups, Sauces, and Gravies"
+soup,2,ice cube,1,2,street fighter,1994-12-06,1994,12,"Soups, Sauces, and Gravies"
+pork,1,ice cube,1,1,street fighter,1994-12-06,1994,12,Pork Products
+rice cake,1,ice cube,-1,-1,street fighter,1994-12-06,1994,12,Snacks
+malt liquor,1,ice cube,-1,-1,street fighter,1994-12-06,1994,12,
+wonton soup,1,ice cube,-1,-1,street fighter,1994-12-06,1994,12,
+beef,2,ice cube,1,2,streets shed tears,2018-12-07,2018,12,Beef Products
+chicken,2,ice cube,1,2,streets shed tears,2018-12-07,2018,12,Poultry Products
+ice,1,ice cube,1,1,streets shed tears,2018-12-07,2018,12,
+drink,1,bad azz,1,1,streetz illustrated,2001-07-17,2001,7,
+pit,2,daz dillinger,1,2,strizap,2006-09-12,2006,9,
+ice,1,daz dillinger,1,1,strizap,2006-09-12,2006,9,
+ice cube,1,daz dillinger,1,1,strizap,2006-09-12,2006,9,
+water,2,daz dillinger,1,2,super og (intro),2018-12-07,2018,12,Beverages
+chicken,1,westside connection,1,1,superstar,2003-12-09,2003,12,Poultry Products
+watermelon,1,westside connection,1,1,superstar,2003-12-09,2003,12,Fruits and Fruit Juices
+ice,1,ice cube,1,1,supreme hustle,2000-01-15,2000,1,
+ice cube,1,ice cube,1,1,supreme hustle,2000-01-15,2000,1,
+chocolate,1,mack 10,1,1,take a hit,1995-04-11,1995,4,Sweets
+dough,1,mack 10,1,1,take a hit,1995-04-11,1995,4,
+rum,1,mack 10,1,1,take a hit,1995-04-11,1995,4,Beverages
+ice,4,ice cube,1,4,take me away,2008-08-19,2008,8,
+ice cube,4,ice cube,1,4,take me away,2008-08-19,2008,8,
+cocktail,1,wc,1,1,terrorist threats,2003-12-09,2003,12,"Soups, Sauces, and Gravies"
+ice,1,ice cube,1,1,thank god,2008-08-19,2008,8,
+food,1,ice cube,1,1,thank god,2008-08-19,2008,8,
+drink,1,ice cube,1,1,thank god,2008-08-19,2008,8,
+fry,1,ice cube,1,1,thank god,2008-08-19,2008,8,
+potato,1,ice cube,1,1,thank god,2008-08-19,2008,8,Vegetables and Vegetable Products
+macaroni,1,ice cube,1,1,thank god,2008-08-19,2008,8,Cereal Grains and Pasta
+cheese,1,ice cube,1,1,thank god,2008-08-19,2008,8,Dairy and Egg Products
+ice cube,1,ice cube,1,1,thank god,2008-08-19,2008,8,
+meat,9,ice cube,1,9,that new funkadelic,2018-12-04,2018,12,Baby Foods
+ice,6,ice cube,1,6,that new funkadelic,2018-12-04,2018,12,
+honey,1,ice cube,1,1,that new funkadelic,2018-12-04,2018,12,Sweets
+barbeque,1,ice cube,1,1,that new funkadelic,2018-12-04,2018,12,
+ice cube,6,ice cube,1,6,that new funkadelic,2018-12-04,2018,12,
+ice,1,mack 10,1,1,tha weekend,0,0,0,
+peeled,1,mack 10,1,1,tha weekend,0,0,0,Nut and Seed Products
+ice cube,1,mack 10,1,1,tha weekend,0,0,0,
+ice,1,ice cube,1,1,the big show,1992-11-01,1992,11,
+ice cube,1,ice cube,1,1,the big show,1992-11-01,1992,11,
+ice,2,ice cube,1,2,the bomb,1990-05-16,1990,5,
+herb,1,ice cube,1,1,the bomb,1990-05-16,1990,5,Beverages
+ice cube,2,ice cube,1,2,the bomb,1990-05-16,1990,5,
+ice,1,rivers cuomo,1,1,the bomb,2007-12-18,2007,12,
+ice cube,1,rivers cuomo,1,1,the bomb,2007-12-18,2007,12,
+rabbit,1,ice cube,1,1,the curse of money,1998-11-17,1998,11,"Lamb, Veal, and Game Products"
+dough,1,k-dee,1,1,the freshest mc in the world,1994-11-15,1994,11,
+butter,1,k-dee,1,1,the freshest mc in the world,1994-11-15,1994,11,Dairy and Egg Products
+nut,1,ice cube,1,1,the game lord,2006-06-06,2006,6,Nut and Seed Products
+nut,1,ice cube] - repeat 2x,1,1,the game lord,2006-06-06,2006,6,Nut and Seed Products
+pancake,1,ice cube,1,1,"the gangsta, the killa and the dope dealer",1996-10-22,1996,10,Baked Products
+cookie,1,ice cube,1,1,"the gangsta, the killa and the dope dealer",1996-10-22,1996,10,Baked Products
+blow pop,1,ice cube,2,2,"the gangsta, the killa and the dope dealer",1996-10-22,1996,10,
+steak,1,mack 10,1,1,the guppies,1997-09-16,1997,9,Beef Products
+cheese,1,mack 10,1,1,the guppies,1997-09-16,1997,9,Dairy and Egg Products
+ice,2,ice cube,1,2,the gutter shit,2000-03-21,2000,3,
+chicken,3,ice cube,1,3,the gutter shit,2000-03-21,2000,3,Poultry Products
+wine,1,30},1,1,the gutter shit,2000-03-21,2000,3,Beverages
+yeast,1,30},1,1,the gutter shit,2000-03-21,2000,3,Baked Products
+fish,2,30},1,2,the gutter shit,2000-03-21,2000,3,Finfish and Shellfish Products
+honey,1,22},1,1,the gutter shit,2000-03-21,2000,3,Sweets
+cabbage,1,22},1,1,the gutter shit,2000-03-21,2000,3,Vegetables and Vegetable Products
+ice cube,2,ice cube,1,2,the gutter shit,2000-03-21,2000,3,
+chocolate,1,ice cube,1,1,the hand that rocks the cradle,1994-11-15,1994,11,Sweets
+chocolate,1,k-dee,1,1,the hand that rocks the cradle,1994-11-15,1994,11,Sweets
+milk,1,k-dee,1,1,the hand that rocks the cradle,1994-11-15,1994,11,Dairy and Egg Products
+nut,1,k-dee,1,1,the hand that rocks the cradle,1994-11-15,1994,11,Nut and Seed Products
+ice,1,erick sermon,1,1,the ill shit,1993-10-19,1993,10,
+ice,1,ice cube,1,1,the ill shit,1993-10-19,1993,10,
+saltine,1,kam,1,1,the ill shit,1993-10-19,1993,10,Baked Products
+cracker,1,kam,1,1,the ill shit,1993-10-19,1993,10,Baked Products
+ice cube,1,erick sermon,1,1,the ill shit,1993-10-19,1993,10,
+ice cube,1,ice cube,1,1,the ill shit,1993-10-19,1993,10,
+saltine cracker,1,kam,-1,-1,the ill shit,1993-10-19,1993,10,
+ice,2,ice cube,1,2,the nigga of the century,2000-03-21,2000,3,
+fry,1,ice cube,1,1,the nigga of the century,2000-03-21,2000,3,
+ice cube,2,ice cube,1,2,the nigga of the century,2000-03-21,2000,3,
+flavor,1,ice cube,1,1,the nigga trapp,2006-06-06,2006,6,
+cheese,1,ice cube,1,1,the nigga trapp,2006-06-06,2006,6,Dairy and Egg Products
+ice,2,ice cube,1,2,the nigga ya love to hate,1990-05-16,1990,5,
+ice,4,ice cube,1,4,the nigga ya love to hate,1990-05-16,1990,5,
+tbone,1,ice cube,1,1,the nigga ya love to hate,1990-05-16,1990,5,
+ice cube,2,ice cube,1,2,the nigga ya love to hate,1990-05-16,1990,5,
+ice cube,4,ice cube,1,4,the nigga ya love to hate,1990-05-16,1990,5,
+sour,1,ice cube,1,1,the peckin' order,1998-11-17,1998,11,Fruits and Fruit Juices
+fish,1,ice cube,1,1,the peckin' order,1998-11-17,1998,11,Finfish and Shellfish Products
+noodle,1,mack 10,1,1,the peckin' order,1998-11-17,1998,11,Cereal Grains and Pasta
+ice,2,ice cube,1,2,the product,1990-12-18,1990,12,
+nut,1,ice cube,1,1,the product,1990-12-18,1990,12,Nut and Seed Products
+beef,1,ice cube,1,1,the product,1990-12-18,1990,12,Beef Products
+ice cube,2,ice cube,1,2,the product,1990-12-18,1990,12,
+water,1,ice cube,1,1,the shot,1993-12-07,1993,12,Beverages
+ice,1,ice cube,1,1,the shot,1993-12-07,1993,12,
+alcohol,1,ice cube,1,1,the shot,1993-12-07,1993,12,Spices and Herbs
+ice cube,1,ice cube,1,1,the shot,1993-12-07,1993,12,
+lobster,1,ice cube,1,1,the world is mine,0,0,0,Finfish and Shellfish Products
+steak,1,ice cube,1,1,the world is mine,0,0,0,Beef Products
+water,1,k-dee,1,1,the world is mine,0,0,0,Beverages
+water,1,ice cube,1,1,the world is mine,0,0,0,Beverages
+ice,1,ice cube,1,1,the world is mine,0,0,0,
+ice,1,mack-10,1,1,the world is mine,0,0,0,
+ice cube,1,ice cube,1,1,the world is mine,0,0,0,
+ice cube,1,mack-10,1,1,the world is mine,0,0,0,
+flavor,1,ice cube,1,1,the predator,1992-11-17,1992,11,
+diet,1,ice cube,1,1,the predator,1992-11-17,1992,11,Beverages
+cantaloupe,1,ice cube,1,1,the predator,1992-11-17,1992,11,Fruits and Fruit Juices
+cream,1,ice cube,1,1,the predator,1992-11-17,1992,11,Dairy and Egg Products
+haagendazs,1,ice cube,1,1,the predator,1992-11-17,1992,11,
+chocolate,1,ice cube,1,1,the predator,1992-11-17,1992,11,Sweets
+ice,1,ice cube,1,1,the predator,1992-11-17,1992,11,
+cracker,1,ice cube,1,1,the predator,1992-11-17,1992,11,Baked Products
+ice cube,1,ice cube,1,1,the predator,1992-11-17,1992,11,
+drink,1,yo-yo,1,1,they shit don't stink,1993-06-22,1993,6,
+water,1,yo-yo,1,1,they shit don't stink,1993-06-22,1993,6,Beverages
+grape,1,yo-yo,1,1,they shit don't stink,1993-06-22,1993,6,Vegetables and Vegetable Products
+lemon,1,yo-yo,1,1,they shit don't stink,1993-06-22,1993,6,Beverages
+lemon drop,1,yo-yo,1,1,they shit don't stink,1993-06-22,1993,6,
+cake,1,ice cube,1,1,thought i saw a pussy cat,1994-11-15,1994,11,Baked Products
+cake,1,k-dee,1,1,thought i saw a pussy cat,1994-11-15,1994,11,Baked Products
+rice,1,ice cube,1,1,thought i saw a pussy cat,1994-11-15,1994,11,Cereal Grains and Pasta
+rice,1,k-dee,1,1,thought i saw a pussy cat,1994-11-15,1994,11,Cereal Grains and Pasta
+gin,1,ice cube,1,1,three strikes you in,1998-11-17,1998,11,
+batter,3,ice cube,1,3,three strikes you in,1998-11-17,1998,11,Poultry Products
+peanut,1,ice cube,1,1,three strikes you in,1998-11-17,1998,11,Legumes and Legume Products
+cracker,2,ice cube,1,2,three strikes you in,1998-11-17,1998,11,Baked Products
+nut,1,ice cube,1,1,three strikes you in,1998-11-17,1998,11,Nut and Seed Products
+breakfast,1,ice cube,1,1,today was a good day,1998-07-09,1998,7,Baked Products
+mojito,1,ice cube,1,1,too west coast,2010-09-28,2010,9,
+burrito,1,ice cube,1,1,too west coast,2010-09-28,2010,9,Fast Foods
+pea,1,ice cube,1,1,too west coast,2010-09-28,2010,9,Vegetables and Vegetable Products
+goose,1,ice cube,1,1,too west coast,2010-09-28,2010,9,Poultry Products
+rose,1,ice cube,1,1,too west coast,2010-09-28,2010,9,Beverages
+chicken,1,wc,1,1,too west coast,2010-09-28,2010,9,Poultry Products
+chicken,1,young maylay,1,1,too west coast,2010-09-28,2010,9,Poultry Products
+goulash,1,wc,1,1,too west coast,2010-09-28,2010,9,
+barracuda,1,wc,1,1,too west coast,2010-09-28,2010,9,
+ice,1,wc,1,1,too west coast,2010-09-28,2010,9,
+ice,1,keith david,1,1,too west coast,2010-09-28,2010,9,
+drink,2,wc,1,2,too west coast,2010-09-28,2010,9,
+drink,2,keith david,1,2,too west coast,2010-09-28,2010,9,
+cheese,1,young maylay,1,1,too west coast,2010-09-28,2010,9,Dairy and Egg Products
+meat,1,young maylay,1,1,too west coast,2010-09-28,2010,9,Baby Foods
+nacho,1,young maylay,1,1,too west coast,2010-09-28,2010,9,Fast Foods
+cilantro,1,young maylay,1,1,too west coast,2010-09-28,2010,9,
+chicken dinner,1,wc,-1,-1,too west coast,2010-09-28,2010,9,
+ice cube,1,wc,1,1,too west coast,2010-09-28,2010,9,
+ice cube,1,keith david,1,1,too west coast,2010-09-28,2010,9,
+dough,1,ice cube,1,1,true to the game,1992-09-14,1992,9,
+flavor,1,ice cube,1,1,true to the game,1992-09-14,1992,9,
+oreo,2,ice cube,1,2,true to the game,1992-09-14,1992,9,
+cookie,1,ice cube,1,1,true to the game,1992-09-14,1992,9,Baked Products
+fish,1,ice cube,1,1,true to the game,1992-09-14,1992,9,Finfish and Shellfish Products
+ice,1,ice cube and leesa gibbons,1,1,true to the game,1992-09-14,1992,9,
+ice cube,1,ice cube and leesa gibbons,1,1,true to the game,1992-09-14,1992,9,
+nut,1,mike epps,1,1,tryin' to be a gangsta,2009-10-27,2009,10,Nut and Seed Products
+snack,1,mike epps,1,1,tryin' to be a gangsta,2009-10-27,2009,10,Snacks
+beer,2,ice cube,1,2,turn it up,0,0,0,Beverages
+malt,1,ice cube,1,1,turn it up,0,0,0,Sweets
+ice,1,ice cube,1,1,turn it up,0,0,0,
+malt liquor,1,ice cube,-1,-1,turn it up,0,0,0,
+ice cube,1,ice cube,1,1,turn it up,0,0,0,
+ice,2,ice cube,1,2,u ain't gonna take my life,1992-11-17,1992,11,
+cracker,1,ice cube,1,1,u ain't gonna take my life,1992-11-17,1992,11,Baked Products
+patty,1,ice cube,1,1,u ain't gonna take my life,1992-11-17,1992,11,Poultry Products
+ice cube,1,ice cube,1,1,u ain't gonna take my life,1992-11-17,1992,11,
+ice,3,krayzie bone,1,3,until we rich,2000-04-04,2000,4,
+ice,3,ice cube,1,3,until we rich,2000-04-04,2000,4,
+ice cube,3,krayzie bone,1,3,until we rich,2000-04-04,2000,4,
+ice cube,3,ice cube,1,3,until we rich,2000-04-04,2000,4,
+ice,4,ice cube,1,4,waitin' ta hate,2000-03-21,2000,3,
+ice cube,4,ice cube,1,4,waitin' ta hate,2000-03-21,2000,3,
+peeled,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Nut and Seed Products
+nut,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Nut and Seed Products
+ice,3,ice cube,1,3,the wrong nigga to fuck wit,1991-10-29,1991,10,
+watermelon,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Fruits and Fruit Juices
+juice,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Baby Foods
+jellyfish,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Finfish and Shellfish Products
+chicken,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Poultry Products
+fried,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Poultry Products
+cracker,1,ice cube,1,1,the wrong nigga to fuck wit,1991-10-29,1991,10,Baked Products
+ice cube,3,ice cube,1,3,the wrong nigga to fuck wit,1991-10-29,1991,10,
+drink,1,ice cube,1,1,tomorrow,2008-08-19,2008,8,
+bean,1,ice cube,1,1,urbanian,2010-09-28,2010,9,Legumes and Legume Products
+iced,2,ice cube,1,2,urbanian,2010-09-28,2010,9,Beverages
+raisin,1,ice cube,1,1,us,1991-10-29,1991,10,Baked Products
+ice,2,ice cube,1,2,us,1991-10-29,1991,10,
+vanilla,1,ice cube,1,1,us,1991-10-29,1991,10,Sweets
+ice cube,1,ice cube,1,1,us,1991-10-29,1991,10,
+ice,2,wc,1,2,walk,2002-10-22,2002,10,
+cheese,1,wc,1,1,walk,2002-10-22,2002,10,Dairy and Egg Products
+iced,1,wc,1,1,walk,2002-10-22,2002,10,Beverages
+ice cube,2,wc,1,2,walk,2002-10-22,2002,10,
+nut,1,wc,1,1,wanna ride,2002-10-22,2002,10,Nut and Seed Products
+ice,1,mack 10,1,1,wanted dead,1995-06-20,1995,6,
+nut,1,mack 10,1,1,wanted dead,1995-06-20,1995,6,Nut and Seed Products
+ice cube,1,mack 10,1,1,wanted dead,1995-06-20,1995,6,
+ice,1,mack 10,1,1,war & peace,1998-11-17,1998,11,
+ice,1,ice cube,1,1,war & peace,1998-11-17,1998,11,
+bread,1,ice cube,1,1,war & peace,1998-11-17,1998,11,Baked Products
+ice cube,1,mack 10,1,1,war & peace,1998-11-17,1998,11,
+ice cube,1,ice cube,1,1,war & peace,1998-11-17,1998,11,
+juice,1,kam,1,1,watts riot,1993-02-16,1993,2,Baby Foods
+cocktail,2,kam,1,2,watts riot,1993-02-16,1993,2,"Soups, Sauces, and Gravies"
+cracker,1,kam,1,1,watts riot,1993-02-16,1993,2,Baked Products
+ice,1,kam,1,1,watts riot,1993-02-16,1993,2,
+ice cube,1,kam,1,1,watts riot,1993-02-16,1993,2,
+water,1,ice cube,1,1,we be clubbin,1997-12-18,1997,12,Beverages
+cognac,1,ice cube,1,1,we be clubbin,1997-12-18,1997,12,
+ice,1,ice cube,1,1,we be clubbin,1997-12-18,1997,12,
+drink,1,ice cube,1,1,we be clubbin,1997-12-18,1997,12,
+breakfast,1,ice cube,1,1,we be clubbin,1997-12-18,1997,12,Baked Products
+ice cube,1,ice cube,1,1,we be clubbin,1997-12-18,1997,12,
+beer,1,ice cube,1,1,we don't want no 8-ball,0,0,0,Beverages
+ice,2,ice cube,1,2,we don't want no 8-ball,0,0,0,
+fish,1,ice cube,1,1,we don't want no 8-ball,0,0,0,Finfish and Shellfish Products
+ice cube,2,ice cube,1,2,we don't want no 8-ball,0,0,0,
+ice,1,gangsta,1,1,westside connect og's,1997-07-08,1997,7,
+soda,1,gangsta,1,1,westside connect og's,1997-07-08,1997,7,Baked Products
+drink,1,gangsta,1,1,westside connect og's,1997-07-08,1997,7,
+ice cube,1,gangsta,1,1,westside connect og's,1997-07-08,1997,7,
+baking soda,1,gangsta,1,1,westside connect og's,1997-07-08,1997,7,Baked Products
+nut,1,mack 10,1,1,westside foe life,1997-09-16,1997,9,Nut and Seed Products
+ice,3,westside connection,1,3,westside slaughterhouse,1995-06-20,1995,6,
+brandy,1,westside connection,1,1,westside slaughterhouse,1995-06-20,1995,6,
+nut,1,westside connection,1,1,westside slaughterhouse,1995-06-20,1995,6,Nut and Seed Products
+ice cube,3,westside connection,1,3,westside slaughterhouse,1995-06-20,1995,6,
+chicken,1,westside connection,1,1,westside story,1993-06-22,1993,6,Poultry Products
+cocktail,1,yo-yo,1,1,westside story,1993-06-22,1993,6,"Soups, Sauces, and Gravies"
+ice,3,wc and the maad circle,1,3,west up!,1995-08-14,1995,8,
+ice,1,wc,1,1,west up!,1995-08-14,1995,8,
+ice,1,mack 10,1,1,west up!,1995-08-14,1995,8,
+ice cube,3,wc and the maad circle,1,3,west up!,1995-08-14,1995,8,
+ice cube,1,wc,1,1,west up!,1995-08-14,1995,8,
+herb,1,westside connection,1,1,westward ho,1996-10-22,1996,10,Beverages
+chicken,2,westside connection,1,2,westward ho,1996-10-22,1996,10,Poultry Products
+cayenne,1,ice cube,1,1,we had to tear this muthafucka up,1992-11-17,1992,11,
+pepper,1,ice cube,1,1,we had to tear this muthafucka up,1992-11-17,1992,11,Vegetables and Vegetable Products
+cracker,1,ice cube,1,1,we had to tear this muthafucka up,1992-11-17,1992,11,Baked Products
+ice,2,ice cube,1,2,we had to tear this muthafucka up,1992-11-17,1992,11,
+food,1,ice cube,1,1,we had to tear this muthafucka up,1992-11-17,1992,11,
+cake,1,ice cube,1,1,we had to tear this muthafucka up,1992-11-17,1992,11,Baked Products
+cocktail,1,ice cube,1,1,we had to tear this muthafucka up,1992-11-17,1992,11,"Soups, Sauces, and Gravies"
+cayenne pepper,1,ice cube,-1,-1,we had to tear this muthafucka up,1992-11-17,1992,11,
+ice cube,2,ice cube,1,2,we had to tear this muthafucka up,1992-11-17,1992,11,
+betty crocker,1,ice cube,2,2,we had to tear this muthafucka up,1992-11-17,1992,11,
+chicken,1,ice cube,1,1,what can i do?,1993-12-07,1993,12,Poultry Products
+soda,1,ice cube,1,1,what can i do?,1993-12-07,1993,12,Baked Products
+water,1,ice cube,1,1,what can i do?,1993-12-07,1993,12,Beverages
+dough,1,ice cube,1,1,what can i do?,1993-12-07,1993,12,
+mcdonalds,1,ice cube,1,1,what can i do?,1993-12-07,1993,12,Fast Foods
+baking soda,1,ice cube,1,1,what can i do?,1993-12-07,1993,12,Baked Products
+chicken,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,Poultry Products
+soda,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,Baked Products
+water,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,Beverages
+meal,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,Baked Products
+mcdonalds,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,Fast Foods
+fry,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,
+strawberry,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,Dairy and Egg Products
+ice,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,
+ice cube,1,ice cube,1,1,what can i do? (remix),1994-11-22,1994,11,
+ice,1,ice cube,1,1,what is a pyroclastic flow?,2008-08-19,2008,8,
+ice cube,1,ice cube,1,1,what is a pyroclastic flow?,2008-08-19,2008,8,
+nut,1,ice cube,1,1,what they hittin' foe?,1990-05-16,1990,5,Nut and Seed Products
+bean,1,ice cube,1,1,when i get to heaven,1993-12-07,1993,12,Legumes and Legume Products
+pie,1,ice cube,1,1,when i get to heaven,1993-12-07,1993,12,Baked Products
+pig foot,1,ice cube,2,2,when i get to heaven,1993-12-07,1993,12,
+bean pie,1,ice cube,-1,-1,when i get to heaven,1993-12-07,1993,12,
+bean,1,ice cube,1,1,when i get to heaven (remix),1994-11-22,1994,11,Legumes and Legume Products
+pie,1,ice cube,1,1,when i get to heaven (remix),1994-11-22,1994,11,Baked Products
+pig foot,1,ice cube,2,2,when i get to heaven (remix),1994-11-22,1994,11,
+bean pie,1,ice cube,-1,-1,when i get to heaven (remix),1994-11-22,1994,11,
+ice,2,ice cube,1,2,when will they shoot?,1992-11-17,1992,11,
+dough,1,ice cube,1,1,when will they shoot?,1992-11-17,1992,11,
+flavor,1,ice cube,1,1,when will they shoot?,1992-11-17,1992,11,
+cracker,2,ice cube,1,2,when will they shoot?,1992-11-17,1992,11,Baked Products
+turkey,1,ice cube,1,1,when will they shoot?,1992-11-17,1992,11,Poultry Products
+ice cube,2,ice cube,1,2,when will they shoot?,1992-11-17,1992,11,
+nut,2,ice cube,1,2,who are you lovin,0,0,0,Nut and Seed Products
+ice,2,ice cube,1,2,who's the mack?,1990-05-16,1990,5,
+ice cube,2,ice cube,1,2,who's the mack?,1990-05-16,1990,5,
+beef,1,da lench mob,1,1,who ya gonna shoot wit that?,1992-09-22,1992,9,Beef Products
+macaroni,1,da lench mob,1,1,who ya gonna shoot wit that?,1992-09-22,1992,9,Cereal Grains and Pasta
+ice,2,wc,1,2,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,
+ice,2,ice cube,1,2,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,
+ice,1,,1,1,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,
+drinking,2,wc,1,2,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,Beverages
+drinking,2,ice cube,1,2,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,Beverages
+ice cube,2,wc,1,2,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,
+ice cube,2,ice cube,1,2,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,
+ice cube,1,,1,1,why we thugs/smoke some weed (medley - live),2008-09-16,2008,9,
+ice,3,don jagwarr,1,3,wicked,1992-11-03,1992,11,
+ice,1,ice cube,1,1,wicked,1992-11-03,1992,11,
+pork,1,ice cube,1,1,wicked,1992-11-03,1992,11,Pork Products
+ice cube,3,don jagwarr,1,3,wicked,1992-11-03,1992,11,
+ice cube,1,ice cube,1,1,wicked,1992-11-03,1992,11,
+pork,1,jonathan davis,1,1,wicked,1996-10-15,1996,10,Pork Products
+pork,1,chino moreno,1,1,wicked,1996-10-15,1996,10,Pork Products
+pork,1,,1,1,wicked,1996-10-15,1996,10,Pork Products
+ice,1,jonathan davis,1,1,wicked wayz,1996-07-30,1996,7,
+ice,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,
+peanut,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Legumes and Legume Products
+lettuce,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Vegetables and Vegetable Products
+fish,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Finfish and Shellfish Products
+caper,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Spices and Herbs
+nut,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Nut and Seed Products
+chocolate,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Sweets
+ice cube,1,jonathan davis,1,1,wicked wayz,1996-07-30,1996,7,
+ice cube,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,
+chocolate chip,1,mr. mike,1,1,wicked wayz,1996-07-30,1996,7,Baked Products
+wine,1,ice cube,1,1,wish they'd come up with a 12-pack,0,0,0,Beverages
+drink,1,ice cube,1,1,wish they'd come up with a 12-pack,0,0,0,
+barbecue,1,ice cube,1,1,wish they'd come up with a 12-pack,0,0,0,"Soups, Sauces, and Gravies"
+beer,1,ice cube,1,1,wish they'd come up with a 12-pack,0,0,0,Beverages
+lemonade,1,ice cube,1,1,wish they'd come up with a 12-pack,0,0,0,Beverages
+ice,1,ice cube,1,1,world domination (intro),1996-10-22,1996,10,
+ice cube,1,ice cube,1,1,world domination (intro),1996-10-22,1996,10,
+mm,1,ice cube,1,1,x-bitches,1998-11-17,1998,11,
+ice,2,ice cube,1,2,x-bitches,1998-11-17,1998,11,
+ice cube,2,ice cube,1,2,x-bitches,1998-11-17,1998,11,
+ice,2,ice cube,1,2,y'all know how i am,2010-09-28,2010,9,
+bacardi,1,ice cube,1,1,y'all know how i am,2010-09-28,2010,9,
+ice cube,2,ice cube,1,2,y'all know how i am,2010-09-28,2010,9,
+candied,1,ice cube,1,1,you ain't gotta lie ta kick it,2000-03-21,2000,3,Vegetables and Vegetable Products
+ice,1,ice cube,1,1,you ain't gotta lie ta kick it,2000-03-21,2000,3,
+ice cube,1,ice cube,1,1,you ain't gotta lie ta kick it,2000-03-21,2000,3,
+ice,2,yo-yo,1,2,you better ask somebody,1993-06-22,1993,6,
+flavor,1,yo-yo,1,1,you better ask somebody,1993-06-22,1993,6,
+bean,1,yo-yo,1,1,you better ask somebody,1993-06-22,1993,6,Legumes and Legume Products
+pie,1,yo-yo,1,1,you better ask somebody,1993-06-22,1993,6,Baked Products
+cocktail,1,yo-yo,1,1,you better ask somebody,1993-06-22,1993,6,"Soups, Sauces, and Gravies"
+rose,1,yo-yo,1,1,you better ask somebody,1993-06-22,1993,6,Beverages
+succotash,1,yo-yo,1,1,you better ask somebody,1993-06-22,1993,6,Vegetables and Vegetable Products
+ice cube,2,yo-yo,1,2,you better ask somebody,1993-06-22,1993,6,
+bean pie,1,yo-yo,-1,-1,you better ask somebody,1993-06-22,1993,6,
+ice,2,ice cube,1,2,you can do it,1999-11-16,1999,11,
+ice,1,ice cube,1,1,you can do it,1999-11-16,1999,11,
+drink,1,ice cube,1,1,you can do it,1999-11-16,1999,11,
+wine,1,mack 10,1,1,you can do it,1999-11-16,1999,11,Beverages
+ice cube,2,ice cube,1,2,you can do it,1999-11-16,1999,11,
+ice cube,1,ice cube,1,1,you can do it,1999-11-16,1999,11,
+drink,1,ice cube,1,1,why me?,2008-08-19,2008,8,
+cracker,1,j-dee,1,1,you and your heroes,1992-09-22,1992,9,Baked Products
+cracker,1,t-bone,1,1,you and your heroes,1992-09-22,1992,9,Baked Products
+nut,1,j-dee,1,1,you and your heroes,1992-09-22,1992,9,Nut and Seed Products
+nut,1,t-bone,1,1,you and your heroes,1992-09-22,1992,9,Nut and Seed Products
+alcohol,1,ice cube,1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,Spices and Herbs
+ice,2,ice cube,1,2,you can't fade me / jd's gafflin',1990-05-16,1990,5,
+ice,1,ice cube,1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,
+turkey,1,ice cube,1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,Poultry Products
+tbone,1,ice cube,1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,
+peeled,1,ice cube,1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,Nut and Seed Products
+mcdonalds,1,"""jd's gafflin'""",1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,Fast Foods
+food,1,"""jd's gafflin'""",1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,
+ice cube,2,ice cube,1,2,you can't fade me / jd's gafflin',1990-05-16,1990,5,
+ice cube,1,ice cube,1,1,you can't fade me / jd's gafflin',1990-05-16,1990,5,
+ice,3,yo-yo,1,3,you can't play with my yo-yo,1991-03-13,1991,3,
+pumpkin,1,yo-yo,1,1,you can't play with my yo-yo,1991-03-13,1991,3,Vegetables and Vegetable Products
+drinking,1,yo-yo,1,1,you can't play with my yo-yo,1991-03-13,1991,3,Beverages
+ice cube,1,yo-yo,1,1,you can't play with my yo-yo,1991-03-13,1991,3,
+tuna,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,Finfish and Shellfish Products
+cheese,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,Dairy and Egg Products
+flavor,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,
+gum,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,Sweets
+ice,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,
+soda,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,Baked Products
+chin chin,1,ice cube,2,2,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,
+ice cube,1,ice cube,1,1,you don't wanna fuck wit these (unreleased '93 shit),1994-11-22,1994,11,
+chicken,2,wc and the maad circle,1,2,"you don't work, u don't eat",1991-09-17,1991,9,Poultry Products
+drinking,1,wc and the maad circle,1,1,"you don't work, u don't eat",1991-09-17,1991,9,Beverages
+gin,1,wc and the maad circle,1,1,"you don't work, u don't eat",1991-09-17,1991,9,
+oil,1,wc and the maad circle,1,1,"you don't work, u don't eat",1991-09-17,1991,9,Fats and Oils
+soup,1,wc and the maad circle,1,1,"you don't work, u don't eat",1991-09-17,1991,9,"Soups, Sauces, and Gravies"
+meal,3,wc and the maad circle,1,3,"you don't work, u don't eat",1991-09-17,1991,9,Baked Products
+mcdonalds,1,wc and the maad circle,1,1,"you don't work, u don't eat",1991-09-17,1991,9,Fast Foods
+bacon,1,wc and the maad circle,1,1,"you don't work, u don't eat",1991-09-17,1991,9,Pork Products
+ice,1,bootsy collins & bernie worrell,1,1,you got me wide open,1995-04-11,1995,4,
+ice cube,1,bootsy collins & bernie worrell,1,1,you got me wide open,1995-04-11,1995,4,
+pie,1,westside connection,1,1,you gotta have heart,2003-12-09,2003,12,Baked Products
+penne,1,westside connection,1,1,you gotta have heart,2003-12-09,2003,12,
+cheddar,1,westside connection,1,1,you gotta have heart,2003-12-09,2003,12,Dairy and Egg Products
+fish,1,ice cube,1,1,you know how we do it,1994-02-02,1994,2,Finfish and Shellfish Products
+nut,1,ice cube,1,1,you know how we do it,1994-02-02,1994,2,Nut and Seed Products
+ice,1,ice cube,1,1,you know how we do it,1994-02-02,1994,2,
+drink,1,ice cube,1,1,you know how we do it,1994-02-02,1994,2,
+ice cube,1,ice cube,1,1,you know how we do it,1994-02-02,1994,2,
+fish,1,ice cube,1,1,you know how we do it (remix),1994-11-22,1994,11,Finfish and Shellfish Products
+nut,1,ice cube,1,1,you know how we do it (remix),1994-11-22,1994,11,Nut and Seed Products
+ice,1,ice cube,1,1,you know how we do it (remix),1994-11-22,1994,11,
+drink,1,ice cube,1,1,you know how we do it (remix),1994-11-22,1994,11,
+ice cube,1,ice cube,1,1,you know how we do it (remix),1994-11-22,1994,11,
+fish,1,ice cube,1,1,you know how we do it (west coast classics radio),0,0,0,Finfish and Shellfish Products
+nut,1,ice cube,1,1,you know how we do it (west coast classics radio),0,0,0,Nut and Seed Products
+ice,1,ice cube,1,1,you know how we do it (west coast classics radio),0,0,0,
+drink,1,ice cube,1,1,you know how we do it (west coast classics radio),0,0,0,
+ice cube,1,ice cube,1,1,you know how we do it (west coast classics radio),0,0,0,
+ham,1,master p,1,1,you know i'm a ho,1998-03-17,1998,3,Pork Products
+grain,1,master p,1,1,you know i'm a ho,1998-03-17,1998,3,
+herb,1,ice cube,1,1,your money or your life,2010-09-28,2010,9,Beverages
+spice,1,ice cube,1,1,your money or your life,2010-09-28,2010,9,Spices and Herbs
+cheddar,1,ice cube,1,1,your money or your life,2010-09-28,2010,9,Dairy and Egg Products

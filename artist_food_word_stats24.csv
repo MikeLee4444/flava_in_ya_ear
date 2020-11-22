@@ -1,0 +1,412 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+food,1,mike jones,1,1,5 years from now,2005-04-19,2005,4,
+food,1,mike jones,1,1,5 years from now (remix),0,0,0,
+food,1,mike jones,1,1,5 years from now (screwed & chopped) (feat. lil' bran),0,0,0,
+baguette,1,mike jones,1,1,addictive,0,0,0,
+candy,2,mike jones,1,2,addictive,0,0,0,Sweets
+butter,1,mike jones,1,1,addictive,0,0,0,Dairy and Egg Products
+gin,1,mike jones,1,1,addictive,0,0,0,
+bacardi,1,mike jones,1,1,addictive,0,0,0,
+bread,1,mike jones,1,1,addictive,0,0,0,Baked Products
+cake,1,mike jones,1,1,adonis blue,1991-08-12,1991,8,Baked Products
+beer,1,mike jones,1,1,america for beginners,0,0,0,Beverages
+jack daniel,1,mike jones,2,2,america for beginners,0,0,0,
+gravy,1,mike jones,1,1,baby,0,0,0,"Soups, Sauces, and Gravies"
+cheese,1,mike jones,1,1,back then,2005-02-15,2005,2,Dairy and Egg Products
+ice,3,mike jones,1,3,back then,2005-02-15,2005,2,
+jelly,1,mike jones,1,1,back then,2005-02-15,2005,2,Sweets
+cheese,1,x2,1,1,back then - amended version,0,0,0,Dairy and Egg Products
+ice,3,x2,1,3,back then - amended version,0,0,0,
+jelly,1,x2,1,1,back then - amended version,0,0,0,Sweets
+cheese,1,mike jones,1,1,back then (remix),0,0,0,Dairy and Egg Products
+ice,3,mike jones,1,3,back then (remix),0,0,0,
+jelly,1,mike jones,1,1,back then (remix),0,0,0,Sweets
+cheese,1,mike jones,1,1,back then (re-recorded),0,0,0,Dairy and Egg Products
+ice,3,mike jones,1,3,back then (re-recorded),0,0,0,
+jelly,1,mike jones,1,1,back then (re-recorded),0,0,0,Sweets
+cheese,1,mike jones,1,1,back then (screwed & chopped),0,0,0,Dairy and Egg Products
+ice,3,mike jones,1,3,back then (screwed & chopped),0,0,0,
+jelly,1,mike jones,1,1,back then (screwed & chopped),0,0,0,Sweets
+bread,1,ying yang twins,1,1,badd,2006-07-26,2006,7,Baked Products
+cheese,1,ying yang twins,1,1,badd,2006-07-26,2006,7,Dairy and Egg Products
+sugar,1,mike jones,1,1,boi!,0,0,0,Sweets
+honey,2,mike jones,1,2,boi!,0,0,0,Sweets
+cake,1,mike jones,1,1,boi!,0,0,0,Baked Products
+sugar,1,mike jones,1,1,boi! [young problemz & mike jones],0,0,0,Sweets
+honey,2,mike jones,1,2,boi! [young problemz & mike jones],0,0,0,Sweets
+cake,1,mike jones,1,1,boi! [young problemz & mike jones],0,0,0,Baked Products
+ice,1,mike jones,1,1,cash that i got,0,0,0,
+ice,1,swishahouse,1,1,cash that i got,0,0,0,
+cheddar,1,swishahouse,1,1,cash that i got,0,0,0,Dairy and Egg Products
+champagne,7,mike jones,1,7,champagne music,0,0,0,
+flavor,1,mike jones,1,1,crunch n munch,0,0,0,
+butter,1,mike jones,1,1,crunch n munch,0,0,0,Dairy and Egg Products
+toffee,1,mike jones,1,1,crunch n munch,0,0,0,Sweets
+honey,1,,1,1,crunch n munch,0,0,0,Sweets
+honey bun,1,,1,1,crunch n munch,0,0,0,
+cinnamon,11,cinn-tree crew,1,11,ct rap,2014-09-07,2014,9,Baked Products
+sugar,2,cinn-tree crew,1,2,ct rap,2014-09-07,2014,9,Sweets
+brown sugar,1,cinn-tree crew,1,1,ct rap,2014-09-07,2014,9,Breakfast Cereals
+ice,1,mike jones,1,1,cuddy buddy (alternate version),0,0,0,
+dessert,1,lil' wayne {trey songz},1,1,cuddy buddy (alternate version),0,0,0,Baby Foods
+drink,1,mike jones,1,1,cuddy buddy (remix),0,0,0,
+drink,1,mike jones,1,1,cuttin,0,0,0,
+beef,1,mike jones,1,1,cuttin,0,0,0,Beef Products
+candy,2,mike jones,1,2,cuttin,0,0,0,Sweets
+butter,2,mike jones,1,2,cuttin,0,0,0,Dairy and Egg Products
+ice,1,mike jones,1,1,cuttin,0,0,0,
+drink,1,mike jones,1,1,cuttin' (feat. magno),0,0,0,
+beef,1,mike jones,1,1,cuttin' (feat. magno),0,0,0,Beef Products
+candy,2,mike jones,1,2,cuttin' (feat. magno),0,0,0,Sweets
+butter,2,mike jones,1,2,cuttin' (feat. magno),0,0,0,Dairy and Egg Products
+ice,1,mike jones,1,1,cuttin' (feat. magno),0,0,0,
+drink,1,mike jones,1,1,cuttin' (remix),2005-04-19,2005,4,
+beef,1,mike jones,1,1,cuttin' (remix),2005-04-19,2005,4,Beef Products
+candy,2,mike jones,1,2,cuttin' (remix),2005-04-19,2005,4,Sweets
+butter,2,mike jones,1,2,cuttin' (remix),2005-04-19,2005,4,Dairy and Egg Products
+ice,1,mike jones,1,1,cuttin' (remix),2005-04-19,2005,4,
+drink,1,mike jones,1,1,cuttin' (remix) (screwd & chopped),0,0,0,
+beef,1,mike jones,1,1,cuttin' (remix) (screwd & chopped),0,0,0,Beef Products
+candy,2,mike jones,1,2,cuttin' (remix) (screwd & chopped),0,0,0,Sweets
+butter,2,mike jones,1,2,cuttin' (remix) (screwd & chopped),0,0,0,Dairy and Egg Products
+ice,1,mike jones,1,1,cuttin' (remix) (screwd & chopped),0,0,0,
+grain,1,mike jones,1,1,day 2 day grindin',0,0,0,
+beef,1,mike jones,1,1,day 2 day grindin',0,0,0,Beef Products
+jelly,1,mike jones,1,1,dirt off ya shoulder (flow),0,0,0,Sweets
+butter,1,mike jones,1,1,dirt off ya shoulder (flow),0,0,0,Dairy and Egg Products
+jelly,1,mike jones,1,1,dirt off your shoulder (flow),0,0,0,Sweets
+butter,1,mike jones,1,1,dirt off your shoulder (flow),0,0,0,Dairy and Egg Products
+beef,1,mike jones,1,1,don't work u don't eat,0,0,0,Beef Products
+sauce,2,mike jones,1,2,don't work u don't eat,0,0,0,"Soups, Sauces, and Gravies"
+snapper,1,mike jones,1,1,don't work u don't eat,0,0,0,Finfish and Shellfish Products
+apple,1,mike jones,1,1,don't work u don't eat,0,0,0,Fruits and Fruit Juices
+sour,1,mike jones,1,1,don't work u don't eat,0,0,0,Fruits and Fruit Juices
+apple sauce,1,mike jones,-1,-1,don't work u don't eat,0,0,0,
+drink,12,rnb base,1,12,drinks on me,2016-01-01,2016,1,
+drink,1,mike jones,1,1,drinks on me,2016-01-01,2016,1,
+drink,5,darz,1,5,drinks on me,2016-01-01,2016,1,
+ice,2,darz,1,2,drinks on me,2016-01-01,2016,1,
+ice,1,mike jones,1,1,drop & gimme 50,2007-11-27,2007,11,
+ice,1,mike jones,1,1,drop & gimme 50 (super clean) (promo only clean edit),0,0,0,
+beef,1,mike jones,1,1,dynasty (flow),0,0,0,Beef Products
+candy,1,mike jones,1,1,flossin',2005-04-19,2005,4,Sweets
+candy,2,mike jones,1,2,flossin',2005-04-19,2005,4,Sweets
+candy,1,big moe,1,1,flossin',2005-04-19,2005,4,Sweets
+grain,1,mike jones,1,1,flossin',2005-04-19,2005,4,
+candy,2,mike jones,1,2,flossin (feat. big moe),0,0,0,Sweets
+candy,1,mike jones,1,1,flossin (feat. big moe),0,0,0,Sweets
+candy,1,big moe,1,1,flossin (feat. big moe),0,0,0,Sweets
+grain,1,mike jones,1,1,flossin (feat. big moe),0,0,0,
+candy,2,mike jones,1,2,flossin (remix),0,0,0,Sweets
+candy,1,mike jones,1,1,flossin (remix),0,0,0,Sweets
+candy,1,big moe,1,1,flossin (remix),0,0,0,Sweets
+grain,1,mike jones,1,1,flossin (remix),0,0,0,
+candy,2,mike jones,1,2,flossin' (screwed & chopped) (feat. big moe),0,0,0,Sweets
+candy,1,mike jones,1,1,flossin' (screwed & chopped) (feat. big moe),0,0,0,Sweets
+candy,1,big moe,1,1,flossin' (screwed & chopped) (feat. big moe),0,0,0,Sweets
+grain,1,mike jones,1,1,flossin' (screwed & chopped) (feat. big moe),0,0,0,
+ice,1,mike jones,1,1,flow - get it on da floor,0,0,0,
+olive,1,mike jones,1,1,flow - into you,0,0,0,Fruits and Fruit Juices
+oil,1,mike jones,1,1,flow - into you,0,0,0,Fats and Oils
+spinach,1,mike jones,1,1,flow - into you,0,0,0,Vegetables and Vegetable Products
+olive oil,1,mike jones,-1,-1,flow - into you,0,0,0,Fats and Oils
+candy,1,,1,1,fly boy (remix),0,0,0,Sweets
+ice,2,mike jones,1,2,fly boy (remix),0,0,0,
+champagne,6,mike jones,1,6,foreign whips,0,0,0,
+candy,1,mike jones,1,1,foreign whips,0,0,0,Sweets
+grain,1,mike jones,1,1,foreign whips,0,0,0,
+grain,1,mike jones,1,1,foreign whips,0,0,0,
+ice,2,mike jones,1,2,foreign whips,0,0,0,
+candy,1,mike jones,1,1,gangsta grillz,2006-07-25,2006,7,Sweets
+candy,10,letoya luckett,1,10,gangsta grillz,2006-07-25,2006,7,Sweets
+raisin,1,mike jones,1,1,ghetto cry,0,0,0,Baked Products
+spinach,1,mike jones,1,1,ghetto cry,0,0,0,Vegetables and Vegetable Products
+beef,1,mike jones,1,1,ghetto cry,0,0,0,Beef Products
+dough,2,mike jones,1,2,give me a call,0,0,0,
+nut,1,mike jones,1,1,give me a call,0,0,0,Nut and Seed Products
+bread,2,mike jones,1,2,give me a call,0,0,0,Baked Products
+candy,3,mike jones,1,3,got it sewed up,0,0,0,Sweets
+drinking,2,mike jones,1,2,got it sewed up,0,0,0,Beverages
+drink,1,mike jones,1,1,got it sewed up,0,0,0,
+grain,2,mike jones,1,2,got it sewed up,0,0,0,
+candy,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,Sweets
+drink,2,mike jones,1,2,got it sewed up (screw & chop mix),0,0,0,
+grain,2,mike jones,1,2,got it sewed up (screw & chop mix),0,0,0,
+ice,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,
+champagne,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,
+pasta,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,"Soups, Sauces, and Gravies"
+butter,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,Dairy and Egg Products
+bread,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,Baked Products
+cheese,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,Dairy and Egg Products
+lobster,1,mike jones,1,1,got it sewed up (screw & chop mix),0,0,0,Finfish and Shellfish Products
+butter bread,1,mike jones,-1,-1,got it sewed up (screw & chop mix),0,0,0,
+bread cheese,1,mike jones,-1,-1,got it sewed up (screw & chop mix),0,0,0,
+candy,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,Sweets
+drink,2,mike jones,1,2,got it sewed up (screwed & chopped remix),0,0,0,
+grain,2,mike jones,1,2,got it sewed up (screwed & chopped remix),0,0,0,
+ice,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,
+champagne,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,
+pasta,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,"Soups, Sauces, and Gravies"
+butter,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,Dairy and Egg Products
+bread,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,Baked Products
+cheese,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,Dairy and Egg Products
+lobster,1,mike jones,1,1,got it sewed up (screwed & chopped remix),0,0,0,Finfish and Shellfish Products
+butter bread,1,mike jones,-1,-1,got it sewed up (screwed & chopped remix),0,0,0,
+bread cheese,1,mike jones,-1,-1,got it sewed up (screwed & chopped remix),0,0,0,
+food,1,mike jones,1,1,grandma,2005-04-19,2005,4,
+ice,1,mike jones,1,1,grandma,2005-04-19,2005,4,
+food,1,mike jones,1,1,grandma pt ii,0,0,0,
+ice,1,mike jones,1,1,grandma pt ii,0,0,0,
+food,1,mike jones,1,1,grandma (remix),0,0,0,
+ice,1,mike jones,1,1,grandma (remix),0,0,0,
+food,1,mike jones,1,1,grandma (screwed & chopped),0,0,0,
+ice,1,mike jones,1,1,grandma (screwed & chopped),0,0,0,
+ice,4,bow wow,1,4,fresh azimiz (remix),0,0,0,
+ice,1,mike jones,1,1,fresh azimiz (remix),0,0,0,
+candy,1,bow wow,1,1,fresh azimiz (remix),0,0,0,Sweets
+dough,1,bow wow,1,1,fresh azimiz (remix),0,0,0,
+syrup,1,smug mang,1,1,gualla,2014-02-01,2014,2,Sweets
+sprite,1,smug mang,1,1,gualla,2014-02-01,2014,2,Beverages
+broccoli,4,mike jones,1,4,happy birthday,0,0,0,Vegetables and Vegetable Products
+mint,1,mike jones,1,1,hate on me,0,0,0,
+ice,2,mike jones,1,2,hate on me,0,0,0,
+iced,1,the wreckshop family,1,1,holl up,0,0,0,Beverages
+candy,1,the wreckshop family,1,1,holl up,0,0,0,Sweets
+wine,1,the wreckshop family,1,1,holl up,0,0,0,Beverages
+grain,1,the wreckshop family,1,1,holl up,0,0,0,
+ice,1,the wreckshop family,1,1,holl up,0,0,0,
+drink,7,mike jones,1,7,houston oilers,0,0,0,
+candy,6,mike jones,1,6,houston oilers,0,0,0,Sweets
+butter,1,mike jones,1,1,houston oilers,0,0,0,Dairy and Egg Products
+oil,1,mike jones,1,1,houston oilers,0,0,0,Fats and Oils
+bread,1,mike jones,1,1,houston oilers,0,0,0,Baked Products
+grain,1,mike jones,1,1,[i] am work (feat. mike jones),2016-09-09,2016,9,
+dough,1,mike jones,1,1,if i had to pick,0,0,0,
+dough,1,mike jones,1,1,if i had to pick,0,0,0,
+candy,1,mike jones,1,1,i get high,0,0,0,Sweets
+wine,1,mike jones,1,1,i just wanna love you baby,0,0,0,Beverages
+baguette,1,mike jones,1,1,i'll teach you how to stunt,0,0,0,
+shrimp,2,swishahouse,1,2,i'm a pimp,0,0,0,Finfish and Shellfish Products
+candy,1,swishahouse,1,1,i'm a pimp,0,0,0,Sweets
+sprite,1,swishahouse,1,1,i'm a pimp,0,0,0,Beverages
+baguette,1,swishahouse,1,1,i'm a pimp,0,0,0,
+butter,1,swishahouse,1,1,i'm a pimp,0,0,0,Dairy and Egg Products
+drink,1,swishahouse,1,1,i'm a pimp,0,0,0,
+dough,1,,1,1,i'm a soldier,0,0,0,
+olive,1,mike jones,1,1,into you,0,0,0,Fruits and Fruit Juices
+oil,1,mike jones,1,1,into you,0,0,0,Fats and Oils
+spinach,1,mike jones,1,1,into you,0,0,0,Vegetables and Vegetable Products
+olive oil,1,mike jones,-1,-1,into you,0,0,0,Fats and Oils
+cream,1,mike jones,1,1,i remember,2014-11-30,2014,11,Dairy and Egg Products
+grain,1,mike jones,1,1,i remember,2014-11-30,2014,11,
+candy,1,mike jones,1,1,jones,0,0,0,Sweets
+butter,1,mike jones,1,1,jones,0,0,0,Dairy and Egg Products
+bread,1,mike jones,1,1,jones,0,0,0,Baked Products
+chicken,1,mike jones,1,1,jones,0,0,0,Poultry Products
+candy,1,the clientele,1,1,knockin' niggaz out,0,0,0,Sweets
+butter,1,the clientele,1,1,knockin' niggaz out,0,0,0,Dairy and Egg Products
+bread,1,the clientele,1,1,knockin' niggaz out,0,0,0,Baked Products
+chicken,1,mike jones,1,1,knockin' niggaz out,0,0,0,Poultry Products
+candy,1,cj,1,1,laws patrolling,2005-04-19,2005,4,Sweets
+bran,1,cj,1,1,laws patrolling,2005-04-19,2005,4,
+butter,21,mike jones,1,21,leanin on dat butter,0,0,0,Dairy and Egg Products
+butter,8,,1,8,leanin on dat butter,0,0,0,Dairy and Egg Products
+drink,1,mike jones,1,1,leanin on dat butter,0,0,0,
+drink,1,,1,1,leanin on dat butter,0,0,0,
+candy,4,,1,4,like what i got,0,0,0,Sweets
+drink,1,,1,1,like what i got,0,0,0,
+iced,1,,1,1,like what i got,0,0,0,Beverages
+grain,1,,1,1,like what i got,0,0,0,
+ice,2,,1,2,like what i got,0,0,0,
+candy,4,,1,4,like what i got (feat. lil keke),0,0,0,Sweets
+drink,1,,1,1,like what i got (feat. lil keke),0,0,0,
+iced,1,,1,1,like what i got (feat. lil keke),0,0,0,Beverages
+grain,1,,1,1,like what i got (feat. lil keke),0,0,0,
+ice,2,,1,2,like what i got (feat. lil keke),0,0,0,
+candy,9,paul wall,1,9,live from the block,2006-08-22,2006,8,Sweets
+candy,1,mike jones,1,1,live from the block,2006-08-22,2006,8,Sweets
+grain,1,zayvin lakin,1,1,manifest,2019-06-06,2019,6,
+drink,5,the libertines,1,5,mocking bird,2002-10-14,2002,10,
+ice,10,mike jones,1,10,mr. jones,2006-09-04,2006,9,
+iced,1,mike jones,1,1,mr. jones,2006-09-04,2006,9,Beverages
+ice,8,mike jones,1,8,mr. jones (jack horner & dev79 remix),0,0,0,
+iced,1,mike jones,1,1,mr. jones (jack horner & dev79 remix),0,0,0,Beverages
+ice,10,mike jones,1,10,mr. jones [super clean radio edit],0,0,0,
+meal,1,mike jones,1,1,mr. jones [super clean radio edit],0,0,0,Baked Products
+iced,1,mike jones,1,1,mr. jones [super clean radio edit],0,0,0,Beverages
+sprite,1,nic west,1,1,nothin' changed,2019-09-13,2019,9,Beverages
+bologna,2,nic west,1,2,nothin' changed,2019-09-13,2019,9,Sausages and Luncheon Meats
+jolly rancher,1,nic west,2,2,nothin' changed,2019-09-13,2019,9,
+ice,2,big kuntry king,1,2,ol skool,0,0,0,
+tropicana,1,big kuntry king,1,1,ol skool,0,0,0,
+fruit,1,big kuntry king,1,1,ol skool,0,0,0,Baby Foods
+ice,2,,1,2,on top of the covers,0,0,0,
+butter,1,mike jones,1,1,on top of the covers,0,0,0,Dairy and Egg Products
+candy,3,mike jones,1,3,pac man freestyle,0,0,0,Sweets
+candy,1,mike jones,1,1,perfect team,0,0,0,Sweets
+dough,1,mike jones,1,1,perfect team,0,0,0,
+grain,1,mike jones,1,1,perfect team,0,0,0,
+candy,1,mike jones,1,1,perfect team freestyle,0,0,0,Sweets
+dough,1,mike jones,1,1,perfect team freestyle,0,0,0,
+grain,1,mike jones,1,1,perfect team freestyle,0,0,0,
+candy,2,mike jones,1,2,perfect team pt. 3,0,0,0,Sweets
+skittle,1,mike jones,1,1,perfect team pt. 3,0,0,0,
+nut,1,mike jones,1,1,perfect team pt. 3,0,0,0,Nut and Seed Products
+rose,1,daye lahookz,1,1,pop dat (the remix),2017-07-30,2017,7,Beverages
+drink,1,daye lahookz,1,1,pop dat (the remix),2017-07-30,2017,7,
+drink,1,slim thug,1,1,riot,0,0,0,
+breakfast,1,slim thug,1,1,riot,0,0,0,Baked Products
+sprite,1,slim thug,1,1,riot,0,0,0,Beverages
+wine,1,slim thug,1,1,riot,0,0,0,Beverages
+shrimp,1,slim thug,1,1,riot,0,0,0,Finfish and Shellfish Products
+ice,2,mike jones,1,2,riot,0,0,0,
+dough,1,mike jones,1,1,riot,0,0,0,
+butter,1,mike jones,1,1,riot,0,0,0,Dairy and Egg Products
+dough,1,mike jones,1,1,rookie of da year,0,0,0,
+cream,1,mike jones,1,1,rookie of da year,0,0,0,Dairy and Egg Products
+carrot,1,la chat,1,1,round & round,0,0,0,Vegetables and Vegetable Products
+cheddar,1,swishahouse,1,1,rulez,0,0,0,Dairy and Egg Products
+bread,1,swishahouse,1,1,rulez,0,0,0,Baked Products
+cake,1,mike jones,1,1,scandalous hoes,2005-04-19,2005,4,Baked Products
+dough,1,mike jones,1,1,scandalous hoes,2005-04-19,2005,4,
+bran,1,lil' bran,1,1,scandalous hoes (remix),0,0,0,
+cake,1,mike jones,1,1,scandalous hoes (remix),0,0,0,Baked Products
+dough,1,mike jones,1,1,scandalous hoes (remix),0,0,0,
+bran,1,mike jones,1,1,scandalous hoes (screwed & chopped) (feat. lil' bran),0,0,0,
+bran,1,lil' bran,1,1,scandalous hoes (screwed & chopped) (feat. lil' bran),0,0,0,
+cake,1,mike jones,1,1,scandalous hoes (screwed & chopped) (feat. lil' bran),0,0,0,Baked Products
+dough,1,mike jones,1,1,scandalous hoes (screwed & chopped) (feat. lil' bran),0,0,0,
+bran,1,mike jones,1,1,scandalous hoes (skit),0,0,0,
+bran,1,lil' bran,1,1,scandalous hoes (skit),0,0,0,
+cake,1,mike jones,1,1,scandalous hoes (skit),0,0,0,Baked Products
+dough,1,mike jones,1,1,scandalous hoes (skit),0,0,0,
+candy,3,mike jones,1,3,screw dat,2005-04-19,2005,4,Sweets
+drink,2,mike jones,1,2,screw dat,2005-04-19,2005,4,
+dough,1,mike jones,1,1,screw dat,2005-04-19,2005,4,
+grain,1,mike jones,1,1,screw dat,2005-04-19,2005,4,
+candy,3,mike jones,1,3,screw dat (remix),0,0,0,Sweets
+drink,2,mike jones,1,2,screw dat (remix),0,0,0,
+dough,1,mike jones,1,1,screw dat (remix),0,0,0,
+grain,1,mike jones,1,1,screw dat (remix),0,0,0,
+candy,3,mike jones,1,3,screw dat (screwed & chopped),0,0,0,Sweets
+drink,2,mike jones,1,2,screw dat (screwed & chopped),0,0,0,
+dough,1,mike jones,1,1,screw dat (screwed & chopped),0,0,0,
+grain,1,mike jones,1,1,screw dat (screwed & chopped),0,0,0,
+wine,1,mike jones,1,1,she like how i flex on her,0,0,0,Beverages
+gravy,1,mike jones,1,1,she like how i flex on her,0,0,0,"Soups, Sauces, and Gravies"
+water,2,mike jones,1,2,she like how i flex on her,0,0,0,Beverages
+coffee,1,mike jones,1,1,she like how i flex on her,0,0,0,Beverages
+bread,1,mike jones,1,1,she like how i flex on her,0,0,0,Baked Products
+ice,1,mike jones,1,1,she like how i flex on her,0,0,0,
+ice,1,mike jones,1,1,shit on boyz,0,0,0,
+lamb,1,mike jones,1,1,shit on boyz,0,0,0,"Lamb, Veal, and Game Products"
+meal,1,the libertines,1,1,skag & bone man,2003-09-01,2003,9,Baked Products
+rose,1,magno (producer),1,1,so gone flow,0,0,0,Beverages
+banana,1,magno (producer),1,1,so gone flow,0,0,0,Fruits and Fruit Juices
+caper,1,magno (producer),1,1,so gone flow,0,0,0,Spices and Herbs
+banana split,1,magno (producer),1,1,so gone flow,0,0,0,
+nut,1,swishahouse,1,1,step ya game up,0,0,0,Nut and Seed Products
+grain,1,slim thug,1,1,still tippin',2004-11-12,2004,11,
+grain,1,mike jones,1,1,still tippin',2004-11-12,2004,11,
+grain,1,paul wall,1,1,still tippin',2004-11-12,2004,11,
+candy,1,slim thug,1,1,still tippin',2004-11-12,2004,11,Sweets
+candy,1,mike jones,1,1,still tippin',2004-11-12,2004,11,Sweets
+syrup,1,mike jones,1,1,still tippin',2004-11-12,2004,11,Sweets
+nut,2,paul wall,1,2,still tippin',2004-11-12,2004,11,Nut and Seed Products
+grain,3,slim thug,1,3,still tippin',0,0,0,
+candy,2,slim thug,1,2,still tippin',0,0,0,Sweets
+syrup,1,slim thug,1,1,still tippin',0,0,0,Sweets
+nut,2,slim thug,1,2,still tippin',0,0,0,Nut and Seed Products
+grain,3,mike jones,1,3,still tippin' (it's a man's world remix),0,0,0,
+nut,1,mike jones,1,1,still tippin' (it's a man's world remix),0,0,0,Nut and Seed Products
+food,1,mike jones,1,1,still tippin' (it's a man's world remix),0,0,0,
+water,1,mike jones,1,1,still tippin' (it's a man's world remix),0,0,0,Beverages
+grain,3,mike jones,1,3,still tippin' (it's a man's world remix 2),0,0,0,
+nut,1,mike jones,1,1,still tippin' (it's a man's world remix 2),0,0,0,Nut and Seed Products
+food,1,mike jones,1,1,still tippin' (it's a man's world remix 2),0,0,0,
+water,1,mike jones,1,1,still tippin' (it's a man's world remix 2),0,0,0,Beverages
+grain,3,mike jones,1,3,still tippin (remix),0,0,0,
+candy,2,mike jones,1,2,still tippin (remix),0,0,0,Sweets
+syrup,1,mike jones,1,1,still tippin (remix),0,0,0,Sweets
+nut,2,mike jones,1,2,still tippin (remix),0,0,0,Nut and Seed Products
+grain,3,lil keke,1,3,still tippin' (remix),0,0,0,
+candy,2,lil keke,1,2,still tippin' (remix),0,0,0,Sweets
+syrup,1,lil keke,1,1,still tippin' (remix),0,0,0,Sweets
+cake,1,lil keke,1,1,still tippin' (remix),0,0,0,Baked Products
+grain,1,lil keke,1,1,still tippin' - screwed & chopped version,0,0,0,
+grain,2,mike jones,1,2,still tippin' - screwed & chopped version,0,0,0,
+candy,1,lil keke,1,1,still tippin' - screwed & chopped version,0,0,0,Sweets
+candy,1,mike jones,1,1,still tippin' - screwed & chopped version,0,0,0,Sweets
+syrup,1,mike jones,1,1,still tippin' - screwed & chopped version,0,0,0,Sweets
+nut,2,mike jones,1,2,still tippin' - screwed & chopped version,0,0,0,Nut and Seed Products
+grain,3,mike jones,1,3,still trippin,0,0,0,
+candy,2,mike jones,1,2,still trippin,0,0,0,Sweets
+syrup,1,mike jones,1,1,still trippin,0,0,0,Sweets
+nut,2,mike jones,1,2,still trippin,0,0,0,Nut and Seed Products
+candy,1,baby bash,1,1,supa chic,2007-10-30,2007,10,Sweets
+candy coated,1,baby bash,1,1,supa chic,2007-10-30,2007,10,
+sour,1,mike jones,1,1,swagger right,0,0,0,Fruits and Fruit Juices
+sour,1,repeat 2x,1,1,swagger right,0,0,0,Fruits and Fruit Juices
+butter,2,mike jones,1,2,swagger right,0,0,0,Dairy and Egg Products
+grain,1,mike jones,1,1,swagger right,0,0,0,
+grain,4,mike jones,1,4,syrup,0,0,0,
+syrup,5,mike jones,1,5,syrup,0,0,0,Sweets
+candy,2,mike jones,1,2,syrup,0,0,0,Sweets
+dough,1,mike jones,1,1,the city is mine,0,0,0,
+dough,1,mike jones,1,1,the city is myne,0,0,0,
+candy,3,paul wall,1,3,they don't know (original),2004-02-24,2004,2,Sweets
+iced,1,paul wall,1,1,they don't know (original),2004-02-24,2004,2,Beverages
+bread,1,paul wall,1,1,they don't know (original),2004-02-24,2004,2,Baked Products
+chicken,1,paul wall,1,1,they don't know (original),2004-02-24,2004,2,Poultry Products
+syrup,1,paul wall,1,1,they don't know (original),2004-02-24,2004,2,Sweets
+ice,6,swishahouse,1,6,throwed,0,0,0,
+ice,1,mike jones,1,1,throwed,0,0,0,
+salad,1,5th ward weebie,1,1,throwed,0,0,0,
+food,1,mike jones,1,1,turning heads,0,0,0,
+candy,1,mike jones,1,1,turning lane,2005-04-19,2005,4,Sweets
+candy,5,mike jones,1,5,turning lane,2005-04-19,2005,4,Sweets
+drink,1,mike jones,1,1,turning lane,2005-04-19,2005,4,
+candy,1,mike jones,1,1,turning lane (remix),0,0,0,Sweets
+candy,1,mike jones,1,1,turning lane (remix),0,0,0,Sweets
+drink,1,mike jones,1,1,turning lane (remix),0,0,0,
+pit,1,mike jones,1,1,type of nigga you need,0,0,0,
+grain,1,mike jones,1,1,type of nigga you need,0,0,0,
+candy,1,mike jones,1,1,u ballin,0,0,0,Sweets
+butter,1,mike jones,1,1,u ballin,0,0,0,Dairy and Egg Products
+grape,1,mike jones,1,1,u ballin,0,0,0,Vegetables and Vegetable Products
+jelly,1,mike jones,1,1,u ballin,0,0,0,Sweets
+grain,1,mike jones,1,1,u ballin,0,0,0,
+grape jelly,1,mike jones,-1,-1,u ballin,0,0,0,
+nut,1,mike jones,1,1,u feel good,0,0,0,Nut and Seed Products
+nut,1,mike jones,1,1,u feel good dont u,0,0,0,Nut and Seed Products
+ice,2,mike jones,1,2,way i be leanin',2006-03-08,2006,3,
+ice,1,paul wall,1,1,way i be leanin',2006-03-08,2006,3,
+candy,2,mike jones,1,2,way i be leanin',2006-03-08,2006,3,Sweets
+honey,1,mike jones,1,1,way i be leanin',2006-03-08,2006,3,Sweets
+cantaloupe,1,skip,1,1,way i be leanin',2006-03-08,2006,3,Fruits and Fruit Juices
+betty crocker,1,paul wall,2,2,way i be leanin',2006-03-08,2006,3,
+baguette,1,mike jones,1,1,we ballin,0,0,0,
+candy,1,mike jones,1,1,we ballin,0,0,0,Sweets
+grain,1,mike jones,1,1,we ballin,0,0,0,
+bread,2,mike jones,1,2,we ballin,0,0,0,Baked Products
+alcohol,1,mike jones,1,1,we made history in his presence,2017-08-01,2017,8,Spices and Herbs
+alcohol,1,hakeem ture,1,1,we made history in his presence,2017-08-01,2017,8,Spices and Herbs
+butter,2,mike jones,1,2,what we do is wrong,0,0,0,Dairy and Egg Products
+cheddar,1,mike jones,1,1,what we do is wrong,0,0,0,Dairy and Egg Products
+grain,1,mike jones,1,1,what we do is wrong,0,0,0,
+grain,2,mike jones,1,2,what we on,0,0,0,
+grain,30,mike jones,1,30,what ya know about,2005-04-19,2005,4,
+candy,4,mike jones,1,4,what ya know about,2005-04-19,2005,4,Sweets
+butter,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,Dairy and Egg Products
+apple,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,Fruits and Fruit Juices
+cherry,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,Fruits and Fruit Juices
+iced,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,Beverages
+syrup,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,Sweets
+pan,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,
+sprite,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,Beverages
+candy apple,1,mike jones,-1,-1,what ya know about,2005-04-19,2005,4,
+candy coated,1,mike jones,1,1,what ya know about,2005-04-19,2005,4,
+drink,2,lil flip,1,2,white cup,0,0,0,
+beef,1,lil flip,1,1,white cup,0,0,0,Beef Products
+iced,2,lil flip,1,2,white cup,0,0,0,Beverages
+soda,1,lil flip,1,1,white cup,0,0,0,Baked Products

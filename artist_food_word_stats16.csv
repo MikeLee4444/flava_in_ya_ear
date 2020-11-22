@@ -1,0 +1,145 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+bread,1,pitbull,1,1,305 anthem,2004-08-03,2004,8,Baked Products
+ice,1,pitbull,1,1,305 anthem,2004-08-03,2004,8,
+cream,1,pitbull,1,1,305 anthem,2004-08-03,2004,8,Dairy and Egg Products
+pit,2,pitbull,1,2,305 anthem,2004-08-03,2004,8,
+ice cream,1,pitbull,-1,-1,305 anthem,2004-08-03,2004,8,Sweets
+chiquita,6,pitbull,1,6,culo,2004-07-06,2004,7,
+drink,2,pitbull,1,2,culo,2004-07-06,2004,7,
+malt,1,youngbloodz (hip hop),1,1,damn!,2003-06-16,2003,6,Sweets
+drink,1,youngbloodz (hip hop),1,1,damn!,2003-06-16,2003,6,
+alcohol,1,youngbloodz (hip hop),1,1,damn!,2003-06-16,2003,6,Spices and Herbs
+malt liquor,1,youngbloodz (hip hop),-1,-1,damn!,2003-06-16,2003,6,
+bread,1,uncredited female,1,1,drop a little lower,0,0,0,Baked Products
+drink,2,petey pablo,1,2,freek-a-leek,2003-12-16,2003,12,
+gin,1,petey pablo,1,1,freek-a-leek,2003-12-16,2003,12,
+arroz,1,n.o.r.e.,1,1,gasolina (remix),2004-07-13,2004,7,
+pollo,1,n.o.r.e.,1,1,gasolina (remix),2004-07-13,2004,7,
+pit,3,pitbull,1,3,i know you want me (calle ocho),2009-05-25,2009,5,
+ice,1,trick-trick,1,1,let it fly,2008-11-11,2008,11,
+ice,1,ice cube trick,1,1,let it fly,2008-11-11,2008,11,
+cheese,2,trick trick,1,2,let it fly,2008-11-11,2008,11,Dairy and Egg Products
+grape,1,trick trick,1,1,let it fly,2008-11-11,2008,11,Vegetables and Vegetable Products
+drink,1,ice cube,1,1,let it fly,2008-11-11,2008,11,
+ice cube,1,trick-trick,1,1,let it fly,2008-11-11,2008,11,
+ice cube,1,ice cube trick,1,1,let it fly,2008-11-11,2008,11,
+nut,2,lil scrappy,1,2,no problem,2009-06-16,2009,6,Nut and Seed Products
+almond,1,big sam,1,1,one night stand,2004-11-16,2004,11,Nut and Seed Products
+almond joy,1,big sam,1,1,one night stand,2004-11-16,2004,11,
+water,4,bomani armah,1,4,read a book,0,0,0,Beverages
+drink,4,bomani armah,1,4,read a book,0,0,0,
+berry,1,pitbull,1,1,watagatapitusberry (remix),2010-03-09,2010,3,
+berry,1,sensato,1,1,watagatapitusberry (remix),2010-03-09,2010,3,
+strawberry,1,pitbull,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Dairy and Egg Products
+jelly,1,pitbull,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Sweets
+cranberry,1,sensato,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Legumes and Legume Products
+spaghetti,1,sensato,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Cereal Grains and Pasta
+blackberry,1,sensato,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Fruits and Fruit Juices
+tea,1,sensato,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Beverages
+cherry,1,sensato,1,1,watagatapitusberry (remix),2010-03-09,2010,3,Fruits and Fruit Juices
+blueberry,2,sensato,1,2,watagatapitusberry (remix),2010-03-09,2010,3,Baked Products
+lemon,1,djay,1,1,whoop that trick,2005-07-12,2005,7,Beverages
+nut,1,djay,1,1,whoop that trick,2005-07-12,2005,7,Nut and Seed Products
+goose,1,djay,1,1,whoop that trick,2005-07-12,2005,7,Poultry Products
+boost,1,djay,1,1,whoop that trick,2005-07-12,2005,7,
+beef,1,juvenile,1,1,why not,0,0,0,Beef Products
+steak,1,juvenile,1,1,why not,0,0,0,Beef Products
+cheese,1,juvenile,1,1,why not,0,0,0,Dairy and Egg Products
+pie,1,lloyd,1,1,atl tales/ride wit me,2004-07-20,2004,7,Baked Products
+cheddar,1,ja rule,1,1,daddy's little baby,1999-06-01,1999,6,Dairy and Egg Products
+champagne,1,ja rule,1,1,furious,0,0,0,
+cumin,1,ja rule,1,1,lost little girl,2001-10-02,2001,10,
+beef,1,memphis bleek,1,1,my mind right,2000-08-29,2000,8,Beef Products
+gravy,1,lil' mo,1,1,put it on me (radio remix),2000-10-10,2000,10,"Soups, Sauces, and Gravies"
+gravy,1,vita,1,1,put it on me (radio remix),2000-10-10,2000,10,"Soups, Sauces, and Gravies"
+honey,1,lil' mo,1,1,put it on me (radio remix),2000-10-10,2000,10,Sweets
+honey,1,vita,1,1,put it on me (radio remix),2000-10-10,2000,10,Sweets
+restaurant,1,dumbfoundead,1,1,bitch,0,0,0,Restaurant Foods
+goose,1,breezy lovejoy,1,1,cell phone,2012-04-06,2012,4,Poultry Products
+juice,1,breezy lovejoy,1,1,cell phone,2012-04-06,2012,4,Baby Foods
+drink,1,breezy lovejoy,1,1,cell phone,2012-04-06,2012,4,
+rum,1,dumbfoundead,1,1,cell phone,2012-04-06,2012,4,Beverages
+gatorade,1,dumbfoundead,1,1,cell phone,2012-04-06,2012,4,Beverages
+pho,1,dumbfoundead,1,1,cell phone,2012-04-06,2012,4,
+fish,1,dumbfoundead,1,1,cell phone,2012-04-06,2012,4,Finfish and Shellfish Products
+drinking,1,dumbfoundead,1,1,cell phone,2012-04-06,2012,4,Beverages
+drinking,3,dumbfoundead,1,3,drinking alone,2012-10-16,2012,10,Beverages
+drinking,1,breezy lovejoy,1,1,drinking alone,2012-10-16,2012,10,Beverages
+drinking,1,x4,1,1,drinking alone,2012-10-16,2012,10,Beverages
+bourbon,1,dumbfoundead,1,1,drinking alone,2012-10-16,2012,10,
+pinot,1,dumbfoundead,1,1,drinking alone,2012-10-16,2012,10,
+pineapple,1,dumbfoundead,1,1,drinking alone,2012-10-16,2012,10,Fruits and Fruit Juices
+drink,1,breezy lovejoy,1,1,drinking alone,2012-10-16,2012,10,
+granola,1,watsky,1,1,rich girl,1977-01-22,1977,1,Breakfast Cereals
+ice,1,watsky,1,1,rich girl,1977-01-22,1977,1,
+coffee,1,watsky,1,1,rich girl,1977-01-22,1977,1,Beverages
+water,1,mb4,1,1,grind for it,0,0,0,Beverages
+wine,1,mb4,1,1,grind for it,0,0,0,Beverages
+champagne,1,mb4,1,1,grind for it,0,0,0,
+goose,1,mb4,1,1,grind for it,0,0,0,Poultry Products
+drink,1,dj muggs,1,1,john 3:16,1997-03-04,1997,3,
+apple,1,dj muggs,1,1,john 3:16,1997-03-04,1997,3,Fruits and Fruit Juices
+peach,1,dj muggs,1,1,john 3:16,1997-03-04,1997,3,Fruits and Fruit Juices
+lobster,1,dj muggs,1,1,john 3:16,1997-03-04,1997,3,Finfish and Shellfish Products
+white russian,1,dj muggs,2,2,john 3:16,1997-03-04,1997,3,
+pork,1,dj muggs,1,1,learn chinese,0,0,0,Pork Products
+pork,1,jin tha mc,1,1,learn chinese,0,0,0,Pork Products
+fried,1,dj muggs,1,1,learn chinese,0,0,0,Poultry Products
+fried,1,jin tha mc,1,1,learn chinese,0,0,0,Poultry Products
+rice,1,dj muggs,1,1,learn chinese,0,0,0,Cereal Grains and Pasta
+rice,1,jin tha mc,1,1,learn chinese,0,0,0,Cereal Grains and Pasta
+chicken,1,dj muggs,1,1,learn chinese,0,0,0,Poultry Products
+chicken,1,jin tha mc,1,1,learn chinese,0,0,0,Poultry Products
+roasting,1,jin tha mc,1,1,learn chinese,0,0,0,Poultry Products
+gin,1,jin tha mc,1,1,learn chinese,0,0,0,
+ginseng,1,jin tha mc,1,1,learn chinese,0,0,0,
+restaurant,1,jin tha mc,1,1,learn chinese,0,0,0,Restaurant Foods
+cooking,1,jin tha mc,1,1,learn chinese,0,0,0,Beverages
+beef,1,jin tha mc,1,1,learn chinese,0,0,0,Beef Products
+fried rice,1,dj muggs,-1,-1,learn chinese,0,0,0,Restaurant Foods
+fried rice,1,jin tha mc,-1,-1,learn chinese,0,0,0,Restaurant Foods
+chicken wing,1,dj muggs,1,1,learn chinese,0,0,0,
+chicken wing,1,jin tha mc,1,1,learn chinese,0,0,0,
+chinese restaurant,1,jin tha mc,1,1,learn chinese,0,0,0,Restaurant Foods
+water,1,david mcrae,1,1,maria maria,1999-11-23,1999,11,Beverages
+rose,7,cris cab,1,7,rihanna's gun,2012-01-31,2012,1,Beverages
+alcohol,1,wyclef jean,1,1,riot,2007-12-04,2007,12,Spices and Herbs
+batter,1,serj tankian,1,1,riot,2007-12-04,2007,12,Poultry Products
+water,1,serj tankian,1,1,riot,2007-12-04,2007,12,Beverages
+iced,1,p.diddy,1,1,bad boys for life,0,0,0,Beverages
+cognac,1,mark curry,1,1,bad boys for life,0,0,0,
+maple,1,shyne,1,1,bad boyz,2000-05-27,2000,5,Sweets
+croissant,1,shyne,1,1,bad boyz,2000-05-27,2000,5,Baked Products
+clam,1,boyz n da hood,1,1,dem boyz,0,0,0,Finfish and Shellfish Products
+chowder,1,boyz n da hood,1,1,dem boyz,0,0,0,
+bean,1,boyz n da hood,1,1,dem boyz,0,0,0,Legumes and Legume Products
+pie,1,boyz n da hood,1,1,dem boyz,0,0,0,Baked Products
+clam chowder,1,boyz n da hood,-1,-1,dem boyz,0,0,0,"Soups, Sauces, and Gravies"
+bean pie,1,boyz n da hood,-1,-1,dem boyz,0,0,0,
+drinking,1,diddy,1,1,dirty money,2011-02-14,2011,2,Beverages
+ice,1,diddy,1,1,dirty money,2011-02-14,2011,2,
+baguette,1,diddy,1,1,satisfy you,1999-08-24,1999,8,
+oyster,1,jay electronica,1,1,the ghost of christopher wallace,0,0,0,Finfish and Shellfish Products
+shrimp,1,jay electronica,1,1,the ghost of christopher wallace,0,0,0,Finfish and Shellfish Products
+seafood,1,heavy d,1,1,big daddy,1997-04-22,1997,4,
+wine,1,heavy d,1,1,big daddy,1997-04-22,1997,4,Beverages
+champagne,1,heavy d,1,1,big daddy,1997-04-22,1997,4,
+cream,1,heavy d,1,1,big daddy,1997-04-22,1997,4,Dairy and Egg Products
+wine cooler,1,heavy d,1,1,big daddy,1997-04-22,1997,4,
+ground hog,1,daley (rapper),1,1,feel it in the air,0,0,0,
+double stuffed,1,daley (rapper),2,2,feel it in the air,0,0,0,
+lotus,1,swizz beatz,1,1,everyday (coolin'),2011-03-28,2011,3,
+butter,1,swizz beatz,1,1,everyday (coolin'),2011-03-28,2011,3,Dairy and Egg Products
+popcorn,1,swizz beatz,1,1,everyday (coolin'),2011-03-28,2011,3,Snacks
+entree,1,swizz beatz,1,1,everyday (coolin'),2011-03-28,2011,3,Restaurant Foods
+sugar,1,beanie sigel,1,1,remember them days,2000-02-29,2000,2,Sweets
+water,1,beanie sigel,1,1,remember them days,2000-02-29,2000,2,Beverages
+lard,1,beanie sigel,1,1,remember them days,2000-02-29,2000,2,Fats and Oils
+water,1,eve,1,1,she bad bad,2013-05-14,2013,5,Beverages
+goose,1,damian marley,1,1,where is the love,2001-09-11,2001,9,Poultry Products
+pumpkin,1,damian marley,1,1,where is the love,2001-09-11,2001,9,Vegetables and Vegetable Products
+fruit,1,damian marley,1,1,where is the love,2001-09-11,2001,9,Baby Foods
+drink,1,eve,1,1,where is the love,2001-09-11,2001,9,
+dough,1,ruff ryders,1,1,"you, me, and she",2001-12-18,2001,12,
+honey,9,show banga,1,9,blue money,0,0,0,Sweets
+juice,5,show banga,1,5,blue money,0,0,0,Baby Foods

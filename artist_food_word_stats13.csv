@@ -1,0 +1,1769 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+nut,1,mac dre,1,1,rap life,2002-08-27,2002,8,Nut and Seed Products
+candied,1,mac dre,1,1,rapper gone bad,1999-09-28,1999,9,Vegetables and Vegetable Products
+yam,1,mac dre,1,1,rapper gone bad,1999-09-28,1999,9,Vegetables and Vegetable Products
+drink,1,mac dre,1,1,rapper gone bad,1999-09-28,1999,9,
+fish,1,mac dre,1,1,rapper gone bad,1999-09-28,1999,9,Finfish and Shellfish Products
+seasoned,1,mac dre,1,1,rapper gone bad,1999-09-28,1999,9,Baked Products
+candied yam,1,mac dre,-1,-1,rapper gone bad,1999-09-28,1999,9,
+cheese,1,mac dre,1,1,real niggaz,1998-04-28,1998,4,Dairy and Egg Products
+nut,1,mac dre,1,1,real niggaz,1998-04-28,1998,4,Nut and Seed Products
+milk,1,mac dre,1,1,real niggaz,1998-04-28,1998,4,Dairy and Egg Products
+vitamin,1,mac dre,1,1,real niggaz,1998-04-28,1998,4,
+food,1,mac dre,1,1,real niggaz,1998-04-28,1998,4,
+rigatoni,1,mac dre,1,1,retro dance record,2004-10-19,2004,10,
+shrimp,1,mac dre,1,1,retro dance record,2004-10-19,2004,10,Finfish and Shellfish Products
+alfredo,1,mac dre,1,1,retro dance record,2004-10-19,2004,10,
+tomato,1,mac dre,1,1,retro dance record,2004-10-19,2004,10,Vegetables and Vegetable Products
+shrimp alfredo,1,mac dre,-1,-1,retro dance record,2004-10-19,2004,10,
+burger,2,mac dre,1,2,royal flush,2007-10-30,2007,10,
+milkshake,1,mac dre,1,1,royal flush,2007-10-30,2007,10,
+egg,1,mac dre,1,1,sac to the boonies,0,0,0,Dairy and Egg Products
+pan,1,mac dre,1,1,sac to the boonies,0,0,0,
+fry,1,mac dre,1,1,sac to the boonies,0,0,0,
+bread,1,mac dre,1,1,sac to the boonies,0,0,0,Baked Products
+nut,1,mac dre,1,1,sac to the boonies,0,0,0,Nut and Seed Products
+fry,1,web,1,1,shady times,1996-12-10,1996,12,
+bacon,1,web,1,1,shady times,1996-12-10,1996,12,Pork Products
+calico,1,web,1,1,shady times,1996-12-10,1996,12,
+drink,1,mac dre,1,1,shakin the feds,0,0,0,
+drink,1,goldie,1,1,shakin the feds,0,0,0,
+bread,1,mac dre,1,1,shakin the feds,0,0,0,Baked Products
+bread,1,x2,1,1,shakin the feds,0,0,0,Baked Products
+butter,1,mac dre,1,1,shakin the feds,0,0,0,Dairy and Egg Products
+dough,1,mac dre,1,1,shakin the feds,0,0,0,
+orville redenbacher,1,mac dre,2,2,shakin the feds,0,0,0,
+eel,1,mr skrillz,1,1,shemygo remix,0,0,0,Finfish and Shellfish Products
+syrup,1,mr skrillz,1,1,shemygo remix,0,0,0,Sweets
+cream,1,mr skrillz,1,1,shemygo remix,0,0,0,Dairy and Egg Products
+cheese,1,mr skrillz,1,1,shemygo remix,0,0,0,Dairy and Egg Products
+macaroni,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,Cereal Grains and Pasta
+bologna,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,Sausages and Luncheon Meats
+bread,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,Baked Products
+ripe,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,Fruits and Fruit Juices
+steak,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,Beef Products
+sauce,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,"Soups, Sauces, and Gravies"
+carnitas,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,
+fajitas,1,mac dre,1,1,she neva seen,2004-07-20,2004,7,
+licorice,2,mac dre,1,2,shitonaman,2003-11-04,2003,11,
+cake,1,mac dre,1,1,shitonaman,2003-11-04,2003,11,Baked Products
+sap,1,mac dre,1,1,shitonaman,2003-11-04,2003,11,
+celery,1,mac dre,1,1,shitonaman,2003-11-04,2003,11,Vegetables and Vegetable Products
+sauce,1,mac dre,1,1,shitonaman,2003-11-04,2003,11,"Soups, Sauces, and Gravies"
+red vine,2,mac dre,2,4,shitonaman,2003-11-04,2003,11,
+spice,1,mac dre,1,1,shots out,0,0,0,Spices and Herbs
+food,2,mac dre,1,2,shoulda been mo,0,0,0,
+drinking,1,mac dre,1,1,shoulda been mo,0,0,0,Beverages
+milk,2,mac dre,1,2,shoulda been mo,0,0,0,Dairy and Egg Products
+drink,2,mac dre,1,2,shoulda been mo,0,0,0,
+beer,1,mac dre,1,1,shoulda been mo,0,0,0,Beverages
+goose,1,mac dre,1,1,shoulda been mo,0,0,0,Poultry Products
+seasoned,1,mac dre,1,1,since '84,2004-07-20,2004,7,Baked Products
+tasty,1,mac dre,1,1,since '84,2004-07-20,2004,7,
+steak,1,mac dre,1,1,since '84,2004-07-20,2004,7,Beef Products
+dough,4,mac dre,1,4,since '84,2004-07-20,2004,7,
+cheddar,1,mac dre,1,1,since '84,2004-07-20,2004,7,Dairy and Egg Products
+cheese,1,mac dre,1,1,since '84,2004-07-20,2004,7,Dairy and Egg Products
+lemon,1,mac dre,1,1,since '84,2004-07-20,2004,7,Beverages
+turkey,1,mac dre,1,1,since '84,2004-07-20,2004,7,Poultry Products
+cake,1,mac dre,1,1,since '84,2004-07-20,2004,7,Baked Products
+cottage cheese,1,mac dre,1,1,since '84,2004-07-20,2004,7,Dairy and Egg Products
+bread,1,mac dre,1,1,sizzlin',0,0,0,Baked Products
+walnut,1,mac dre,1,1,sizzlin',0,0,0,Nut and Seed Products
+syrup,1,mac dre,1,1,sizzlin',0,0,0,Sweets
+ice,1,mac dre,1,1,sizzlin',0,0,0,
+gravy,1,mac dre,1,1,sizzlin',0,0,0,"Soups, Sauces, and Gravies"
+cracker,1,mac dre,1,1,so hard,2001-11-20,2001,11,Baked Products
+dough,1,mac dre,1,1,so hard,2001-11-20,2001,11,
+mentos,1,mac dre,1,1,so hard,2001-11-20,2001,11,
+7up,1,mac dre,1,1,something you should know,2003-11-04,2003,11,
+snack,1,mac dre,1,1,something you should know,2003-11-04,2003,11,Snacks
+salami,1,mac dre,1,1,something you should know,2003-11-04,2003,11,Sausages and Luncheon Meats
+iced,1,mac dre,1,1,something you should know,2003-11-04,2003,11,Beverages
+restaurant,1,mac dre,1,1,something you should know,2003-11-04,2003,11,Restaurant Foods
+pan,1,mac dre,1,1,something you should know,2003-11-04,2003,11,
+nut,3,mac dre,1,3,something you should know,2003-11-04,2003,11,Nut and Seed Products
+gin,1,mac dre,1,1,something you should know,2003-11-04,2003,11,
+7up,1,mac dre,1,1,something you should know (mixed version by dj vlad),0,0,0,
+snack,1,mac dre,1,1,something you should know (mixed version by dj vlad),0,0,0,Snacks
+salami,1,mac dre,1,1,something you should know (mixed version by dj vlad),0,0,0,Sausages and Luncheon Meats
+iced,1,mac dre,1,1,something you should know (mixed version by dj vlad),0,0,0,Beverages
+cactus,1,mac dre,1,1,something you should know (mixed version by dj vlad),0,0,0,
+restaurant,1,mac dre,1,1,something you should know (mixed version by dj vlad),0,0,0,Restaurant Foods
+nut,3,mac dre,1,3,something you should know (mixed version by dj vlad),0,0,0,Nut and Seed Products
+7up,1,mac dre,1,1,somethin you should know,0,0,0,
+snack,1,mac dre,1,1,somethin you should know,0,0,0,Snacks
+salami,1,mac dre,1,1,somethin you should know,0,0,0,Sausages and Luncheon Meats
+iced,1,mac dre,1,1,somethin you should know,0,0,0,Beverages
+cactus,1,mac dre,1,1,somethin you should know,0,0,0,
+restaurant,1,mac dre,1,1,somethin you should know,0,0,0,Restaurant Foods
+nut,3,mac dre,1,3,somethin you should know,0,0,0,Nut and Seed Products
+salt,1,mac dre,1,1,stayin' alive,2000-05-23,2000,5,Spices and Herbs
+peeled,1,mac dre,1,1,stayin' alive,2000-05-23,2000,5,Nut and Seed Products
+cabbage,1,mac dre,1,1,stayin' alive,2000-05-23,2000,5,Vegetables and Vegetable Products
+goldfish,1,mac dre,1,1,stayin' alive,2000-05-23,2000,5,Baked Products
+patty,1,mac dre,1,1,stayin' alive,2000-05-23,2000,5,Poultry Products
+lemonade,1,mac dre,1,1,stayin' alive,2000-05-23,2000,5,Beverages
+beef,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,Beef Products
+ostrich,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,Poultry Products
+drink,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,
+mimosa,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,
+gin,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,
+juice,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,Baby Foods
+cheese,1,mac dre,1,1,stuart littles,2002-08-27,2002,8,Dairy and Egg Products
+hamburger,2,mac dre,1,2,stuart littles,2002-08-27,2002,8,Fast Foods
+mustard,1,mac dre,1,1,stupid,2000-05-22,2000,5,Spices and Herbs
+mayo,1,mac dre,1,1,stupid,2000-05-22,2000,5,
+applebees,1,mac dre,1,1,stupid,2000-05-22,2000,5,Restaurant Foods
+milk,1,mac dre,1,1,stupid doo doo dumb,1998-04-28,1998,4,Dairy and Egg Products
+meat,1,mac dre,1,1,stupid doo doo dumb,1998-04-28,1998,4,Baby Foods
+fish,1,mac dre,1,1,stupid doo doo dumb,1998-04-28,1998,4,Finfish and Shellfish Products
+food,1,mac mall,1,1,stupid doo doo dumb,1998-04-28,1998,4,
+mayo,1,,1,1,"stupid, pt. 1",0,0,0,
+applebees,1,,1,1,"stupid, pt. 1",0,0,0,Restaurant Foods
+cumin,1,mac dre,1,1,take yo' panties off,2001-11-20,2001,11,
+ice,1,mac dre,1,1,take yo' panties off,2001-11-20,2001,11,
+cognac,1,mac dre,1,1,talk big shit,0,0,0,
+cognac,2,cutthoat committee,1,2,talk big shit,2001-02-27,2001,2,
+dough,1,psd,1,1,talk big shit,2001-02-27,2001,2,
+cognac,1,cutthoat committee,1,1,talk big shit (alt),0,0,0,
+fried,1,mac dre,1,1,tha introduction,2004-10-19,2004,10,Poultry Products
+nut,2,mac dre,1,2,that's wusup,2004-07-20,2004,7,Nut and Seed Products
+water,1,mac dre,1,1,that's wusup,2004-07-20,2004,7,Beverages
+gravy,1,mac dre,1,1,that's wusup,2004-07-20,2004,7,"Soups, Sauces, and Gravies"
+gin,1,mac dre,1,1,that's wusup,2004-07-20,2004,7,
+shrimp,1,mac dre,1,1,that's wusup,2004-07-20,2004,7,Finfish and Shellfish Products
+prawn,1,mac dre,1,1,that's wusup,2004-07-20,2004,7,
+dennys,1,mac dre,1,1,the coldest mc,1997-01-10,1997,1,Restaurant Foods
+water,1,mac dre,1,1,the coldest mc,1997-01-10,1997,1,Beverages
+guinness,3,mac dre,1,3,the life,2007-11-13,2007,11,
+orange,1,smoov-e,1,1,the life,2007-11-13,2007,11,Fruits and Fruit Juices
+cherry,1,mac dre,1,1,the m.a.c & mac d.r.e.,1993-11-29,1993,11,Fruits and Fruit Juices
+peach,2,mac dre,1,2,the m.a.c & mac d.r.e.,1993-11-29,1993,11,Fruits and Fruit Juices
+plum,1,mac dre,1,1,the m.a.c & mac d.r.e.,1993-11-29,1993,11,Fruits and Fruit Juices
+hot dog,1,mac dre,2,2,the m.a.c & mac d.r.e.,1993-11-29,1993,11,Sausages and Luncheon Meats
+cheese,1,mac dre,1,1,the pain,2003-11-04,2003,11,Dairy and Egg Products
+nacho,1,mac dre,1,1,the pain,2003-11-04,2003,11,Fast Foods
+dough,1,dubee,1,1,the wolf intro,2001-11-20,2001,11,
+cola,1,dubee,1,1,the wolf intro,2001-11-20,2001,11,Beverages
+peeled,1,mac mall,1,1,they ask for it,2005-03-22,2005,3,Nut and Seed Products
+potato,1,mac dre,1,1,they ask for it,2005-03-22,2005,3,Vegetables and Vegetable Products
+potato chip,1,mac dre,1,1,they ask for it,2005-03-22,2005,3,Snacks
+juice,1,mac dre,1,1,thizz dance,0,0,0,Baby Foods
+breaded,1,mac dre,1,1,thizzelle washington [tracklist + cover art],2002-08-27,2002,8,Vegetables and Vegetable Products
+beer,1,mac dre,1,1,too hard for the fuckin' radio,0,0,0,Beverages
+ice,1,mac dre,1,1,toys,2005-01-25,2005,1,
+candy,1,mac dre,1,1,toys,2005-01-25,2005,1,Sweets
+nut,1,mac dre,1,1,toys,2005-01-25,2005,1,Nut and Seed Products
+ice,1,andre nickatina,1,1,toys - remix,2008-08-19,2008,8,
+candy,1,andre nickatina,1,1,toys - remix,2008-08-19,2008,8,Sweets
+nut,1,andre nickatina,1,1,toys - remix,2008-08-19,2008,8,Nut and Seed Products
+gin,1,da looie crew,1,1,uninvited,1996-12-06,1996,12,
+ice,1,da looie crew,1,1,uninvited,1996-12-06,1996,12,
+sap,1,mac dre,1,1,uninvited,1996-12-06,1996,12,
+rose,1,lil bruce,1,1,valley joe,1999-09-28,1999,9,Beverages
+cheddar,1,b-legit,1,1,valley joe,1999-09-28,1999,9,Dairy and Egg Products
+batter,1,mac dre,1,1,valley joe,1999-09-28,1999,9,Poultry Products
+cheese,1,mac mall,1,1,versatile,1993-07-12,1993,7,Dairy and Egg Products
+blue cheese,1,mac mall,1,1,versatile,1993-07-12,1993,7,
+beef,1,mac mall,1,1,welcome 2 da bay,0,0,0,Beef Products
+cola,1,mac mall,1,1,welcome 2 da bay,0,0,0,Beverages
+shrimp,1,mac dre,1,1,welcome 2 da bay,0,0,0,Finfish and Shellfish Products
+cola,1,yukmouth,1,1,welcome to the bay,2002-08-06,2002,8,Beverages
+lamb,1,yukmouth,1,1,welcome to the bay,2002-08-06,2002,8,"Lamb, Veal, and Game Products"
+beef,1,messy marv,1,1,welcome to the bay,2002-08-06,2002,8,Beef Products
+champagne,1,mac dre,1,1,welcome to the bay,2002-08-06,2002,8,
+drink,1,mac dre,1,1,well connected,0,0,0,
+vodka,1,mac dre,1,1,well connected,0,0,0,Beverages
+rum,1,mac dre,1,1,well connected,0,0,0,Beverages
+ice,1,mac dre,1,1,we'll roll you,0,0,0,
+dough,2,mac dre,1,2,we'll roll you,0,0,0,
+bread,1,mac dre,1,1,we'll roll you,0,0,0,Baked Products
+cabbage,1,mac dre,1,1,we'll roll you,0,0,0,Vegetables and Vegetable Products
+grape,1,mac dre,1,1,we make hitz,2007-10-30,2007,10,Vegetables and Vegetable Products
+bacardi,1,mac dre,1,1,we make hitz,2007-10-30,2007,10,
+rum,1,mac dre,1,1,we make hitz,2007-10-30,2007,10,Beverages
+popsicle,1,beta,1,1,what a hit we made,2007-01-01,2007,1,
+gin,2,suga free,1,2,what a hit we made,2007-01-01,2007,1,
+apple,1,suga free,1,1,what a hit we made,2007-01-01,2007,1,Fruits and Fruit Juices
+ice,1,magnificent,1,1,what a hit we made,2007-01-01,2007,1,
+cheddar,1,magnificent,1,1,what a hit we made,2007-01-01,2007,1,Dairy and Egg Products
+grape,1,mac dre,1,1,what a hit we made,2007-01-01,2007,1,Vegetables and Vegetable Products
+bacardi,1,mac dre,1,1,what a hit we made,2007-01-01,2007,1,
+rum,1,mac dre,1,1,what a hit we made,2007-01-01,2007,1,Beverages
+hot dog,1,suga free,2,2,what a hit we made,2007-01-01,2007,1,Sausages and Luncheon Meats
+apple pie,1,suga free,-1,-1,what a hit we made,2007-01-01,2007,1,
+dennys,1,mac dre,1,1,what cha like,1997-01-10,1997,1,Restaurant Foods
+water,1,mac dre,1,1,what cha like,1997-01-10,1997,1,Beverages
+tuna,1,mac dre,1,1,what's really going on?,0,0,0,Finfish and Shellfish Products
+bacardi,1,psd,1,1,what we do,1996-12-10,1996,12,
+bread,1,mac mall,1,1,what we do,1996-12-10,1996,12,Baked Products
+yolk,1,mac dre,1,1,where we dwell,1996-12-10,1996,12,Dairy and Egg Products
+candy,1,beesh a/k/a baby bash,1,1,where we dwell,1996-12-10,1996,12,Sweets
+honey,1,husalah,1,1,wild nyte,2010-08-17,2010,8,Sweets
+breakfast,1,mac dre,1,1,wild nyte,2010-08-17,2010,8,Baked Products
+buttered,1,mac dre,1,1,wild nyte,2010-08-17,2010,8,
+biscuit,1,mac dre,1,1,wild nyte,2010-08-17,2010,8,Fast Foods
+triscuit,1,mac dre,1,1,wild nyte,2010-08-17,2010,8,
+cracker,1,mac dre,1,1,wild nyte,2010-08-17,2010,8,Baked Products
+honey bun,1,husalah,1,1,wild nyte,2010-08-17,2010,8,
+ritz cracker,1,mac dre,1,1,wild nyte,2010-08-17,2010,8,
+nut,1,mac dre,1,1,willingly,2005-03-22,2005,3,Nut and Seed Products
+honey,1,mac dre,1,1,witme??,2004-07-20,2004,7,Sweets
+meat,1,mac dre,1,1,witme??,2004-07-20,2004,7,Baby Foods
+candy,1,mac dre,1,1,young black brotha,0,0,0,Sweets
+fruit,1,mac dre,1,1,young black brotha,0,0,0,Baby Foods
+fruit roll,1,mac dre,1,1,young black brotha,0,0,0,
+drink,1,mac dre,1,1,young mac dre,1993-11-29,1993,11,
+cherry,1,mac dre,1,1,young mac dre,1993-11-29,1993,11,Fruits and Fruit Juices
+water,1,mac dre,1,1,young mac dre,1993-11-29,1993,11,Beverages
+nut,1,mac dre,1,1,young playah,0,0,0,Nut and Seed Products
+cracker,1,mac dre,1,1,young playah,0,0,0,Baked Products
+drink,1,mac dre,1,1,young playah,0,0,0,
+water,1,,1,1,always,0,0,0,Beverages
+food,1,,1,1,always,0,0,0,
+jellybeans,1,,1,1,always,0,0,0,Sweets
+candy,1,remy ma,1,1,another one,2017-03-02,2017,3,Sweets
+candy bar,1,remy ma,1,1,another one,2017-03-02,2017,3,Sweets
+water,1,jackie-o,1,1,bad girls,2010-02-09,2010,2,Beverages
+soda,1,remy ma,1,1,bad girls,2010-02-09,2010,2,Baked Products
+toaster,1,remy ma,1,1,bad girls,2010-02-09,2010,2,
+plum,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Fruits and Fruit Juices
+chicken,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Poultry Products
+scrambled,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Dairy and Egg Products
+egg,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Dairy and Egg Products
+bubblegum,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,
+drink,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,
+pineapple,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Fruits and Fruit Juices
+juice,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Baby Foods
+cookie,1,remy ma,1,1,banned from ny,2008-01-01,2008,1,Baked Products
+scrambled egg,1,remy ma,-1,-1,banned from ny,2008-01-01,2008,1,
+blow pop,1,remy ma,2,2,banned from ny,2008-01-01,2008,1,
+pineapple juice,1,remy ma,-1,-1,banned from ny,2008-01-01,2008,1,Fruits and Fruit Juices
+soy,2,remy ma,1,2,bilingual,2006-02-07,2006,2,Baby Foods
+soy,1,ivy queen,1,1,bilingual,2006-02-07,2006,2,Baby Foods
+cooking,1,papoose,1,1,black love,0,0,0,Beverages
+cooking,1,remy ma,1,1,black love,0,0,0,Beverages
+beef,1,papoose,1,1,black love,0,0,0,Beef Products
+beef,1,remy ma,1,1,black love,0,0,0,Beef Products
+meat,1,remy ma,1,1,black love (remix),2016-11-18,2016,11,Baby Foods
+beef,1,papoose,1,1,black love (remix),2016-11-18,2016,11,Beef Products
+bread,1,papoose,1,1,black love (remix),2016-11-18,2016,11,Baked Products
+wheat,1,papoose,1,1,black love (remix),2016-11-18,2016,11,Baked Products
+mango,1,papoose,1,1,black love (remix),2016-11-18,2016,11,Fruits and Fruit Juices
+whole wheat,1,papoose,1,1,black love (remix),2016-11-18,2016,11,Cereal Grains and Pasta
+pan,3,remy ma,1,3,bonnie n clyde 2005,0,0,0,
+meat,1,remy ma,1,1,bonnie n clyde 2005,0,0,0,Baby Foods
+rum,1,papoose,1,1,bonnie n clyde 2005,0,0,0,Beverages
+vodka,1,papoose,1,1,bonnie n clyde 2005,0,0,0,Beverages
+pina,1,papoose,1,1,bonnie n clyde 2005,0,0,0,
+pina colada,1,papoose,-1,-1,bonnie n clyde 2005,0,0,0,Beverages
+pan,3,remy martin,1,3,bonnie n clyde (verses),0,0,0,
+meat,1,remy martin,1,1,bonnie n clyde (verses),0,0,0,Baby Foods
+bread,1,papoose,1,1,broken slanguage,2015-05-29,2015,5,Baked Products
+cake,1,papoose,1,1,broken slanguage,2015-05-29,2015,5,Baked Products
+chicken,1,papoose,1,1,broken slanguage,2015-05-29,2015,5,Poultry Products
+beef,1,papoose,1,1,broken slanguage,2015-05-29,2015,5,Beef Products
+bloody mary,1,papoose,2,2,broken slanguage,2015-05-29,2015,5,
+jelly,1,remy ma,1,1,bucket naked (remix),0,0,0,Sweets
+rose,1,papoose,1,1,bucket naked (remix),0,0,0,Beverages
+doublemint,1,papoose,1,1,bucket naked (remix),0,0,0,
+gum,1,papoose,1,1,bucket naked (remix),0,0,0,Sweets
+doublemint gum,1,papoose,-1,-1,bucket naked (remix),0,0,0,
+water,1,remy ma,1,1,catch the beat,0,0,0,Beverages
+ice,1,remy ma,1,1,catch the beat,0,0,0,
+cheese,1,remy ma,1,1,catch the beat,0,0,0,Dairy and Egg Products
+hamburger,1,remy ma,1,1,catch the beat,0,0,0,Fast Foods
+spicy,1,papoose,1,1,cc,2019-05-13,2019,5,
+meal,1,remy ma,1,1,cc,2019-05-13,2019,5,Baked Products
+brandy,1,remy ma,1,1,conceited (there's something about remy),0,0,0,
+brandy,1,remy ma,1,1,conceited (there's something about remy) - album version (edited),0,0,0,
+ice,1,remy ma,1,1,crazy,2006-02-07,2006,2,
+dough,2,remy ma,1,2,crazy,2006-02-07,2006,2,
+dough,1,currensy,1,1,c.r.e.a.m.,0,0,0,
+cream,2,remy ma,1,2,c.r.e.a.m.,0,0,0,Dairy and Egg Products
+brownie,1,remy ma,1,1,c.r.e.a.m.,0,0,0,Baked Products
+beef,1,remy ma,1,1,diamonds are forever,2005-01-01,2005,1,Beef Products
+broccoli,1,remy ma,1,1,diamonds are forever,2005-01-01,2005,1,Vegetables and Vegetable Products
+drink,12,remy ma,1,12,dirty dancin',2008-09-30,2008,9,
+candy,1,remy ma,1,1,dying to be me,0,0,0,Sweets
+cotton candy,1,remy ma,1,1,dying to be me,0,0,0,
+food,1,remy ma,1,1,erthang fake,2014-10-31,2014,10,
+spice,1,jojo,1,1,fab.,2016-09-23,2016,9,Spices and Herbs
+honey,1,jojo,1,1,fab.,2016-09-23,2016,9,Sweets
+food,3,jojo,1,3,fab.,2016-09-23,2016,9,
+spice,1,jojo,1,1,fab. (dj braindead remix),0,0,0,Spices and Herbs
+honey,1,jojo,1,1,fab. (dj braindead remix),0,0,0,Sweets
+food,1,jojo,1,1,fab. (dj braindead remix),0,0,0,
+spice,1,jojo,1,1,fab. (giovanny remix),0,0,0,Spices and Herbs
+honey,1,jojo,1,1,fab. (giovanny remix),0,0,0,Sweets
+food,2,jojo,1,2,fab. (giovanny remix),0,0,0,
+spice,1,jojo,1,1,fab. (henry land remix),2017-03-31,2017,3,Spices and Herbs
+honey,1,jojo,1,1,fab. (henry land remix),2017-03-31,2017,3,Sweets
+food,2,jojo,1,2,fab. (henry land remix),2017-03-31,2017,3,
+spice,1,jojo,1,1,fab. (realones edit),0,0,0,Spices and Herbs
+honey,1,jojo,1,1,fab. (realones edit),0,0,0,Sweets
+food,3,jojo,1,3,fab. (realones edit),0,0,0,
+spice,1,jojo,1,1,fab. (the kemist remix),0,0,0,Spices and Herbs
+honey,1,jojo,1,1,fab. (the kemist remix),0,0,0,Sweets
+food,3,jojo,1,3,fab. (the kemist remix),0,0,0,
+spice,1,jojo,1,1,fab. (the wixard remix),0,0,0,Spices and Herbs
+honey,1,jojo,1,1,fab. (the wixard remix),0,0,0,Sweets
+food,3,jojo,1,3,fab. (the wixard remix),0,0,0,
+blackberry,1,remy ma,1,1,feels so good,0,0,0,Fruits and Fruit Juices
+berry,1,remy ma,1,1,feels so good (instrumental),0,0,0,
+nut,1,remy ma,1,1,fuck the weatherman,0,0,0,Nut and Seed Products
+coco,2,remy ma,1,2,fuck the weatherman,0,0,0,
+beef,1,remy ma,1,1,fuck the weatherman,0,0,0,Beef Products
+gravy,1,remy ma,1,1,fuck the weatherman,0,0,0,"Soups, Sauces, and Gravies"
+apple,1,remy ma,1,1,gangsta bitch,2014-10-31,2014,10,Fruits and Fruit Juices
+honey,1,remy ma,1,1,get em daddy,0,0,0,Sweets
+breakfast,1,remy ma,1,1,go in go off,2014-10-31,2014,10,Baked Products
+food,1,remy ma,1,1,go in go off,2014-10-31,2014,10,
+betty crocker,1,remy ma,2,2,hit me,0,0,0,
+ice,1,remy ma,1,1,hot bitch (hot nigga remix),2014-09-11,2014,9,
+cheese,1,remy ma,1,1,hot bitch (hot nigga remix),2014-09-11,2014,9,Dairy and Egg Products
+swiss cheese,1,remy ma,1,1,hot bitch (hot nigga remix),2014-09-11,2014,9,
+crab,1,remy ma,1,1,hottest bitch on the market,0,0,0,Finfish and Shellfish Products
+wine,1,remy ma,1,1,how we do (freestyle),0,0,0,Beverages
+pasta,1,prospect,1,1,hum drum,0,0,0,"Soups, Sauces, and Gravies"
+curry,1,prospect,1,1,hum drum,0,0,0,
+chicken,1,prospect,1,1,hum drum,0,0,0,Poultry Products
+lobster,1,prospect,1,1,hum drum,0,0,0,Finfish and Shellfish Products
+dough,1,prospect,1,1,hum drum,0,0,0,
+curry chicken,1,prospect,-1,-1,hum drum,0,0,0,
+water,1,papoose,1,1,influentials,0,0,0,Beverages
+cumin,1,remy martin,1,1,i've got your man (remix),0,0,0,
+wine,1,lady saw,1,1,i've got your man (remix),0,0,0,Beverages
+soda,1,verse 1,1,1,kryptonite (freestyle),0,0,0,Baked Products
+vanilla,1,verse 1,1,1,kryptonite (freestyle),0,0,0,Sweets
+peach,1,verse 1,1,1,kryptonite (freestyle),0,0,0,Fruits and Fruit Juices
+baking soda,1,verse 1,1,1,kryptonite (freestyle),0,0,0,Baked Products
+mayo,1,,1,1,"lights, camera, action",2006-02-07,2006,2,
+salt,1,,1,1,"lights, camera, action",2006-02-07,2006,2,Spices and Herbs
+pepper,1,,1,1,"lights, camera, action",2006-02-07,2006,2,Vegetables and Vegetable Products
+juice,1,,1,1,"lights, camera, action",2006-02-07,2006,2,Baby Foods
+gin,1,,1,1,"lights, camera, action",2006-02-07,2006,2,
+bread,1,deemi,1,1,little girl,0,0,0,Baked Products
+grain,1,deemi,1,1,little girl,0,0,0,
+dough,1,deemi,1,1,little girl,0,0,0,
+cabbage,1,remy ma,1,1,madness,2016-02-08,2016,2,Vegetables and Vegetable Products
+ice,1,remy ma,1,1,mask off (freestyle),2017-06-08,2017,6,
+curry,1,remy ma,1,1,mask off (freestyle),2017-06-08,2017,6,
+rump,1,remy ma,1,1,me,0,0,0,Pork Products
+chocolate,1,remy ma,1,1,me,0,0,0,Sweets
+coco,1,verse 1,1,1,most anticipated (freestyle),0,0,0,
+drink,8,remy ma,1,8,my drink n 2 step  (freestyle),0,0,0,
+dough,1,remy ma,1,1,no bet chill,0,0,0,
+mulberry,1,remy ma,1,1,no bet chill,0,0,0,Fruits and Fruit Juices
+ice,2,remy ma,1,2,no bet chill,0,0,0,
+cream,1,remy ma,1,1,no bet chill,0,0,0,Dairy and Egg Products
+cherry,1,remy ma,1,1,no bet chill,0,0,0,Fruits and Fruit Juices
+candy,1,remy ma,1,1,no bet chill,0,0,0,Sweets
+tequila,1,remy ma,1,1,no bet chill,0,0,0,
+brandy,1,remy ma,1,1,no bet chill,0,0,0,
+bacardi,1,remy ma,1,1,no bet chill,0,0,0,
+gravy,1,remy ma,1,1,one and only (my boo),2006-08-22,2006,8,"Soups, Sauces, and Gravies"
+ice,2,verse 1,1,2,poppin ' (freestyle),0,0,0,
+oil,1,remy ma,1,1,queen of ny,0,0,0,Fats and Oils
+dough,1,remy ma,1,1,queen of ny,0,0,0,
+spaghetti,1,remy ma,1,1,rapid fire,0,0,0,Cereal Grains and Pasta
+ice,1,remy ma,1,1,rapid fire,0,0,0,
+ostrich,1,remy ma,1,1,rapid fire,0,0,0,Poultry Products
+bacon,1,jarren benton,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,Pork Products
+syrup,1,jarren benton,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,Sweets
+kangaroo,1,jarren benton,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,
+ice,1,corey charron,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,
+burger,1,corey charron,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,
+cooking,1,papoose,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,Beverages
+cooking,1,remy ma,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,Beverages
+beef,1,papoose,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,Beef Products
+beef,1,remy ma,1,1,"remy ma, papoose and friends cypher",2014-10-14,2014,10,Beef Products
+goose,1,papoose,1,1,remy ma & papoose freestyle on flex,2016-12-08,2016,12,Poultry Products
+goose,1,remy ma,1,1,remy ma & papoose freestyle on flex,2016-12-08,2016,12,Poultry Products
+pecan,1,papoose,1,1,remy ma & papoose freestyle on flex,2016-12-08,2016,12,Nut and Seed Products
+pecan,1,remy ma,1,1,remy ma & papoose freestyle on flex,2016-12-08,2016,12,Nut and Seed Products
+kit kat,1,papoose,2,2,remy ma & papoose freestyle on flex,2016-12-08,2016,12,
+kit kat,1,remy ma,2,2,remy ma & papoose freestyle on flex,2016-12-08,2016,12,
+butter,1,papoose,1,1,secret location,2006-02-07,2006,2,Dairy and Egg Products
+butter,1,remy ma,1,1,secret location,2006-02-07,2006,2,Dairy and Egg Products
+sausage,1,remy ma,1,1,secret location,2006-02-07,2006,2,Sausages and Luncheon Meats
+adobo,1,ron browz,1,1,she don't like me (remix),2015-01-08,2015,1,
+seasoning,1,ron browz,1,1,she don't like me (remix),2015-01-08,2015,1,
+nut,1,remy ma,1,1,she's gone,2006-02-07,2006,2,Nut and Seed Products
+ice,1,remy ma,1,1,she's gone,2006-02-07,2006,2,
+jambalaya,1,remy ma,1,1,so hot,0,0,0,
+cake,1,remy ma,1,1,so hot,0,0,0,Baked Products
+dough,1,remy ma,1,1,still,2006-02-07,2006,2,
+cereal,1,remy ma,1,1,still,2006-02-07,2006,2,Breakfast Cereals
+honey,1,tony sunshine,1,1,streets of ny,0,0,0,Sweets
+ice,1,remy martin,1,1,streets of ny,0,0,0,
+tea,1,remy martin,1,1,streets of ny,0,0,0,Beverages
+ice tea,1,remy martin,-1,-1,streets of ny,0,0,0,
+cake,1,mariahlynn,1,1,tab reloaded,2018-03-07,2018,3,Baked Products
+lamb,1,mariahlynn,1,1,tab reloaded,2018-03-07,2018,3,"Lamb, Veal, and Game Products"
+dough,1,remy ma,1,1,takin over ladies,0,0,0,
+chicken,1,verse 1,1,1,tek 9,0,0,0,Poultry Products
+noodle,1,verse 1,1,1,tek 9,0,0,0,Cereal Grains and Pasta
+soup,1,verse 1,1,1,tek 9,0,0,0,"Soups, Sauces, and Gravies"
+chicken noodle,1,verse 1,-1,-1,tek 9,0,0,0,"Soups, Sauces, and Gravies"
+noodle soup,1,verse 1,-1,-1,tek 9,0,0,0,
+macaroni,1,papoose,1,1,the golden child,2018-10-18,2018,10,Cereal Grains and Pasta
+cheese,1,papoose,1,1,the golden child,2018-10-18,2018,10,Dairy and Egg Products
+milk,1,papoose,1,1,the golden child,2018-10-18,2018,10,Dairy and Egg Products
+beef,1,papoose,1,1,the hardest out,2006-08-22,2006,8,Beef Products
+water,1,papoose,1,1,the hardest out,2006-08-22,2006,8,Beverages
+sausage,1,remy ma,1,1,truffle butter (remix),2015-03-27,2015,3,Sausages and Luncheon Meats
+chicken,1,nicki minaj,1,1,shether,2017-02-25,2017,2,Poultry Products
+chicken,1,remy ma,1,1,shether,2017-02-25,2017,2,Poultry Products
+beef,2,remy ma,1,2,shether,2017-02-25,2017,2,Beef Products
+pillsbury,1,remy ma,1,1,shether,2017-02-25,2017,2,Baked Products
+biscuit,1,remy ma,1,1,shether,2017-02-25,2017,2,Fast Foods
+cookie,1,remy ma,1,1,shether,2017-02-25,2017,2,Baked Products
+chicken wing,1,nicki minaj,1,1,shether,2017-02-25,2017,2,
+chicken wing,1,remy ma,1,1,shether,2017-02-25,2017,2,
+dough,2,remy ma,1,2,unstoppable,0,0,0,
+ice,1,remy ma,1,1,victory 3000,2008-09-30,2008,9,
+meal,1,remy ma,1,1,wassup tho,2014-10-31,2014,10,Baked Products
+sugar,2,remy ma,1,2,wassup tho,2014-10-31,2014,10,Sweets
+butter,1,remy ma,1,1,whateva,0,0,0,Dairy and Egg Products
+drink,1,,1,1,what you wanna do,0,0,0,
+rib,1,,1,1,what you wanna do,0,0,0,Beef Products
+drink,2,remy ma,1,2,where my bitches at,0,0,0,
+ice,1,remy ma,1,1,where my bitches at,0,0,0,
+lox,1,remy ma,1,1,where my bitches at,0,0,0,Finfish and Shellfish Products
+butter,1,remy,1,1,whuteva,2006-06-06,2006,6,Dairy and Egg Products
+butter,1,remy ma,1,1,whuteva (instrumental),0,0,0,Dairy and Egg Products
+food,1,1,1,1,wsbh,0,0,0,
+barbeque,1,1,1,1,wsbh,0,0,0,
+ice,1,verse 1,1,1,yall dont really want it,0,0,0,
+drink,1,remy ma,1,1,yall dont really want it,0,0,0,
+water,1,verse 2,1,1,yall dont really want it,0,0,0,Beverages
+soda,1,phesto,1,1,"100,000 indi",2003-10-07,2003,10,Baked Products
+cherry,1,hieroglyphics,1,1,"100,000 indi",2003-10-07,2003,10,Fruits and Fruit Juices
+flavor,1,hieroglyphics,1,1,"100,000 indi",2003-10-07,2003,10,
+tuna,1,del,1,1,"100,000 indi",2003-10-07,2003,10,Finfish and Shellfish Products
+fish,1,del,1,1,"100,000 indi",2003-10-07,2003,10,Finfish and Shellfish Products
+fruit,1,del,1,1,"100,000 indi",2003-10-07,2003,10,Baby Foods
+soda pop,1,phesto,1,1,"100,000 indi",2003-10-07,2003,10,
+food,1,del,1,1,10 paces,0,0,0,
+dessert,1,del the funky homosapien,1,1,3030,2000-10-17,2000,10,Baby Foods
+creamy,1,dr octagon,1,1,3030 meets the doc (pt. 1),2018-04-06,2018,4,Legumes and Legume Products
+ginseng,1,dr octagon,1,1,3030 meets the doc (pt. 1),2018-04-06,2018,4,
+steak,1,dr octagon,1,1,3030 meets the doc (pt. 1),2018-04-06,2018,4,Beef Products
+onion,1,dr octagon,1,1,3030 meets the doc (pt. 1),2018-04-06,2018,4,Vegetables and Vegetable Products
+onion ring,1,dr octagon,1,1,3030 meets the doc (pt. 1),2018-04-06,2018,4,Vegetables and Vegetable Products
+dough,1,hieroglyphics,1,1,7 sixes,2003-10-07,2003,10,
+sap,1,hieroglyphics,1,1,7 sixes,2003-10-07,2003,10,
+maple,1,hieroglyphics,1,1,7 sixes,2003-10-07,2003,10,Sweets
+nut,1,hieroglyphics,1,1,7 sixes,2003-10-07,2003,10,Nut and Seed Products
+cooking,1,hieroglyphics,1,1,93' til infinity (episode 5),2018-09-18,2018,9,Beverages
+food,1,hieroglyphics,1,1,93' til infinity (episode 5),2018-09-18,2018,9,
+cream,1,hieroglyphics,1,1,93' til infinity (episode 5),2018-09-18,2018,9,Dairy and Egg Products
+hamburger,1,hieroglyphics,1,1,93' til infinity (episode 5),2018-09-18,2018,9,Fast Foods
+water,1,hieroglyphics,1,1,93' til infinity (episode 5),2018-09-18,2018,9,Beverages
+peanut,1,phesto,1,1,'94 via satellite,1995-10-10,1995,10,Legumes and Legume Products
+juice,1,del the funky homosapien,1,1,afterburnaz,0,0,0,Baby Foods
+meat,1,del the funky homosapien,1,1,afterburnaz,0,0,0,Baby Foods
+rump,1,del the funky homosapien,1,1,afterburnaz,0,0,0,Pork Products
+chocolate,1,del the funky homosapien,1,1,"ahonetwo, ahonetwo",1991-10-22,1991,10,Sweets
+meal,1,del the funky homosapien,1,1,"ahonetwo, ahonetwo",1991-10-22,1991,10,Baked Products
+drink,1,del the funky homosapien,1,1,"ahonetwo, ahonetwo",1991-10-22,1991,10,
+seltzer,1,del the funky homosapien,1,1,"ahonetwo, ahonetwo",1991-10-22,1991,10,
+prune,1,del the funky homosapien,1,1,"ahonetwo, ahonetwo",1991-10-22,1991,10,Fruits and Fruit Juices
+chocolate,1,del the funky homosapien,1,1,"ahonetwo, ahonetwo - remastered remix",0,0,0,Sweets
+candied,1,,1,1,"ahonetwo, ahonetwo - remastered remix",0,0,0,Vegetables and Vegetable Products
+yam,1,,1,1,"ahonetwo, ahonetwo - remastered remix",0,0,0,Vegetables and Vegetable Products
+chocolate,1,del the funky homosapien,1,1,ahonetwo ahonetwo (remix),0,0,0,Sweets
+candied,1,del the funky homosapien,1,1,ahonetwo ahonetwo (remix),0,0,0,Vegetables and Vegetable Products
+yam,1,del the funky homosapien,1,1,ahonetwo ahonetwo (remix),0,0,0,Vegetables and Vegetable Products
+flavor,1,yo-yo,1,1,ain't nobody better,1991-03-19,1991,3,
+milky,1,virtuoso,1,1,all we know,2001-11-05,2001,11,
+milk,1,virtuoso,1,1,all we know,2001-11-05,2001,11,Dairy and Egg Products
+marinate,1,casual,1,1,all we know,2001-11-05,2001,11,
+spice,1,del,1,1,all we know,2001-11-05,2001,11,Spices and Herbs
+milky way,1,virtuoso,1,1,all we know,2001-11-05,2001,11,
+honey,1,souls of mischief,1,1,a name i call myself,1993-09-28,1993,9,Sweets
+corn,1,souls of mischief,1,1,a name i call myself,1993-09-28,1993,9,Cereal Grains and Pasta
+herb,1,del the funky homosapien,1,1,back in the chamber,2008-03-11,2008,3,Beverages
+pheasant,1,marcus d,1,1,back to the roots,2014-04-02,2014,4,Poultry Products
+cheerio,1,marcus d,1,1,back to the roots,2014-04-02,2014,4,Breakfast Cereals
+mushroom,1,tame one,1,1,before this,2009-10-13,2009,10,Vegetables and Vegetable Products
+nut,1,tame one,1,1,before this,2009-10-13,2009,10,Nut and Seed Products
+flavor,1,tame one,1,1,before this,2009-10-13,2009,10,
+food,1,del the funky homosapien,1,1,before this,2009-10-13,2009,10,
+fry,1,del the funky homosapien,1,1,bitin ain't samplin,0,0,0,
+grain,1,del the funky homosapien,1,1,bitin ain't samplin,0,0,0,
+water,1,del the funky homosapien,1,1,bitin ain't samplin,0,0,0,Beverages
+batter,1,del the funky homosapien,1,1,bitin ain't samplin,0,0,0,Poultry Products
+lemonade,1,del the funky homosapien,1,1,bitin ain't samplin,0,0,0,Beverages
+water,1,del the funky homosapien,1,1,blame the author,2017-10-18,2017,10,Beverages
+ice,1,del the funky homosapien,1,1,blame the author,2017-10-18,2017,10,
+apple,1,del the funky homosapien,1,1,blame the author,2017-10-18,2017,10,Fruits and Fruit Juices
+beer,1,l'orange,1,1,bm's,2000-04-11,2000,4,Beverages
+drink,3,l'orange,1,3,bm's,2000-04-11,2000,4,
+wine,1,l'orange,1,1,bm's,2000-04-11,2000,4,Beverages
+gin,1,l'orange,1,1,bm's,2000-04-11,2000,4,
+herb,1,l'orange,1,1,bm's,2000-04-11,2000,4,Beverages
+herb,1,del the funky homosapien,1,1,bm's,2000-04-11,2000,4,Beverages
+chocolate,1,l'orange,1,1,bm's,2000-04-11,2000,4,Sweets
+poppy seed,1,l'orange,2,2,bm's,2000-04-11,2000,4,Spices and Herbs
+candy,1,del the funky homosapien,1,1,boogieman,0,0,0,Sweets
+food,1,slimkid3 & dj nu-mark,1,1,bouillon,2014-07-15,2014,7,
+cookie,1,slimkid3 & dj nu-mark,1,1,bouillon,2014-07-15,2014,7,Baked Products
+chocolate,1,slimkid3 & dj nu-mark,1,1,bouillon,2014-07-15,2014,7,Sweets
+apple,1,slimkid3 & dj nu-mark,1,1,bouillon,2014-07-15,2014,7,Fruits and Fruit Juices
+meat,1,slimkid3 & dj nu-mark,1,1,bouillon,2014-07-15,2014,7,Baby Foods
+chocolate chip,1,slimkid3 & dj nu-mark,1,1,bouillon,2014-07-15,2014,7,Baked Products
+juice,1,del the funky homosapien,1,1,break the bank,2011-04-19,2011,4,Baby Foods
+cheddar,1,del the funky homosapien,1,1,bubble pop,2008-03-11,2008,3,Dairy and Egg Products
+cheese,1,del the funky homosapien,1,1,bubble pop,2008-03-11,2008,3,Dairy and Egg Products
+honey,1,del the funky homosapien,1,1,bubble pop,2008-03-11,2008,3,Sweets
+cheddar cheese,1,del the funky homosapien,-1,-1,bubble pop,2008-03-11,2008,3,Dairy and Egg Products
+plum,1,del,1,1,burnt,0,0,0,Fruits and Fruit Juices
+cider,1,casual,1,1,burnt,0,0,0,Spices and Herbs
+sugar,1,tajai,1,1,burnt,0,0,0,Sweets
+sandwich,1,tajai,1,1,burnt,0,0,0,Baked Products
+candy,1,tajai,1,1,burnt,0,0,0,Sweets
+lamb,1,a-plus,1,1,burnt,0,0,0,"Lamb, Veal, and Game Products"
+dough,1,a-plus,1,1,burnt,0,0,0,
+plum,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,Fruits and Fruit Juices
+sage,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,Spices and Herbs
+cider,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,Spices and Herbs
+sugar,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,Sweets
+candy,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,Sweets
+soup,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,"Soups, Sauces, and Gravies"
+lamb,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,"Lamb, Veal, and Game Products"
+dough,1,del the funky homosapien,1,1,burnt (feat. the hyrogliphics) - remastered version,0,0,0,
+grain,1,del the funky homosapien,1,1,captain america,0,0,0,
+snail,1,del the funky homosapien,1,1,captain america,0,0,0,Finfish and Shellfish Products
+salt,1,del the funky homosapien,1,1,captain america,0,0,0,Spices and Herbs
+plum,1,del the funky homosapien,1,1,captain america,0,0,0,Fruits and Fruit Juices
+pit,1,del the funky homosapien,1,1,captain america,0,0,0,
+milk,1,del the funky homosapien,1,1,captain america,0,0,0,Dairy and Egg Products
+mousse,1,del the funky homosapien,1,1,catch a bad one,1993-11-23,1993,11,Sweets
+gum,1,del the funky homosapien,1,1,catch a bad one,1993-11-23,1993,11,Sweets
+sap,1,del the funky homosapien,1,1,catch a bad one,1993-11-23,1993,11,
+gravy,1,del the funky homosapien,1,1,catch all this,2000-04-11,2000,4,"Soups, Sauces, and Gravies"
+fry,1,del the funky homosapien,1,1,catch all this,2000-04-11,2000,4,
+dough,1,del the funky homosapien,1,1,catch all this,2000-04-11,2000,4,
+dessert,1,del the funky homosapien,1,1,check it ooout,1993-11-23,1993,11,Baby Foods
+flavor,1,unwritten law,1,1,chicken (ready to go),2011-03-29,2011,3,
+macadamia,1,unwritten law,1,1,chicken (ready to go),2011-03-29,2011,3,
+scramble,2,deltron 3030,1,2,city rising from the ashes,2013-09-30,2013,9,
+grain,1,deltron 3030,1,1,city rising from the ashes,2013-09-30,2013,9,
+salt,1,deltron 3030,1,1,city rising from the ashes,2013-09-30,2013,9,Spices and Herbs
+pan,1,deltron 3030,1,1,city rising from the ashes,2013-09-30,2013,9,
+hickory,1,deltron 3030,1,1,city rising from the ashes,2013-09-30,2013,9,
+sausage,1,deltron 3030,1,1,city rising from the ashes,2013-09-30,2013,9,Sausages and Luncheon Meats
+rose,1,sweetie irie,1,1,clint eastwood (ed case/sweetie irie refix) [edit],2001-03-05,2001,3,Beverages
+dough,4,sweetie irie,1,4,clint eastwood (ed case/sweetie irie refix) [edit],2001-03-05,2001,3,
+sour,1,kool a.d.,1,1,cnn,2013-12-21,2013,12,Fruits and Fruit Juices
+beer,1,kool a.d.,1,1,cnn,2013-12-21,2013,12,Beverages
+milky,1,del the funky homosapien,1,1,cyberpunks,0,0,0,
+sardine,1,del the funky homosapien,1,1,cyberpunks,0,0,0,Finfish and Shellfish Products
+drink,1,del the funky homosapien,1,1,cyberpunks,0,0,0,
+fry,1,del the funky homosapien,1,1,cyberpunks,0,0,0,
+lime,1,del the funky homosapien,1,1,cyberpunks,0,0,0,Sweets
+beer,1,del the funky homosapien,1,1,cyberpunks,0,0,0,Beverages
+milky way,1,del the funky homosapien,1,1,cyberpunks,0,0,0,
+juice,1,del the funky homosapien,1,1,dark skin girls,1991-10-22,1991,10,Baby Foods
+chicken,1,hieroglyphics,1,1,dells nightmare,0,0,0,Poultry Products
+gizzard,1,hieroglyphics,1,1,dells nightmare,0,0,0,Poultry Products
+stew,1,hieroglyphics,1,1,dells nightmare,0,0,0,American Indian/Alaska Native Foods
+pig lip,1,hieroglyphics,2,2,dells nightmare,0,0,0,
+stirfried,1,del the funky homosapien,1,1,del's couch,2016-11-06,2016,11,Vegetables and Vegetable Products
+pea,1,del the funky homosapien,1,1,del's couch,2016-11-06,2016,11,Vegetables and Vegetable Products
+chicken,1,del the funky homosapien,1,1,del's nightmare,0,0,0,Poultry Products
+gizzard,1,del the funky homosapien,1,1,del's nightmare,0,0,0,Poultry Products
+stew,1,del the funky homosapien,1,1,del's nightmare,0,0,0,American Indian/Alaska Native Foods
+restaurant,1,del the funky homosapien,1,1,del's nightmare,0,0,0,Restaurant Foods
+pig lip,1,del the funky homosapien,2,2,del's nightmare,0,0,0,
+dough,1,del the funky homosapien,1,1,delta time,0,0,0,
+orange,1,del the funky homosapien,1,1,disastrous,0,0,0,Fruits and Fruit Juices
+dough,1,del the funky homosapien,1,1,don't forget,1993-11-23,1993,11,
+water,1,del the funky homosapien,1,1,don't forget the bass,0,0,0,Beverages
+food,1,del,1,1,do you remember?,2013-09-30,2013,9,
+drink,1,del the funky homosapien,1,1,dr. bombay,1991-10-22,1991,10,
+rump,1,del the funky homosapien,1,1,dr. bombay,1991-10-22,1991,10,Pork Products
+smuckers,1,del the funky homosapien,1,1,dr. bombay,1991-10-22,1991,10,
+ice,1,del the funky homosapien,1,1,dr. bombay,1991-10-22,1991,10,
+ice cube,1,del the funky homosapien,1,1,dr. bombay,1991-10-22,1991,10,
+drink,1,del the funky homosapien,1,1,dr. bombay (remix),0,0,0,
+rump,1,del the funky homosapien,1,1,dr. bombay (remix),0,0,0,Pork Products
+smuckers,1,del the funky homosapien,1,1,dr. bombay (remix),0,0,0,
+lime,1,del tha funkee homosapien,1,1,dreamin',0,0,0,Sweets
+food,1,brother ali,1,1,dreamin',0,0,0,
+beef,1,brother ali,1,1,dreamin',0,0,0,Beef Products
+vegan,1,brother ali,1,1,dreamin',0,0,0,
+fizz,1,del the funky homosapien,1,1,eye examination,0,0,0,
+salt,1,del the funky homosapien,1,1,eye examination,0,0,0,Spices and Herbs
+cream,1,del the funky homosapien,1,1,eye examination,0,0,0,Dairy and Egg Products
+bean,1,del the funky homosapien,1,1,fake as fuck,2000-04-11,2000,4,Legumes and Legume Products
+milk,1,del the funky homosapien,1,1,fake as fuck,2000-04-11,2000,4,Dairy and Egg Products
+batter,1,del the funky homosapien,1,1,fake as fuck,2000-04-11,2000,4,Poultry Products
+ale,1,del the funky homosapien,1,1,fake as fuck,2000-04-11,2000,4,
+bean,1,del the funky homosapien,1,1,fake as fuck (instrumental),0,0,0,Legumes and Legume Products
+milk,1,del the funky homosapien,1,1,fake as fuck (instrumental),0,0,0,Dairy and Egg Products
+batter,1,del the funky homosapien,1,1,fake as fuck (instrumental),0,0,0,Poultry Products
+ale,1,del the funky homosapien,1,1,fake as fuck (instrumental),0,0,0,
+ale,1,del,1,1,far beyond,2018-04-20,2018,4,
+dough,1,del,1,1,far beyond,2018-04-20,2018,4,
+grain,1,del,1,1,far beyond,2018-04-20,2018,4,
+bread,1,zyme,1,1,far beyond,2018-04-20,2018,4,Baked Products
+cinnamon,1,zyme,1,1,far beyond,2018-04-20,2018,4,Baked Products
+cinnamon toast,1,zyme,-1,-1,far beyond,2018-04-20,2018,4,
+ice,1,ice cube,1,1,femalt liquor,0,0,0,
+malt,1,ice cube,1,1,femalt liquor,0,0,0,Sweets
+malt,1,yo-yo,1,1,femalt liquor,0,0,0,Sweets
+drink,1,ice cube,1,1,femalt liquor,0,0,0,
+drink,1,yo-yo,1,1,femalt liquor,0,0,0,
+ice cube,1,ice cube,1,1,femalt liquor,0,0,0,
+malt liquor,1,ice cube,-1,-1,femalt liquor,0,0,0,
+malt liquor,1,yo-yo,-1,-1,femalt liquor,0,0,0,
+dough,1,del the funky homosapien,1,1,fit like a glove,0,0,0,
+roast,1,del the funky homosapien,1,1,fit like a glove,0,0,0,Beef Products
+beer,1,del the funky homosapien & tame one,1,1,flashback,2009-10-13,2009,10,Beverages
+sesame,1,del the funky homosapien & tame one,1,1,flashback,2009-10-13,2009,10,Baked Products
+onion,2,del the funky homosapien & tame one,1,2,flashback,2009-10-13,2009,10,Vegetables and Vegetable Products
+salt,1,del the funky homosapien & tame one,1,1,flashback,2009-10-13,2009,10,Spices and Herbs
+milk,1,del the funky homosapien & tame one,1,1,flashback,2009-10-13,2009,10,Dairy and Egg Products
+water,1,del the funky homosapien,1,1,foot down,2008-03-11,2008,3,Beverages
+boost,1,del the funky homosapien,1,1,foot down,2008-03-11,2008,3,
+herb,1,del the funky homosapien,1,1,fragments - 2118741,0,0,0,Beverages
+beef,1,del the funky homosapien,1,1,fragments - 2118741,0,0,0,Beef Products
+sugar,1,ladybug mecca,1,1,frosty face,2015-09-09,2015,9,Sweets
+cheddar,1,ladybug mecca,1,1,frosty face,2015-09-09,2015,9,Dairy and Egg Products
+meal,1,ladybug mecca,1,1,frosty face,2015-09-09,2015,9,Baked Products
+sugar cane,1,ladybug mecca,1,1,frosty face,2015-09-09,2015,9,
+sorbet,1,del the funky homosapien & amp live,1,1,funkyhomosapien,2008-03-11,2008,3,
+butter,1,del the funky homosapien,1,1,funkyhomosapien,2008-03-11,2008,3,Dairy and Egg Products
+batter,1,del the funky homosapien,1,1,funkyhomosapien,2008-03-11,2008,3,Poultry Products
+eel,1,del the funky homosapien,1,1,funkyhomosapien,2008-03-11,2008,3,Finfish and Shellfish Products
+oat,1,del the funky homosapien,1,1,future development,0,0,0,Breakfast Cereals
+dough,1,del the funky homosapien,1,1,future development,0,0,0,
+quaker oat,1,del the funky homosapien,1,1,future development,0,0,0,Beverages
+beef,1,del the funky homosapien,1,1,games begin,0,0,0,Beef Products
+pit,1,del the funky homosapien,1,1,games begin,0,0,0,
+gin,1,del the funky homosapien,1,1,games begin,0,0,0,
+olde english,1,del the funky homosapien,2,2,games begin,0,0,0,
+bread,1,tash (alkaholiks),1,1,get it,0,0,0,Baked Products
+bread,1,del the funky homosapien,1,1,get it right now!!!!!,0,0,0,Baked Products
+energy bar,1,del the funky homosapien,2,2,get it right now!!!!!,0,0,0,
+cheese,1,del,1,1,get some of dis,2018-04-20,2018,4,Dairy and Egg Products
+beef,1,del,1,1,get some of dis,2018-04-20,2018,4,Beef Products
+caper,1,psalm one,1,1,ginsu knives,2010-08-04,2010,8,Spices and Herbs
+grain,1,psalm one,1,1,ginsu knives,2010-08-04,2010,8,
+rice,1,psalm one,1,1,ginsu knives,2010-08-04,2010,8,Cereal Grains and Pasta
+dough,1,del tha funky homosapien,1,1,ginsu knives,2010-08-04,2010,8,
+swordfish,1,del tha funky homosapien,1,1,ginsu knives,2010-08-04,2010,8,Finfish and Shellfish Products
+whole grain,1,psalm one,1,1,ginsu knives,2010-08-04,2010,8,Fast Foods
+flavor,1,del the funky homosapien,1,1,go against the grain,0,0,0,
+grain,3,del the funky homosapien,1,3,go against the grain,0,0,0,
+food,1,del,1,1,grand royal,0,0,0,
+beef,1,del,1,1,gravy train,2018-04-20,2018,4,Beef Products
+gravy,4,del,1,4,gravy train,2018-04-20,2018,4,"Soups, Sauces, and Gravies"
+butterscotch,1,phesto,1,1,halo,2003-10-07,2003,10,Sweets
+ale,1,phesto,1,1,halo,2003-10-07,2003,10,
+champagne,1,phesto,1,1,halo,2003-10-07,2003,10,
+fish,1,phesto,1,1,halo,2003-10-07,2003,10,Finfish and Shellfish Products
+chicken,1,a-plus,1,1,halo,2003-10-07,2003,10,Poultry Products
+pale ale,1,phesto,1,1,halo,2003-10-07,2003,10,
+potato,1,del the funky homosapien,1,1,hardcore punks can't take it,0,0,0,Vegetables and Vegetable Products
+juice,1,del the funky homosapien,1,1,hardcore punks can't take it,0,0,0,Baby Foods
+fish,1,del the funky homosapien,1,1,hardcore punks can't take it,0,0,0,Finfish and Shellfish Products
+fry,1,del the funky homosapien,1,1,hardcore punks can't take it,0,0,0,
+crab,1,del the funky homosapien,1,1,hardcore punks can't take it,0,0,0,Finfish and Shellfish Products
+fish fry,1,del the funky homosapien,-1,-1,hardcore punks can't take it,0,0,0,
+food,1,del the funky homosapien,1,1,heavy 101,0,0,0,
+fry,1,del the funky homosapien & amp live,1,1,help,2018-04-20,2018,4,
+apple,1,female [?,1,1,help me out,0,0,0,Fruits and Fruit Juices
+bologna,1,female [?,1,1,help me out,0,0,0,Sausages and Luncheon Meats
+hush puppy,1,del the funky homosapien,2,2,help me out,0,0,0,Baked Products
+water,1,psalm one,1,1,hermit with a permit,2011-08-30,2011,8,Beverages
+syrup,1,psalm one,1,1,hermit with a permit,2011-08-30,2011,8,Sweets
+vodka,1,psalm one,1,1,hermit with a permit,2011-08-30,2011,8,Beverages
+lettuce,1,psalm one,1,1,hermit with a permit,2011-08-30,2011,8,Vegetables and Vegetable Products
+carbonated water,1,psalm one,1,1,hermit with a permit,2011-08-30,2011,8,
+rose,1,souls of mischief,1,1,hiero hq,2009-12-01,2009,12,Beverages
+kangaroo,1,souls of mischief,1,1,hiero hq,2009-12-01,2009,12,
+fruity,2,souls of mischief,1,2,hiero hq,2009-12-01,2009,12,
+mango,2,souls of mischief,1,2,hiero hq,2009-12-01,2009,12,Fruits and Fruit Juices
+dough,1,souls of mischief,1,1,hiero hq,2009-12-01,2009,12,
+food,1,pumpkinhead,1,1,hip hop head,2008-10-25,2008,10,
+malt,1,del the funky homosapien,1,1,hoe!,0,0,0,Sweets
+gin,1,del the funky homosapien,1,1,hoe!,0,0,0,
+malt liquor,1,del the funky homosapien,-1,-1,hoe!,0,0,0,
+coco,1,del the funky homosapien,1,1,hold your hand,2008-03-11,2008,3,
+dough,1,del the funky homosapien,1,1,hold your hand,2008-03-11,2008,3,
+pantry,1,del the funky homosapien,1,1,hold your hand,2008-03-11,2008,3,
+rump,1,del the funky homosapien,1,1,hoodz come in dozens,1991-10-22,1991,10,Pork Products
+dough,1,del the funky homosapien,1,1,hoodz come in dozens,1991-10-22,1991,10,
+cheerio,1,del the funky homosapien,1,1,hoodz come in dozens,1991-10-22,1991,10,Breakfast Cereals
+rump,1,del the funky homosapien,1,1,hoodz come in dozens - 952453,0,0,0,Pork Products
+dough,1,del the funky homosapien,1,1,hoodz come in dozens - 952453,0,0,0,
+cheerio,1,del the funky homosapien,1,1,hoodz come in dozens - 952453,0,0,0,Breakfast Cereals
+rump,1,del the funky homosapien,1,1,hoodz come in dozens (sd50 remix),0,0,0,Pork Products
+rump,1,ice cube,1,1,hoodz come in dozens (sd50 remix),0,0,0,Pork Products
+dough,1,del the funky homosapien,1,1,hoodz come in dozens (sd50 remix),0,0,0,
+dough,1,ice cube,1,1,hoodz come in dozens (sd50 remix),0,0,0,
+cheerio,1,del the funky homosapien,1,1,hoodz come in dozens (sd50 remix),0,0,0,Breakfast Cereals
+cheerio,1,ice cube,1,1,hoodz come in dozens (sd50 remix),0,0,0,Breakfast Cereals
+succotash,1,paul edwards,1,1,"how to rap 2 - ""character voices"" (book excerpt)",0,0,0,Vegetables and Vegetable Products
+digestive,1,busdriver,1,1,how your sprinkler system works,2014-09-09,2014,9,
+food,1,busdriver,1,1,how your sprinkler system works,2014-09-09,2014,9,
+strawberry,1,busdriver,1,1,how your sprinkler system works,2014-09-09,2014,9,Dairy and Egg Products
+ensure,1,busdriver,1,1,how your sprinkler system works,2014-09-09,2014,9,Beverages
+drinking,1,del,1,1,humble pie,2018-04-20,2018,4,Beverages
+juice,1,del,1,1,humble pie,2018-04-20,2018,4,Baby Foods
+pie,5,del,1,5,humble pie,2018-04-20,2018,4,Baked Products
+dough,1,busdriver,1,1,hyperbolic,0,0,0,
+beef,1,busdriver,1,1,hyperbolic,0,0,0,Beef Products
+espresso,1,busdriver,1,1,hyperbolic,0,0,0,Beverages
+gelatin,1,del the funkee homosapien,1,1,hyperbolic,0,0,0,Sweets
+chicken,1,del the funkee homosapien,1,1,hyperbolic,0,0,0,Poultry Products
+taco,1,del the funkee homosapien,1,1,hyperbolic,0,0,0,Spices and Herbs
+goat,1,del the funkee homosapien,1,1,hyperbolic,0,0,0,Dairy and Egg Products
+mollusk,2,del the funkee homosapien,1,2,hyperbolic,0,0,0,Finfish and Shellfish Products
+chicken taco,1,del the funkee homosapien,-1,-1,hyperbolic,0,0,0,
+ice,4,del the funky homosapien,1,4,ice pirates,0,0,0,
+ice,1,sunspot jonz,1,1,ice pirates,0,0,0,
+beer,1,del the funky homosapien,1,1,ice pirates,0,0,0,Beverages
+sandwich,1,del the funky homosapien,1,1,ice pirates,0,0,0,Baked Products
+ovaltine,1,sunspot jonz,1,1,ice pirates,0,0,0,Beverages
+ramen,1,sunspot jonz,1,1,ice pirates,0,0,0,
+dough,1,sunspot jonz,1,1,ice pirates,0,0,0,
+fudge,1,casual,1,1,i didn't mean to,1994-01-17,1994,1,Sweets
+ice,1,del the funky homosapien,1,1,if you must,2000-04-11,2000,4,
+cream,1,del the funky homosapien,1,1,if you must,2000-04-11,2000,4,Dairy and Egg Products
+gum,2,del the funky homosapien,1,2,if you must,2000-04-11,2000,4,Sweets
+raisin,1,del the funky homosapien,1,1,if you must,2000-04-11,2000,4,Baked Products
+water,1,del the funky homosapien,1,1,if you must,2000-04-11,2000,4,Beverages
+drink,1,del the funky homosapien,1,1,if you must,2000-04-11,2000,4,
+ripe,1,del the funky homosapien,1,1,if you must,2000-04-11,2000,4,Fruits and Fruit Juices
+ice cream,1,del the funky homosapien,-1,-1,if you must,2000-04-11,2000,4,Sweets
+ice,1,del the funky homosapien,1,1,if you must (automator instrumental),0,0,0,
+cream,1,del the funky homosapien,1,1,if you must (automator instrumental),0,0,0,Dairy and Egg Products
+gum,2,del the funky homosapien,1,2,if you must (automator instrumental),0,0,0,Sweets
+raisin,1,del the funky homosapien,1,1,if you must (automator instrumental),0,0,0,Baked Products
+water,1,del the funky homosapien,1,1,if you must (automator instrumental),0,0,0,Beverages
+drink,1,del the funky homosapien,1,1,if you must (automator instrumental),0,0,0,
+ripe,1,del the funky homosapien,1,1,if you must (automator instrumental),0,0,0,Fruits and Fruit Juices
+ice cream,1,del the funky homosapien,-1,-1,if you must (automator instrumental),0,0,0,Sweets
+ice,1,del the funky homosapien,1,1,if you must (automator remix),0,0,0,
+cream,1,del the funky homosapien,1,1,if you must (automator remix),0,0,0,Dairy and Egg Products
+gum,2,del the funky homosapien,1,2,if you must (automator remix),0,0,0,Sweets
+raisin,1,del the funky homosapien,1,1,if you must (automator remix),0,0,0,Baked Products
+water,1,del the funky homosapien,1,1,if you must (automator remix),0,0,0,Beverages
+drink,1,del the funky homosapien,1,1,if you must (automator remix),0,0,0,
+ripe,1,del the funky homosapien,1,1,if you must (automator remix),0,0,0,Fruits and Fruit Juices
+ice cream,1,del the funky homosapien,-1,-1,if you must (automator remix),0,0,0,Sweets
+ice,1,del the funky homosapien,1,1,if you must (clean version),0,0,0,
+cream,1,del the funky homosapien,1,1,if you must (clean version),0,0,0,Dairy and Egg Products
+gum,2,del the funky homosapien,1,2,if you must (clean version),0,0,0,Sweets
+raisin,1,del the funky homosapien,1,1,if you must (clean version),0,0,0,Baked Products
+water,1,del the funky homosapien,1,1,if you must (clean version),0,0,0,Beverages
+drink,1,del the funky homosapien,1,1,if you must (clean version),0,0,0,
+ice cream,1,del the funky homosapien,-1,-1,if you must (clean version),0,0,0,Sweets
+ice,1,del the funky homosapien,1,1,if you must (lp version),0,0,0,
+cream,1,del the funky homosapien,1,1,if you must (lp version),0,0,0,Dairy and Egg Products
+gum,2,del the funky homosapien,1,2,if you must (lp version),0,0,0,Sweets
+raisin,1,del the funky homosapien,1,1,if you must (lp version),0,0,0,Baked Products
+water,1,del the funky homosapien,1,1,if you must (lp version),0,0,0,Beverages
+drink,1,del the funky homosapien,1,1,if you must (lp version),0,0,0,
+ripe,1,del the funky homosapien,1,1,if you must (lp version),0,0,0,Fruits and Fruit Juices
+ice cream,1,del the funky homosapien,-1,-1,if you must (lp version),0,0,0,Sweets
+organic,1,del the funky homosapien,1,1,i got you,2008-03-11,2008,3,Baby Foods
+meat,1,del the funky homosapien,1,1,i got you,2008-03-11,2008,3,Baby Foods
+sandwich,1,del the funky homosapien,1,1,i'll tell you,2008-03-11,2008,3,Baked Products
+beef,1,del the funky homosapien,1,1,i'll tell you,2008-03-11,2008,3,Beef Products
+cauliflower,1,lyrics born,1,1,i'm just raw (remix),0,0,0,Vegetables and Vegetable Products
+beer,1,lyrics born,1,1,i'm just raw (remix),0,0,0,Beverages
+coffee,1,lyrics born,1,1,i'm just raw (remix),0,0,0,Beverages
+sauce,1,lyrics born,1,1,i'm just raw (remix),0,0,0,"Soups, Sauces, and Gravies"
+pan,1,lyrics born,1,1,i'm just raw (remix),0,0,0,
+jolly rancher,1,lyrics born,2,2,i'm just raw (remix),0,0,0,
+beef,1,del the funky homosapien,1,1,in and out,1993-11-23,1993,11,Beef Products
+flavor,1,del the funky homosapien,1,1,in and out,1993-11-23,1993,11,
+nut,1,pep love,1,1,indonesia,2013-07-16,2013,7,Nut and Seed Products
+cinnamon,1,opio,1,1,indonesia,2013-07-16,2013,7,Baked Products
+rabbit,1,del the funky homosapien & tame one,1,1,intro (magic),2009-10-13,2009,10,"Lamb, Veal, and Game Products"
+wine,1,del the funky homosapien,1,1,it's about time,0,0,0,Beverages
+ice,1,del the funky homosapien,1,1,it's about time,0,0,0,
+milky,1,casual,1,1,jingle jangle,2003-10-07,2003,10,
+dough,1,a-plus,1,1,jingle jangle,2003-10-07,2003,10,
+cabbage,1,pep love,1,1,jingle jangle,2003-10-07,2003,10,Vegetables and Vegetable Products
+cheddar,1,pep love,1,1,jingle jangle,2003-10-07,2003,10,Dairy and Egg Products
+cream,1,del,1,1,jingle jangle,2003-10-07,2003,10,Dairy and Egg Products
+kit kat,1,casual,2,2,jingle jangle,2003-10-07,2003,10,
+beef,1,tame one,1,1,keep it up,2009-10-13,2009,10,Beef Products
+drinking,1,tame one,1,1,keep it up,2009-10-13,2009,10,Beverages
+beer,1,tame one,1,1,keep it up,2009-10-13,2009,10,Beverages
+beef,1,del the funky homosapien,1,1,king of fighters,2009-04-07,2009,4,Beef Products
+chicken,1,del the funky homosapien,1,1,king of fighters,2009-04-07,2009,4,Poultry Products
+meat,1,del the funky homosapien,1,1,king of fighters,2009-04-07,2009,4,Baby Foods
+flavor,1,del the funky homosapien,1,1,king of fighters,2009-04-07,2009,4,
+jalapeno,1,del the funky homosapien,1,1,king of fighters,2009-04-07,2009,4,Vegetables and Vegetable Products
+boost,1,del the funky homosapien,1,1,land of immediate rap hits,0,0,0,
+grain,1,del the funky homosapien,1,1,last hurrah,2008-03-11,2008,3,
+rum,1,del the funky homosapien,1,1,last hurrah,2008-03-11,2008,3,Beverages
+pear,1,del,1,1,left field,1999-05-31,1999,5,Fruits and Fruit Juices
+smores,1,del,1,1,left field,1999-05-31,1999,5,
+flavor,1,del,1,1,left field,1999-05-31,1999,5,
+prune,1,mad child,1,1,left field,1999-05-31,1999,5,Fruits and Fruit Juices
+apple,1,swollen members,1,1,left field,1999-05-31,1999,5,Fruits and Fruit Juices
+drinking,1,tame one,1,1,life sucks,2009-10-13,2009,10,Beverages
+potato,1,tame one,1,1,life sucks,2009-10-13,2009,10,Vegetables and Vegetable Products
+potato chip,1,tame one,1,1,life sucks,2009-10-13,2009,10,Snacks
+meal,1,del the funky homosapien aka sir dzl,1,1,life & time,2013-12-21,2013,12,Baked Products
+entree,1,del the funky homosapien aka sir dzl,1,1,life & time,2013-12-21,2013,12,Restaurant Foods
+pasta,1,ladybug mecca aka santos vierira,1,1,life & time,2013-12-21,2013,12,"Soups, Sauces, and Gravies"
+calico,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,
+chicken,2,kool a.d.,1,2,life & time,2013-12-21,2013,12,Poultry Products
+biscuit,3,kool a.d.,1,3,life & time,2013-12-21,2013,12,Fast Foods
+salmon,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Finfish and Shellfish Products
+cracker,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Baked Products
+hibiscus,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Beverages
+ice,2,kool a.d.,1,2,life & time,2013-12-21,2013,12,
+tea,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Beverages
+food,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,
+fish,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Finfish and Shellfish Products
+rice,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Cereal Grains and Pasta
+lettuce,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Vegetables and Vegetable Products
+ripe,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,Fruits and Fruit Juices
+pan,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,
+ice tea,1,kool a.d.,-1,-1,life & time,2013-12-21,2013,12,
+yellow rice,1,kool a.d.,1,1,life & time,2013-12-21,2013,12,
+shredded,1,souls of mischief,1,1,limitations,1993-09-28,1993,9,Dairy and Egg Products
+water,1,souls of mischief,1,1,limitations,1993-09-28,1993,9,Beverages
+dill,2,souls of mischief,1,2,limitations,1993-09-28,1993,9,Vegetables and Vegetable Products
+rabbit,1,souls of mischief,1,1,limitations,1993-09-28,1993,9,"Lamb, Veal, and Game Products"
+grain,1,del the funky homosapien,1,1,livin' it up,2013-07-16,2013,7,
+apple,1,cas one,1,1,lone wolves,2017-04-21,2017,4,Fruits and Fruit Juices
+sour,1,carnage the executioner,1,1,lone wolves,2017-04-21,2017,4,Fruits and Fruit Juices
+brandy,1,del the funky homosapien,1,1,love is worth,0,0,0,
+candy,3,del the funky homosapien,1,3,love is worth,0,0,0,Sweets
+herb,1,deltron 3030,1,1,love story,2000-10-17,2000,10,Beverages
+sandwich,1,deltron 3030,1,1,love story,2000-10-17,2000,10,Baked Products
+garlic,1,del the funky homosapien,1,1,lyric lickin',0,0,0,Vegetables and Vegetable Products
+cornbread,1,del the funky homosapien,1,1,lyric lickin',0,0,0,Baked Products
+collard,1,del the funky homosapien,1,1,lyric lickin',0,0,0,Vegetables and Vegetable Products
+banana,1,del the funky homosapien,1,1,lyric lickin',0,0,0,Fruits and Fruit Juices
+herb,1,deltron 3030,1,1,madness,2000-10-17,2000,10,Beverages
+dough,1,deltron 3030,1,1,madness,2000-10-17,2000,10,
+cookie,1,opio,1,1,maggie may (r.i.p. faith),2003-10-07,2003,10,Baked Products
+muffin,1,opio,1,1,maggie may (r.i.p. faith),2003-10-07,2003,10,Baked Products
+dough,1,del,1,1,maggie may (r.i.p. faith),2003-10-07,2003,10,
+pez,1,handsome boy modeling school,1,1,magnetizing,1999-10-19,1999,10,
+soda,1,handsome boy modeling school,1,1,magnetizing,1999-10-19,1999,10,Baked Products
+doughnut,1,handsome boy modeling school,1,1,magnetizing,1999-10-19,1999,10,Baked Products
+fry,1,handsome boy modeling school,1,1,magnetizing,1999-10-19,1999,10,
+flavor,1,handsome boy modeling school,1,1,magnetizing,1999-10-19,1999,10,
+chocolate,1,handsome boy modeling school,1,1,magnetizing,1999-10-19,1999,10,Sweets
+ice,1,del the funky homosapien,1,1,makes no sense,2011-04-19,2011,4,
+cream,1,del the funky homosapien,1,1,makes no sense,2011-04-19,2011,4,Dairy and Egg Products
+cheddar,1,del the funky homosapien,1,1,makes no sense,2011-04-19,2011,4,Dairy and Egg Products
+ice cream,1,del the funky homosapien,-1,-1,makes no sense,2011-04-19,2011,4,Sweets
+pan,1,yo-yo,1,1,make way for the motherlode,1991-03-19,1991,3,
+fry,1,yo-yo,1,1,make way for the motherlode,1991-03-19,1991,3,
+skillet,1,yo-yo,1,1,make way for the motherlode,1991-03-19,1991,3,
+pork,1,yo-yo,1,1,make way for the motherlode,1991-03-19,1991,3,Pork Products
+caper,1,yo-yo,1,1,make way for the motherlode,1991-03-19,1991,3,Spices and Herbs
+ramen,1,a-plus,1,1,make your mind up,1993-09-28,1993,9,
+gizzard,1,opio,1,1,make your mind up,1993-09-28,1993,9,Poultry Products
+nut,1,souls of mischief,1,1,make your mind up,1993-09-28,1993,9,Nut and Seed Products
+spinach,1,souls of mischief,1,1,make your mind up,1993-09-28,1993,9,Vegetables and Vegetable Products
+shrimp,1,souls of mischief,1,1,make your mind up,1993-09-28,1993,9,Finfish and Shellfish Products
+sloppy joe,1,a-plus,2,2,make your mind up,1993-09-28,1993,9,
+nugget,1,deltron 3030,1,1,melding of the minds,2013-10-01,2013,10,"Meals, Entrees, and Side Dishes"
+oil,1,deltron 3030,1,1,melding of the minds,2013-10-01,2013,10,Fats and Oils
+food,1,deltron 3030,1,1,melding of the minds,2013-10-01,2013,10,
+hamburger,1,deltron 3030,1,1,melding of the minds,2013-10-01,2013,10,Fast Foods
+soup,1,deltron 3030,1,1,melding of the minds,2013-10-01,2013,10,"Soups, Sauces, and Gravies"
+nugget,1,del the funky homosapien,1,1,mental fitness,0,0,0,"Meals, Entrees, and Side Dishes"
+caper,1,del the funky homosapien,1,1,militant,0,0,0,Spices and Herbs
+apple,1,del the funky homosapien,1,1,militant,0,0,0,Fruits and Fruit Juices
+sauce,1,del the funky homosapien,1,1,militant,0,0,0,"Soups, Sauces, and Gravies"
+pit,1,del the funky homosapien,1,1,militant,0,0,0,
+apple sauce,1,del the funky homosapien,-1,-1,militant,0,0,0,
+malt,1,del the funky homosapien,1,1,missing link,1993-09-14,1993,9,Sweets
+gelatin,1,del the funky homosapien,1,1,missing link,1993-09-14,1993,9,Sweets
+malt,1,,1,1,missing link - 1860434,0,0,0,Sweets
+gelatin,1,,1,1,missing link - 1860434,0,0,0,Sweets
+aunt jemima,1,del the funky homosapien,2,2,mistadobalina,1991-10-22,1991,10,
+dough,2,del the funky homosapien,1,2,money for sex,1991-10-22,1991,10,
+honey,3,del the funky homosapien,1,3,money for sex,1991-10-22,1991,10,Sweets
+candy,1,del the funky homosapien,1,1,money for sex,1991-10-22,1991,10,Sweets
+brandy,1,del the funky homosapien,1,1,money for sex,1991-10-22,1991,10,
+sandwich,1,del the funky homosapien,1,1,money for sex,1991-10-22,1991,10,Baked Products
+ice,1,yo-yo,1,1,more of what can i do?,1991-03-19,1991,3,
+ice cube,1,yo-yo,1,1,more of what can i do?,1991-03-19,1991,3,
+gumbo,1,del the funky homosapien,1,1,mothership connection,0,0,0,
+rump,6,del the funky homosapien,1,6,naked fonk,2008-03-11,2008,3,Pork Products
+ice,1,del the funky homosapien,1,1,naked fonk,2008-03-11,2008,3,
+oil,1,opio,1,1,nano salt,2013-07-16,2013,7,Fats and Oils
+oil,1,del tha funkee homosapien,1,1,nano salt,2013-07-16,2013,7,Fats and Oils
+berry,1,casual,1,1,nano salt,2013-07-16,2013,7,
+bacardi,1,phesto dee,1,1,nano salt,2013-07-16,2013,7,
+rum,1,phesto dee,1,1,nano salt,2013-07-16,2013,7,Beverages
+water,1,deltron 3030,1,1,new coke,2000-10-17,2000,10,Beverages
+soup,1,deltron 3030,1,1,new coke,2000-10-17,2000,10,"Soups, Sauces, and Gravies"
+molasses,1,del the funky homosapien,1,1,no more worries,1993-11-23,1993,11,Baked Products
+molasses,1,del the funky homosapien,1,1,no more worries - 1535170,0,0,0,Baked Products
+coffee,1,del the funky homosapien,1,1,no need for alarm,1993-11-23,1993,11,Beverages
+cheese,1,hieroglyphics,1,1,no nuts,1998-03-24,1998,3,Dairy and Egg Products
+nut,1,del,1,1,no nuts,1998-03-24,1998,3,Nut and Seed Products
+nut,1,pep love,1,1,no nuts,1998-03-24,1998,3,Nut and Seed Products
+pepper,1,pep love,1,1,no nuts,1998-03-24,1998,3,Vegetables and Vegetable Products
+hot pepper,1,pep love,1,1,no nuts,1998-03-24,1998,3,
+dough,1,a-plus,1,1,nothing fake/the ultimate,0,0,0,
+nut,1,del the funky homosapien,1,1,oakland blackouts,1998-03-24,1998,3,Nut and Seed Products
+nutritional,1,del the funky homosapien,1,1,oakland blackouts,1998-03-24,1998,3,
+flavor,1,,1,1,oakland (feat. del the funky homosapien & the grouch),2011-11-08,2011,11,
+lavender,1,del the funky homosapien,1,1,offspring,2000-04-11,2000,4,
+pit,1,del the funky homosapien,1,1,offspring,2000-04-11,2000,4,
+malt,1,del the funky homosapien,1,1,offspring,2000-04-11,2000,4,Sweets
+flavor,1,del the funky homosapien,1,1,offspring,2000-04-11,2000,4,
+malt liquor,1,del the funky homosapien,-1,-1,offspring,2000-04-11,2000,4,
+nut,1,hieroglyphics,1,1,off the record,1998-03-24,1998,3,Nut and Seed Products
+ice,1,hieroglyphics,1,1,off the record,1998-03-24,1998,3,
+pork,1,hieroglyphics,1,1,one life one love,1998-03-24,1998,3,Pork Products
+water,1,hieroglyphics,1,1,one life one love,1998-03-24,1998,3,Beverages
+food,2,hieroglyphics,1,2,one life one love,1998-03-24,1998,3,
+patty,1,hieroglyphics,1,1,one life one love,1998-03-24,1998,3,Poultry Products
+cake,1,hieroglyphics,1,1,one life one love,1998-03-24,1998,3,Baked Products
+drink,1,halo orbit,1,1,one of these days,2017-02-03,2017,2,
+rib,1,halo orbit,1,1,one of these days,2017-02-03,2017,2,Beef Products
+ice,2,del the funky homosapien,1,2,one out of a million,0,0,0,
+turkey,1,del the funky homosapien,1,1,one out of a million,0,0,0,Poultry Products
+ice cube,2,del the funky homosapien,1,2,one out of a million,0,0,0,
+bread,1,del,1,1,on the ball,2018-04-20,2018,4,Baked Products
+cheese,1,del,1,1,on the ball,2018-04-20,2018,4,Dairy and Egg Products
+lozenge,1,eligh,1,1,on the ball,2018-04-20,2018,4,
+pit,1,eligh,1,1,on the ball,2018-04-20,2018,4,
+boost,1,del the funky homosapien,1,1,pet peeves,0,0,0,
+juice,1,del the funky homosapien,1,1,pet peeves,0,0,0,Baby Foods
+jelly,1,del the funky homosapien,1,1,pet peeves,0,0,0,Sweets
+dough,1,del the funky homosapien,1,1,pet peeves,0,0,0,
+steamed,1,del the funky homosapien,1,1,pet peeves,0,0,0,Vegetables and Vegetable Products
+gum,2,del the funky homosapien,1,2,pet peeves,0,0,0,Sweets
+boost,1,del the funky homosapien,1,1,pet peeves / fwa (fair weather associates),2000-04-11,2000,4,
+juice,1,del the funky homosapien,1,1,pet peeves / fwa (fair weather associates),2000-04-11,2000,4,Baby Foods
+vodka,1,del the funky homosapien,1,1,phoney phranchise,2000-04-11,2000,4,Beverages
+nut,1,del the funky homosapien,1,1,phoney phranchise,2000-04-11,2000,4,Nut and Seed Products
+beef,1,del the funky homosapien,1,1,phoney phranchise,2000-04-11,2000,4,Beef Products
+vodka,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,Beverages
+nut,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,Nut and Seed Products
+beef,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,Beef Products
+drinking,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,Beverages
+beer,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,Beverages
+flavoring,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,
+cream,1,del the funky homosapien,1,1,phoney phranchise (del mix),0,0,0,Dairy and Egg Products
+vodka,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,Beverages
+nut,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,Nut and Seed Products
+beef,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,Beef Products
+drinking,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,Beverages
+beer,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,Beverages
+flavoring,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,
+cream,1,del the funky homosapien,1,1,phoney phranchise (domino remix),1999-01-01,1999,1,Dairy and Egg Products
+salad,1,del the funky homosapien,1,1,pissin on your steps,1991-10-22,1991,10,
+ice,1,del the funky homosapien,1,1,pissin on your steps,1991-10-22,1991,10,
+vanilla,1,del the funky homosapien,1,1,pissin on your steps,1991-10-22,1991,10,Sweets
+chocolate,1,del the funky homosapien,1,1,pissin on your steps,1991-10-22,1991,10,Sweets
+rump,1,] fuck a dancer [del,1,1,pissin on your steps,1991-10-22,1991,10,Pork Products
+nut,1,] fuck a dancer [del,1,1,pissin on your steps,1991-10-22,1991,10,Nut and Seed Products
+rice,1,] fuck a dancer [del,1,1,pissin on your steps,1991-10-22,1991,10,Cereal Grains and Pasta
+olde english,1,del the funky homosapien,2,2,pissin on your steps,1991-10-22,1991,10,
+beef,1,del the funky homosapien,1,1,positive contact,2000-10-17,2000,10,Beef Products
+milky,1,del the funky homosapien,1,1,positive contact,2000-10-17,2000,10,
+milky way,1,del the funky homosapien,1,1,positive contact,2000-10-17,2000,10,
+cocktail,1,opio,1,1,powers that be,2003-10-07,2003,10,"Soups, Sauces, and Gravies"
+dough,1,del,1,1,powers that be,2003-10-07,2003,10,
+cheddar,1,pep love,1,1,powers that be,2003-10-07,2003,10,Dairy and Egg Products
+lettuce,1,pep love,1,1,powers that be,2003-10-07,2003,10,Vegetables and Vegetable Products
+dough,1,del the funky homosapien,1,1,proto culture,2000-04-11,2000,4,
+whisky,1,del the funky homosapien,1,1,provocações,2015-09-09,2015,9,
+bean,3,retrogott & kutmasta kurt,1,3,raw scheisse,2014-10-13,2014,10,Legumes and Legume Products
+ice,1,del the funky homosapien,1,1,record report albums: del the funkee homo sapien - i wish my brother george was here,0,0,0,
+ice,2,reef,1,2,record report albums: del the funkee homo sapien - i wish my brother george was here,0,0,0,
+flavor,1,reef,1,1,record report albums: del the funkee homo sapien - i wish my brother george was here,0,0,0,
+ice cube,1,del the funky homosapien,1,1,record report albums: del the funkee homo sapien - i wish my brother george was here,0,0,0,
+ice cube,2,reef,1,2,record report albums: del the funkee homo sapien - i wish my brother george was here,0,0,0,
+rose,1,fashawn,1,1,rise up,2016-02-15,2016,2,Beverages
+apple,1,del the funky homosapien,1,1,robust,0,0,0,Fruits and Fruit Juices
+cake,1,del the funky homosapien,1,1,robust,0,0,0,Baked Products
+flavor,1,del the funky homosapien,1,1,robust,0,0,0,
+bagel,1,del the funky homosapien,1,1,robust,0,0,0,Baked Products
+mayo,1,del the funky homosapien,1,1,robust,0,0,0,
+salsa,1,del the ghost rapper,1,1,rock the house,2001-10-22,2001,10,"Soups, Sauces, and Gravies"
+honeycomb,1,del,1,1,run free,2018-04-20,2018,4,
+restaurant,1,del,1,1,run free,2018-04-20,2018,4,Restaurant Foods
+wine,1,del,1,1,run free,2018-04-20,2018,4,Beverages
+meal,1,del,1,1,run free,2018-04-20,2018,4,Baked Products
+tart,1,n.a.s.a.,1,1,samba soul,0,0,0,Fruits and Fruit Juices
+oil,1,n.a.s.a.,1,1,samba soul,0,0,0,Fats and Oils
+glaze,1,n.a.s.a.,1,1,samba soul,0,0,0,Sweets
+bread,1,n.a.s.a.,1,1,samba soul,0,0,0,Baked Products
+egg,1,n.a.s.a.,1,1,samba soul,0,0,0,Dairy and Egg Products
+goose,1,n.a.s.a.,1,1,samba soul,0,0,0,Poultry Products
+egg roll,1,n.a.s.a.,1,1,samba soul,0,0,0,"Meals, Entrees, and Side Dishes"
+iced,1,del,1,1,same ol' thing,1991-10-22,1991,10,Beverages
+vanilla,1,del,1,1,same ol' thing,1991-10-22,1991,10,Sweets
+dough,1,del,1,1,same ol' thing,1991-10-22,1991,10,
+sugar,1,,1,1,same ol' thing,1991-10-22,1991,10,Sweets
+sugar,1,dj pooh,1,1,same ol' thing,1991-10-22,1991,10,Sweets
+sugar,1,rashad,1,1,same ol' thing,1991-10-22,1991,10,Sweets
+aunt jemima,1,del,2,2,same ol' thing,1991-10-22,1991,10,
+jelly,1,del the funky homosapien,1,1,shit talkers,0,0,0,Sweets
+dough,1,del the funky homosapien,1,1,shit talkers,0,0,0,
+steamed,1,del the funky homosapien,1,1,shit talkers,0,0,0,Vegetables and Vegetable Products
+gum,2,del the funky homosapien,1,2,shit talkers,0,0,0,Sweets
+herbal,1,del the funky homosapien,1,1,signature slogans,2000-04-11,2000,4,American Indian/Alaska Native Foods
+cabbage,1,del the funky homosapien,1,1,signature slogans,2000-04-11,2000,4,Vegetables and Vegetable Products
+saccharin,1,del the funky homosapien,1,1,signature slogans,2000-04-11,2000,4,
+pomegranate,1,del the funky homosapien,1,1,signature slogans,2000-04-11,2000,4,Dairy and Egg Products
+cake,1,del the funky homosapien,1,1,signature slogans,2000-04-11,2000,4,Baked Products
+cheese,1,del the funky homosapien,1,1,signature slogans,2000-04-11,2000,4,Dairy and Egg Products
+pit,1,del the funky homosapien,1,1,simple satisfaction,0,0,0,
+bologna,1,del the funky homosapien,1,1,situations,2008-03-11,2008,3,Sausages and Luncheon Meats
+protein,1,del the funky homosapien,1,1,situations,2008-03-11,2008,3,Poultry Products
+beef,1,del the funky homosapien,1,1,situations,2008-03-11,2008,3,Beef Products
+dough,2,del the funky homosapien,1,2,situations,2008-03-11,2008,3,
+drink,1,del,1,1,sit ya ass down,2018-04-20,2018,4,
+mint,1,del,1,1,sit ya ass down,2018-04-20,2018,4,
+juice,1,del,1,1,sit ya ass down,2018-04-20,2018,4,Baby Foods
+drink,1,del the funky homosapien & amp live,1,1,skull and crossbones,2000-04-11,2000,4,
+drink,4,del the funky homosapien,1,4,skull and crossbones,2000-04-11,2000,4,
+alcohol,1,del the funky homosapien,1,1,skull and crossbones,2000-04-11,2000,4,Spices and Herbs
+cognac,1,del the funky homosapien,1,1,skull and crossbones,2000-04-11,2000,4,
+chicken,1,del the funky homosapien,1,1,slave master,0,0,0,Poultry Products
+gizzard,1,del the funky homosapien,1,1,slave master,0,0,0,Poultry Products
+stew,1,del the funky homosapien,1,1,slave master,0,0,0,American Indian/Alaska Native Foods
+pig lip,1,del the funky homosapien,2,2,slave master,0,0,0,
+biscuit,1,del the funky homosapien,1,1,sleepin on my couch,1991-10-22,1991,10,Fast Foods
+snack,1,del the funky homosapien,1,1,sleepin on my couch,1991-10-22,1991,10,Snacks
+bread,1,del the funky homosapien,1,1,sleepin on my couch,1991-10-22,1991,10,Baked Products
+apple,1,del the funky homosapien,1,1,sleepin on my couch,1991-10-22,1991,10,Fruits and Fruit Juices
+apple jack,1,del the funky homosapien,1,1,sleepin on my couch,1991-10-22,1991,10,
+octopus,1,dirty heads,1,1,smoke rings,2012-06-19,2012,6,Finfish and Shellfish Products
+molasses,1,dirty j,1,1,smoke rings,2012-06-19,2012,6,Baked Products
+food,1,del,1,1,soopa feen,2000-04-11,2000,4,
+jerky,1,del,1,1,soopa feen,2000-04-11,2000,4,
+fizz,1,del,1,1,soopa feen,2000-04-11,2000,4,
+cream,1,del,1,1,soopa feen,2000-04-11,2000,4,Dairy and Egg Products
+jelly,1,souls of mischief,1,1,souls of mischief,0,0,0,Sweets
+donut,1,souls of mischief,1,1,souls of mischief,0,0,0,
+restaurant,1,souls of mischief,1,1,souls of mischief,0,0,0,Restaurant Foods
+dough,1,cas,1,1,soweto,2002-08-13,2002,8,
+butter,1,hieroglyphics,1,1,space case,2011-09-13,2011,9,Dairy and Egg Products
+pecan,1,hieroglyphics,1,1,space case,2011-09-13,2011,9,Nut and Seed Products
+seasoned,1,hieroglyphics,1,1,space case,2011-09-13,2011,9,Baked Products
+amaretto,1,hopie,1,1,space case,2011-09-13,2011,9,
+butter pecan,1,hieroglyphics,-1,-1,space case,2011-09-13,2011,9,Sweets
+juice,1,del the funky homosapien,1,1,special,2009-10-13,2009,10,Baby Foods
+ice,1,del the funky homosapien,1,1,special,2009-10-13,2009,10,
+fry,1,del the funky homosapien,1,1,special,2009-10-13,2009,10,
+food,1,del the funky homosapien & tame one,1,1,special,2009-10-13,2009,10,
+boba,1,del the funky homosapien & tame one,1,1,special,2009-10-13,2009,10,
+ice,1,del the funky homosapien & tame one,1,1,specifics,2009-10-13,2009,10,
+juice,1,del the funky homosapien & tame one,1,1,specifics,2009-10-13,2009,10,Baby Foods
+pancake,1,tame one,1,1,specifics,2009-10-13,2009,10,Baked Products
+cake,1,del the funky homosapien,1,1,stay on your toes,2000-04-11,2000,4,Baked Products
+food,1,del the funky homosapien,1,1,stay on your toes,2000-04-11,2000,4,
+drinking,1,del the funky homosapien,1,1,stay on your toes,2000-04-11,2000,4,Beverages
+drink,1,del the funky homosapien,1,1,stay on your toes,2000-04-11,2000,4,
+ale,1,del the funky homosapien,1,1,stay on your toes,2000-04-11,2000,4,
+licorice,1,del the funky homosapien,1,1,stay on your toes,2000-04-11,2000,4,
+iced,1,mark bell,1,1,st. catherine st.,2000-10-17,2000,10,Beverages
+pretzel,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,Snacks
+fish,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,Finfish and Shellfish Products
+food,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,
+milk,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,Dairy and Egg Products
+ice,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,
+drink,2,del the funky homosapien,1,2,straight from the big bad west coast,0,0,0,
+water,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,Beverages
+flavor,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,
+ice cube,1,del the funky homosapien,1,1,straight from the big bad west coast,0,0,0,
+cracker,1,del the funky homosapien,1,1,stress the world,0,0,0,Baked Products
+mayo,1,del the funky homosapien,1,1,stress the world,0,0,0,
+ice,1,del the funky homosapien,1,1,stress the world,0,0,0,
+nectar,1,del the funky homosapien,1,1,stress the world,0,0,0,
+bologna,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,Sausages and Luncheon Meats
+fruity,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,
+fry,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,
+chicken,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,Poultry Products
+dressing,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,Fats and Oils
+margarita,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,
+fried,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,Poultry Products
+chicken breast,1,del the funky homosapien,1,1,style police,2000-04-11,2000,4,Poultry Products
+licorice,1,del the funky homosapien,1,1,sunny meadowz,1991-10-22,1991,10,
+rose,1,del the funky homosapien,1,1,sunny meadowz,1991-10-22,1991,10,Beverages
+pumpkin,1,del the funky homosapien,1,1,teamwork,2006-09-26,2006,9,Vegetables and Vegetable Products
+syrup,1,del the funky homosapien & tame one,1,1,teddy,2009-10-13,2009,10,Sweets
+banana,1,del the funky homosapien & tame one,1,1,teddy,2009-10-13,2009,10,Fruits and Fruit Juices
+breakfast,1,del the funky homosapien,1,1,teddy,2009-10-13,2009,10,Baked Products
+bread,1,del the funky homosapien,1,1,teddy,2009-10-13,2009,10,Baked Products
+tequila,1,del the funky homosapien,1,1,teddy,2009-10-13,2009,10,
+chicken,1,del the funky homosapien,1,1,teddy,2009-10-13,2009,10,Poultry Products
+drinking,1,del the funky homosapien,1,1,teddy,2009-10-13,2009,10,Beverages
+dessert,1,tajai,1,1,that's when ya lost,1993-09-28,1993,9,Baby Foods
+nut,1,tajai,1,1,that's when ya lost,1993-09-28,1993,9,Nut and Seed Products
+nut,1,phesto,1,1,that's when ya lost,1993-09-28,1993,9,Nut and Seed Products
+nut,1,souls of mischief,1,1,that's when ya lost (i ain't trippin' remix),0,0,0,Nut and Seed Products
+water,1,souls of mischief,1,1,that's when ya lost (i ain't trippin' remix),0,0,0,Beverages
+ale,1,deltron 3030,1,1,the agony,2013-09-30,2013,9,
+fry,1,deltron 3030,1,1,the agony,2013-09-30,2013,9,
+rib,1,virtuoso,1,1,the bay of pigs,0,0,0,Beef Products
+tea,1,del the funky homosapien & tame one,1,1,the franchise,2009-10-13,2009,10,Beverages
+dough,1,tame one,1,1,the franchise,2009-10-13,2009,10,
+ice,1,del the funky homosapien & amp live,1,1,the glow,2018-04-20,2018,4,
+ring pop,1,del the funky homosapien & amp live,2,2,the glow,2018-04-20,2018,4,
+nectar,2,del the funky homosapien,1,2,the land of funk,0,0,0,
+juice,2,del the funky homosapien,1,2,the land of funk,0,0,0,Baby Foods
+turkey,2,del the funky homosapien,1,2,the land of funk,0,0,0,Poultry Products
+water,1,del the funky homosapien,1,1,the land of funk,0,0,0,Beverages
+dough,1,handsome boy modeling school,1,1,the projects (pjays),1999-10-18,1999,10,
+meat,1,del tha funkee homosapien,1,1,the repo man sings for you,1998-11-10,1998,11,Baby Foods
+dough,1,del tha funkee homosapien,1,1,the repo man sings for you,1998-11-10,1998,11,
+oil,1,del the funky homosapien,1,1,the ride,2012-08-07,2012,8,Fats and Oils
+bread,1,wrekonize,1,1,the ride,2012-08-07,2012,8,Baked Products
+toaster,1,wrekonize,1,1,the ride,2012-08-07,2012,8,
+cheese,1,wrekonize,1,1,the ride,2012-08-07,2012,8,Dairy and Egg Products
+beef,1,handsome boy modeling school,1,1,the world's gone mad,2004-11-09,2004,11,Beef Products
+meat,1,handsome boy modeling school,1,1,the world's gone mad,2004-11-09,2004,11,Baby Foods
+chicken,1,handsome boy modeling school,1,1,the world's gone mad,2004-11-09,2004,11,Poultry Products
+crouton,1,del the funky homosapien,1,1,things you can do,2000-10-17,2000,10,Baked Products
+fry,1,del the funky homosapien,1,1,things you can do,2000-10-17,2000,10,
+fry,1,hieroglyphics,1,1,think again,2006-03-12,2006,3,
+lotus,1,hieroglyphics,1,1,think again,2006-03-12,2006,3,
+rose,1,hieroglyphics,1,1,think again,2006-03-12,2006,3,Beverages
+chocolate,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,Sweets
+ovaltine,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,Beverages
+egg,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,Dairy and Egg Products
+nut,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,Nut and Seed Products
+donut,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,
+mesquite,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,
+barbeque,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,
+fusilli,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,
+fry,1,del the funky homosapien,1,1,time is too expensive,2000-04-11,2000,4,
+enchilada,1,del the funky homosapien,1,1,time keeps on slipping,2000-10-17,2000,10,"Soups, Sauces, and Gravies"
+herb,1,del the funky homosapien,1,1,town to town,0,0,0,Beverages
+pit,1,del the funky homosapien,1,1,town to town,0,0,0,
+salt,1,del the funky homosapien,1,1,town to town,0,0,0,Spices and Herbs
+bonbon,1,del the funky homosapien,1,1,town to town,0,0,0,
+meaty,1,del the funky homosapien,1,1,town to town,0,0,0,
+barbecue,1,del the funky homosapien,1,1,town to town,0,0,0,"Soups, Sauces, and Gravies"
+drink,2,del the funky homosapien,1,2,town to town,0,0,0,
+gin,1,del the funky homosapien,1,1,town to town,0,0,0,
+biscuit,1,del the funky homosapien,1,1,treats for the kiddies,1993-11-23,1993,11,Fast Foods
+breakfast,1,del the funky homosapien,1,1,treats for the kiddies,1993-11-23,1993,11,Baked Products
+chicken,1,del the funky homosapien,1,1,treats for the kiddies,1993-11-23,1993,11,Poultry Products
+grated,1,del the funky homosapien,1,1,treats for the kiddies,1993-11-23,1993,11,Dairy and Egg Products
+java,1,,1,1,upgrade (a brymar college course),2000-10-17,2000,10,
+java,1,del the funky homosapien,1,1,upgrade (a brymar college course),2000-10-17,2000,10,
+java,1,robot voice,1,1,upgrade (a brymar college course),2000-10-17,2000,10,
+boost,1,del the funky homosapien,1,1,upgrade (a brymar college course),2000-10-17,2000,10,
+sap,1,del the funky homosapien,1,1,wack m.c.'s,1993-11-23,1993,11,
+mustard,1,del the funky homosapien,1,1,wack m.c.'s,1993-11-23,1993,11,Spices and Herbs
+breakfast,1,virtuoso,1,1,war of the masses,0,0,0,Baked Products
+beef,1,virtuoso,1,1,war of the masses,0,0,0,Beef Products
+meat,1,virtuoso,1,1,war of the masses,0,0,0,Baby Foods
+dough,1,virtuoso,1,1,war of the masses,0,0,0,
+nut,1,virtuoso,1,1,war of the masses,0,0,0,Nut and Seed Products
+ice,1,del the funky homosapien,1,1,we taking over,2009-10-13,2009,10,
+tbone,1,sir jinx,1,1,what can i do?,1991-03-19,1991,3,
+tbone,1,j-dee,1,1,what can i do?,1991-03-19,1991,3,
+ice,1,sir jinx,1,1,what can i do?,1991-03-19,1991,3,
+ice,1,j-dee,1,1,what can i do?,1991-03-19,1991,3,
+ice,1,yo-yo,1,1,what can i do?,1991-03-19,1991,3,
+ice,1,ice cube,1,1,what can i do?,1991-03-19,1991,3,
+pretzel,1,yo-yo,1,1,what can i do?,1991-03-19,1991,3,Snacks
+ice cube,1,sir jinx,1,1,what can i do?,1991-03-19,1991,3,
+ice cube,1,j-dee,1,1,what can i do?,1991-03-19,1991,3,
+ice cube,1,yo-yo,1,1,what can i do?,1991-03-19,1991,3,
+ice cube,1,ice cube,1,1,what can i do?,1991-03-19,1991,3,
+coconut,1,del,1,1,what is a booty?,1991-10-22,1991,10,Fats and Oils
+champagne,1,] aight,1,1,what makes the world go ‘round (money!),2016-05-17,2016,5,
+bread,1,] aight,1,1,what makes the world go ‘round (money!),2016-05-17,2016,5,Baked Products
+bread,1,dan the automator,1,1,what makes the world go ‘round (money!),2016-05-17,2016,5,Baked Products
+dough,1,] aight,1,1,what makes the world go ‘round (money!),2016-05-17,2016,5,
+ice,1,dan the automator,1,1,what makes the world go ‘round (money!),2016-05-17,2016,5,
+cream,1,dan the automator,1,1,what makes the world go ‘round (money!),2016-05-17,2016,5,Dairy and Egg Products
+ice cream,1,dan the automator,-1,-1,what makes the world go ‘round (money!),2016-05-17,2016,5,Sweets
+organic,1,opio,1,1,what's wrong with this picture,0,0,0,Baby Foods
+fruit,1,opio,1,1,what's wrong with this picture,0,0,0,Baby Foods
+lemonade,1,opio,1,1,what's wrong with this picture,0,0,0,Beverages
+water,1,hopie,1,1,whatta ya see,2008-07-08,2008,7,Beverages
+drink,3,hopie,1,3,whatta ya see,2008-07-08,2008,7,
+skittle,1,del,1,1,wheel of fortune,2018-03-09,2018,3,
+flavor,2,casual,1,2,who's it on,1994-02-01,1994,2,
+gin,1,cee,1,1,work,2018-12-20,2018,12,
+cake,1,cee,1,1,work,2018-12-20,2018,12,Baked Products
+ice,1,cee,1,1,work,2018-12-20,2018,12,
+grain,1,cee,1,1,work,2018-12-20,2018,12,
+caper,1,del the funky homosapien,1,1,workin it,2008-03-11,2008,3,Spices and Herbs
+leafy green,1,del the funky homosapien,2,2,world renown,2016-03-14,2016,3,
+leafy green,1,mr. lif,2,2,world renown,2016-03-14,2016,3,
+sap,1,del,1,1,worldwide,1993-11-23,1993,11,
+sap,1,unicron,1,1,worldwide,1993-11-23,1993,11,
+clam,1,del,1,1,wrecking the upside,0,0,0,Finfish and Shellfish Products
+roast,1,del the funky homosapien,1,1,wrecking the upside,0,0,0,Beef Products
+beef,1,del the funky homosapien,1,1,wrecking the upside,0,0,0,Beef Products
+roast beef,1,del the funky homosapien,-1,-1,wrecking the upside,0,0,0,Sausages and Luncheon Meats
+ice,1,del the funky homosapien,1,1,x-files,0,0,0,
+grapefruit,1,del the funky homosapien,1,1,ya lil' crumbsnatchers,1991-10-22,1991,10,Fruits and Fruit Juices
+juice,1,del the funky homosapien,1,1,ya lil' crumbsnatchers,1991-10-22,1991,10,Baby Foods
+ice,1,del the funky homosapien,1,1,ya lil' crumbsnatchers,1991-10-22,1991,10,
+grapefruit juice,1,del the funky homosapien,-1,-1,ya lil' crumbsnatchers,1991-10-22,1991,10,Fruits and Fruit Juices
+ice cube,1,del the funky homosapien,1,1,ya lil' crumbsnatchers,1991-10-22,1991,10,
+cream,1,del the funky homosapien,1,1,young adrenaline,0,0,0,Dairy and Egg Products
+fry,1,del the funky homosapien,1,1,young adrenaline,0,0,0,
+roast,1,del the funky homosapien,1,1,you're in shambles,1993-11-12,1993,11,Beef Products
+pretzel,1,del the funky homosapien,1,1,you're in shambles,1993-11-12,1993,11,Snacks
+flavor,1,del the funky homosapien,1,1,you're in shambles,1993-11-12,1993,11,
+egg,1,del the funky homosapien,1,1,you're in shambles,1993-11-12,1993,11,Dairy and Egg Products
+lollipop,4,m.i.a.,1,4,10 dollar,2005-03-22,2005,3,
+banana,1,m.i.a.,1,1,20 dollar,2007-08-08,2007,8,Fruits and Fruit Juices
+fry,1,m.i.a.,1,1,20 dollar,2007-08-08,2007,8,
+honey,1,m.i.a.,1,1,ali r u ok?,2016-09-09,2016,9,Sweets
+bread,1,m.i.a.,1,1,ali r u ok?,2016-09-09,2016,9,Baked Products
+bacon,1,m.i.a.,1,1,ali r u ok?,2016-09-09,2016,9,Pork Products
+homemade,4,m.i.a.,1,4,amazon,0,0,0,Cereal Grains and Pasta
+banana,1,m.i.a.,1,1,bamboo banga,2007-08-08,2007,8,Fruits and Fruit Juices
+guanabana,2,m.i.a.,1,2,bamboo banga,2007-08-08,2007,8,
+banana,7,m.i.a.,1,7,banana (skit),2005-03-22,2005,3,Fruits and Fruit Juices
+goose,1,rye rye,1,1,bang,2009-03-31,2009,3,Poultry Products
+frosting,1,madonna,1,1,b-day song,2012-03-26,2012,3,Sweets
+frosting,1,m.i.a.,1,1,b-day song,2012-03-26,2012,3,Sweets
+cake,1,madonna,1,1,b-day song,2012-03-26,2012,3,Baked Products
+cake,1,m.i.a.,1,1,b-day song,2012-03-26,2012,3,Baked Products
+water,4,m.i.a.,1,4,believer,0,0,0,Beverages
+juice,3,m.i.a.,1,3,believer,0,0,0,Baby Foods
+bean,1,m.i.a.,1,1,believer,0,0,0,Legumes and Legume Products
+kfc,1,m.i.a.,1,1,big branch,2007-08-08,2007,8,Fast Foods
+meat,1,m.i.a.,1,1,birdflu,2006-11-23,2006,11,Baby Foods
+burger,1,m.i.a.,1,1,birdflu,2006-11-23,2006,11,
+food,1,m.i.a.,1,1,birdflu,2006-11-23,2006,11,
+ostrich,4,m.i.a.,1,4,bird song (blaqstarr remix),2016-08-12,2016,8,Poultry Products
+chicken,1,m.i.a.,1,1,bird song (blaqstarr remix),2016-08-12,2016,8,Poultry Products
+ostrich,2,m.i.a.,1,2,bird song (diplo remix),2016-08-18,2016,8,Poultry Products
+drink,1,m.i.a.,1,1,bird song (diplo remix),2016-08-18,2016,8,
+food,1,m.i.a.,1,1,bird song (diplo remix),2016-08-18,2016,8,
+turkey,1,m.i.a.,1,1,bird song (diplo remix),2016-08-18,2016,8,Poultry Products
+water,1,m.i.a.,1,1,bird song (diplo remix),2016-08-18,2016,8,Beverages
+chicken,1,m.i.a.,1,1,bird song (diplo remix),2016-08-18,2016,8,Poultry Products
+ham,1,m.i.a.,1,1,boom add,2016-02-15,2016,2,Pork Products
+ham,1,m.i.a.,1,1,boom skit,2013-11-05,2013,11,Pork Products
+tequila,1,m.i.a.,1,1,boyz,2007-06-11,2007,6,
+beer,1,m.i.a.,1,1,boyz,2007-06-11,2007,6,Beverages
+wine,1,m.i.a.,1,1,boyz,2007-06-11,2007,6,Beverages
+sugar,1,m.i.a.,1,1,boyz,2007-06-11,2007,6,Sweets
+cooking,1,m.i.a.,1,1,boyz,2007-06-11,2007,6,Beverages
+chicken,1,m.i.a.,1,1,boyz,2007-06-11,2007,6,Poultry Products
+tequila,1,m.i.a.,1,1,boyz (jaloo remix),0,0,0,
+beer,1,m.i.a.,1,1,boyz (jaloo remix),0,0,0,Beverages
+wine,1,m.i.a.,1,1,boyz (jaloo remix),0,0,0,Beverages
+sugar,1,m.i.a.,1,1,boyz (jaloo remix),0,0,0,Sweets
+cooking,1,m.i.a.,1,1,boyz (jaloo remix),0,0,0,Beverages
+chicken,1,m.i.a.,1,1,boyz (jaloo remix),0,0,0,Poultry Products
+tangy,1,m.i.a.,1,1,bring the noize,2013-11-05,2013,11,
+oil,1,m.i.a.,1,1,bring the noize,2013-11-05,2013,11,Fats and Oils
+water,1,m.i.a.,1,1,bring the noize,2013-11-05,2013,11,Beverages
+tangy,1,m.i.a.,1,1,bring the noize (extended freekdem version),2013-07-04,2013,7,
+oil,1,m.i.a.,1,1,bring the noize (extended freekdem version),2013-07-04,2013,7,Fats and Oils
+water,1,m.i.a.,1,1,bring the noize (extended freekdem version),2013-07-04,2013,7,Beverages
+cheese,1,m.i.a.,1,1,bring the noize (extended freekdem version),2013-07-04,2013,7,Dairy and Egg Products
+sugar,1,m.i.a.,1,1,bucky done gun,2005-07-11,2005,7,Sweets
+salt,1,m.i.a.,1,1,bucky done gun,2005-07-11,2005,7,Spices and Herbs
+sugar,1,m.i.a.,1,1,bucky done gun (davinche remix),0,0,0,Sweets
+sugar,1,m.i.a.,1,1,bucky done gun (dj marlboro funk carioca remix),0,0,0,Sweets
+salt,1,m.i.a.,1,1,bucky done gun (dj marlboro funk carioca remix),0,0,0,Spices and Herbs
+drink,1,m.i.a.,1,1,can see can do,2015-03-07,2015,3,
+beer,1,m.i.a.,1,1,can see can do,2015-03-07,2015,3,Beverages
+lollipop,1,m.i.a.,1,1,china girl (diplo mix),0,0,0,
+juice,1,m.i.a.,1,1,c.t.f.o.,0,0,0,Baby Foods
+curry,4,m.i.a.,1,4,dash the curry skit,2005-03-01,2005,3,
+banana,1,m.i.a.,1,1,double bubble trouble,2013-11-05,2013,11,Fruits and Fruit Juices
+beer,1,m.i.a.,1,1,double bubble trouble,2013-11-05,2013,11,Beverages
+falafel,1,m.i.a.,1,1,double bubble trouble,2013-11-05,2013,11,Legumes and Legume Products
+food,1,m.i.a.,1,1,do ya,2004-03-22,2004,3,
+whiskey,1,m.i.a.,1,1,do ya,2004-03-22,2004,3,Beverages
+food,1,m.i.a.,1,1,everyday i love you less and less,0,0,0,
+water,8,m.i.a.,1,8,everyday i love you less and less,0,0,0,Beverages
+cocoa,1,m.i.a.,1,1,everyday i love you less and less,0,0,0,Sweets
+butter,1,m.i.a.,1,1,everyday i love you less and less,0,0,0,Dairy and Egg Products
+lamb,1,m.i.a.,1,1,everyday i love you less and less,0,0,0,"Lamb, Veal, and Game Products"
+fast food,1,m.i.a.,1,1,everyday i love you less and less,0,0,0,Fast Foods
+cocoa butter,1,m.i.a.,-1,-1,everyday i love you less and less,0,0,0,Fats and Oils
+drink,1,m.i.a.,1,1,exodus,2013-11-05,2013,11,
+mint,1,m.i.a.,1,1,exodus,2013-11-05,2013,11,
+tea,1,m.i.a.,1,1,exodus,2013-11-05,2013,11,Beverages
+mint tea,1,m.i.a.,-1,-1,exodus,2013-11-05,2013,11,
+iced,1,m.i.a.,1,1,far far,2007-08-08,2007,8,Beverages
+tea,1,m.i.a.,1,1,far far,2007-08-08,2007,8,Beverages
+iced tea,1,m.i.a.,-1,-1,far far,2007-08-08,2007,8,
+whiskey,1,m.i.a.,1,1,finally,2016-09-09,2016,9,Beverages
+tea,1,m.i.a.,1,1,finally,2016-09-09,2016,9,Beverages
+drink,1,m.i.a.,1,1,fire fire (piracy funds terrorism),0,0,0,
+donut,2,m.i.a.,1,2,fire fire (piracy funds terrorism),0,0,0,
+bread,1,m.i.a.,1,1,foreign friend,2016-09-09,2016,9,Baked Products
+chocolate,1,m.i.a.,1,1,foreign friend,2016-09-09,2016,9,Sweets
+cake,2,m.i.a.,1,2,gen -n-e-y,2010-12-31,2010,12,Baked Products
+cheese,2,m.i.a.,1,2,gen -n-e-y,2010-12-31,2010,12,Dairy and Egg Products
+pizza,2,m.i.a.,1,2,gen -n-e-y,2010-12-31,2010,12,Fast Foods
+taco,1,m.i.a.,1,1,go at it,2010-12-31,2010,12,Spices and Herbs
+dough,1,ciara,1,1,goodies [richard x remix],0,0,0,
+twix,1,m.i.a.,1,1,haterz,0,0,0,
+oil,4,m.i.a.,1,4,hombre,2005-06-02,2005,6,Fats and Oils
+chocolate,1,m.i.a.,1,1,hussel,2007-08-08,2007,8,Sweets
+hershey,1,m.i.a.,1,1,hussel,2007-08-08,2007,8,Sweets
+pepper,2,afrikan boy,1,2,hussel,2007-08-08,2007,8,Vegetables and Vegetable Products
+sugar,1,afrikan boy,1,1,hussel,2007-08-08,2007,8,Sweets
+water,1,afrikan boy,1,1,hussel,2007-08-08,2007,8,Beverages
+mangosteen,1,m.i.a.,1,1,illygirl,2010-07-07,2010,7,Fruits and Fruit Juices
+mangosteen,1,m.i.a.,1,1,illy girl (vicki leekx),2010-12-31,2010,12,Fruits and Fruit Juices
+cheddar,1,m.i.a.,1,1,i'm bad,0,0,0,Dairy and Egg Products
+vodka,16,m.i.a.,1,16,internet connection (huoratron remix),0,0,0,Beverages
+rum,15,m.i.a.,1,15,internet connection (huoratron remix),0,0,0,Beverages
+water,1,m.i.a.,1,1,interview with kehinde wiley: interview magazine,2008-11-19,2008,11,Beverages
+grain,1,m.i.a.,1,1,interview with kehinde wiley: interview magazine,2008-11-19,2008,11,
+oil,1,m.i.a.,1,1,interview with kehinde wiley: interview magazine,2008-11-19,2008,11,Fats and Oils
+drink,2,m.i.a.,1,2,isis,2017-10-11,2017,10,
+soda,2,m.i.a.,1,2,isis,2017-10-11,2017,10,Baked Products
+ice,1,ll cool j,1,1,ll cool j/caveman - two bit rhythm (m.i.a. mix),0,0,0,
+champagne,2,ll cool j,1,2,ll cool j/caveman - two bit rhythm (m.i.a. mix),0,0,0,
+ice pop,1,ll cool j,1,1,ll cool j/caveman - two bit rhythm (m.i.a. mix),0,0,0,
+chicken,1,m.i.a.,1,1,lovalot,2010-07-07,2010,7,Poultry Products
+yucca,1,m.i.a.,1,1,lovalot,2010-07-07,2010,7,
+coconut,1,m.i.a.,1,1,macho,0,0,0,Fats and Oils
+mango,1,m.i.a.,1,1,macho,0,0,0,Fruits and Fruit Juices
+boar,1,m.i.a.,1,1,macho,0,0,0,"Lamb, Veal, and Game Products"
+coffee,1,m.i.a.,1,1,macho,0,0,0,Beverages
+homemade,1,m.i.a.,1,1,macho,0,0,0,Cereal Grains and Pasta
+lemonade,1,m.i.a.,1,1,macho,0,0,0,Beverages
+wild boar,1,m.i.a.,1,1,macho,0,0,0,
+black coffee,1,m.i.a.,1,1,macho,0,0,0,
+fish,2,m.i.a.,1,2,mango pickle down river,2007-08-08,2007,8,Finfish and Shellfish Products
+fish,1,lendal king,1,1,mango pickle down river,2007-08-08,2007,8,Finfish and Shellfish Products
+mango,1,m.i.a.,1,1,mango pickle down river,2007-08-08,2007,8,Fruits and Fruit Juices
+pickle,1,m.i.a.,1,1,mango pickle down river,2007-08-08,2007,8,Vegetables and Vegetable Products
+egg,2,m.i.a.,1,2,mango pickle down river,2007-08-08,2007,8,Dairy and Egg Products
+ice,1,m.i.a.,1,1,matangi,2013-11-05,2013,11,
+cream,1,m.i.a.,1,1,matangi,2013-11-05,2013,11,Dairy and Egg Products
+sorbet,1,m.i.a.,1,1,matangi,2013-11-05,2013,11,
+ice cream,1,m.i.a.,-1,-1,matangi,2013-11-05,2013,11,Sweets
+tangy,1,m.i.a.,1,1,matangi mix for kenzo,2013-03-01,2013,3,
+oil,1,m.i.a.,1,1,matangi mix for kenzo,2013-03-01,2013,3,Fats and Oils
+water,1,m.i.a.,1,1,matangi mix for kenzo,2013-03-01,2013,3,Beverages
+gyro,1,m.i.a.,1,1,m.i.a.,0,0,0,
+gyro,1,m.i.a.,1,1,m.i.a. (hidden track),2005-03-22,2005,3,
+mango,1,m.i.a.,1,1,mia ola-foreign friend,2016-03-17,2016,3,Fruits and Fruit Juices
+salt,1,m.i.a.,1,1,mia ola-foreign friend,2016-03-17,2016,3,Spices and Herbs
+pepper,1,m.i.a.,1,1,mia ola-foreign friend,2016-03-17,2016,3,Vegetables and Vegetable Products
+rose,6,m.i.a.,1,6,murder sound vip,0,0,0,Beverages
+sauce,4,m.i.a.,1,4,ohmni w2020,2020-03-22,2020,3,"Soups, Sauces, and Gravies"
+drink,2,m.i.a.,1,2,only 1 u,2013-11-01,2013,11,
+cafe,1,lucas felix,1,1,os olhos de deus (ft. mia),0,0,0,
+food,2,street sweeper social club,1,2,paper planes,2010-08-09,2010,8,
+cooking,1,afrikan boy,1,1,paper planes (afrikan boy & rye rye remix),2008-02-11,2008,2,Beverages
+yam,1,afrikan boy,1,1,paper planes (afrikan boy & rye rye remix),2008-02-11,2008,2,Vegetables and Vegetable Products
+yam,1,afrikan boy,1,1,paper planes (blaqstarr remix),2011-05-27,2011,5,Vegetables and Vegetable Products
+oil,1,m.i.a.,1,1,platforms,2016-09-09,2016,9,Fats and Oils
+rose,1,m.i.a.,1,1,platforms,2016-09-09,2016,9,Beverages
+mango,1,m.i.a.,1,1,poc that still a ryda,2016-06-01,2016,6,Fruits and Fruit Juices
+salt,1,m.i.a.,1,1,poc that still a ryda,2016-06-01,2016,6,Spices and Herbs
+pepper,1,m.i.a.,1,1,poc that still a ryda,2016-06-01,2016,6,Vegetables and Vegetable Products
+drink,1,m.i.a.,1,1,p.o.w.a.,2017-02-08,2017,2,
+soda,1,m.i.a.,1,1,p.o.w.a.,2017-02-08,2017,2,Baked Products
+water,1,m.i.a.,1,1,p.o.w.a.,2017-02-08,2017,2,Beverages
+spice,1,m.i.a.,1,1,p.o.w.a.,2017-02-08,2017,2,Spices and Herbs
+water,5,m.i.a.,1,5,rewear it,2016-04-11,2016,4,Beverages
+drink,1,m.i.a.,1,1,sexodus,2013-11-05,2013,11,
+mint,1,m.i.a.,1,1,sexodus,2013-11-05,2013,11,
+tea,1,m.i.a.,1,1,sexodus,2013-11-05,2013,11,Beverages
+mint tea,1,m.i.a.,-1,-1,sexodus,2013-11-05,2013,11,
+goat,1,m.i.a.,1,1,shells,2007-08-08,2007,8,Dairy and Egg Products
+vitamin,1,m.i.a.,1,1,shells,2007-08-08,2007,8,
+chicken,1,m.i.a.,1,1,shells,2007-08-08,2007,8,Poultry Products
+pie,1,m.i.a.,1,1,shells,2007-08-08,2007,8,Baked Products
+chicken pie,1,m.i.a.,-1,-1,shells,2007-08-08,2007,8,
+salt,1,m.i.a.,1,1,sunshowers,2004-07-05,2004,7,Spices and Herbs
+pepper,1,m.i.a.,1,1,sunshowers,2004-07-05,2004,7,Vegetables and Vegetable Products
+mango,1,m.i.a.,1,1,sunshowers,2004-07-05,2004,7,Fruits and Fruit Juices
+water,2,m.i.a.,1,2,survivor,2016-09-09,2016,9,Beverages
+oil,1,m.i.a.,1,1,survivor,2016-09-09,2016,9,Fats and Oils
+coco,1,m.i.a.,1,1,swords,2016-09-09,2016,9,
+cheddar,1,m.i.a.,1,1,tell me why,2010-07-06,2010,7,Dairy and Egg Products
+food,1,m.i.a.,1,1,tell me why,2010-07-06,2010,7,
+water,1,m.i.a.,1,1,tell me why,2010-07-06,2010,7,Beverages
+drink,1,m.i.a.,1,1,tell me why,2010-07-06,2010,7,
+alcohol,1,m.i.a.,1,1,tell me why,2010-07-06,2010,7,Spices and Herbs
+lotus,1,m.i.a.,1,1,temple,2016-03-18,2016,3,
+lotus,1,g-dragon,1,1,temple,2016-03-18,2016,3,
+banana,1,m.i.a.,1,1,teqkilla,2010-06-29,2010,6,Fruits and Fruit Juices
+tequila,9,m.i.a.,1,9,teqkilla,2010-06-29,2010,6,
+wine,1,m.i.a.,1,1,teqkilla,2010-06-29,2010,6,Beverages
+jim beam,1,m.i.a.,2,2,teqkilla,2010-06-29,2010,6,
+captain morgan,1,m.i.a.,2,2,teqkilla,2010-06-29,2010,6,
+drink,1,m.i.a.,1,1,them streets,2016-04-20,2016,4,
+beer,1,m.i.a.,1,1,them streets,2016-04-20,2016,4,Beverages
+pan,24,m.i.a.,1,24,the new international sound pt. 2,2015-07-15,2015,7,
+pan,36,m.i.a.,1,36,"the new international sound, pt. 2",2015-05-22,2015,5,
+food,1,m.i.a.,1,1,the turn (demo version),2020-05-13,2020,5,
+water,1,m.i.a.,1,1,the turn (demo version),2020-05-13,2020,5,Beverages
+drink,1,m.i.a.,1,1,the turn (demo version),2020-05-13,2020,5,
+alcohol,1,m.i.a.,1,1,the turn (demo version),2020-05-13,2020,5,Spices and Herbs
+fish,1,m.i.a.,1,1,the turn (demo version),2020-05-13,2020,5,Finfish and Shellfish Products
+cake,1,m.i.a.,1,1,the world,2010-12-31,2010,12,Baked Products
+fish,1,m.i.a.,1,1,the world is ours,0,0,0,Finfish and Shellfish Products
+fish,1,theoriii,1,1,the world is ours,0,0,0,Finfish and Shellfish Products
+bread,1,m.i.a.,1,1,the world is ours,0,0,0,Baked Products
+bread,1,theoriii,1,1,the world is ours,0,0,0,Baked Products
+banana,2,m.i.a.,1,2,trouble again,2013-12-03,2013,12,Fruits and Fruit Juices
+beer,1,m.i.a.,1,1,trouble again,2013-12-03,2013,12,Beverages
+falafel,1,m.i.a.,1,1,trouble again,2013-12-03,2013,12,Legumes and Legume Products
+dill,12,cutty ranks,1,12,untitled (m.i.a/cutty ranks),0,0,0,Vegetables and Vegetable Products
+mango,1,m.i.a.,1,1,visa,2016-03-17,2016,3,Fruits and Fruit Juices
+salt,1,m.i.a.,1,1,visa,2016-03-17,2016,3,Spices and Herbs
+pepper,1,m.i.a.,1,1,visa,2016-03-17,2016,3,Vegetables and Vegetable Products
+tequila,1,m.i.a.,1,1,visa,2016-03-17,2016,3,
+vitamin,1,m.i.a.,1,1,warriors,2013-11-05,2013,11,
+protein,1,m.i.a.,1,1,warriors,2013-11-05,2013,11,Poultry Products
+rice,1,m.i.a.,1,1,world town,2007-08-08,2007,8,Cereal Grains and Pasta
+sprinkle,1,m.i.a.,1,1,www/meds/feds,2010-12-31,2010,12,
+coffee,1,m.i.a.,1,1,www/meds/feds,2010-12-31,2010,12,Beverages
+cinnamon,1,m.i.a.,1,1,www/meds/feds,2010-12-31,2010,12,Baked Products
+pollo,7,m.i.a.,1,7,y.a.l.a.,2013-10-21,2013,10,
+drink,1,m.i.a.,1,1,y.a.l.a.,2013-10-21,2013,10,
+rum,3,m.i.a.,1,3,y.a.l.a.,2013-10-21,2013,10,Beverages
+peanut,1,m.i.a.,1,1,you my love,2010-12-31,2010,12,Legumes and Legume Products
+butter,1,m.i.a.,1,1,you my love,2010-12-31,2010,12,Dairy and Egg Products
+jelly,1,m.i.a.,1,1,you my love,2010-12-31,2010,12,Sweets
+peanut butter,1,m.i.a.,-1,-1,you my love,2010-12-31,2010,12,Legumes and Legume Products
+bean,1,trina,1,1,100%,2002-08-27,2002,8,Legumes and Legume Products
+chicken,1,trina,1,1,100%,2002-08-27,2002,8,Poultry Products
+food,1,trina,1,1,100%,2002-08-27,2002,8,
+potato,1,trina,1,1,100%,2002-08-27,2002,8,Vegetables and Vegetable Products
+baked potato,1,trina,1,1,100%,2002-08-27,2002,8,
+bread,1,trina,1,1,69 ways,2000-03-21,2000,3,Baked Products
+lime,1,trina,1,1,69 ways,2000-03-21,2000,3,Sweets
+cake,1,trina,1,1,69 ways,2000-03-21,2000,3,Baked Products
+sushi,1,trina,1,1,69 ways,2000-03-21,2000,3,
+nut,2,trina,1,2,69 ways,2000-03-21,2000,3,Nut and Seed Products
+milk,1,trina,1,1,69 ways,2000-03-21,2000,3,Dairy and Egg Products
+rose,1,,1,1,actin up (remix),0,0,0,Beverages
+egg,1,3d na'tee,1,1,actin up (remix),0,0,0,Dairy and Egg Products
+dough,1,3d na'tee,1,1,actin up (remix),0,0,0,
+cheesecake,1,3d na'tee,1,1,actin up (remix),0,0,0,Baked Products
+deep dish,1,,2,2,actin up (remix),0,0,0,Baked Products
+nut,1,trina,1,1,ain’t gggggggggg,0,0,0,Nut and Seed Products
+nut,1,trina,1,1,ain’t shit,2000-03-21,2000,3,Nut and Seed Products
+nut,1,trina,1,1,ain’t shittttttttt,0,0,0,Nut and Seed Products
+champagne,1,trina,1,1,"all gold, all girls (remix)",2013-01-24,2013,1,
+coffee,1,lola monroe,1,1,"all gold, all girls (remix)",2013-01-24,2013,1,Beverages
+starbucks,1,lola monroe,1,1,"all gold, all girls (remix)",2013-01-24,2013,1,
+rose,1,,1,1,all of us,0,0,0,Beverages
+drinking,1,trina,1,1,always,2010-05-04,2010,5,Beverages
+cooking,1,trina,1,1,baby don't go (song about lil wayne),0,0,0,Beverages
+drink,2,trina,1,2,ball wit me,2000-03-21,2000,3,
+drink,2,24 karatz,1,2,ball wit me,2000-03-21,2000,3,
+nut,1,trina,1,1,ball wit me,2000-03-21,2000,3,Nut and Seed Products
+nut,1,24 karatz,1,1,ball wit me,2000-03-21,2000,3,Nut and Seed Products
+ice,1,24 karatz,1,1,ball wit me,2000-03-21,2000,3,
+guinness,1,trina,1,1,batteries,2011-02-15,2011,2,
+steak,1,trina,1,1,batteries,2011-02-15,2011,2,Beef Products
+guinness,1,trina,1,1,batteries (remix),2011-02-15,2011,2,
+steak,1,trina,1,1,batteries (remix),2011-02-15,2011,2,Beef Products
+patty,1,jose,1,1,batteries (remix),2011-02-15,2011,2,Poultry Products
+diet,1,jose,1,1,batteries (remix),2011-02-15,2011,2,Beverages
+rose,1,trina,1,1,beam,0,0,0,Beverages
+mango,1,icebillion berg,1,1,beam,0,0,0,Fruits and Fruit Juices
+water,1,gunplay,1,1,beam,0,0,0,Beverages
+ice,8,mulatto,1,8,bitch from da souf (remix),2019-12-03,2019,12,
+ice,2,saweetie,1,2,bitch from da souf (remix),2019-12-03,2019,12,
+ice,2,trina,1,2,bitch from da souf (remix),2019-12-03,2019,12,
+breakfast,1,mulatto,1,1,bitch from da souf (remix),2019-12-03,2019,12,Baked Products
+sauce,1,trina,1,1,bitch from da souf (remix),2019-12-03,2019,12,"Soups, Sauces, and Gravies"
+tater,1,trina,1,1,can i live,2019-06-21,2019,6,
+cheese,1,dave east,1,1,can i live,2019-06-21,2019,6,Dairy and Egg Products
+dough,1,trina,1,1,caroline remix,2016-12-21,2016,12,
+sauce,6,trina,1,6,chandelier,2018-10-19,2018,10,"Soups, Sauces, and Gravies"
+chocolate,1,kash doll,1,1,chandelier,2018-10-19,2018,10,Sweets
+veggie,1,trina,1,1,change the vibe,2018-10-19,2018,10,
+egg,1,trina,1,1,change the vibe,2018-10-19,2018,10,Dairy and Egg Products
+sauce,1,trina,1,1,change the vibe,2018-10-19,2018,10,"Soups, Sauces, and Gravies"
+egg roll,1,trina,1,1,change the vibe,2018-10-19,2018,10,"Meals, Entrees, and Side Dishes"
+duck sauce,1,trina,1,1,change the vibe,2018-10-19,2018,10,
+bread,1,trina,1,1,clear it out,2008-04-01,2008,4,Baked Products
+meat,1,trina,1,1,c'mon babe,2016-12-03,2016,12,Baby Foods
+nut,1,trina,1,1,c'mon babe,2016-12-03,2016,12,Nut and Seed Products
+cooking,1,trina,1,1,come 2 far,0,0,0,Beverages
+starbucks,1,trina,1,1,come 2 far,0,0,0,
+drink,1,trina,1,1,crash my party,0,0,0,
+egg,1,trina,1,1,crash my party,0,0,0,Dairy and Egg Products
+wine,1,trina,1,1,da club,2005-10-04,2005,10,Beverages
+goose,1,trina,1,1,da club,2005-10-04,2005,10,Poultry Products
+pickle,1,trina,1,1,da club,2005-10-04,2005,10,Vegetables and Vegetable Products
+alcohol,1,trina,1,1,da club,2005-10-04,2005,10,Spices and Herbs
+wine,1,trina,1,1,da club (promo only clean edit),0,0,0,Beverages
+goose,1,trina,1,1,da club (promo only clean edit),0,0,0,Poultry Products
+pickle,1,trina,1,1,da club (promo only clean edit),0,0,0,Vegetables and Vegetable Products
+alcohol,1,trina,1,1,da club (promo only clean edit),0,0,0,Spices and Herbs
+cooking,1,trina,1,1,don't go,0,0,0,Beverages
+drink,1,trick daddy,1,1,earthquake,2011-04-13,2011,4,
+nut,1,trina,1,1,first place,2016-12-03,2016,12,Nut and Seed Products
+bread,3,trick daddy,1,3,for all my ladies,2001-03-20,2001,3,Baked Products
+beef,1,trick daddy,1,1,for all my ladies,2001-03-20,2001,3,Beef Products
+bread,2,trina,1,2,for free (remix),2016-08-15,2016,8,Baked Products
+flavor,1,wayne wonder,1,1,for my love,0,0,0,
+ice,2,trina,1,2,fuck boi,0,0,0,
+ice,3,fuck boy lyrics - trina,1,3,trina,2015-11-11,2015,11,
+pike,3,fuck boy lyrics - trina,1,3,trina,2015-11-11,2015,11,Finfish and Shellfish Products
+ice,1,trina,1,1,fuck boy (remix),2019-06-21,2019,6,
+ice,1,molly brazy,1,1,fuck boy (remix),2019-06-21,2019,6,
+veggie,1,jay burna,1,1,game time,2020-01-10,2020,1,
+bean,1,jay burna,1,1,game time,2020-01-10,2020,1,Legumes and Legume Products
+honey,1,jay burna,1,1,game time,2020-01-10,2020,1,Sweets
+fish,1,trina,1,1,get money,2017-08-15,2017,8,Finfish and Shellfish Products
+ice,2,trina,1,2,get this money,2002-08-27,2002,8,
+candy,1,trina,1,1,get this money,2002-08-27,2002,8,Sweets
+ice,1,keri hilson,1,1,get your money up,2009-03-24,2009,3,
+honey,1,trina,1,1,get your money up,2009-03-24,2009,3,Sweets
+carrot,2,trina,1,2,get your money up,2009-03-24,2009,3,Vegetables and Vegetable Products
+drink,1,david rush,1,1,go girl,2007-11-27,2007,11,
+bread,3,trina,1,3,go hard,0,0,0,Baked Products
+drink,3,trina,1,3,hell yeah,0,0,0,
+steak,1,trina,1,1,hell yeah,0,0,0,Beef Products
+bread,1,trina,1,1,hell yeah,0,0,0,Baked Products
+drink,4,cassidy,1,4,hotel (remix),2004-03-16,2004,3,
+cream,1,cassidy,1,1,hotel (remix),2004-03-16,2004,3,Dairy and Egg Products
+drink,4,r. kelly,1,4,hotel (vacation remix),2004-03-16,2004,3,
+cream,1,trina,1,1,hotel (vacation remix),2004-03-16,2004,3,Dairy and Egg Products
+ice,1,trina,1,1,hotel (vacation remix),2004-03-16,2004,3,
+wine,1,trina,1,1,how we do (feat. fabolous),0,0,0,Beverages
+caviar,1,trina,1,1,how we do (feat. fabolous),0,0,0,Finfish and Shellfish Products
+bread,1,trina,1,1,hustling,2002-08-27,2002,8,Baked Products
+cheese,1,trina,1,1,hustling,2002-08-27,2002,8,Dairy and Egg Products
+cake,7,trina,1,7,i cheated,2012-12-03,2012,12,Baked Products
+juice,1,trina,1,1,i don't need u,2000-03-21,2000,3,Baby Foods
+nut,1,trina,1,1,i don't need u,2000-03-21,2000,3,Nut and Seed Products
+nut,1,trick daddy,1,1,i don't need u,2000-03-21,2000,3,Nut and Seed Products
+beef,1,trick daddy,1,1,i don't need u,2000-03-21,2000,3,Beef Products
+drinking,1,trina,1,1,if it ain't me,2017-06-16,2017,6,Beverages
+jack daniel,1,k. michelle,2,2,if it ain't me,2017-06-16,2017,6,
+dough,1,trina,1,1,if u w/ me,2000-03-21,2000,3,
+wine,1,trina,1,1,i got a thang for you,0,0,0,Beverages
+wine,1,trina,1,1,i got a thang for you (album version),0,0,0,Beverages
+wine,1,jagged edge,1,1,i got it,2001-06-26,2001,6,Beverages
+ice,1,jagged edge,1,1,i got it,2001-06-26,2001,6,
+rose,1,jagged edge,1,1,i got it,2001-06-26,2001,6,Beverages
+wine,1,trina,1,1,i gotta thang for you,2008-04-01,2008,4,Beverages
+candy,1,arie,1,1,i just wanna,0,0,0,Sweets
+bubblegum,1,trina,1,1,i just wanna,0,0,0,
+juice,1,young miami,1,1,i just wanna,0,0,0,Baby Foods
+cheese,1,trina,1,1,i'll always,2000-03-21,2000,3,Dairy and Egg Products
+drink,2,drake,1,2,i’m on one (remix),2017-04-28,2017,4,
+juice,1,trina,1,1,i’m on one (remix),2017-04-28,2017,4,Baby Foods
+ham,1,trina,1,1,i’m on one (remix),2017-04-28,2017,4,Pork Products
+champagne,1,trina,1,1,i’m on one (remix),2017-04-28,2017,4,
+chicken,1,ball greezy,1,1,intro - sommore,2002-08-27,2002,8,Poultry Products
+wine,1,ebony eyez,1,1,in ya face (a cappella),0,0,0,Beverages
+bread,1,trina,1,1,it's your b-day,2005-10-04,2005,10,Baked Products
+rump,1,trina,1,1,it's your b-day,2005-10-04,2005,10,Pork Products
+rump,4,jazze pha,1,4,it's your b-day,2005-10-04,2005,10,Pork Products
+sandwich,1,trina,1,1,it's your b-day,2005-10-04,2005,10,Baked Products
+drink,1,trina,1,1,i wanna holla,2002-08-27,2002,8,
+bread,1,trina,1,1,i wanna holla,2002-08-27,2002,8,Baked Products
+pitted,1,trina,1,1,i want,0,0,0,Fruits and Fruit Juices
+cracker,1,trina,1,1,i want it all,2010-05-04,2010,5,Baked Products
+candy,17,trina,1,17,kandi,2002-08-27,2002,8,Sweets
+cinnamon,1,trina,1,1,kandi,2002-08-27,2002,8,Baked Products
+sugar,1,trina,1,1,kandi,2002-08-27,2002,8,Sweets
+spice,1,trina,1,1,kandi,2002-08-27,2002,8,Spices and Herbs
+ice,1,trina,1,1,kandi,2002-08-27,2002,8,
+flavor,2,trina,1,2,kandi,2002-08-27,2002,8,
+peanut,1,trina,1,1,kandi,2002-08-27,2002,8,Legumes and Legume Products
+butter,1,trina,1,1,kandi,2002-08-27,2002,8,Dairy and Egg Products
+jelly,1,trina,1,1,kandi,2002-08-27,2002,8,Sweets
+lollipop,1,trina,1,1,kandi,2002-08-27,2002,8,
+gumdrop,1,trina,1,1,kandi,2002-08-27,2002,8,Sweets
+gummy,1,trina,1,1,kandi,2002-08-27,2002,8,
+skittle,1,trina,1,1,kandi,2002-08-27,2002,8,
+starburst,1,trina,1,1,kandi,2002-08-27,2002,8,
+cabbage,1,trina,1,1,kandi,2002-08-27,2002,8,Vegetables and Vegetable Products
+peanut butter,1,trina,-1,-1,kandi,2002-08-27,2002,8,Legumes and Legume Products
+gummy bear,1,trina,1,1,kandi,2002-08-27,2002,8,
+kit kat,1,trina,2,2,kandi,2002-08-27,2002,8,
+drink,1,,1,1,lame,0,0,0,
+bread,2,,1,2,lame,0,0,0,Baked Products
+bread,3,trina,1,3,lame,0,0,0,Baked Products
+pie,1,,1,1,lame,0,0,0,Baked Products
+cookie,1,trina,1,1,let dem hoes fight,2010-05-04,2010,5,Baked Products
+drink,1,trina,1,1,let dem hoes fight,2010-05-04,2010,5,
+drink,1,trina,1,1,let them hoes fight,0,0,0,
+lime,1,trina,1,1,lil mama,2005-10-04,2005,10,Sweets
+dough,1,trina,1,1,long heels,0,0,0,
+dough,1,trina,1,1,long heels red bottoms,0,0,0,
+collard,1,trina,1,1,look at me,0,0,0,Vegetables and Vegetable Products
+rose,1,trina,1,1,look at me,0,0,0,Beverages
+mayonnaise,1,trina,1,1,look at me,0,0,0,Fats and Oils
+nut,2,trina,1,2,look at me,0,0,0,Nut and Seed Products
+collard green,1,trina,1,1,look at me,0,0,0,
+water,1,trina,1,1,mama,2000-03-21,2000,3,Beverages
+bread,1,trina,1,1,mama (the one),2017-09-08,2017,9,Baked Products
+bread,1,,1,1,million dollar girl (feat. keri hilson and diddy) [edited version],0,0,0,Baked Products
+ice,1,trina,1,1,million dollar girl (feat. keri hilson and diddy) [edited version],0,0,0,
+chardonnay,1,trina,1,1,million dollar girl (feat. keri hilson and diddy) [edited version],0,0,0,Beverages
+bread,1,,1,1,million dollar girl (feat. keri hilson and diddy) [explicit version],0,0,0,Baked Products
+ice,1,trina,1,1,million dollar girl (feat. keri hilson and diddy) [explicit version],0,0,0,
+chardonnay,1,trina,1,1,million dollar girl (feat. keri hilson and diddy) [explicit version],0,0,0,Beverages
+daiquiri,1,boosie badazz,1,1,miss kissin' on you,2009-09-15,2009,9,Beverages
+macaroni,1,boosie badazz,1,1,miss kissin' on you,2009-09-15,2009,9,Cereal Grains and Pasta
+cheese,1,boosie badazz,1,1,miss kissin' on you,2009-09-15,2009,9,Dairy and Egg Products
+nut,1,boosie badazz,1,1,miss kissin' on you,2009-09-15,2009,9,Nut and Seed Products
+food,1,boosie badazz,1,1,miss kissin' on you,2009-09-15,2009,9,
+bread,1,trina,1,1,money ain't a problem,2014-02-14,2014,2,Baked Products
+dough,2,trina,1,2,my bitches,0,0,0,
+drink,1,trina,1,1,my bitches,0,0,0,
+honey,1,honorebel,1,1,my girl,0,0,0,Sweets
+nut,1,trina,1,1,my niggaz dem,2001-02-27,2001,2,Nut and Seed Products
+cream,1,trina,1,1,my niggaz dem,2001-02-27,2001,2,Dairy and Egg Products
+cherry,1,trina,1,1,my niggaz dem,2001-02-27,2001,2,Fruits and Fruit Juices
+strawberry,1,trina,1,1,my niggaz dem,2001-02-27,2001,2,Dairy and Egg Products
+naan,6,molly brazy,1,6,naan (remix),2018-02-08,2018,2,Baked Products
+naan,2,molly brazy,1,2,naan (remix),2018-02-08,2018,2,Baked Products
+naan,1,trina,1,1,naan (remix),2018-02-08,2018,2,Baked Products
+naan,6,molly brazy x2,1,6,naan (remix),2018-02-08,2018,2,Baked Products
+beef,1,molly brazy,1,1,naan (remix),2018-02-08,2018,2,Beef Products
+water,1,molly brazy,1,1,naan (remix),2018-02-08,2018,2,Beverages
+fry,1,trina,1,1,naan (remix),2018-02-08,2018,2,
+drink,1,trick daddy,1,1,nann nigga,1998-07-14,1998,7,
+nut,1,trick daddy,1,1,nann nigga,1998-07-14,1998,7,Nut and Seed Products
+tater,2,trick daddy,1,2,nann nigga,1998-07-14,1998,7,
+drink,1,trick daddy,1,1,nann (radio with intro),0,0,0,
+nut,1,trick daddy,1,1,nann (radio with intro),0,0,0,Nut and Seed Products
+tater,2,trick daddy,1,2,nann (radio with intro),0,0,0,
+dough,1,trina,1,1,nasty bitch,2002-08-27,2002,8,
+bread,1,trina,1,1,nasty bitch,2002-08-27,2002,8,Baked Products
+juice,1,trina,1,1,nasty bitch,2002-08-27,2002,8,Baby Foods
+grape,1,trina,1,1,nasty bitch,2002-08-27,2002,8,Vegetables and Vegetable Products
+wine,1,trina,1,1,niggas aint shitt,0,0,0,Beverages
+pit,1,trina,1,1,no games,2016-12-03,2016,12,
+pineapple,1,trina,1,1,no lie,2018-10-03,2018,10,Fruits and Fruit Juices
+bread,1,trina,1,1,no lie,2018-10-03,2018,10,Baked Products
+pasta,1,shanell,1,1,no time for that,2014-07-22,2014,7,"Soups, Sauces, and Gravies"
+ice,4,trina,1,4,off glass,2000-03-21,2000,3,
+bread,4,trina,1,4,off glass,2000-03-21,2000,3,Baked Products
+candy,1,trina,1,1,off glass,2000-03-21,2000,3,Sweets
+kitkat,1,trina,1,1,off glass,2000-03-21,2000,3,
+champagne,8,shonie,1,8,on da hush,2010-05-04,2010,5,
+drink,1,lightskin keisha,1,1,on his face,2019-06-07,2019,6,
+nut,2,lightskin keisha,1,2,on his face,2019-06-07,2019,6,Nut and Seed Products
+meal,1,el-p,1,1,panther like a panther (miracle mix),2016-12-24,2016,12,Baked Products
+butter,1,el-p,1,1,panther like a panther (miracle mix),2016-12-24,2016,12,Dairy and Egg Products
+banana,1,killer mike,1,1,panther like a panther (miracle mix),2016-12-24,2016,12,Fruits and Fruit Juices
+alcohol,1,killer mike,1,1,panther like a panther (miracle mix),2016-12-24,2016,12,Spices and Herbs
+bean,1,trick daddy,1,1,paradise,2017-11-03,2017,11,Legumes and Legume Products
+mm,1,trick daddy,1,1,paradise,2017-11-03,2017,11,
+peanut,1,mike smiff,1,1,paradise,2017-11-03,2017,11,Legumes and Legume Products
+butter,1,mike smiff,1,1,paradise,2017-11-03,2017,11,Dairy and Egg Products
+jelly,1,mike smiff,1,1,paradise,2017-11-03,2017,11,Sweets
+peanut butter,1,mike smiff,-1,-1,paradise,2017-11-03,2017,11,Legumes and Legume Products
+salad,2,nicki minaj,1,2,party like a rockstar,2018-09-10,2018,9,
+carrot,1,nicki minaj,1,1,party like a rockstar,2018-09-10,2018,9,Vegetables and Vegetable Products
+cheese,1,trina,1,1,photo,2019-06-21,2019,6,Dairy and Egg Products
+nut,1,trina,1,1,pull over,2000-03-21,2000,3,Nut and Seed Products
+salt,1,trina,1,1,pull over,2000-03-21,2000,3,Spices and Herbs
+peach,1,trina,1,1,put it on top,0,0,0,Fruits and Fruit Juices
+cream,2,trina,1,2,put it on top,0,0,0,Dairy and Egg Products
+chocolate,1,trina,1,1,put it on top,0,0,0,Sweets
+cherry,1,trina,1,1,put it on top,0,0,0,Fruits and Fruit Juices
+marinate,1,,1,1,reach out,2005-10-04,2005,10,
+tea,1,,1,1,reach out,2005-10-04,2005,10,Beverages
+bread,1,trina,1,1,rest of them (lil wayne diss),0,0,0,Baked Products
+chicken,1,trina,1,1,rest of them (lil wayne diss),0,0,0,Poultry Products
+food,2,trina,1,2,scream,0,0,0,
+pie,1,trina,1,1,scream,0,0,0,Baked Products
+butter,1,trina,1,1,shake,2005-10-04,2005,10,Dairy and Egg Products
+pecan,1,trina,1,1,shake,2005-10-04,2005,10,Nut and Seed Products
+butter pecan,1,trina,-1,-1,shake,2005-10-04,2005,10,Sweets
+food,1,trina,1,1,she bad,2018-10-19,2018,10,
+snack,2,trina,1,2,she bad,2018-10-19,2018,10,Snacks
+chardonnay,1,trina,1,1,shit's real,2014-05-15,2014,5,Beverages
+caviar,1,trina,1,1,shit's real,2014-05-15,2014,5,Finfish and Shellfish Products
+cocoa,1,trick daddy,1,1,shut up,1999-11-22,1999,11,Sweets
+dough,1,trick daddy,1,1,shut up,1999-11-22,1999,11,
+cake,1,trick daddy,1,1,shut up remix,0,0,0,Baked Products
+coconut,1,trick daddy,1,1,shut up remix,0,0,0,Fats and Oils
+grain,1,trick daddy,1,1,shut yo face (uncle fucka),1999-06-15,1999,6,
+dough,3,trick daddy,1,3,shut yo face (uncle fucka),1999-06-15,1999,6,
+bread,1,trick daddy,1,1,shut yo face (uncle fucka),1999-06-15,1999,6,Baked Products
+honey,1,field mob,1,1,sick of being lonely (remix),0,0,0,Sweets
+cereal,1,field mob,1,1,sick of being lonely (remix),0,0,0,Breakfast Cereals
+bread,1,trina,1,1,sum mo,2005-10-04,2005,10,Baked Products
+drink,1,trina,1,1,sum mo,2005-10-04,2005,10,
+ham,1,trina,1,1,supa bad,0,0,0,Pork Products
+rib,1,trina,1,1,supa bad,0,0,0,Beef Products
+cherry,1,,1,1,s.y.u.,0,0,0,Fruits and Fruit Juices
+nut,1,,1,1,s.y.u.,0,0,0,Nut and Seed Products
+juice,1,trick daddy,1,1,take it to da house,2001-03-20,2001,3,Baby Foods
+cheese,1,trick daddy,1,1,take it to da house,2001-03-20,2001,3,Dairy and Egg Products
+ice,1,trina,1,1,take me,2000-03-21,2000,3,
+rib,1,paul wall,1,1,that fire,2007-04-03,2007,4,Beef Products
+ice,1,silkk the shocker,1,1,that's cool,2001-02-27,2001,2,
+nut,1,silkk the shocker,1,1,that's cool,2001-02-27,2001,2,Nut and Seed Products
+cake,1,,1,1,that's my attitude,2010-05-04,2010,5,Baked Products
+bread,1,trina,1,1,the big lick,2000-03-21,2000,3,Baked Products
+dough,1,trina,1,1,the big lick,2000-03-21,2000,3,
+cheddar,1,trina,1,1,the big lick,2000-03-21,2000,3,Dairy and Egg Products
+nut,1,trina,1,1,the big lick,2000-03-21,2000,3,Nut and Seed Products
+vanilla,1,millionaires,1,1,the scissor,0,0,0,Sweets
+sugar,1,millionaires,1,1,the scissor,0,0,0,Sweets
+whiskey,1,millionaires,1,1,the scissor,0,0,0,Beverages
+drink,3,millionaires,1,3,the scissor,0,0,0,
+drinking,1,millionaires,1,1,the scissor,0,0,0,Beverages
+goose,1,millionaires,1,1,the scissor,0,0,0,Poultry Products
+water,1,millionaires,1,1,the scissor,0,0,0,Beverages
+vodka,1,millionaires,1,1,the scissor,0,0,0,Beverages
+cake,1,millionaires,1,1,the scissor,0,0,0,Baked Products
+cherry,1,millionaires,1,1,the scissor,0,0,0,Fruits and Fruit Juices
+vanilla sugar,1,millionaires,-1,-1,the scissor,0,0,0,
+cake,1,trina,1,1,thinking of you,0,0,0,Baked Products
+cheese,1,trina,1,1,throw it back,2005-10-04,2005,10,Dairy and Egg Products
+ice,2,trina,1,2,throw it back,2005-10-04,2005,10,
+sugar,2,trina,1,2,throw it back,2005-10-04,2005,10,Sweets
+cheese,1,trina,1,1,"throw it back (feat, deuce poppi)",0,0,0,Dairy and Egg Products
+ice,2,trina,1,2,"throw it back (feat, deuce poppi)",0,0,0,
+sugar,2,trina,1,2,"throw it back (feat, deuce poppi)",0,0,0,Sweets
+bread,1,deuce poppi,1,1,thug like me,0,0,0,Baked Products
+bread,1,greg street,1,1,thug like me,0,0,0,Baked Products
+chicken,1,deuce poppi,1,1,thug like me,0,0,0,Poultry Products
+nut,1,deuce poppi,1,1,thug like me,0,0,0,Nut and Seed Products
+juice,2,trina,1,2,tongue song,2017-04-28,2017,4,Baby Foods
+nut,18,trina,1,18,tongue song,2017-04-28,2017,4,Nut and Seed Products
+caviar,1,trina,1,1,too fat/pull over,2018-02-06,2018,2,Finfish and Shellfish Products
+ice,1,trina,1,1,too fat/pull over,2018-02-06,2018,2,
+sandwich,1,trina,1,1,too fat/pull over,2018-02-06,2018,2,Baked Products
+drink,8,wolfgang gartner,1,8,turn up,2016-01-29,2016,1,
+bread,1,trina,1,1,u & me,2002-08-27,2002,8,Baked Products
+beef,1,trina,1,1,u & me,2002-08-27,2002,8,Beef Products
+mint,1,trina,1,1,u & me,2002-08-27,2002,8,
+chicken,1,trina,1,1,watch the drip,0,0,0,Poultry Products
+popeyes,1,trina,1,1,watch the drip,0,0,0,Fast Foods
+cheese,1,trina,1,1,watch the drip,0,0,0,Dairy and Egg Products
+sugar,1,trina,1,1,watch the drip,0,0,0,Sweets
+sauce,1,trina,1,1,watch the drip,0,0,0,"Soups, Sauces, and Gravies"
+bread,1,trina,1,1,watch the drip,0,0,0,Baked Products
+icecream,1,trina,1,1,watch this,2016-12-03,2016,12,
+water,13,trina,1,13,water,2019-06-21,2019,6,Beverages
+cheese,1,j.v.,1,1,we got,0,0,0,Dairy and Egg Products
+bread,1,trick daddy,1,1,we got,0,0,0,Baked Products
+candy,1,trick daddy,1,1,we got,0,0,0,Sweets
+beef,30,trina,1,30,what's beef?,0,0,0,Beef Products
+dough,1,trina,1,1,what's beef?,0,0,0,
+coconut,1,trick daddy,1,1,where you from?,2001-03-20,2001,3,Fats and Oils
+candy,1,trick daddy,1,1,where you from?,2001-03-20,2001,3,Sweets
+calico,1,trick daddy,1,1,where you from?,2001-03-20,2001,3,
+cookie,1,trick daddy,1,1,where you from?,2001-03-20,2001,3,Baked Products
+fruit,1,trick daddy,1,1,where you from?,2001-03-20,2001,3,Baby Foods
+passion fruit,1,trick daddy,1,1,where you from?,2001-03-20,2001,3,

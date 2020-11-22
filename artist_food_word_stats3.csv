@@ -1,0 +1,973 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+nut,1,21 savage,1,1,100,2016-12-21,2016,12,Nut and Seed Products
+donut,1,21 savage,1,1,100,2016-12-21,2016,12,
+chowder,1,21 savage,1,1,12 am,2015-07-02,2015,7,
+ice,1,21 savage,1,1,12 am,2015-07-02,2015,7,
+cheddar,2,21 savage,1,2,1.5,2018-12-21,2018,12,Dairy and Egg Products
+orange,1,young dolph,1,1,150,2016-08-26,2016,8,Fruits and Fruit Juices
+soda,1,young dolph,1,1,150,2016-08-26,2016,8,Baked Products
+bread,1,young dolph,1,1,150,2016-08-26,2016,8,Baked Products
+orange soda,1,young dolph,-1,-1,150,2016-08-26,2016,8,
+salad,1,big sean,1,1,21,0,0,0,
+water,1,skooly,1,1,21 guns,2016-10-07,2016,10,Beverages
+cooking,1,21 savage,1,1,21 guns,2016-10-07,2016,10,Beverages
+steak,1,21 savage,1,1,21 guns,2016-10-07,2016,10,Beef Products
+shrimp,1,21 savage,1,1,21 guns,2016-10-07,2016,10,Finfish and Shellfish Products
+candy,1,21 savage,1,1,21 savage & metro boomin - x (osno1 21 pound timbs flip),2017-12-04,2017,12,Sweets
+brandy,1,21 savage,1,1,21 savage & metro boomin - x (osno1 21 pound timbs flip),2017-12-04,2017,12,
+fruit,1,21 savage,1,1,21 savage & metro boomin - x (osno1 21 pound timbs flip),2017-12-04,2017,12,Baby Foods
+fruit,1,future,1,1,21 savage & metro boomin - x (osno1 21 pound timbs flip),2017-12-04,2017,12,Baby Foods
+fruit roll,1,21 savage,1,1,21 savage & metro boomin - x (osno1 21 pound timbs flip),2017-12-04,2017,12,
+fruit roll,1,future,1,1,21 savage & metro boomin - x (osno1 21 pound timbs flip),2017-12-04,2017,12,
+molasses,1,quavo,1,1,2 seater,2018-08-03,2018,8,Baked Products
+drink,1,quavo,1,1,2 seater,2018-08-03,2018,8,
+rice,1,quavo,1,1,2 seater,2018-08-03,2018,8,Cereal Grains and Pasta
+gravy,1,quavo,1,1,2 seater,2018-08-03,2018,8,"Soups, Sauces, and Gravies"
+ice,2,kafani,1,2,30 clip,0,0,0,
+curry,1,keak da sneak,1,1,30 clip,0,0,0,
+rabbit,1,keak da sneak,1,1,30 clip,0,0,0,"Lamb, Veal, and Game Products"
+baguette,1,21 savage,1,1,10 freaky girls,2018-11-02,2018,11,
+brandy,2,21 savage,1,2,10 freaky girls,2018-11-02,2018,11,
+candy,1,21 savage,1,1,10 freaky girls,2018-11-02,2018,11,Sweets
+beef,2,21 savage,1,2,10 freaky girls,2018-11-02,2018,11,Beef Products
+seafood,1,21 savage,1,1,10 freaky girls,2018-11-02,2018,11,
+peach,1,childish gambino,1,1,12.38,2020-03-15,2020,3,Fruits and Fruit Juices
+papaya,1,childish gambino,1,1,12.38,2020-03-15,2020,3,Fruits and Fruit Juices
+chocolate,1,childish gambino,1,1,12.38,2020-03-15,2020,3,Sweets
+salt,1,childish gambino,1,1,12.38,2020-03-15,2020,3,Spices and Herbs
+orange,1,childish gambino,1,1,12.38,2020-03-15,2020,3,Fruits and Fruit Juices
+omelet,1,childish gambino,1,1,12.38,2020-03-15,2020,3,Dairy and Egg Products
+ice,1,21 savage,1,1,12.38,2020-03-15,2020,3,
+popeyes,2,21 savage,1,2,12.38,2020-03-15,2020,3,Fast Foods
+chicken,1,21 savage,1,1,12.38,2020-03-15,2020,3,Poultry Products
+spinach,1,21 savage,1,1,12.38,2020-03-15,2020,3,Vegetables and Vegetable Products
+dark chocolate,1,childish gambino,1,1,12.38,2020-03-15,2020,3,
+sea salt,1,childish gambino,1,1,12.38,2020-03-15,2020,3,
+salt,1,partynextdoor,1,1,1night,2018-04-25,2018,4,Spices and Herbs
+pepper,1,partynextdoor,1,1,1night,2018-04-25,2018,4,Vegetables and Vegetable Products
+pickle,1,21 savage,1,1,4 5 (remix),2018-04-06,2018,4,Vegetables and Vegetable Products
+sauce,7,don ace,1,7,4hunna mixtape,2000-04-12,2000,4,"Soups, Sauces, and Gravies"
+cake,1,21 savage,1,1,ass thang,0,0,0,Baked Products
+fish,2,21 savage,1,2,ass thang,0,0,0,Finfish and Shellfish Products
+bread,1,yung miami,1,1,​a&t,2018-12-21,2018,12,Baked Products
+sugar,2,yung miami,1,2,​a&t,2018-12-21,2018,12,Sweets
+sugar,2,21 savage,1,2,​a&t,2018-12-21,2018,12,Sweets
+juice,2,21 savage,1,2,baby choppa,0,0,0,Baby Foods
+ice,1,21 savage,1,1,baby choppa,0,0,0,
+drink,1,21 savage,1,1,backpack*,0,0,0,
+bean,1,21 savage,1,1,4l,2018-12-21,2018,12,Legumes and Legume Products
+nut,1,21 savage,1,1,4l,2018-12-21,2018,12,Nut and Seed Products
+chicken,2,21 savage,1,2,7 min freestyle,2017-07-07,2017,7,Poultry Products
+water,4,21 savage,1,4,7 min freestyle,2017-07-07,2017,7,Beverages
+shrimp,1,21 savage,1,1,7 min freestyle,2017-07-07,2017,7,Finfish and Shellfish Products
+curry,2,21 savage,1,2,7 min freestyle,2017-07-07,2017,7,
+food,2,21 savage,1,2,7 min freestyle,2017-07-07,2017,7,
+chicken curry,1,21 savage,-1,-1,7 min freestyle,2017-07-07,2017,7,
+juice,1,21 savage,1,1,act a fool,0,0,0,Baby Foods
+noodle,1,21 savage,1,1,act a fool,0,0,0,Cereal Grains and Pasta
+water,4,21 savage,1,4,all the smoke,2017-06-01,2017,6,Beverages
+toaster,1,21 savage,1,1,​asmr,2018-12-21,2018,12,
+drink,1,21 savage,1,1,​asmr,2018-12-21,2018,12,
+mimosa,1,21 savage,1,1,​asmr,2018-12-21,2018,12,
+ice,1,21 savage,1,1,​asmr,2018-12-21,2018,12,
+cookie,1,21 savage,1,1,baby girl,2017-07-07,2017,7,Baked Products
+lollipop,4,21 savage,1,4,baby girl,2017-07-07,2017,7,
+cake,2,21 savage,1,2,baby girl,2017-07-07,2017,7,Baked Products
+biscuit,1,21 savage,1,1,baby girl,2017-07-07,2017,7,Fast Foods
+cracker,1,21 savage,1,1,baby girl,2017-07-07,2017,7,Baked Products
+chip ahoy,1,21 savage,2,2,baby girl,2017-07-07,2017,7,
+beef,1,21 savage,1,1,back started,2016-10-04,2016,10,Beef Products
+donut,1,21 savage,1,1,bad business,2017-07-07,2017,7,
+sauce,1,21 savage & metro boomin,1,1,bad guy,2016-07-15,2016,7,"Soups, Sauces, and Gravies"
+beef,1,21 savage,1,1,bad guy,2016-10-04,2016,10,Beef Products
+dough,1,notoriou5 bino,1,1,bad guy,2016-10-04,2016,10,
+beef,1,24 flakko,1,1,bad guy,2018-02-22,2018,2,Beef Products
+dough,1,notoriou5 bino,1,1,bad guy,2018-02-22,2018,2,
+beef,1,21 savage,1,1,bad guy,2020-06-15,2020,6,Beef Products
+peanut,4,lil keed,1,4,balenciaga,2018-11-11,2018,11,Legumes and Legume Products
+peanut,1,21 savage,1,1,balenciaga,2018-11-11,2018,11,Legumes and Legume Products
+butter,4,lil keed,1,4,balenciaga,2018-11-11,2018,11,Dairy and Egg Products
+butter,1,21 savage,1,1,balenciaga,2018-11-11,2018,11,Dairy and Egg Products
+cheese,4,lil keed,1,4,balenciaga,2018-11-11,2018,11,Dairy and Egg Products
+cheese,1,21 savage,1,1,balenciaga,2018-11-11,2018,11,Dairy and Egg Products
+peanut butter,4,lil keed,-1,-4,balenciaga,2018-11-11,2018,11,Legumes and Legume Products
+peanut butter,1,21 savage,-1,-1,balenciaga,2018-11-11,2018,11,Legumes and Legume Products
+blue cheese,4,lil keed,1,4,balenciaga,2018-11-11,2018,11,
+blue cheese,1,21 savage,1,1,balenciaga,2018-11-11,2018,11,
+rose,1,21 savage,1,1,​ball w/o you,2018-12-21,2018,12,Beverages
+maduro,1,kiubbah malon,1,1,bank account,2018-01-28,2018,1,
+goat,5,king los,1,5,bank account (remix),2017-12-16,2017,12,Dairy and Egg Products
+sauce,1,king los,1,1,bank account (remix),2017-12-16,2017,12,"Soups, Sauces, and Gravies"
+ice,1,breydawg,1,1,bank account (remix),2017-12-03,2017,12,
+honey,1,21 savage,1,1,between us (remix),2017-06-22,2017,6,Sweets
+honey,1,big flock,1,1,black kkk,2016-10-28,2016,10,Sweets
+water,1,big flock,1,1,black kkk,2016-10-28,2016,10,Beverages
+fish,1,big flock,1,1,black kkk,2016-10-28,2016,10,Finfish and Shellfish Products
+honey bun,1,big flock,1,1,black kkk,2016-10-28,2016,10,
+chicken,1,21 savage,1,1,bank account,2017-07-07,2017,7,Poultry Products
+eel,1,21 savage,1,1,bank account,2017-07-07,2017,7,Finfish and Shellfish Products
+nut,1,21 savage,1,1,big facts,0,0,0,Nut and Seed Products
+chicken,1,21 savage,1,1,big facts,0,0,0,Poultry Products
+nugget,1,21 savage,1,1,big facts,0,0,0,"Meals, Entrees, and Side Dishes"
+noodle,1,21 savage,1,1,big facts,0,0,0,Cereal Grains and Pasta
+restaurant,1,21 savage,1,1,blessings,2019-11-17,2019,11,Restaurant Foods
+linguini,1,21 savage,1,1,blessings,2019-11-17,2019,11,
+oil,1,21 savage,1,1,boomin',2017-06-06,2017,6,Fats and Oils
+lamb,3,21 savage,1,3,both sides,2017-07-21,2017,7,"Lamb, Veal, and Game Products"
+drinking,1,21 savage,1,1,both sides,2017-07-21,2017,7,Beverages
+syrup,1,21 savage,1,1,both sides,2017-07-21,2017,7,Sweets
+ice,1,nav,1,1,both sides,2017-07-21,2017,7,
+goat,1,21 savage,1,1,brains,0,0,0,Dairy and Egg Products
+banana,1,21 savage,1,1,brains,0,0,0,Fruits and Fruit Juices
+rose,1,21 savage,1,1,brains,0,0,0,Beverages
+pita,2,21 savage,1,2,brains,0,0,0,Baked Products
+food,1,21 savage,1,1,brains,0,0,0,
+goldfish,2,21 savage,1,2,​break da law,2018-12-21,2018,12,Baked Products
+yolk,2,21 savage,1,2,​break da law,2018-12-21,2018,12,Dairy and Egg Products
+beef,1,21 savage,1,1,​break da law,2018-12-21,2018,12,Beef Products
+soda,1,mojo sys,1,1,brick & a benz,2019-01-31,2019,1,Baked Products
+cooking,1,mojo sys,1,1,brick & a benz,2019-01-31,2019,1,Beverages
+rice,1,mojo sys,1,1,brick & a benz,2019-01-31,2019,1,Cereal Grains and Pasta
+ice,1,mojo sys,1,1,brick & a benz,2019-01-31,2019,1,
+baking soda,1,mojo sys,1,1,brick & a benz,2019-01-31,2019,1,Baked Products
+fish,1,21 savage,1,1,broke bitch,0,0,0,Finfish and Shellfish Products
+fish,2,yamine,1,2,broke bitch,0,0,0,Finfish and Shellfish Products
+shrimp,1,yamine,1,1,broke bitch,0,0,0,Finfish and Shellfish Products
+herb,1,g herbo,1,1,by any means,2020-02-28,2020,2,Beverages
+sauce,1,g herbo,1,1,by any means,2020-02-28,2020,2,"Soups, Sauces, and Gravies"
+rib,1,g herbo,1,1,by any means,2020-02-28,2020,2,Beef Products
+nut,2,g herbo,1,2,by any means,2020-02-28,2020,2,Nut and Seed Products
+cake,1,21 savage,1,1,by any means,2020-02-28,2020,2,Baked Products
+banana,3,21 savage,1,3,chill pill,2017-12-11,2017,12,Fruits and Fruit Juices
+peeled,3,21 savage,1,3,chill pill,2017-12-11,2017,12,Nut and Seed Products
+rib,3,21 savage,1,3,chill pill,2017-12-11,2017,12,Beef Products
+meal,2,21 savage,1,2,chill pill,2017-12-11,2017,12,Baked Products
+pineapple,1,a1 billionaire,1,1,chill pill,2017-12-11,2017,12,Fruits and Fruit Juices
+cereal,1,a1 billionaire,1,1,chill pill,2017-12-11,2017,12,Breakfast Cereals
+food,1,a1 billionaire,1,1,chill pill,2017-12-11,2017,12,
+cherry,1,ty dolla $ign,1,1,clout,2018-05-09,2018,5,Fruits and Fruit Juices
+sundae,1,ty dolla $ign,1,1,clout,2018-05-09,2018,5,Fast Foods
+candy,1,ty dolla $ign,1,1,clout,2018-05-09,2018,5,Sweets
+candy bar,1,ty dolla $ign,1,1,clout,2018-05-09,2018,5,Sweets
+cream,1,a$ap rocky,1,1,cocky,2018-02-16,2018,2,Dairy and Egg Products
+cheese,1,a$ap rocky,1,1,cocky,2018-02-16,2018,2,Dairy and Egg Products
+gatorade,1,a$ap rocky,1,1,cocky,2018-02-16,2018,2,Beverages
+mm,1,a$ap rocky,1,1,cocky,2018-02-16,2018,2,
+pizza,1,21 savage,1,1,come and get your bitch,0,0,0,Fast Foods
+salt,1,21 savage,1,1,come and get your bitch,0,0,0,Spices and Herbs
+sauce,1,21 savage,1,1,come and get your bitch,0,0,0,"Soups, Sauces, and Gravies"
+juice,4,21 savage,1,4,coocoo*,0,0,0,Baby Foods
+donut,1,lil baby,1,1,​can't leave without it,2018-12-21,2018,12,
+nut,1,lil baby,1,1,​can't leave without it,2018-12-21,2018,12,Nut and Seed Products
+alcohol,1,lil baby,1,1,​can't leave without it,2018-12-21,2018,12,Spices and Herbs
+soda,1,lil baby,1,1,​can't leave without it,2018-12-21,2018,12,Baked Products
+noodle,1,21 savage,1,1,close my eyes,2017-07-07,2017,7,Cereal Grains and Pasta
+soup,1,21 savage,1,1,close my eyes,2017-07-07,2017,7,"Soups, Sauces, and Gravies"
+pit,1,21 savage,1,1,crisis,2017-11-09,2017,11,
+breakfast,3,offset,1,3,darth vader,2017-10-31,2017,10,Baked Products
+potato,3,offset,1,3,darth vader,2017-10-31,2017,10,Vegetables and Vegetable Products
+ice,1,21 savage,1,1,deal,2018-02-27,2018,2,
+ripe,1,21 savage,1,1,deserve,2015-12-01,2015,12,Fruits and Fruit Juices
+roe,1,raskegutterofficial,1,1,designer,0,0,0,Finfish and Shellfish Products
+roe,1,ra$ke gutter,1,1,designer på min fot,0,0,0,Finfish and Shellfish Products
+grain,3,lil durk,1,3,die slow,2019-08-02,2019,8,
+grain,2,21 savage,1,2,die slow,2019-08-02,2019,8,
+taco,1,lil durk,1,1,die slow,2019-08-02,2019,8,Spices and Herbs
+sandwich,3,21 savage,1,3,dip dip,2015-12-01,2015,12,Baked Products
+cooking,1,21 savage,1,1,dip dip,2015-12-01,2015,12,Beverages
+cola,1,21 savage,1,1,dip dip,2015-12-01,2015,12,Beverages
+soda,1,21 savage,1,1,dip dip,2015-12-01,2015,12,Baked Products
+baking soda,1,21 savage,1,1,dip dip,2015-12-01,2015,12,Baked Products
+soda,7,21 savage,1,7,dirty*,2020-05-09,2020,5,Baked Products
+starbucks,1,21 savage,1,1,dirty*,2020-05-09,2020,5,
+pickle,3,offset,1,3,disrespectful,2017-10-31,2017,10,Vegetables and Vegetable Products
+pickle,3,21 savage,1,3,disrespectful,2017-10-31,2017,10,Vegetables and Vegetable Products
+nut,3,offset,1,3,disrespectful,2017-10-31,2017,10,Nut and Seed Products
+nut,3,21 savage,1,3,disrespectful,2017-10-31,2017,10,Nut and Seed Products
+ice,1,offset,1,1,disrespectful,2017-10-31,2017,10,
+ice,1,21 savage,1,1,disrespectful,2017-10-31,2017,10,
+drinking,1,offset,1,1,disrespectful,2017-10-31,2017,10,Beverages
+breakfast,1,offset,1,1,disrespectful,2017-10-31,2017,10,Baked Products
+beef,1,offset,1,1,disrespectful,2017-10-31,2017,10,Beef Products
+ice,1,no plug,1,1,don't play,2017-08-18,2017,8,
+bread,1,no plug,1,1,don't play,2017-08-18,2017,8,Baked Products
+pan,1,offset,1,1,doo doo,0,0,0,
+burger,1,21 savage,1,1,dope on my shoe,0,0,0,
+carrot,1,21 savage,1,1,down,2015-12-26,2015,12,Vegetables and Vegetable Products
+drinking,4,21 savage,1,4,drinkin and driving,2015-05-25,2015,5,Beverages
+beef,1,21 savage,1,1,drinkin and driving,2015-05-25,2015,5,Beef Products
+syrup,2,21 savage,1,2,dead people,2017-07-07,2017,7,Sweets
+donut,1,21 savage,1,1,dead people,2017-07-07,2017,7,
+sprinkle,1,21 savage,1,1,dead people,2017-07-07,2017,7,
+pinto,1,21 savage,1,1,dead people,2017-07-07,2017,7,Legumes and Legume Products
+rice,1,21 savage,1,1,don't come out the house,2018-11-02,2018,11,Cereal Grains and Pasta
+beef,1,21 savage,1,1,don't come out the house,2018-11-02,2018,11,Beef Products
+water,6,21 savage,1,6,drip,2015-05-25,2015,5,Beverages
+soda,1,21 savage,1,1,drip,2015-05-25,2015,5,Baked Products
+cooking,1,21 savage,1,1,drip,2015-05-25,2015,5,Beverages
+bacon,1,21 savage,1,1,drip,2015-05-25,2015,5,Pork Products
+flour,1,21 savage,1,1,drip,2015-05-25,2015,5,Cereal Grains and Pasta
+baking soda,1,21 savage,1,1,drip,2015-05-25,2015,5,Baked Products
+bean,1,lil yachty,1,1,drippin,2016-05-25,2016,5,Legumes and Legume Products
+iced,1,lil yachty,1,1,drippin,2016-05-25,2016,5,Beverages
+sauce,3,sauce walka,1,3,drippin,2016-05-25,2016,5,"Soups, Sauces, and Gravies"
+flavor,1,sauce walka,1,1,drippin,2016-05-25,2016,5,
+aunt jemima,1,sauce walka,2,2,drippin,2016-05-25,2016,5,
+ice,1,gucci mane,1,1,east atlanta day,2017-04-21,2017,4,
+syrup,2,21 savage,1,2,embarrass ya,0,0,0,Sweets
+drink,1,21 savage,1,1,embarrass ya,0,0,0,
+juice,1,21 savage,1,1,embarrass ya,0,0,0,Baby Foods
+cookie,2,21 savage,1,2,extendo,2015-09-14,2015,9,Baked Products
+mocha,1,loso loaded,1,1,extortion,2016-08-27,2016,8,Beverages
+cola,1,21 savage,1,1,extortion,2016-08-27,2016,8,Beverages
+soda,1,21 savage,1,1,extortion,2016-08-27,2016,8,Baked Products
+beef,1,21 savage,1,1,extortion,2016-08-27,2016,8,Beef Products
+mustard,1,yg,1,1,facetime,2017-07-07,2017,7,Spices and Herbs
+sauce,1,21 savage,1,1,family*,0,0,0,"Soups, Sauces, and Gravies"
+hot sauce,1,21 savage,1,1,family*,0,0,0,
+fish,6,alley boy,1,6,fish fry,2019-01-10,2019,1,Finfish and Shellfish Products
+fry,6,alley boy,1,6,fish fry,2019-01-10,2019,1,
+fish fry,6,alley boy,-1,-6,fish fry,2019-01-10,2019,1,
+cheese,1,bricc baby,1,1,f it up,2016-07-08,2016,7,Dairy and Egg Products
+drinking,1,21 savage,1,1,f it up,2016-07-08,2016,7,Beverages
+bean,1,21 savage,1,1,f it up (remix),2017-02-28,2017,2,Legumes and Legume Products
+cheese,1,bricc baby,1,1,f it up (remix),2017-02-28,2017,2,Dairy and Egg Products
+noodle,1,21 savage,1,1,flexin',0,0,0,Cereal Grains and Pasta
+nut,1,21 savage,1,1,flexin',0,0,0,Nut and Seed Products
+wendys,1,21 savage,1,1,flexin',0,0,0,Fast Foods
+noodle,1,21 savage,1,1,flexin',0,0,0,Cereal Grains and Pasta
+nut,1,21 savage,1,1,flexin',0,0,0,Nut and Seed Products
+wendys,1,21 savage,1,1,flexin',0,0,0,Fast Foods
+soda,1,21 savage,1,1,flexing on purpose,2016-08-02,2016,8,Baked Products
+ice,2,young thug,1,2,flexing on purpose,2016-08-02,2016,8,
+lamb,1,young thug,1,1,flexing on purpose,2016-08-02,2016,8,"Lamb, Veal, and Game Products"
+water,2,young thug,1,2,flexing on purpose,2016-08-02,2016,8,Beverages
+kiwi,1,young thug,1,1,flexing on purpose,2016-08-02,2016,8,Fruits and Fruit Juices
+iced,1,21 savage,1,1,enzo,2019-04-24,2019,4,Beverages
+lamb,1,gucci mane,1,1,enzo,2019-04-24,2019,4,"Lamb, Veal, and Game Products"
+deep dish,1,gucci mane,2,2,enzo,2019-04-24,2019,4,Baked Products
+chicken,1,21 savage,1,1,free gucci,2015-06-02,2015,6,Poultry Products
+syrup,1,21 savage,1,1,front door,2015-12-01,2015,12,Sweets
+pickle,1,21 savage,1,1,fuckin niggaz bitches,2015-05-15,2015,5,Vegetables and Vegetable Products
+syrup,1,21 savage,1,1,fuckin niggaz bitches,2015-05-15,2015,5,Sweets
+water,2,21 savage,1,2,fuck you mean*,0,0,0,Beverages
+water,2,21 savage,1,2,gang,2015-05-25,2015,5,Beverages
+ham,1,lil e (gbe),1,1,girls,2015-10-03,2015,10,Pork Products
+water,1,lil e (gbe),1,1,girls,2015-10-03,2015,10,Beverages
+cheese,1,21 savage,1,1,goin overseas,0,0,0,Dairy and Egg Products
+fruit,1,21 savage,1,1,goin overseas,0,0,0,Baby Foods
+juice,1,21 savage,1,1,goin overseas,0,0,0,Baby Foods
+syrup,1,21 savage,1,1,goin overseas,0,0,0,Sweets
+beef,1,21 savage,1,1,goin overseas,0,0,0,Beef Products
+mcdonalds,1,21 savage,1,1,goin overseas,0,0,0,Fast Foods
+pasta,1,21 savage,1,1,goin overseas,0,0,0,"Soups, Sauces, and Gravies"
+cheese dip,1,21 savage,1,1,goin overseas,0,0,0,
+bread,1,yung d.i.,1,1,go to war,2016-12-03,2016,12,Baked Products
+kale,1,lil yachty,1,1,guap,2016-08-27,2016,8,Vegetables and Vegetable Products
+nut,1,21 savage,1,1,guap,2016-08-27,2016,8,Nut and Seed Products
+sushi,1,french montana,1,1,gucci gang (english remix),2018-03-20,2018,3,
+sushi,1,french montana,1,1,gucci gang (mega remix),2018-03-17,2018,3,
+sushi,1,bad bunny,1,1,gucci gang (mega remix),2018-03-17,2018,3,
+whisky,3,bad bunny,1,3,gucci gang (mega remix),2018-03-17,2018,3,
+milano,2,j balvin,1,2,gucci gang (mega remix),2018-03-17,2018,3,
+champagne,1,j balvin,1,1,gucci gang (mega remix),2018-03-17,2018,3,
+ahi,1,j balvin,1,1,gucci gang (mega remix),2018-03-17,2018,3,
+soy,1,j balvin,1,1,gucci gang (mega remix),2018-03-17,2018,3,Baby Foods
+bonito,1,ozuna,1,1,gucci gang (mega remix),2018-03-17,2018,3,
+caramel,1,remy ma,1,1,gucci gang (mega remix),2018-03-17,2018,3,Sweets
+whisky,3,bad bunny,1,3,gucci gang remix,2018-03-17,2018,3,
+sushi,1,bad bunny,1,1,gucci gang remix,2018-03-17,2018,3,
+pantry,1,schoolboy q,1,1,​good day,2018-12-21,2018,12,
+candy,1,schoolboy q,1,1,​good day,2018-12-21,2018,12,Sweets
+sauce,1,project pat,1,1,​good day,2018-12-21,2018,12,"Soups, Sauces, and Gravies"
+whisky,3,bad bunny,1,3,gucci gang (spanish remix),2018-03-20,2018,3,
+sushi,1,bad bunny,1,1,gucci gang (spanish remix),2018-03-20,2018,3,
+milano,2,j balvin,1,2,gucci gang (spanish remix),2018-03-20,2018,3,
+ahi,1,j balvin,1,1,gucci gang (spanish remix),2018-03-20,2018,3,
+soy,1,j balvin,1,1,gucci gang (spanish remix),2018-03-20,2018,3,Baby Foods
+bonito,1,ozuna,1,1,gucci gang (spanish remix),2018-03-20,2018,3,
+rose,1,quavo,1,1,gucci on my,2017-03-02,2017,3,Beverages
+jalapeno,1,takeoff,1,1,gucci on my,2017-03-02,2017,3,Vegetables and Vegetable Products
+ice,1,takeoff,1,1,gucci on my,2017-03-02,2017,3,
+tart,1,takeoff,1,1,gucci on my,2017-03-02,2017,3,Fruits and Fruit Juices
+bread,1,takeoff,1,1,gucci on my,2017-03-02,2017,3,Baked Products
+pop tart,1,takeoff,1,1,gucci on my,2017-03-02,2017,3,
+water,26,21 savage,1,26,h2o,2015-07-02,2015,7,Beverages
+soda,1,21 savage,1,1,h2o,2015-07-02,2015,7,Baked Products
+cooking,1,21 savage,1,1,h2o,2015-07-02,2015,7,Beverages
+baking soda,1,21 savage,1,1,h2o,2015-07-02,2015,7,Baked Products
+rabbit,1,21 savage,1,1,havoc,2016-02-21,2016,2,"Lamb, Veal, and Game Products"
+nut,1,21 savage,1,1,havoc,2016-02-21,2016,2,Nut and Seed Products
+cooking,1,21 savage,1,1,havoc,2016-02-21,2016,2,Beverages
+turkey,1,21 savage,1,1,havoc,2016-02-21,2016,2,Poultry Products
+burger,1,21 savage,1,1,havoc,2016-02-21,2016,2,
+turkey burger,1,21 savage,-1,-1,havoc,2016-02-21,2016,2,
+bread,1,bulletproof dolphin,1,1,head,2016-05-10,2016,5,Baked Products
+cooking,1,bulletproof dolphin,1,1,head,2016-05-10,2016,5,Beverages
+chicken,1,bulletproof dolphin,1,1,head,2016-05-10,2016,5,Poultry Products
+spicy,1,21 savage,1,1,heathens,2020-02-05,2020,2,
+pit,3,offset,1,3,heathens,2020-02-05,2020,2,
+ice,4,offset,1,4,heathens,2020-02-05,2020,2,
+banana,1,offset,1,1,heathens,2020-02-05,2020,2,Fruits and Fruit Juices
+cookie,2,offset,1,2,heathens,2020-02-05,2020,2,Baked Products
+juice,1,21 savage,1,1,help me,2015-12-01,2015,12,Baby Foods
+oil,1,21 savage,1,1,help me,2015-12-01,2015,12,Fats and Oils
+donut,2,21 savage,1,2,hold up,2018-04-20,2018,4,
+nut,1,21 savage,1,1,hold up,2018-04-20,2018,4,Nut and Seed Products
+beef,1,21 savage,1,1,hot spot,0,0,0,Beef Products
+cooking,1,21 savage,1,1,how to ball,2016-10-01,2016,10,Beverages
+ostrich,3,21 savage & montell2099,1,3,hunnid on the drop,2017-06-30,2017,6,Poultry Products
+scotch,1,21 savage & montell2099,1,1,hunnid on the drop,2017-06-30,2017,6,
+ice,1,21 savage & montell2099,1,1,hunnid on the drop,2017-06-30,2017,6,
+tea,1,21 savage & montell2099,1,1,hunnid on the drop,2017-06-30,2017,6,Beverages
+ice tea,1,21 savage & montell2099,-1,-1,hunnid on the drop,2017-06-30,2017,6,
+drink,1,yg,1,1,i be on,2016-11-25,2016,11,
+marshmallow,1,yg,1,1,i be on,2016-11-25,2016,11,Baked Products
+nut,3,21 savage,1,3,i can't get enough,0,0,0,Nut and Seed Products
+goose,1,21 savage,1,1,i can't get enough,0,0,0,Poultry Products
+spicy,1,21 savage,1,1,hethen,2020-02-05,2020,2,
+pit,3,offset,1,3,hethen,2020-02-05,2020,2,
+ice,4,offset,1,4,hethen,2020-02-05,2020,2,
+banana,1,offset,1,1,hethen,2020-02-05,2020,2,Fruits and Fruit Juices
+cookie,2,offset,1,2,hethen,2020-02-05,2020,2,Baked Products
+ice,32,future,1,32,iced out my arms,2017-06-23,2017,6,
+ice,33,offset,1,33,iced out my arms,2017-06-23,2017,6,
+ice,2,quavo,1,2,iced out my arms,2017-06-23,2017,6,
+ice,2,takeoff,1,2,iced out my arms,2017-06-23,2017,6,
+ice,3,21 savage,1,3,iced out my arms,2017-06-23,2017,6,
+iced,8,future,1,8,iced out my arms,2017-06-23,2017,6,Beverages
+iced,7,offset,1,7,iced out my arms,2017-06-23,2017,6,Beverages
+water,1,t.i.,1,1,iced out my arms,2017-06-23,2017,6,Beverages
+noodle,1,t.i.,1,1,iced out my arms,2017-06-23,2017,6,Cereal Grains and Pasta
+ice,20,21 savage,1,20,ice on,0,0,0,
+caviar,1,yin yang,1,1,if i wanted too,2016-08-06,2016,8,Finfish and Shellfish Products
+calamari,1,yin yang,1,1,if i wanted too,2016-08-06,2016,8,
+cheese,1,yin yang,1,1,if i wanted too,2016-08-06,2016,8,Dairy and Egg Products
+pizza,1,yin yang,1,1,if i wanted too,2016-08-06,2016,8,Fast Foods
+nut,1,21 savage,1,1,if i wanted too,2016-08-06,2016,8,Nut and Seed Products
+drink,6,young nudy,1,6,i’m a savage,2016-08-23,2016,8,
+drink,1,21 savage,1,1,i’m a savage,2016-08-23,2016,8,
+dough,1,21 savage,1,1,i’m a savage,2016-08-23,2016,8,
+beef,2,21 savage,1,2,immortal,2019-10-31,2019,10,Beef Products
+corn,2,21 savage,1,2,immortal,2019-10-31,2019,10,Cereal Grains and Pasta
+nut,1,21 savage,1,1,i’m scared,2019-08-16,2019,8,Nut and Seed Products
+beef,1,doe boy,1,1,i’m scared,2019-08-16,2019,8,Beef Products
+candy,1,21 savage,1,1,iñaki,2017-06-30,2017,6,Sweets
+brandy,1,21 savage,1,1,iñaki,2017-06-30,2017,6,
+crab,1,21 savage,1,1,ion like,2015-10-01,2015,10,Finfish and Shellfish Products
+crab,6,trouble,1,6,ion like,2015-10-01,2015,10,Finfish and Shellfish Products
+goat,1,young thug,1,1,i want her,2016-04-22,2016,4,Dairy and Egg Products
+chicken,3,young thug,1,3,i want her,2016-04-22,2016,4,Poultry Products
+nut,1,21 savage,1,1,i want her,2016-04-22,2016,4,Nut and Seed Products
+rice,1,21 savage,1,1,i want her,2016-04-22,2016,4,Cereal Grains and Pasta
+ice,1,21 savage,1,1,i want her,2016-04-22,2016,4,
+water,1,shad da god,1,1,i want her,2016-04-22,2016,4,Beverages
+sushi,1,shad da god,1,1,i want her,2016-04-22,2016,4,
+meat,1,shad da god,1,1,i want her,2016-04-22,2016,4,Baby Foods
+rose,1,shad da god,1,1,i want her,2016-04-22,2016,4,Beverages
+lotus,1,lil duke,1,1,i want her,2016-04-22,2016,4,
+lotus,1,t.i.,1,1,i want her,2016-04-22,2016,4,
+life saver,1,21 savage,2,2,jump right*,2018-12-07,2018,12,
+water,1,21 savage,1,1,just like it,2018-12-07,2018,12,Beverages
+cheese,1,21 savage,1,1,king zoo,2016-11-21,2016,11,Dairy and Egg Products
+blue cheese,1,21 savage,1,1,king zoo,2016-11-21,2016,11,
+pan,1,21 savage,1,1,kkk*,0,0,0,
+water,1,manman savage,1,1,know it,2015-11-26,2015,11,Beverages
+cake,1,manman savage,1,1,know it,2015-11-26,2015,11,Baked Products
+nut,1,21 savage,1,1,lettuce,0,0,0,Nut and Seed Products
+syrup,1,21 savage,1,1,lettuce,0,0,0,Sweets
+lettuce,1,21 savage,1,1,lettuce,0,0,0,Vegetables and Vegetable Products
+lettuce,1,21 savage,1,1,lettuce,0,0,0,Vegetables and Vegetable Products
+jelly,1,no plug,1,1,lil ni$$a,2016-08-20,2016,8,Sweets
+ice,1,dj scream,1,1,lit,2016-05-25,2016,5,
+nut,1,21 savage,1,1,lit,2016-05-25,2016,5,Nut and Seed Products
+bread,1,juicy j,1,1,lit,2016-05-25,2016,5,Baked Products
+dough,1,juicy j,1,1,lit,2016-05-25,2016,5,
+cooking,1,21 savage,1,1,lord forgive me,2015-12-01,2015,12,Beverages
+steak,2,offset,1,2,mad stalkers,2017-10-31,2017,10,Beef Products
+shrimp,1,offset,1,1,mad stalkers,2017-10-31,2017,10,Finfish and Shellfish Products
+rib,1,offset,1,1,mad stalkers,2017-10-31,2017,10,Beef Products
+water,2,offset,1,2,mad stalkers,2017-10-31,2017,10,Beverages
+sauce,2,offset,1,2,mad stalkers,2017-10-31,2017,10,"Soups, Sauces, and Gravies"
+relish,1,offset,1,1,mad stalkers,2017-10-31,2017,10,
+cooking,2,quavo,1,2,migo gang x slaughter gang music,2015-12-24,2015,12,Beverages
+cooking,1,offset,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Beverages
+fish,1,21 savage,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Finfish and Shellfish Products
+fish,1,offset,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Finfish and Shellfish Products
+beef,1,21 savage,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Beef Products
+pickle,1,offset,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Vegetables and Vegetable Products
+cookie,1,offset,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Baked Products
+banana,1,manman savage,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Fruits and Fruit Juices
+pan,1,rich the kid,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,
+lemonade,1,rich the kid,1,1,migo gang x slaughter gang music,2015-12-24,2015,12,Beverages
+fish fillet,1,offset,-1,-1,migo gang x slaughter gang music,2015-12-24,2015,12,Restaurant Foods
+ice,2,21 savage,1,2,million dollar liq,2015-05-25,2015,5,
+drink,1,21 savage,1,1,mind yo business,2015-12-01,2015,12,
+meat,2,21 savage,1,2,money convo,2017-07-07,2017,7,Baby Foods
+gumbo,1,21 savage,1,1,money convo,2017-07-07,2017,7,
+drink,1,21 savage,1,1,money convo,2017-07-07,2017,7,
+syrup,1,21 savage,1,1,money convo,2017-07-07,2017,7,Sweets
+drink,2,young thug,1,2,money hit (remix),0,0,0,
+beer,1,young thug,1,1,money hit (remix),0,0,0,Beverages
+nut,1,young thug,1,1,money hit (remix),0,0,0,Nut and Seed Products
+cabbage,1,21 savage,1,1,money hit (remix),0,0,0,Vegetables and Vegetable Products
+fish,2,21 savage,1,2,money hit (remix),0,0,0,Finfish and Shellfish Products
+noodle,1,21 savage,1,1,​letter 2 my momma,2018-12-21,2018,12,Cereal Grains and Pasta
+couscous,1,21 savage,1,1,lil bitch,0,0,0,Cereal Grains and Pasta
+juice,1,21 savage & metro boomin,1,1,mad high,2016-07-15,2016,7,Baby Foods
+drinking,1,21 savage & metro boomin,1,1,mad high,2016-07-15,2016,7,Beverages
+food,1,21 savage & metro boomin,1,1,mad high,2016-07-15,2016,7,
+mountain dew,1,21 savage & metro boomin,2,2,mad high,2016-07-15,2016,7,
+beef,2,21 savage,1,2,​monster,2018-12-21,2018,12,Beef Products
+shrimp,1,21 savage,1,1,motorcycle,2015-12-01,2015,12,Finfish and Shellfish Products
+teriyaki,1,21 savage,1,1,motorcycle,2015-12-01,2015,12,"Soups, Sauces, and Gravies"
+bread,1,dreezy,1,1,motorcycle,2015-12-01,2015,12,Baked Products
+steak,1,dreezy,1,1,motorcycle,2015-12-01,2015,12,Beef Products
+beef,1,21 savage,1,1,my choppa hate niggas,2017-10-31,2017,10,Beef Products
+potato,4,offset,1,4,narcos,2018-01-26,2018,1,Vegetables and Vegetable Products
+potato,4,quavo,1,4,narcos,2018-01-26,2018,1,Vegetables and Vegetable Products
+baguette,1,offset,1,1,narcos,2018-01-26,2018,1,
+cookie,1,offset,1,1,narcos,2018-01-26,2018,1,Baked Products
+apple,1,offset,1,1,narcos,2018-01-26,2018,1,Fruits and Fruit Juices
+water,1,takeoff,1,1,narcos,2018-01-26,2018,1,Beverages
+cabbage,1,takeoff,1,1,narcos,2018-01-26,2018,1,Vegetables and Vegetable Products
+ice,1,lil yachty,1,1,neck shine,2016-06-09,2016,6,
+caper,1,lil yachty,1,1,neck shine,2016-06-09,2016,6,Spices and Herbs
+water,1,lil yachty,1,1,neck shine,2016-06-09,2016,6,Beverages
+water,2,21 savage,1,2,neck shine,2016-06-09,2016,6,Beverages
+jerk chicken,1,21 savage,1,1,neck shine,2016-06-09,2016,6,
+cooking,1,lightshow,1,1,need a lighter,2016-08-19,2016,8,Beverages
+sprite,1,lightshow,1,1,need a lighter,2016-08-19,2016,8,Beverages
+pie,1,lightshow,1,1,need a lighter,2016-08-19,2016,8,Baked Products
+lobster,1,lightshow,1,1,need a lighter,2016-08-19,2016,8,Finfish and Shellfish Products
+fry,1,lightshow,1,1,need a lighter,2016-08-19,2016,8,
+drinking,1,21 savage,1,1,need a lighter,2016-08-19,2016,8,Beverages
+ice,1,21 savage,1,1,need a lighter,2016-08-19,2016,8,
+drinking,1,21 savage,1,1,never had shit,2016-05-01,2016,5,Beverages
+nut,1,loso loaded,1,1,never seen,2017-11-10,2017,11,Nut and Seed Products
+nut,1,21 savage,1,1,never seen,2017-11-10,2017,11,Nut and Seed Products
+iced,1,loso loaded,1,1,never seen,2017-11-10,2017,11,Beverages
+iced,1,21 savage,1,1,never seen,2017-11-10,2017,11,Beverages
+tea,1,loso loaded,1,1,never seen,2017-11-10,2017,11,Beverages
+tea,1,21 savage,1,1,never seen,2017-11-10,2017,11,Beverages
+iced tea,1,loso loaded,-1,-1,never seen,2017-11-10,2017,11,
+iced tea,1,21 savage,-1,-1,never seen,2017-11-10,2017,11,
+water,1,21 savage,1,1,nino brown,0,0,0,Beverages
+champagne,1,21 savage,1,1,nino brown,0,0,0,
+cheese,1,21 savage & metro boomin,1,1,no heart,2016-07-15,2016,7,Dairy and Egg Products
+beef,1,21 savage & metro boomin,1,1,no heart,2016-07-15,2016,7,Beef Products
+dill,1,21 savage & metro boomin,1,1,no heart,2016-07-15,2016,7,Vegetables and Vegetable Products
+drinking,1,shy glizzy,1,1,no i.d,2017-03-14,2017,3,Beverages
+dough,1,21 savage,1,1,no i.d,2017-03-14,2017,3,
+syrup,1,21 savage & metro boomin,1,1,no advance,2016-07-15,2016,7,Sweets
+nut,1,21 savage & metro boomin,1,1,no advance,2016-07-15,2016,7,Nut and Seed Products
+water,2,21 savage & metro boomin,1,2,no advance,2016-07-15,2016,7,Beverages
+curry,3,21 savage,1,3,no peace,2015-12-01,2015,12,
+nut,1,21 savage,1,1,no peace,2015-12-01,2015,12,Nut and Seed Products
+water,1,21 savage,1,1,no peace,2015-12-01,2015,12,Beverages
+noodle,1,21 savage,1,1,no target,2016-09-08,2016,9,Cereal Grains and Pasta
+cheese,1,21 savage,1,1,no target,2016-09-08,2016,9,Dairy and Egg Products
+food,2,21 savage,1,2,nothin new,2017-07-07,2017,7,
+chicken,1,21 savage,1,1,nothin new,2017-07-07,2017,7,Poultry Products
+fried,1,21 savage,1,1,nothin new,2017-07-07,2017,7,Poultry Products
+egg,3,young thug,1,3,now,2018-04-13,2018,4,Dairy and Egg Products
+ice,2,young thug,1,2,now,2018-04-13,2018,4,
+syrup,1,young thug,1,1,now,2018-04-13,2018,4,Sweets
+nut,1,21 savage,1,1,oh ok,2016-03-22,2016,3,Nut and Seed Products
+beef,2,21 savage,1,2,oh ok,2016-03-22,2016,3,Beef Products
+slim fast,1,21 savage,2,2,oh ok,2016-03-22,2016,3,
+banana,1,21 savage,1,1,only smoke,0,0,0,Fruits and Fruit Juices
+cake,1,21 savage,1,1,only smoke,0,0,0,Baked Products
+water,2,21 savage,1,2,only smoke,0,0,0,Beverages
+food,1,21 savage,1,1,only smoke,0,0,0,
+wendys,1,21 savage,1,1,only smoke,0,0,0,Fast Foods
+beef,1,youngboy never broke again,1,1,only smoke,0,0,0,Beef Products
+nut,1,godfather of harlem,1,1,on the inside,2019-11-29,2019,11,Nut and Seed Products
+corn,2,godfather of harlem,1,2,on the inside,2019-11-29,2019,11,Cereal Grains and Pasta
+shrimp,1,godfather of harlem,1,1,on the inside,2019-11-29,2019,11,Finfish and Shellfish Products
+steak,1,21 savage,1,1,organized crime,0,0,0,Beef Products
+cake,1,21 savage,1,1,organized crime,0,0,0,Baked Products
+rice,4,21 savage,1,4,​out for the night,2018-12-21,2018,12,Cereal Grains and Pasta
+ice,14,sahbabii,1,14,outstanding,2018-04-20,2018,4,
+ice,2,21 savage,1,2,outstanding,2018-04-20,2018,4,
+candy,2,sahbabii,1,2,outstanding,2018-04-20,2018,4,Sweets
+shrimp,1,sahbabii,1,1,outstanding,2018-04-20,2018,4,Finfish and Shellfish Products
+scampi,2,sahbabii,1,2,outstanding,2018-04-20,2018,4,
+water,1,21 savage,1,1,outstanding,2018-04-20,2018,4,Beverages
+lasagna,1,key!,1,1,out the bowl,2015-05-25,2015,5,"Meals, Entrees, and Side Dishes"
+cola,2,key!,1,2,out the bowl,2015-05-25,2015,5,Beverages
+cola,2,21 savage,1,2,out the bowl,2015-05-25,2015,5,Beverages
+salami,1,key!,1,1,oven (bank account remix),0,0,0,Sausages and Luncheon Meats
+salami,1,21 savage,1,1,oven (bank account remix),0,0,0,Sausages and Luncheon Meats
+lobster,1,key!,1,1,oven (bank account remix),0,0,0,Finfish and Shellfish Products
+lobster,1,21 savage,1,1,oven (bank account remix),0,0,0,Finfish and Shellfish Products
+chicken,1,key!,1,1,oven (bank account remix),0,0,0,Poultry Products
+chicken,1,21 savage,1,1,oven (bank account remix),0,0,0,Poultry Products
+pizza,1,key!,1,1,oven (bank account remix),0,0,0,Fast Foods
+pizza,1,21 savage,1,1,oven (bank account remix),0,0,0,Fast Foods
+pizza,3,lemonn,1,3,oven (bank account remix),0,0,0,Fast Foods
+milk,1,lemonn,1,1,oven (bank account remix),0,0,0,Dairy and Egg Products
+eel,1,lemonn,1,1,oven (bank account remix),0,0,0,Finfish and Shellfish Products
+beef,1,21 savage,1,1,numb,2017-07-07,2017,7,Beef Products
+pickle,1,21 savage,1,1,numb,2017-07-07,2017,7,Vegetables and Vegetable Products
+lamb,1,21 savage,1,1,numb,2017-07-07,2017,7,"Lamb, Veal, and Game Products"
+brandy,1,21 savage,1,1,numb,2017-07-07,2017,7,
+drinking,1,21 savage,1,1,off the head*,0,0,0,Beverages
+cereal,1,21 savage,1,1,​pad lock,2018-12-21,2018,12,Breakfast Cereals
+cheerio,1,21 savage,1,1,​pad lock,2018-12-21,2018,12,Breakfast Cereals
+wine,1,21 savage,1,1,​pad lock,2018-12-21,2018,12,Beverages
+water,1,21 savage,1,1,partments,2015-12-01,2015,12,Beverages
+snapper,1,21 savage,1,1,partments,2015-12-01,2015,12,Finfish and Shellfish Products
+snapple,1,21 savage,1,1,partments,2015-12-01,2015,12,Beverages
+snack,1,21 savage,1,1,pass her,0,0,0,Snacks
+vegetarian,1,21 savage,1,1,pass her,0,0,0,Legumes and Legume Products
+meat,1,21 savage,1,1,pass her,0,0,0,Baby Foods
+nut,3,21 savage & metro boomin,1,3,pause,0,0,0,Nut and Seed Products
+rose,1,21 savage & metro boomin,1,1,pause,0,0,0,Beverages
+syrup,1,21 savage & metro boomin,1,1,pause,0,0,0,Sweets
+sauce,1,21 savage & metro boomin,1,1,pause,0,0,0,"Soups, Sauces, and Gravies"
+hot sauce,1,21 savage & metro boomin,1,1,pause,0,0,0,
+bean,1,playboi carti,1,1,peepin,2015-07-23,2015,7,Legumes and Legume Products
+coffee,1,21 savage,1,1,pimp,2015-05-27,2015,5,Beverages
+banana,1,pnb rock,1,1,play with me,0,0,0,Fruits and Fruit Juices
+pepper,3,real recognize rio,1,3,pressure,2020-05-05,2020,5,Vegetables and Vegetable Products
+dr pepper,3,real recognize rio,1,3,pressure,2020-05-05,2020,5,
+drink,1,big sean,1,1,pull up n wreck,2017-11-03,2017,11,
+water,1,big sean,1,1,pull up n wreck,2017-11-03,2017,11,Beverages
+meat,1,21 savage,1,1,pull up n wreck,2017-11-03,2017,11,Baby Foods
+ice,1,21 savage,1,1,pull up n wreck,2017-11-03,2017,11,
+tea,1,21 savage,1,1,pull up n wreck,2017-11-03,2017,11,Beverages
+white meat,1,21 savage,1,1,pull up n wreck,2017-11-03,2017,11,"Meals, Entrees, and Side Dishes"
+ice tea,1,21 savage,-1,-1,pull up n wreck,2017-11-03,2017,11,
+sour,1,21 savage,1,1,push up,2017-06-03,2017,6,Fruits and Fruit Juices
+milk,1,21 savage,1,1,push up,2017-06-03,2017,6,Dairy and Egg Products
+sauce,1,big 36oz,1,1,push up,2017-06-03,2017,6,"Soups, Sauces, and Gravies"
+juice,1,big 36oz,1,1,push up,2017-06-03,2017,6,Baby Foods
+ice,1,shawnymoney,1,1,quit copying,0,0,0,
+nut,1,21 savage,1,1,rapper hoes,2017-01-27,2017,1,Nut and Seed Products
+ice,1,quavo,1,1,pass out,2018-10-11,2018,10,
+ice,1,21 savage,1,1,pass out,2018-10-11,2018,10,
+bread,1,quavo,1,1,pass out,2018-10-11,2018,10,Baked Products
+peanut,1,21 savage,1,1,pass out,2018-10-11,2018,10,Legumes and Legume Products
+butter,1,21 savage,1,1,pass out,2018-10-11,2018,10,Dairy and Egg Products
+peanut butter,1,21 savage,-1,-1,pass out,2018-10-11,2018,10,Legumes and Legume Products
+soda,1,21 savage,1,1,red opps,2015-07-02,2015,7,Baked Products
+water,1,21 savage,1,1,red opps,2015-07-02,2015,7,Beverages
+baking soda,1,21 savage,1,1,red opps,2015-07-02,2015,7,Baked Products
+butter,1,yung booke,1,1,"red rag, blue rag",2015-05-25,2015,5,Dairy and Egg Products
+curry,1,yung booke,1,1,"red rag, blue rag",2015-05-25,2015,5,
+candy,1,21 savage,1,1,"red rag, blue rag",2015-05-25,2015,5,Sweets
+cotton candy,1,21 savage,1,1,"red rag, blue rag",2015-05-25,2015,5,
+ice,1,21 savage,1,1,rider,0,0,0,
+mango,1,21 savage,1,1,rider,0,0,0,Fruits and Fruit Juices
+nut,1,21 savage,1,1,rider,0,0,0,Nut and Seed Products
+cake,1,21 savage,1,1,rider,0,0,0,Baked Products
+coffee,1,21 savage,1,1,rider,0,0,0,Beverages
+cherry,2,21 savage,1,2,rider,0,0,0,Fruits and Fruit Juices
+drink,2,21 savage,1,2,rider,0,0,0,
+drinking,1,21 savage,1,1,run up the racks,2017-10-31,2017,10,Beverages
+oil,1,21 savage,1,1,run up the racks,2017-10-31,2017,10,Fats and Oils
+sauce,4,sosamann,1,4,sauce savage,2017-01-18,2017,1,"Soups, Sauces, and Gravies"
+sauce,3,sancho saucy,1,3,sauce savage,2017-01-18,2017,1,"Soups, Sauces, and Gravies"
+nut,1,21 savage,1,1,sauce savage,2017-01-18,2017,1,Nut and Seed Products
+shrimp,2,21 savage,1,2,scared now,0,0,0,Finfish and Shellfish Products
+chicken,1,21 savage,1,1,scared now,0,0,0,Poultry Products
+baguette,1,offset,1,1,rap saved me,2017-10-31,2017,10,
+biscotti,1,offset,1,1,rap saved me,2017-10-31,2017,10,
+cheese,1,21 savage,1,1,rap saved me,2017-10-31,2017,10,Dairy and Egg Products
+grated,1,21 savage,1,1,rap saved me,2017-10-31,2017,10,Dairy and Egg Products
+nut,1,21 savage,1,1,rap saved me,2017-10-31,2017,10,Nut and Seed Products
+water,1,quavo,1,1,rap saved me,2017-10-31,2017,10,Beverages
+beef,1,quavo,1,1,rap saved me,2017-10-31,2017,10,Beef Products
+cooking,1,21 savage,1,1,respect my name,0,0,0,Beverages
+syrup,1,21 savage,1,1,respect my name,0,0,0,Sweets
+water,4,offset & metro boomin,1,4,ric flair drip,2016-12-14,2016,12,Beverages
+ice,4,offset & metro boomin,1,4,ric flair drip,2016-12-14,2016,12,
+lamb,5,offset & metro boomin,1,5,ric flair drip,2016-12-14,2016,12,"Lamb, Veal, and Game Products"
+bread,2,blocboy jb,1,2,rover 2.0,2018-03-23,2018,3,Baked Products
+bread,1,lil juice,1,1,rover 2.0,2018-03-23,2018,3,Baked Products
+grape,2,blocboy jb,1,2,rover 2.0,2018-03-23,2018,3,Vegetables and Vegetable Products
+soda,1,blocboy jb,1,1,rover 2.0,2018-03-23,2018,3,Baked Products
+salt,1,21 savage,1,1,rover 2.0,2018-03-23,2018,3,Spices and Herbs
+snail,1,21 savage,1,1,rover 2.0,2018-03-23,2018,3,Finfish and Shellfish Products
+baking soda,1,blocboy jb,1,1,rover 2.0,2018-03-23,2018,3,Baked Products
+yolk,2,21 savage & metro boomin,1,2,savage mode,2016-07-15,2016,7,Dairy and Egg Products
+drinking,1,21 savage,1,1,seeing double,2015-05-25,2015,5,Beverages
+drink,1,21 savage,1,1,seeing double,2015-05-25,2015,5,
+soda,2,21 savage,1,2,seeing double,2015-05-25,2015,5,Baked Products
+baking soda,1,21 savage,1,1,seeing double,2015-05-25,2015,5,Baked Products
+rose,1,21 savage,1,1,show me love (remix),2019-11-04,2019,11,Beverages
+meal,1,21 savage,1,1,show me love (remix),2019-11-04,2019,11,Baked Products
+soda,2,21 savage,1,2,skrrt skrrt,2015-05-15,2015,5,Baked Products
+cooking,1,21 savage,1,1,skrrt skrrt,2015-05-15,2015,5,Beverages
+meal,1,21 savage,1,1,skrrt skrrt,2015-05-15,2015,5,Baked Products
+scotch,1,21 savage,1,1,skrrt skrrt,2015-05-15,2015,5,
+baking soda,1,21 savage,1,1,skrrt skrrt,2015-05-15,2015,5,Baked Products
+water,1,key!,1,1,slaughter ya daughter,2015-05-25,2015,5,Beverages
+beef,1,ilovemakonnen,1,1,slaughter ya daughter,2015-05-25,2015,5,Beef Products
+lemonade,1,ilovemakonnen,1,1,slaughter ya daughter,2015-05-25,2015,5,Beverages
+nut,1,21 savage,1,1,slide (remix),2018-05-08,2018,5,Nut and Seed Products
+juice,2,young nudy,1,2,slime,2015-12-01,2015,12,Baby Foods
+water,1,21 savage,1,1,slime,2015-12-01,2015,12,Beverages
+iced,1,barloe team,1,1,slugg,2018-06-07,2018,6,Beverages
+goose,1,barloe team,1,1,slugg,2018-06-07,2018,6,Poultry Products
+peach,1,king laylow,1,1,smoka,2016-05-15,2016,5,Fruits and Fruit Juices
+pan,1,king laylow,1,1,smoka,2016-05-15,2016,5,
+syrup,1,21 savage,1,1,smoka,2016-05-15,2016,5,Sweets
+georgia peach,1,king laylow,1,1,smoka,2016-05-15,2016,5,
+soda,22,21 savage,1,22,soda,2016-08-17,2016,8,Baked Products
+grain,1,21 savage,1,1,solid*,0,0,0,
+candy,1,21 savage,1,1,squad,2016-12-09,2016,12,Sweets
+ice,1,21 savage,1,1,squad,2016-12-09,2016,12,
+cooking,1,offset,1,1,start dying,2015-05-20,2015,5,Beverages
+food,1,offset,1,1,start dying,2015-05-20,2015,5,
+cookie,1,vl deck,1,1,stash it,2018-02-16,2018,2,Baked Products
+drink,1,21 savage,1,1,sticks,0,0,0,
+soda,1,21 savage,1,1,sticks,0,0,0,Baked Products
+baking soda,1,21 savage,1,1,sticks,0,0,0,Baked Products
+fruit,1,21 savage,1,1,special,2017-07-07,2017,7,Baby Foods
+rose,3,21 savage,1,3,still serving,2017-10-31,2017,10,Beverages
+drink,2,21 savage,1,2,still serving,2017-10-31,2017,10,
+cooking,1,offset,1,1,still serving,2017-10-31,2017,10,Beverages
+pollo,1,offset,1,1,still serving,2017-10-31,2017,10,
+goat,1,offset,1,1,still serving,2017-10-31,2017,10,Dairy and Egg Products
+sauce,1,21 savage,1,1,supply,2015-07-02,2015,7,"Soups, Sauces, and Gravies"
+nut,1,21 savage,1,1,supply,2015-07-02,2015,7,Nut and Seed Products
+honey,1,21 savage,1,1,switch up,0,0,0,Sweets
+fish,1,21 savage,1,1,switch up,0,0,0,Finfish and Shellfish Products
+spaghetti,1,21 savage,1,1,switch up,0,0,0,Cereal Grains and Pasta
+dough,1,21 savage,1,1,switch up,0,0,0,
+honey bun,1,21 savage,1,1,switch up,0,0,0,
+lollipop,1,21 savage,1,1,the dripped,0,0,0,
+nut,1,21 savage,1,1,the race (remix),2017-12-14,2017,12,Nut and Seed Products
+nut,4,tay-k,1,4,the race (remix),2017-12-14,2017,12,Nut and Seed Products
+nut,1,,1,1,the race (remix),2017-12-14,2017,12,Nut and Seed Products
+nut,1,together,1,1,the race (remix),2017-12-14,2017,12,Nut and Seed Products
+noodle,1,tay-k,1,1,the race (remix),2017-12-14,2017,12,Cereal Grains and Pasta
+fish,1,tay-k,1,1,the race (remix),2017-12-14,2017,12,Finfish and Shellfish Products
+fish fillet,1,tay-k,-1,-1,the race (remix),2017-12-14,2017,12,Restaurant Foods
+lemonade,1,flow,1,1,the trade,2019-10-22,2019,10,Beverages
+lemonade,3,ca$h,1,3,the trade,2019-10-22,2019,10,Beverages
+rose,1,quadeca,1,1,the truth (jessica rose diss track),2017-08-16,2017,8,Beverages
+steak,1,momo,1,1,the truth (jessica rose diss track),2017-08-16,2017,8,Beef Products
+toaster,1,21 savage,1,1,thug life,2017-07-07,2017,7,
+drinking,1,21 savage,1,1,thug life,2017-07-07,2017,7,Beverages
+syrup,1,21 savage,1,1,thug life,2017-07-07,2017,7,Sweets
+beef,1,21 savage,1,1,tom ford*,0,0,0,Beef Products
+chicken,1,rich the kid,1,1,trap house,2016-04-19,2016,4,Poultry Products
+water,1,rich the kid,1,1,trap house,2016-04-19,2016,4,Beverages
+beef,1,21 savage,1,1,trap house,2016-04-19,2016,4,Beef Products
+beef roll,1,21 savage,1,1,trap house,2016-04-19,2016,4,
+mm,1,jhene aiko,1,1,triggered (remix),2019-10-02,2019,10,
+ice,1,21 savage,1,1,turn up on em,0,0,0,
+ice,1,young thug,1,1,turn up on em,0,0,0,
+takis,1,21 savage,1,1,turn up on em,0,0,0,
+chicken,1,young thug,1,1,turn up on em,0,0,0,Poultry Products
+popeyes,1,young thug,1,1,turn up on em,0,0,0,Fast Foods
+cooking,1,21 savage,1,1,twenty1,2015-07-02,2015,7,Beverages
+wendys,1,21 savage,1,1,twenty1,2015-07-02,2015,7,Fast Foods
+syrup,1,21 savage,1,1,twenty1,2015-07-02,2015,7,Sweets
+drink,1,21 savage,1,1,twenty1,2015-07-02,2015,7,
+cheese,1,thefactory,1,1,unbothered (21 savage version),2019-01-11,2019,1,Dairy and Egg Products
+beef,1,thefactory,1,1,unbothered (21 savage version),2019-01-11,2019,1,Beef Products
+dill,1,thefactory,1,1,unbothered (21 savage version),2019-01-11,2019,1,Vegetables and Vegetable Products
+fish,1,21 savage,1,1,the code,2019-11-29,2019,11,Finfish and Shellfish Products
+fry,1,21 savage,1,1,the code,2019-11-29,2019,11,
+water,1,21 savage,1,1,the code,2019-11-29,2019,11,Beverages
+beef,1,the game,1,1,the code,2019-11-29,2019,11,Beef Products
+fish fry,1,21 savage,-1,-1,the code,2019-11-29,2019,11,
+iced,1,a boogie wit da hoodie,1,1,undefeated,2017-09-29,2017,9,Beverages
+bread,1,a boogie wit da hoodie,1,1,undefeated,2017-09-29,2017,9,Baked Products
+beef,1,21 savage,1,1,undefeated,2017-09-29,2017,9,Beef Products
+relish,1,21 savage,1,1,untitled snippet (4/24/19)*,0,0,0,
+hot dog,2,21 savage,2,4,untitled snippet (4/24/19)*,0,0,0,Sausages and Luncheon Meats
+cake,18,21 savage,1,18,vette,2015-12-01,2015,12,Baked Products
+cabbage,1,21 savage,1,1,vette,2015-12-01,2015,12,Vegetables and Vegetable Products
+salt,1,trouble,1,1,vette,2015-12-01,2015,12,Spices and Herbs
+ramen,1,trouble,1,1,vette,2015-12-01,2015,12,
+noodle,1,trouble,1,1,vette,2015-12-01,2015,12,Cereal Grains and Pasta
+ramen noodle,1,trouble,-1,-1,vette,2015-12-01,2015,12,"Soups, Sauces, and Gravies"
+sour,1,21 savage,1,1,want it*,0,0,0,Fruits and Fruit Juices
+nut,1,21 savage,1,1,whoa,2016-05-05,2016,5,Nut and Seed Products
+beef,1,21 savage,1,1,whoa,2016-05-05,2016,5,Beef Products
+ice,1,21 savage,1,1,whoa,2016-05-05,2016,5,
+tilapia,1,21 savage,1,1,whoa,2016-05-05,2016,5,Finfish and Shellfish Products
+ice cube,1,21 savage,1,1,whoa,2016-05-05,2016,5,
+mango,1,young thug,1,1,whole lot (demo),0,0,0,Fruits and Fruit Juices
+mango,1,21 savage,1,1,whole lot (demo),0,0,0,Fruits and Fruit Juices
+mint,1,young thug,1,1,whole lot (demo),0,0,0,
+mint,1,21 savage,1,1,whole lot (demo),0,0,0,
+rice,1,young thug,1,1,whole lot (demo),0,0,0,Cereal Grains and Pasta
+rice,1,21 savage,1,1,whole lot (demo),0,0,0,Cereal Grains and Pasta
+soup,1,young thug,1,1,whole lot (demo),0,0,0,"Soups, Sauces, and Gravies"
+soup,1,21 savage,1,1,whole lot (demo),0,0,0,"Soups, Sauces, and Gravies"
+honey,1,young thug,1,1,whole lot (demo),0,0,0,Sweets
+honey,1,21 savage,1,1,whole lot (demo),0,0,0,Sweets
+starburst,1,young thug,1,1,whole lot (demo),0,0,0,
+starburst,1,21 savage,1,1,whole lot (demo),0,0,0,
+fruity,1,21 savage,1,1,who run it (freestyle),2018-04-09,2018,4,
+ice,1,21 savage,1,1,who run it (freestyle),2018-04-09,2018,4,
+food,1,21 savage,1,1,who run it (freestyle),2018-04-09,2018,4,
+fish,1,21 savage,1,1,who run it (freestyle),2018-04-09,2018,4,Finfish and Shellfish Products
+fry,1,21 savage,1,1,who run it (freestyle),2018-04-09,2018,4,
+fish fry,1,21 savage,-1,-1,who run it (freestyle),2018-04-09,2018,4,
+rice,1,21 savage,1,1,who ya gang,2016-09-14,2016,9,Cereal Grains and Pasta
+rice,1,hardo,1,1,who ya gang,2016-09-14,2016,9,Cereal Grains and Pasta
+syrup,2,21 savage,1,2,woah,2015-05-15,2015,5,Sweets
+nut,1,21 savage,1,1,wow,2015-12-01,2015,12,Nut and Seed Products
+sprite,1,21 savage,1,1,wow,2015-12-01,2015,12,Beverages
+fry,1,21 savage,1,1,wow,2015-12-01,2015,12,
+ice,1,lil west,1,1,wym,2016-07-07,2016,7,
+juice,1,lil west,1,1,wym,2016-07-07,2016,7,Baby Foods
+mango,1,young thug,1,1,whole lot,2017-07-07,2017,7,Fruits and Fruit Juices
+mango,1,21 savage,1,1,whole lot,2017-07-07,2017,7,Fruits and Fruit Juices
+mint,1,young thug,1,1,whole lot,2017-07-07,2017,7,
+mint,1,21 savage,1,1,whole lot,2017-07-07,2017,7,
+rice,1,young thug,1,1,whole lot,2017-07-07,2017,7,Cereal Grains and Pasta
+rice,1,21 savage,1,1,whole lot,2017-07-07,2017,7,Cereal Grains and Pasta
+soup,1,young thug,1,1,whole lot,2017-07-07,2017,7,"Soups, Sauces, and Gravies"
+soup,1,21 savage,1,1,whole lot,2017-07-07,2017,7,"Soups, Sauces, and Gravies"
+candy,1,21 savage,1,1,x,2016-07-15,2016,7,Sweets
+brandy,1,21 savage,1,1,x,2016-07-15,2016,7,
+fruit,1,21 savage,1,1,x,2016-07-15,2016,7,Baby Foods
+fruit,1,future,1,1,x,2016-07-15,2016,7,Baby Foods
+fruit roll,1,21 savage,1,1,x,2016-07-15,2016,7,
+fruit roll,1,future,1,1,x,2016-07-15,2016,7,
+candy,1,21 savage,1,1,x (demo),2019-04-16,2019,4,Sweets
+brandy,1,21 savage,1,1,x (demo),2019-04-16,2019,4,
+fruit,1,21 savage,1,1,x (demo),2019-04-16,2019,4,Baby Foods
+fruit roll,1,21 savage,1,1,x (demo),2019-04-16,2019,4,
+donut,1,21 savage,1,1,yea yea,0,0,0,
+nut,1,mookie mardi gra,1,1,yea yea yea,2017-07-24,2017,7,Nut and Seed Products
+chicken,2,yo gotti,1,2,yellow tape,2017-10-27,2017,10,Poultry Products
+chicken,2,21 savage,1,2,yellow tape,2017-10-27,2017,10,Poultry Products
+cake,1,21 savage,1,1,xxl freshman freestyle: 21 savage,2016-06-30,2016,6,Baked Products
+lemon,1,denzel curry,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Beverages
+sour,1,denzel curry,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Fruits and Fruit Juices
+sour,1,kodak black,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Fruits and Fruit Juices
+juice,1,denzel curry,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Baby Foods
+turkey,1,lil uzi vert,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Poultry Products
+turkey,1,kodak black,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Poultry Products
+stuffing,1,lil uzi vert,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Baked Products
+stuffing,1,kodak black,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Baked Products
+curry,1,lil uzi vert,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,
+curry,1,kodak black,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,
+soda,1,lil uzi vert,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Baked Products
+soda,1,lil yachty,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Baked Products
+soda,1,21 savage,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Baked Products
+ice,1,lil yachty,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,
+food,1,lil yachty,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,
+rice,1,lil yachty,1,1,xxl freshmen 2016 cypher - part 2,2016-07-06,2016,7,Cereal Grains and Pasta
+donut,2,21 savage,1,2,yessirskiii,2020-03-13,2020,3,
+pineapple,2,21 savage,1,2,yessirskiii,2020-03-13,2020,3,Fruits and Fruit Juices
+takis,1,21 savage,1,1,yessirskiii,2020-03-13,2020,3,
+beef,1,lil uzi vert,1,1,yessirskiii,2020-03-13,2020,3,Beef Products
+fried,1,lil uzi vert,1,1,yessirskiii,2020-03-13,2020,3,Poultry Products
+cod,1,lil uzi vert,1,1,yessirskiii,2020-03-13,2020,3,Finfish and Shellfish Products
+sauce,3,phixel,1,3,04/02/2020,0,0,0,"Soups, Sauces, and Gravies"
+orange,1,wwmagnum,1,1,14 year old melodic rapper,0,0,0,Fruits and Fruit Juices
+drinking,1,scarlxrd,1,1,3x,2017-02-10,2017,2,Beverages
+rib,1,scarlxrd,1,1,3x,2017-02-10,2017,2,Beef Products
+sushi,1,scarlxrd,1,1,3x,2017-02-10,2017,2,
+cooking,1,scarlxrd,1,1,3x,2017-02-10,2017,2,Beverages
+ice,2,xxxtentacion,1,2,a ghetto christmas carol,2017-12-11,2017,12,
+pan,1,xxxtentacion,1,1,a ghetto christmas carol,2017-12-11,2017,12,
+rose,1,smokepurpp,1,1,all for me,2019-11-22,2019,11,Beverages
+ice,1,xxxtentacion,1,1,$$$,2017-12-28,2017,12,
+breakfast,1,xxxtentacion,1,1,$$$,2017-12-28,2017,12,Baked Products
+sprite,2,xxxtentacion,1,2,amy winehouse,2015-04-20,2015,4,Beverages
+honey,1,swae lee,1,1,arms around you (original remix),0,0,0,Sweets
+pie,1,maluma,1,1,arms around you,2018-10-25,2018,10,Baked Products
+tea,1,jiggymane tha plug,1,1,backstroke,2015-04-17,2015,4,Beverages
+water,1,jiggymane tha plug,1,1,backstroke,2015-04-17,2015,4,Beverages
+black tea,1,jiggymane tha plug,1,1,backstroke,2015-04-17,2015,4,
+sauce,2,ski mask the slump god,1,2,assassin's vreed (austin powers),0,0,0,"Soups, Sauces, and Gravies"
+butter,1,ski mask the slump god,1,1,assassin's vreed (austin powers),0,0,0,Dairy and Egg Products
+cheerio,1,ski mask the slump god,1,1,assassin's vreed (austin powers),0,0,0,Breakfast Cereals
+sauce,17,xxxtentacion,1,17,$a​uce! (2018),2018-02-04,2018,2,"Soups, Sauces, and Gravies"
+baguette,1,nav,1,1,bad!,0,0,0,
+ice,2,pnb rock,1,2,​bad vibes forever,2019-11-22,2019,11,
+water,1,,1,1,bet hip hop awards 2017 freestyle,2017-10-06,2017,10,Beverages
+chicken,1,,1,1,bet hip hop awards 2017 freestyle,2017-10-06,2017,10,Poultry Products
+food,1,waka flocka flame,1,1,bet hip hop awards 2017 freestyle,2017-10-06,2017,10,
+fish,2,xxxtentacion,1,2,bitchcallmecaptainmorgan,2015-10-31,2015,10,Finfish and Shellfish Products
+captain morgan,2,xxxtentacion,2,4,bitchcallmecaptainmorgan,2015-10-31,2015,10,
+water,1,ski mask the slump god,1,1,blood stains,2014-03-13,2014,3,Beverages
+water,1,lil reddot as drugz,1,1,blood stains,2014-03-13,2014,3,Beverages
+donut,2,xxxtentacion,1,2,bluddy katon (og),2014-06-25,2014,6,
+ice,1,yung grabba,1,1,boofpack,2014-12-06,2014,12,
+boost,5,xxxtentacion,1,5,boost!,2017-06-30,2017,6,
+mm,5,xxxtentacion,1,5,boost!,2017-06-30,2017,6,
+vegetable,1,xxxtentacion,1,1,boost!,2017-06-30,2017,6,Baby Foods
+vitamin,1,xxxtentacion,1,1,boost!,2017-06-30,2017,6,
+vitamin d,1,xxxtentacion,1,1,boost!,2017-06-30,2017,6,Poultry Products
+boost,6,xxxtentacion,1,6,boost! (og),2017-06-26,2017,6,
+mm,5,xxxtentacion,1,5,boost! (og),2017-06-26,2017,6,
+vegetable,1,xxxtentacion,1,1,boost! (og),2017-06-26,2017,6,Baby Foods
+vitamin,1,xxxtentacion,1,1,boost! (og),2017-06-26,2017,6,
+vitamin d,1,xxxtentacion,1,1,boost! (og),2017-06-26,2017,6,Poultry Products
+egg,2,xxxtentacion,1,2,bowser,2017-04-18,2017,4,Dairy and Egg Products
+egg,3,ski mask the slump god,1,3,bowser,2017-04-18,2017,4,Dairy and Egg Products
+egg,1,,1,1,bowser,2017-04-18,2017,4,Dairy and Egg Products
+yolk,2,xxxtentacion,1,2,bowser,2017-04-18,2017,4,Dairy and Egg Products
+yolk,3,ski mask the slump god,1,3,bowser,2017-04-18,2017,4,Dairy and Egg Products
+yolk,1,,1,1,bowser,2017-04-18,2017,4,Dairy and Egg Products
+mm,1,xxxtentacion,1,1,bowser,2017-04-18,2017,4,
+sauce,2,ski mask the slump god,1,2,bowser,2017-04-18,2017,4,"Soups, Sauces, and Gravies"
+butter,1,ski mask the slump god,1,1,bowser,2017-04-18,2017,4,Dairy and Egg Products
+nut,1,ski mask the slump god,1,1,bowser,2017-04-18,2017,4,Nut and Seed Products
+cracker,1,ski mask the slump god,1,1,bowser,2017-04-18,2017,4,Baked Products
+egg yolk,2,xxxtentacion,-1,-2,bowser,2017-04-18,2017,4,Dairy and Egg Products
+egg yolk,3,ski mask the slump god,-1,-3,bowser,2017-04-18,2017,4,Dairy and Egg Products
+egg yolk,1,,-1,-1,bowser,2017-04-18,2017,4,Dairy and Egg Products
+nut cracker,1,ski mask the slump god,-1,-1,bowser,2017-04-18,2017,4,
+ice,1,ski mask the slump god,1,1,broly (intro),2015-06-27,2015,6,
+cream,1,ski mask the slump god,1,1,broly (intro),2015-06-27,2015,6,Dairy and Egg Products
+curry,1,ski mask the slump god,1,1,broly (intro),2015-06-27,2015,6,
+reeses,1,ski mask the slump god,1,1,broly (intro),2015-06-27,2015,6,Sweets
+ice cream,1,ski mask the slump god,-1,-1,broly (intro),2015-06-27,2015,6,Sweets
+reeses piece,1,ski mask the slump god,1,1,broly (intro),2015-06-27,2015,6,
+nut,1,xxxtentacion,1,1,brotein ballin,2017-06-09,2017,6,Nut and Seed Products
+fruity,1,xxxtentacion,1,1,brotein ballin,2017-06-09,2017,6,
+cake,1,xxxtentacion,1,1,butthole girl!,2017-06-26,2017,6,Baked Products
+nut,1,xxxtentacion,1,1,buy garrette’s clothing or i’ll fucking kill you (deathwish),2016-12-15,2016,12,Nut and Seed Products
+nut,1,killstation,1,1,buy garrette’s clothing or i’ll fucking kill you (deathwish),2016-12-15,2016,12,Nut and Seed Products
+pinto,1,robb banks,1,1,buy garrette’s clothing or i’ll fucking kill you (deathwish),2016-12-15,2016,12,Legumes and Legume Products
+drink,1,xxxtentacion,1,1,bxtch,2012-10-19,2012,10,
+salsa,1,craig xen,1,1,came2kill,2017-06-26,2017,6,"Soups, Sauces, and Gravies"
+water,1,xxxtentacion,1,1,carbonated water,2019-10-31,2019,10,Beverages
+water,4,ski mask the slump god,1,4,carbonated water,2019-10-31,2019,10,Beverages
+water,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Beverages
+gum,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Sweets
+cactus,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+vegetable,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Baby Foods
+goat,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Dairy and Egg Products
+egg,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Dairy and Egg Products
+chicken,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Poultry Products
+flounder,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+ice,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+ice,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+cherry,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Fruits and Fruit Juices
+cherry,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Fruits and Fruit Juices
+soda,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Baked Products
+soda,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,Baked Products
+egg nog,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+carbonated water,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+carbonated water,1,ski mask the slump god,1,1,carbonated water,2019-10-31,2019,10,
+similac,1,xxxtentacion,1,1,​catch,2014-06-08,2014,6,Baby Foods
+milk,1,xxxtentacion,1,1,​catch,2014-06-08,2014,6,Dairy and Egg Products
+dough,1,xxxtentacion,1,1,​catch,2014-06-08,2014,6,
+sprite,1,ski mask the slump god,1,1,catch me,2014-03-31,2014,3,Beverages
+sauce,6,gucci mane,1,6,clarity,2015-01-27,2015,1,"Soups, Sauces, and Gravies"
+sauce,6,wilbert cooper,1,6,clarity,2015-01-27,2015,1,"Soups, Sauces, and Gravies"
+chicken,1,kin$oul,1,1,curse,2017-06-26,2017,6,Poultry Products
+chicken breast,1,kin$oul,1,1,curse,2017-06-26,2017,6,Poultry Products
+ice,1,bass santana,1,1,corey's intro,2019-01-23,2019,1,
+cheddar,1,tay,1,1,crush,2015-05-26,2015,5,Dairy and Egg Products
+bean,1,kemba,1,1,daemons,2019-12-06,2019,12,Legumes and Legume Products
+food,1,kemba,1,1,daemons,2019-12-06,2019,12,
+fried,1,kemba,1,1,daemons,2019-12-06,2019,12,Poultry Products
+chicken,1,kemba,1,1,daemons,2019-12-06,2019,12,Poultry Products
+fried chicken,1,kemba,-1,-1,daemons,2019-12-06,2019,12,Fast Foods
+gin,1,xxxtentacion,1,1,dead,2014-03-06,2014,3,
+juice,1,xxxtentacion,1,1,dead,2014-03-06,2014,3,Baby Foods
+drink,1,robb bank$,1,1,defined,2016-09-26,2016,9,
+candy,1,robb bank$,1,1,defined,2016-09-26,2016,9,Sweets
+water,2,robb bank$,1,2,defined,2016-09-26,2016,9,Beverages
+tea,1,des,1,1,des pt 2.5 (feat.xxxtentacion),2020-06-10,2020,6,Beverages
+bean,1,xxxtentacion,1,1,dont test me (remix),2016-02-01,2016,2,Legumes and Legume Products
+pit,1,xxxtentacion,1,1,​dragon heart,2015-12-28,2015,12,
+tomato,1,xxxtentacion,1,1,eat it up,2019-12-06,2019,12,Vegetables and Vegetable Products
+steak,1,xxxtentacion,1,1,eat it up,2019-12-06,2019,12,Beef Products
+sugar,1,kayiiow,1,1,eat it up (remix),2019-12-06,2019,12,Sweets
+steak,1,kayiiow,1,1,eat it up (remix),2019-12-06,2019,12,Beef Products
+gin,1,xxxtentacion,1,1,dutty (freestyle),2014-03-07,2014,3,
+ice,1,ski mask the slump god,1,1,fatality!,2016-02-16,2016,2,
+breakfast,1,ski mask the slump god,1,1,fatality!,2016-02-16,2016,2,Baked Products
+ketchup,1,ski mask the slump god,1,1,fatality!,2016-02-16,2016,2,Vegetables and Vegetable Products
+nut,1,xxxtentacion,1,1,flock,0,0,0,Nut and Seed Products
+cooking,1,tory lanez,1,1,fortnite,0,0,0,Beverages
+water,4,xxxtentacion,1,4,freddy vs jason,2015-02-24,2015,2,Beverages
+water,4,ski mask the slump god,1,4,freddy vs jason,2015-02-24,2015,2,Beverages
+cake,1,$ki mask the slump god,1,1,fuck v2,2014-03-08,2014,3,Baked Products
+dough,1,ski mask the slump god,1,1,gang cypher *freestyle*,2014-02-26,2014,2,
+water,1,ski mask the slump god,1,1,getoffmydick,0,0,0,Beverages
+fruit,1,ski mask the slump god,1,1,getoffmydick,0,0,0,Baby Foods
+fruit,1,ugly god,1,1,getoffmydick,0,0,0,Baby Foods
+drink,1,ski mask the slump god,1,1,getoffmydick,0,0,0,
+juice,1,ugly god,1,1,getoffmydick,0,0,0,Baby Foods
+forbidden fruit,1,ski mask the slump god,1,1,getoffmydick,0,0,0,
+bread,1,nyora spouse,1,1,​ghosts,2014-08-16,2014,8,Baked Products
+cake,1,nyora spouse,1,1,​ghosts,2014-08-16,2014,8,Baked Products
+water,1,santz,1,1,fukemweball,2015-12-31,2015,12,Beverages
+peanut,1,flyboy tarantino,1,1,gassed up!,2019-01-23,2019,1,Legumes and Legume Products
+peanut,1,kid trunks,1,1,gassed up!,2019-01-23,2019,1,Legumes and Legume Products
+butter,1,flyboy tarantino,1,1,gassed up!,2019-01-23,2019,1,Dairy and Egg Products
+butter,1,kid trunks,1,1,gassed up!,2019-01-23,2019,1,Dairy and Egg Products
+chocolate,1,flyboy tarantino,1,1,gassed up!,2019-01-23,2019,1,Sweets
+chocolate,1,kid trunks,1,1,gassed up!,2019-01-23,2019,1,Sweets
+salt,1,kid trunks,1,1,gassed up!,2019-01-23,2019,1,Spices and Herbs
+food,1,kid trunks,1,1,gassed up!,2019-01-23,2019,1,
+food,1,kin$oul,1,1,gassed up!,2019-01-23,2019,1,
+jawbreaker,1,kin$oul,1,1,gassed up!,2019-01-23,2019,1,
+flavor,1,bass santana,1,1,gassed up!,2019-01-23,2019,1,
+peanut butter,1,flyboy tarantino,-1,-1,gassed up!,2019-01-23,2019,1,Legumes and Legume Products
+peanut butter,1,kid trunks,-1,-1,gassed up!,2019-01-23,2019,1,Legumes and Legume Products
+orange,1,nicole zymek,1,1,ghost busters,2018-06-21,2018,6,Fruits and Fruit Juices
+iced,1,quavo,1,1,ghost busters,2018-06-21,2018,6,Beverages
+ice,1,quavo,1,1,ghost busters,2018-06-21,2018,6,
+ice,1,ski mask the slump god,1,1,ghost busters,2018-06-21,2018,6,
+water,1,quavo,1,1,ghost busters,2018-06-21,2018,6,Beverages
+water,1,ski mask the slump god,1,1,ghost busters,2018-06-21,2018,6,Beverages
+coco,2,quavo,1,2,ghost busters,2018-06-21,2018,6,
+whiskey,1,xxxtentacion,1,1,​glass house,2015-02-03,2015,2,Beverages
+mm,1,xxxtentacion,1,1,gnarlyguyanthem! (demo),0,0,0,
+mm,2,ski mask the slump god,1,2,gnarlyguyanthem! (demo),0,0,0,
+milk,4,xxxtentacion,1,4,gnarlyguyanthem! (demo),0,0,0,Dairy and Egg Products
+milk,4,with ski mask the slump god,1,4,gnarlyguyanthem! (demo),0,0,0,Dairy and Egg Products
+apple,1,ski mask the slump god,1,1,gnarlyguyanthem! (demo),0,0,0,Fruits and Fruit Juices
+cider,1,ski mask the slump god,1,1,gnarlyguyanthem! (demo),0,0,0,Spices and Herbs
+mm,1,xxxtentacion,1,1,gnarlyguyanthem! (hell version),2015-12-16,2015,12,
+mm,2,ski mask the slump god,1,2,gnarlyguyanthem! (hell version),2015-12-16,2015,12,
+milk,4,xxxtentacion,1,4,gnarlyguyanthem! (hell version),2015-12-16,2015,12,Dairy and Egg Products
+milk,4,with ski mask the slump god,1,4,gnarlyguyanthem! (hell version),2015-12-16,2015,12,Dairy and Egg Products
+apple,1,ski mask the slump god,1,1,gnarlyguyanthem! (hell version),2015-12-16,2015,12,Fruits and Fruit Juices
+cider,1,ski mask the slump god,1,1,gnarlyguyanthem! (hell version),2015-12-16,2015,12,Spices and Herbs
+rice,1,xxxtentacion,1,1,​going down!,2018-03-16,2018,3,Cereal Grains and Pasta
+ice,1,xxxtentacion,1,1,gxd damn,2015-04-20,2015,4,
+hickory,1,ski mask the slump god,1,1,gxd damn,2015-04-20,2015,4,
+water,10,xxxtentacion,1,10,h2o,2017-06-26,2017,6,Beverages
+water,10,ski mask the slump god,1,10,h2o,2017-06-26,2017,6,Beverages
+yeast,1,xxxtentacion,1,1,h2o,2017-06-26,2017,6,Baked Products
+yeast,1,ski mask the slump god,1,1,h2o,2017-06-26,2017,6,Baked Products
+reeses,1,xxxtentacion,1,1,h2o,2017-06-26,2017,6,Sweets
+reeses,1,ski mask the slump god,1,1,h2o,2017-06-26,2017,6,Sweets
+reeses piece,1,xxxtentacion,1,1,h2o,2017-06-26,2017,6,
+reeses piece,1,ski mask the slump god,1,1,h2o,2017-06-26,2017,6,
+egg,1,xxxtentacion,1,1,happy halloween (fuck the population),2016-10-09,2016,10,Dairy and Egg Products
+apple,1,jack rootes,1,1,heavencannotsavemenow,0,0,0,Fruits and Fruit Juices
+gin,1,xxxtentacion,1,1,gospel,2017-05-11,2017,5,
+gin,1,keith ape,1,1,gospel,2017-05-11,2017,5,
+water,1,xxxtentacion,1,1,gospel,2017-05-11,2017,5,Beverages
+water,1,keith ape,1,1,gospel,2017-05-11,2017,5,Beverages
+cake,1,rich brian,1,1,gospel,2017-05-11,2017,5,Baked Products
+goat,1,rich brian,1,1,gospel,2017-05-11,2017,5,Dairy and Egg Products
+sauce,2,xxxtentacion,1,2,hit it,0,0,0,"Soups, Sauces, and Gravies"
+sauce,6,xxxtentacion,1,6,hit it from the back (original),0,0,0,"Soups, Sauces, and Gravies"
+sauce,5,xxxtentacion,1,5,hit it from the back! (remix),0,0,0,"Soups, Sauces, and Gravies"
+sauce,2,tyga,1,2,hit it from the back! (remix),0,0,0,"Soups, Sauces, and Gravies"
+sour,1,yoshi thompkins,1,1,hit the dirt,2016-01-13,2016,1,Fruits and Fruit Juices
+flounder,1,yoshi thompkins,1,1,hit the dirt,2016-01-13,2016,1,
+cheese,2,ray-n (rapper),1,2,hope,2018-10-02,2018,10,Dairy and Egg Products
+meat,1,xxxtentacion,1,1,hope (freestyle),2018-08-19,2018,8,Baby Foods
+mm,1,xxxtentacion,1,1,hope (freestyle),2018-08-19,2018,8,
+wine,1,mavado,1,1,hot gyal,2019-12-06,2019,12,Beverages
+rabbit,1,mavado,1,1,hot gyal,2019-12-06,2019,12,"Lamb, Veal, and Game Products"
+drink,1,xxxtentacion,1,1,i am!,2015-06-29,2015,6,
+sour,1,xxxtentacion,1,1,i am!,2015-06-29,2015,6,Fruits and Fruit Juices
+ice,4,sza,1,4,ice hotel (intro),2014-04-07,2014,4,
+ice,18,xxxtentacion,1,18,ice hotel (intro),2014-04-07,2014,4,
+snack,1,kin$oul,1,1,hi wendy!,2019-01-23,2019,1,Snacks
+berry,1,kid trunks,1,1,hi wendy!,2019-01-23,2019,1,
+bread,1,flyboy tarantino,1,1,hi wendy!,2019-01-23,2019,1,Baked Products
+cheese,2,xxxtentacion,1,2,hope,2018-02-21,2018,2,Dairy and Egg Products

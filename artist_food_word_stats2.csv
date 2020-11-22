@@ -1,0 +1,2300 @@
+food_word,food_word_count,artist,food_word_value,food_word_total,song,release_date,release_year,release_month,food_category_description
+homemade,1,rick ross,1,1,bill gates,2015-09-03,2015,9,Cereal Grains and Pasta
+lime,1,rick ross,1,1,bill gates,2015-09-03,2015,9,Sweets
+pie,1,rick ross,1,1,bill gates,2015-09-03,2015,9,Baked Products
+lobster,1,rick ross,1,1,bill gates,2015-09-03,2015,9,Finfish and Shellfish Products
+restaurant,1,rick ross,1,1,bill gates,2015-09-03,2015,9,Restaurant Foods
+key lime,1,rick ross,1,1,bill gates,2015-09-03,2015,9,
+food,1,rick ross,1,1,billionaire,2008-03-11,2008,3,
+popeyes,1,rick ross,1,1,billionaire,2008-03-11,2008,3,Fast Foods
+dough,1,rick ross,1,1,bird bath,2007-09-18,2007,9,
+rib,1,rick ross,1,1,bird bath,2007-09-18,2007,9,Beef Products
+herb,1,noah,1,1,bird bath,2007-09-18,2007,9,Beverages
+crab,1,noah,1,1,bird bath,2007-09-18,2007,9,Finfish and Shellfish Products
+ice,1,noah,1,1,bird bath,2007-09-18,2007,9,
+mm,2,smokepurpp,1,2,big dawg,2020-06-17,2020,6,
+mm,2,rick ross,1,2,big dawg,2020-06-17,2020,6,
+ice,2,rick ross,1,2,big dawg,2020-06-17,2020,6,
+tequila,1,rick ross,1,1,birthday,2012-10-08,2012,10,
+cupcake,1,rick ross,1,1,birthday,2012-10-08,2012,10,
+yam,1,2 chainz,1,1,birthday,2012-10-08,2012,10,Vegetables and Vegetable Products
+cake,26,flo rida,1,26,birthday,0,0,0,Baked Products
+bacon,1,flo rida,1,1,birthday,0,0,0,Pork Products
+raisin,1,flo rida,1,1,birthday,0,0,0,Baked Products
+soup,1,flo rida,1,1,birthday,0,0,0,"Soups, Sauces, and Gravies"
+ice,1,flo rida,1,1,birthday,0,0,0,
+tequila,1,rick ross,1,1,birthday (remix),0,0,0,
+cupcake,1,rick ross,1,1,birthday (remix),0,0,0,
+yam,1,rick ross,1,1,birthday (remix),0,0,0,Vegetables and Vegetable Products
+cake,20,flo rida,1,20,birthday (welcome to florida version),0,0,0,Baked Products
+cake,1,torch,1,1,birthday (welcome to florida version),0,0,0,Baked Products
+rose,1,flo rida,1,1,birthday (welcome to florida version),0,0,0,Beverages
+beef,1,rick ross,1,1,birthday (welcome to florida version),0,0,0,Beef Products
+betty crocker,2,flo rida,2,4,birthday (welcome to florida version),0,0,0,
+rose,1,rick ross,1,1,"bitch, don't kill my vibe (remix)",2013-01-01,2013,1,Beverages
+cheddar,1,rick ross,1,1,"bitch, don't kill my vibe (remix)",2013-01-01,2013,1,Dairy and Egg Products
+champagne,1,rick ross,1,1,"bitch, don't kill my vibe (remix)",2013-01-01,2013,1,
+raisin,3,rick ross,1,3,"bitch, don't kill my vibe (remix)",2013-01-01,2013,1,Baked Products
+ice,1,boyz n da hood,1,1,bitches & bizness,0,0,0,
+nut,1,boyz n da hood,1,1,bitches & bizness,0,0,0,Nut and Seed Products
+cake,2,boyz n da hood,1,2,bitches & bizness,0,0,0,Baked Products
+cookie,2,boyz n da hood,1,2,bitches & bizness,0,0,0,Baked Products
+bacon,1,boyz n da hood,1,1,bitches & bizness,0,0,0,Pork Products
+soda,1,boyz n da hood,1,1,bitches & bizness,0,0,0,Baked Products
+pancake,1,boyz n da hood,1,1,bitches & bizness,0,0,0,Baked Products
+chicken,2,boyz n da hood,1,2,bitches & bizness,0,0,0,Poultry Products
+bread,1,rick ross,1,1,black bottles,0,0,0,Baked Products
+calico,1,rick ross,1,1,black bottles,0,0,0,
+crockpot,1,rick ross,1,1,black bottles,0,0,0,
+rose,1,takeoff,1,1,black bottles,0,0,0,Beverages
+rose,1,offset,1,1,black bottles,0,0,0,Beverages
+sesame,1,offset,1,1,black bottles,0,0,0,Baked Products
+sesame seed,1,offset,1,1,black bottles,0,0,0,Nut and Seed Products
+cooking,1,ludacris,1,1,black man's dream,2010-12-24,2010,12,Beverages
+fish,1,ludacris,1,1,black man's dream,2010-12-24,2010,12,Finfish and Shellfish Products
+food,1,rick ross,1,1,black opium,2015-12-04,2015,12,
+food,1,rick ross,1,1,black superhero car,2016-11-22,2016,11,
+corn,1,rick ross,1,1,black superhero car,2016-11-22,2016,11,Cereal Grains and Pasta
+skittle,1,smoke dza,1,1,black superhero car,2016-11-22,2016,11,
+sandwich,1,scarface,1,1,blessing in disguise,2014-03-03,2014,3,Baked Products
+rose,1,rick ross,1,1,blessing in disguise,2014-03-03,2014,3,Beverages
+lemon,1,rick ross,1,1,blk & wht,2014-03-03,2014,3,Beverages
+pepper,1,rick ross,1,1,blk & wht,2014-03-03,2014,3,Vegetables and Vegetable Products
+lemon pepper,1,rick ross,-1,-1,blk & wht,2014-03-03,2014,3,
+rose,1,stalley,1,1,blk & wht (remix),0,0,0,Beverages
+caper,1,gunplay,1,1,blk & wht (remix),0,0,0,Spices and Herbs
+toaster,1,denzel curry,1,1,birdz,2019-05-31,2019,5,
+cake,2,dj khaled,1,2,blood money,2008-09-16,2008,9,Baked Products
+peach,1,dj khaled,1,1,blood money,2008-09-16,2008,9,Fruits and Fruit Juices
+cream,1,dj khaled,1,1,blood money,2008-09-16,2008,9,Dairy and Egg Products
+food,1,rick ross,1,1,b.l.o.w. (block life is our way),0,0,0,
+beef,1,rick ross,1,1,b.l.o.w. (block life is our way),0,0,0,Beef Products
+creme,1,pusha t,1,1,b.l.o.w. (block life is our way),0,0,0,
+coffee,1,pusha t,1,1,b.l.o.w. (block life is our way),0,0,0,Beverages
+bean,1,pusha t,1,1,b.l.o.w. (block life is our way),0,0,0,Legumes and Legume Products
+coffee bean,1,pusha t,-1,-1,b.l.o.w. (block life is our way),0,0,0,
+caper,1,rick ross,1,1,blowin' money fast,0,0,0,Spices and Herbs
+caper,1,rick ross,1,1,b.m.f. (blowin' money fast),2010-06-29,2010,6,Spices and Herbs
+orange,1,styles p,1,1,b.m.f. (blowin' money fast),2010-06-29,2010,6,Fruits and Fruit Juices
+caviar,1,styles p,1,1,b.m.f. (blowin' money fast),2010-06-29,2010,6,Finfish and Shellfish Products
+egg,1,styles p,1,1,b.m.f. (blowin' money fast),2010-06-29,2010,6,Dairy and Egg Products
+goat,1,tyga,1,1,bop,2019-08-02,2019,8,Dairy and Egg Products
+goat,1,rick ross,1,1,bop,2019-08-02,2019,8,Dairy and Egg Products
+bread,1,tyga,1,1,bop,2019-08-02,2019,8,Baked Products
+bread,1,rick ross,1,1,bop,2019-08-02,2019,8,Baked Products
+fettuccine,1,blueface,1,1,bop,2019-08-02,2019,8,
+syrup,1,pitbull,1,1,born n raised,2006-10-31,2006,10,Sweets
+champagne,4,dre,1,4,boss,2006-08-08,2006,8,
+fish,1,rick ross,1,1,boss,2006-08-08,2006,8,Finfish and Shellfish Products
+chicken,1,rick ross,1,1,boss,2006-08-08,2006,8,Poultry Products
+sprinkle,1,rick ross,1,1,boss,2006-08-08,2006,8,
+pepper,1,rick ross,1,1,boss,2006-08-08,2006,8,Vegetables and Vegetable Products
+salt,1,rick ross,1,1,boss,2006-08-08,2006,8,Spices and Herbs
+water,1,desiigner,1,1,boss,0,0,0,Beverages
+pan,1,desiigner,1,1,boss,0,0,0,
+fry,1,rick ross,1,1,boss,0,0,0,
+champagne,4,rick ross,1,4,born to kill,2019-08-09,2019,8,
+champagne,1,jeezy,1,1,born to kill,2019-08-09,2019,8,
+cappuccino,4,rick ross,1,4,born to kill,2019-08-09,2019,8,
+candy,2,jeezy,1,2,born to kill,2019-08-09,2019,8,Sweets
+banana,1,jeezy,1,1,born to kill,2019-08-09,2019,8,Fruits and Fruit Juices
+pizza,1,rick ross,1,1,boss talk,2017-12-15,2017,12,Fast Foods
+pizza hut,1,rick ross,1,1,boss talk,2017-12-15,2017,12,Fast Foods
+champagne,1,rick ross,1,1,bossy lady,2009-04-21,2009,4,
+drinking,1,yosef,1,1,bottles,0,0,0,Beverages
+drink,1,madcon,1,1,bottles,0,0,0,
+nut,1,tshawe,1,1,bottles,0,0,0,Nut and Seed Products
+champagne,1,madcon,1,1,bottles,2017-12-29,2017,12,
+dough,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,
+meat,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,Baby Foods
+lobster,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,Finfish and Shellfish Products
+goat,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,Dairy and Egg Products
+biscuit,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,Fast Foods
+white meat,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,"Meals, Entrees, and Side Dishes"
+lobster tail,1,trick daddy,1,1,bout mine,2002-08-06,2002,8,
+dough,1,french montana,1,1,bout that life,0,0,0,
+fish,1,meek mill,1,1,bout that life,0,0,0,Finfish and Shellfish Products
+spinach,1,rick ross,1,1,boy outta here,2013-07-05,2013,7,Vegetables and Vegetable Products
+ice,1,yung joc,1,1,brand new,2007-08-28,2007,8,
+ice,1,yung joc,1,1,brand new,2007-08-28,2007,8,
+rose,1,yung joc,1,1,brand new,2007-08-28,2007,8,Beverages
+peanut,2,yung joc,1,2,brand new,2007-08-28,2007,8,Legumes and Legume Products
+rose,2,rick ross,1,2,break my heart,2011-04-26,2011,4,Beverages
+champagne,1,rick ross,1,1,break my heart,2011-04-26,2011,4,
+breakfast,1,rick ross,1,1,break my heart,2011-04-26,2011,4,Baked Products
+apple,1,wale,1,1,break my heart (my fault),2019-10-11,2019,10,Fruits and Fruit Juices
+coffee,1,rick ross,1,1,"breathe in, breathe out",2007-09-18,2007,9,Beverages
+protein,1,rick ross,1,1,"breathe in, breathe out",2007-09-18,2007,9,Poultry Products
+yam,1,yowda,1,1,brick man (remix),2019-01-29,2019,1,Vegetables and Vegetable Products
+nugget,1,rick ross,1,1,bricks,0,0,0,"Meals, Entrees, and Side Dishes"
+fish,1,rick ross,1,1,brimstone,2014-11-24,2014,11,Finfish and Shellfish Products
+crab,1,rick ross,1,1,brimstone,2014-11-24,2014,11,Finfish and Shellfish Products
+meat,1,rick ross,1,1,brimstone,2014-11-24,2014,11,Baby Foods
+alcohol,1,rick ross,1,1,brimstone,2014-11-24,2014,11,Spices and Herbs
+crab meat,1,rick ross,-1,-1,brimstone,2014-11-24,2014,11,
+oil,1,rick ross,1,1,brrrr,2015-06-09,2015,6,Fats and Oils
+food,1,rick ross,1,1,buried in the streets,2015-09-29,2015,9,
+beef,1,rick ross,1,1,buried in the streets,2015-09-29,2015,9,Beef Products
+bison,1,rick ross,1,1,buried in the streets,2015-09-29,2015,9,"Lamb, Veal, and Game Products"
+ripe,1,fat trel,1,1,burn,2014-11-03,2014,11,Fruits and Fruit Juices
+rose,1,fat trel,1,1,burn,2014-11-03,2014,11,Beverages
+rose,1,fat trel,1,1,burn,2014-11-03,2014,11,Beverages
+egg,1,fat trel,1,1,burn,2014-11-03,2014,11,Dairy and Egg Products
+deviled egg,1,fat trel,1,1,burn,2014-11-03,2014,11,
+lemon,1,rick ross,1,1,burn,2014-11-24,2014,11,Beverages
+pepper,1,rick ross,1,1,burn,2014-11-24,2014,11,Vegetables and Vegetable Products
+chicken,1,rick ross,1,1,burn,2014-11-24,2014,11,Poultry Products
+dough,1,rick ross,1,1,burn,2014-11-24,2014,11,
+lobster,1,rick ross,1,1,burn,2014-11-24,2014,11,Finfish and Shellfish Products
+lemon pepper,1,rick ross,-1,-1,burn,2014-11-24,2014,11,
+beef,1,rick ross,1,1,burn (remix),2012-10-08,2012,10,Beef Products
+syrup,1,lil wayne,1,1,burn (remix),2012-10-08,2012,10,Sweets
+apple,2,lil wayne,1,2,burn (remix),2012-10-08,2012,10,Fruits and Fruit Juices
+drinking,1,lil wayne,1,1,burn (remix),2012-10-08,2012,10,Beverages
+donut,1,lil wayne,1,1,burn (remix),2012-10-08,2012,10,
+apple jack,1,lil wayne,1,1,burn (remix),2012-10-08,2012,10,
+taco,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Spices and Herbs
+breakfast,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Baked Products
+lemon,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Beverages
+pepper,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Vegetables and Vegetable Products
+wendys,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Fast Foods
+dennys,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Restaurant Foods
+bologna,1,2 chainz,1,1,buy back the block,2016-11-17,2016,11,Sausages and Luncheon Meats
+taco bell,1,rick ross,1,1,buy back the block,2016-11-17,2016,11,Fast Foods
+lemon pepper,1,rick ross,-1,-1,buy back the block,2016-11-17,2016,11,
+burger,1,nipsey hussle,1,1,buy back the block (refinance version),2017-03-01,2017,3,
+sugar,1,rick ross,1,1,buy back the block (refinance version),2017-03-01,2017,3,Sweets
+kangaroo,1,rick ross,1,1,buy back the block (refinance version),2017-03-01,2017,3,
+food,1,rick ross,1,1,buy back the block (refinance version),2017-03-01,2017,3,
+calico,1,rick ross,1,1,buy back the block (refinance version),2017-03-01,2017,3,
+whole food,1,rick ross,1,1,buy back the block (refinance version),2017-03-01,2017,3,
+cake,6,rick ross,1,6,cake,2014-08-19,2014,8,Baked Products
+chicken,1,rick ross,1,1,cake,2014-08-19,2014,8,Poultry Products
+sap,1,berner & b-real,1,1,candy,2020-04-01,2020,4,
+candy,42,berner,1,42,candy,2020-04-01,2020,4,Sweets
+candy,2,b-real,1,2,candy,2020-04-01,2020,4,Sweets
+candy,11,rick ross,1,11,candy,2020-04-01,2020,4,Sweets
+flavor,2,b-real,1,2,candy,2020-04-01,2020,4,
+nut,1,rick ross,1,1,candy,2020-04-01,2020,4,Nut and Seed Products
+life saver,1,b-real,2,2,candy,2020-04-01,2020,4,
+rose,1,rick ross,1,1,can't say no,0,0,0,Beverages
+champagne,1,rick ross,1,1,can't say no,0,0,0,
+beef,2,ace hood,1,2,bugatti,2013-01-30,2013,1,Beef Products
+tuna,1,ace hood,1,1,bugatti,2013-01-30,2013,1,Finfish and Shellfish Products
+snack,1,rick ross,1,1,career criminal,0,0,0,Snacks
+fruit,1,rick ross,1,1,career criminal,0,0,0,Baby Foods
+crab,1,rick ross,1,1,carol city,2015-12-04,2015,12,Finfish and Shellfish Products
+mint,1,rick ross,1,1,carol city,2015-12-04,2015,12,
+juice,1,bun b,1,1,cassette deck,2012-08-30,2012,8,Baby Foods
+honey,1,slim thug,1,1,cassette deck,2012-08-30,2012,8,Sweets
+cheese,1,konan,1,1,certified,2015-03-27,2015,3,Dairy and Egg Products
+bolognese,1,konan,1,1,certified,2015-03-27,2015,3,
+iced,1,krept,1,1,certified,2015-03-27,2015,3,Beverages
+ice,1,krept,1,1,certified,2015-03-27,2015,3,
+champagne,14,e-40,1,14,champagne,2013-12-10,2013,12,
+champagne,1,french montana,1,1,champagne,2013-12-10,2013,12,
+sprinkle,1,rick ross,1,1,champagne,2013-12-10,2013,12,
+rose,1,rick ross,1,1,champagne,2013-12-10,2013,12,Beverages
+soda,1,gunplay,1,1,cheap thrills,2018-02-01,2018,2,Baked Products
+sprinkle,1,gunplay,1,1,cheap thrills,2018-02-01,2018,2,
+sprite,1,gunplay,1,1,cheap thrills,2018-02-01,2018,2,Beverages
+drinking,4,young dolph,1,4,check,0,0,0,Beverages
+ice,1,young dolph,1,1,check,0,0,0,
+ice,1,fat trell,1,1,check,0,0,0,
+starbucks,1,rick ross,1,1,check,0,0,0,
+cracker,1,fat trell,1,1,check,0,0,0,Baked Products
+rice,1,talib kweli,1,1,chemtrails & muslim wars (remix),2016-10-17,2016,10,Cereal Grains and Pasta
+pie,1,dre,1,1,chevy ridin' high,0,0,0,Baked Products
+food,1,dre,1,1,chevy ridin' high,0,0,0,
+pie,1,rick ross,1,1,chevy ridin' high,0,0,0,Baked Products
+food,1,rick ross,1,1,chevy ridin' high,0,0,0,
+gourmet,1,pusha,1,1,chevy ridin high (remix),2006-08-02,2006,8,
+beef,1,pusha,1,1,chevy ridin high (remix),2006-08-02,2006,8,Beef Products
+taffy,1,the game,1,1,chevy ridin high (remix),2006-08-02,2006,8,Sweets
+ice,1,rick ross,1,1,chevy ridin high (remix),2006-08-02,2006,8,
+cream,1,rick ross,1,1,chevy ridin high (remix),2006-08-02,2006,8,Dairy and Egg Products
+cheese,2,rick ross,1,2,chevy ridin high (remix),2006-08-02,2006,8,Dairy and Egg Products
+laffy taffy,1,the game,1,1,chevy ridin high (remix),2006-08-02,2006,8,
+ice cream,1,rick ross,-1,-1,chevy ridin high (remix),2006-08-02,2006,8,Sweets
+blow pop,1,rick ross,2,2,chevy ridin high (remix),2006-08-02,2006,8,
+banana,1,rick ross,1,1,children's story (uncle ricky),2007-11-20,2007,11,Fruits and Fruit Juices
+burger,1,rick ross,1,1,children's story (uncle ricky),2007-11-20,2007,11,
+chicken,1,rick ross,1,1,children's story (uncle ricky),2007-11-20,2007,11,Poultry Products
+fish,2,rick ross,1,2,children's story (uncle ricky),2007-11-20,2007,11,Finfish and Shellfish Products
+burger king,1,rick ross,1,1,children's story (uncle ricky),2007-11-20,2007,11,Fast Foods
+oyster,1,pusha t,1,1,choices,2017-01-27,2017,1,Finfish and Shellfish Products
+ice,1,rick ross,1,1,choices,2017-01-27,2017,1,
+syrup,1,rick ross,1,1,choices,2017-01-27,2017,1,Sweets
+mountain dew,1,rick ross,2,2,choices,2017-01-27,2017,1,
+sriracha,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,"Soups, Sauces, and Gravies"
+wine,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,Beverages
+lemon,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,Beverages
+cherry,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,Fruits and Fruit Juices
+pie,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,Baked Products
+cookie,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,Baked Products
+beer,1,e-40,1,1,choices (yup) [remix],2015-10-30,2015,10,Beverages
+bread,3,e-40,1,3,choices (yup) [remix],2015-10-30,2015,10,Baked Products
+dough,1,quavo,1,1,choices (yup) [remix],2015-10-30,2015,10,
+chicken,1,takeoff,1,1,choices (yup) [remix],2015-10-30,2015,10,Poultry Products
+drinking,1,takeoff,1,1,choices (yup) [remix],2015-10-30,2015,10,Beverages
+martini,1,takeoff,1,1,choices (yup) [remix],2015-10-30,2015,10,
+cherry pie,1,e-40,-1,-1,choices (yup) [remix],2015-10-30,2015,10,
+dressing,1,rick ross,1,1,capone suite,2018-06-15,2018,6,Fats and Oils
+rose,1,rick ross,1,1,capone suite,2018-06-15,2018,6,Beverages
+water,10,dj sabby,1,10,chomp chomp,2002-04-14,2002,4,Beverages
+bread,1,curren$y,1,1,choosin',2013-02-03,2013,2,Baked Products
+buttered,1,rick ross,1,1,choosin',2013-02-03,2013,2,
+beef,1,rick ross,1,1,chuck d speaks / devil in a new dress,0,0,0,Beef Products
+rose,1,rick ross,1,1,chuck d speaks / devil in a new dress,0,0,0,Beverages
+cherry,2,rick ross,1,2,chuck d speaks / devil in a new dress,0,0,0,Fruits and Fruit Juices
+lavender,1,rick ross,1,1,chuck d speaks / devil in a new dress,0,0,0,
+ice,1,rick ross,1,1,chuck d speaks / devil in a new dress,0,0,0,
+cheese,1,rick ross,1,1,cigar music,2009-02-13,2009,2,Dairy and Egg Products
+lime,1,rick ross,1,1,cigar music,2009-02-13,2009,2,Sweets
+tea,1,rick ross,1,1,cigar music,2009-02-13,2009,2,Beverages
+wine,1,rick ross,1,1,cigar music,2009-02-13,2009,2,Beverages
+key lime,1,rick ross,1,1,cigar music,2009-02-13,2009,2,
+rose,1,fat trel,1,1,clappers (remix),2014-02-03,2014,2,Beverages
+pie,1,boogie,1,1,cliché,2019-10-11,2019,10,Baked Products
+coffee,1,rick ross,1,1,clique,2012-10-08,2012,10,Beverages
+cake,1,rockie fresh,1,1,clique,2012-10-08,2012,10,Baked Products
+cognac,4,,1,4,cognac & conversation,2015-08-08,2015,8,
+collard,1,teedra rick ross,1,1,cognac & conversation,2015-08-08,2015,8,Vegetables and Vegetable Products
+apple,1,rick ross,1,1,cognac & conversation,2015-08-08,2015,8,Fruits and Fruit Juices
+collard green,1,teedra rick ross,1,1,cognac & conversation,2015-08-08,2015,8,
+conch,1,rick ross,1,1,coke like the 80's,2014-11-24,2014,11,Finfish and Shellfish Products
+fritter,1,rick ross,1,1,coke like the 80's,2014-11-24,2014,11,
+fried,1,rick ross,1,1,coke like the 80's,2014-11-24,2014,11,Poultry Products
+candy,1,rick ross,1,1,coke like the 80's,2014-11-24,2014,11,Sweets
+bacardi,1,the game,1,1,colors,2007-04-08,2007,4,
+ice,1,sean kingston,1,1,colors,2007-04-08,2007,4,
+pan,1,sean kingston,1,1,colors,2007-04-08,2007,4,
+strawberry,1,rick ross,1,1,colors,2007-04-08,2007,4,Dairy and Egg Products
+cheese,1,rick ross,1,1,colors,2007-04-08,2007,4,Dairy and Egg Products
+dough,1,rick ross,1,1,colors,2007-04-08,2007,4,
+spinach,1,rick ross,1,1,colors,2007-04-08,2007,4,Vegetables and Vegetable Products
+bacardi,1,the game,1,1,colors,0,0,0,
+ice,1,sean kingston,1,1,colors,0,0,0,
+pan,1,sean kingston,1,1,colors,0,0,0,
+strawberry,1,rick ross,1,1,colors,0,0,0,Dairy and Egg Products
+cheese,1,rick ross,1,1,colors,0,0,0,Dairy and Egg Products
+dough,1,rick ross,1,1,colors,0,0,0,
+spinach,1,rick ross,1,1,colors,0,0,0,Vegetables and Vegetable Products
+cheese,1,rick ross,1,1,comfortable freestyle,0,0,0,Dairy and Egg Products
+cake,1,rick ross,1,1,comfortable freestyle,0,0,0,Baked Products
+lemonade,1,rick ross,1,1,comfortable freestyle,0,0,0,Beverages
+water,2,rick ross,1,2,comfortable freestyle,0,0,0,Beverages
+cheese cake,1,rick ross,-1,-1,comfortable freestyle,0,0,0,
+lettuce,1,rick ross,1,1,cranes in the sky (remix),2016-11-07,2016,11,Vegetables and Vegetable Products
+wheat,1,rick ross,1,1,cranes in the sky (remix),2016-11-07,2016,11,Baked Products
+ginger,1,rick ross,1,1,cranes in the sky (remix),2016-11-07,2016,11,Spices and Herbs
+drink,1,rick ross,1,1,cranes in the sky (remix),2016-11-07,2016,11,
+drink,1,solange,1,1,cranes in the sky (remix),2016-11-07,2016,11,
+wheat grass,1,rick ross,1,1,cranes in the sky (remix),2016-11-07,2016,11,
+peanut,1,rick ross,1,1,crib in my closet,0,0,0,Legumes and Legume Products
+butter,1,rick ross,1,1,crib in my closet,0,0,0,Dairy and Egg Products
+pork,1,rick ross,1,1,crib in my closet,0,0,0,Pork Products
+peanut butter,1,rick ross,-1,-1,crib in my closet,0,0,0,Legumes and Legume Products
+peanut,1,2 chainz,1,1,crib in my closet,2014-05-05,2014,5,Legumes and Legume Products
+butter,1,2 chainz,1,1,crib in my closet,2014-05-05,2014,5,Dairy and Egg Products
+pork,1,rick ross,1,1,crib in my closet,2014-05-05,2014,5,Pork Products
+peanut butter,1,2 chainz,-1,-1,crib in my closet,2014-05-05,2014,5,Legumes and Legume Products
+goose,1,miguel,1,1,criminal,2017-12-01,2017,12,Poultry Products
+stuffing,1,rick ross,1,1,crocodile python,2015-11-24,2015,11,Baked Products
+ice,1,rick ross,1,1,crocodile python,2015-11-24,2015,11,
+fruit,3,rick ross,1,3,crocodile python,2015-11-24,2015,11,Baby Foods
+butter,1,rick ross,1,1,cross that line,2006-08-08,2006,8,Dairy and Egg Products
+alcohol,1,nina sky,1,1,curtain call,0,0,0,Spices and Herbs
+cream,1,nina sky,1,1,curtain call,0,0,0,Dairy and Egg Products
+whipped cream,1,nina sky,1,1,curtain call,0,0,0,
+drink,1,,1,1,cut her off,0,0,0,
+bubblegum,1,rick ross,1,1,cut her off,0,0,0,
+nut,1,rick ross,1,1,cut her off,0,0,0,Nut and Seed Products
+sauce,1,rick ross,1,1,cut her off,0,0,0,"Soups, Sauces, and Gravies"
+wendys,1,rick ross,1,1,cut her off,0,0,0,Fast Foods
+hot sauce,1,rick ross,1,1,cut her off,0,0,0,
+drink,1,rick ross,1,1,cut her off (remix),2014-04-05,2014,4,
+bubblegum,1,k camp,1,1,cut her off (remix),2014-04-05,2014,4,
+nut,1,k camp,1,1,cut her off (remix),2014-04-05,2014,4,Nut and Seed Products
+sauce,1,2 chainz,1,1,cut her off (remix),2014-04-05,2014,4,"Soups, Sauces, and Gravies"
+wendys,1,2 chainz,1,1,cut her off (remix),2014-04-05,2014,4,Fast Foods
+hot sauce,1,2 chainz,1,1,cut her off (remix),2014-04-05,2014,4,
+whiskey,1,pricetag,1,1,cypher,2013-03-09,2013,3,Beverages
+popcorn,1,oktane,1,1,cypher,2013-03-09,2013,3,Snacks
+water,1,oktane,1,1,cypher,2013-03-09,2013,3,Beverages
+water,1,xzibit,1,1,cypher,2013-03-09,2013,3,Beverages
+pea,1,casey veggies,1,1,cypher,2013-03-09,2013,3,Vegetables and Vegetable Products
+carrot,1,casey veggies,1,1,cypher,2013-03-09,2013,3,Vegetables and Vegetable Products
+veggie,1,casey veggies,1,1,cypher,2013-03-09,2013,3,
+rose,1,rick ross,1,1,cypher,2013-03-09,2013,3,Beverages
+beverage,1,rick ross,1,1,dead presidents,2017-03-15,2017,3,Beverages
+heinz,1,jeezy,1,1,dead presidents,2017-03-15,2017,3,Baked Products
+beef,1,rick ross,1,1,dead rappers,2015-09-03,2015,9,Beef Products
+lemon,1,rick ross,1,1,dead rappers,2015-09-03,2015,9,Beverages
+butter,1,rick ross,1,1,dead rappers,2015-09-03,2015,9,Dairy and Egg Products
+peanut,1,rick ross,1,1,dead rappers,2015-09-03,2015,9,Legumes and Legume Products
+dough,2,rick ross,1,2,dear lord,2007-09-18,2007,9,
+lamb,1,rick ross,1,1,dear lord,2007-09-18,2007,9,"Lamb, Veal, and Game Products"
+ice,1,rick ross,1,1,deep in the game,0,0,0,
+ice,1,fat trel,1,1,deep in the game,0,0,0,
+ice,1,,1,1,deuces,2011-01-01,2011,1,
+water,1,,1,1,diddy intro,2010-05-27,2010,5,Beverages
+tequila,3,rick ross,1,3,dirty white speaks make em say huh,0,0,0,
+trout,1,rick ross,1,1,dog food,0,0,0,Finfish and Shellfish Products
+food,4,rick ross,1,4,dog food,0,0,0,
+barley,1,rick ross,1,1,dog food,0,0,0,Cereal Grains and Pasta
+lobster,1,rick ross,1,1,dog food,0,0,0,Finfish and Shellfish Products
+crab,1,rick ross,1,1,dog food,0,0,0,Finfish and Shellfish Products
+water,1,rick ross,1,1,dog food,0,0,0,Beverages
+beef,2,rick ross,1,2,dog food,0,0,0,Beef Products
+rice,1,rick ross,1,1,dog food,0,0,0,Cereal Grains and Pasta
+cheese,1,rick ross,1,1,dog food,0,0,0,Dairy and Egg Products
+ice,4,cognito and rick ross,1,4,dog it's not you,0,0,0,
+champagne,1,rick ross,1,1,dog it's not you,0,0,0,
+herb,1,rick ross,1,1,dog it's not you,0,0,0,Beverages
+fish,1,cognito,1,1,dog it's not you,0,0,0,Finfish and Shellfish Products
+vanilla,1,cognito,1,1,dog it's not you,0,0,0,Sweets
+wine,1,cognito,1,1,dog it's not you,0,0,0,Beverages
+nut,1,project pat,1,1,dollar signs (remix),0,0,0,Nut and Seed Products
+cooking,1,project pat,1,1,dollar signs (remix),0,0,0,Beverages
+candy,1,trey songz,1,1,don't be scared,2012-08-21,2012,8,Sweets
+drink,1,trey songz,1,1,don't be scared,2012-08-21,2012,8,
+ice,1,,1,1,don't change,0,0,0,
+cake,1,,1,1,don't change,0,0,0,Baked Products
+syrup,1,,1,1,don't change,0,0,0,Sweets
+ice cube,1,,1,1,don't change,0,0,0,
+lemon,1,ed sheeran,1,1,dont here,0,0,0,Beverages
+gin,1,ed sheeran,1,1,dont here,0,0,0,
+drink,1,ed sheeran,1,1,dont here,0,0,0,
+pizza,1,ed sheeran,1,1,dont here,0,0,0,Fast Foods
+ice,1,t.i.,1,1,deuces (t.i. & rick ross remix),2010-11-02,2010,11,
+ice,1,rick ross,1,1,deuces (t.i. & rick ross remix),2010-11-02,2010,11,
+crab,1,rick ross,1,1,don't like,2012-10-22,2012,10,Finfish and Shellfish Products
+candy,1,rick ross,1,1,don't like,2012-10-22,2012,10,Sweets
+rose,2,kanye west,1,2,don't like,2012-10-22,2012,10,Beverages
+ice,1,kanye west,1,1,don't like,2012-10-22,2012,10,
+vegetarian,1,kanye west,1,1,don't like,2012-10-22,2012,10,Legumes and Legume Products
+rice,1,kanye west,1,1,don't like,2012-10-22,2012,10,Cereal Grains and Pasta
+brown rice,1,kanye west,1,1,don't like,2012-10-22,2012,10,Snacks
+sausage,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Sausages and Luncheon Meats
+snack,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Snacks
+chicken,4,rick ross,1,4,don't (parody remix),2016-02-25,2016,2,Poultry Products
+popeyes,3,rick ross,1,3,don't (parody remix),2016-02-25,2016,2,Fast Foods
+ketchup,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Vegetables and Vegetable Products
+mustard,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Spices and Herbs
+lettuce,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Vegetables and Vegetable Products
+food,4,rick ross,1,4,don't (parody remix),2016-02-25,2016,2,
+fry,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,
+pie,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Baked Products
+lemon,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Beverages
+pepper,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Vegetables and Vegetable Products
+burger,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,
+biscuit,2,rick ross,1,2,don't (parody remix),2016-02-25,2016,2,Fast Foods
+waffle,2,rick ross,1,2,don't (parody remix),2016-02-25,2016,2,Baked Products
+mcdonalds,2,rick ross,1,2,don't (parody remix),2016-02-25,2016,2,Fast Foods
+taco,2,rick ross,1,2,don't (parody remix),2016-02-25,2016,2,Spices and Herbs
+sauce,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,"Soups, Sauces, and Gravies"
+chicken tender,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Restaurant Foods
+lemon pepper,1,rick ross,-1,-1,don't (parody remix),2016-02-25,2016,2,
+burger king,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,Fast Foods
+taco bell,2,rick ross,1,2,don't (parody remix),2016-02-25,2016,2,Fast Foods
+white sauce,1,rick ross,1,1,don't (parody remix),2016-02-25,2016,2,
+skittle,1,diddy,1,1,don't shoot,2014-08-27,2014,8,
+cocktail,1,diddy,1,1,don't shoot,2014-08-27,2014,8,"Soups, Sauces, and Gravies"
+egg,1,2 chainz,1,1,don't shoot,2014-08-27,2014,8,Dairy and Egg Products
+ice,1,fabolous,1,1,don't shoot,2014-08-27,2014,8,
+ice,1,wale,1,1,don't shoot,2014-08-27,2014,8,
+water,1,fabolous,1,1,don't shoot,2014-08-27,2014,8,Beverages
+mustard,1,yg,1,1,don't tell em (rick ross remix),2014-10-24,2014,10,Spices and Herbs
+fufu,1,jeremih,1,1,don't tell em (rick ross remix),2014-10-24,2014,10,
+fufu,1,rick ross,1,1,don't tell em (rick ross remix),2014-10-24,2014,10,
+syrup,5,future,1,5,d.o.p.e.,2015-12-04,2015,12,Sweets
+breakfast,1,rick ross,1,1,d.o.p.e.,2015-12-04,2015,12,Baked Products
+rose,1,jessica gomes,1,1,dope bitch,0,0,0,Beverages
+rose,5,rick ross,1,5,dope bitch,0,0,0,Beverages
+champagne,2,rick ross,1,2,dope bitch,0,0,0,
+rose,6,rick ross,1,6,dope bitch (skit),2014-03-03,2014,3,Beverages
+champagne,2,rick ross,1,2,dope bitch (skit),2014-03-03,2014,3,
+rose,1,curren$y & purps,1,1,dope b*tch skit,0,0,0,Beverages
+rose,5,rick ross,1,5,dope b*tch skit,0,0,0,Beverages
+champagne,2,rick ross,1,2,dope b*tch skit,0,0,0,
+ice,1,rick ross,1,1,dope dick,2015-12-04,2015,12,
+cream,1,rick ross,1,1,dope dick,2015-12-04,2015,12,Dairy and Egg Products
+toaster,1,rick ross,1,1,dope dick,2015-12-04,2015,12,
+pineapple,1,rick ross,1,1,dope dick,2015-12-04,2015,12,Fruits and Fruit Juices
+pear,1,rick ross,1,1,dope dick,2015-12-04,2015,12,Fruits and Fruit Juices
+lemon,1,rick ross,1,1,dope dick,2015-12-04,2015,12,Beverages
+pepper,1,rick ross,1,1,dope dick,2015-12-04,2015,12,Vegetables and Vegetable Products
+ice cream,1,rick ross,-1,-1,dope dick,2015-12-04,2015,12,Sweets
+lemon pepper,1,rick ross,-1,-1,dope dick,2015-12-04,2015,12,
+lemon,1,ed sheeran,1,1,don't (rick ross remix),2014-08-18,2014,8,Beverages
+gin,1,ed sheeran,1,1,don't (rick ross remix),2014-08-18,2014,8,
+drink,1,ed sheeran,1,1,don't (rick ross remix),2014-08-18,2014,8,
+pizza,1,ed sheeran,1,1,don't (rick ross remix),2014-08-18,2014,8,Fast Foods
+drink,1,r. kelly,1,1,do what u want (djws remix),2013-12-20,2013,12,
+bacon,1,ludacris,1,1,down in tha dirty,0,0,0,Pork Products
+toaster,1,ludacris,1,1,down in tha dirty,0,0,0,
+lobster,1,rick ross,1,1,down in tha dirty,0,0,0,Finfish and Shellfish Products
+salad,1,rick ross,1,1,down in tha dirty,0,0,0,
+lobster salad,1,rick ross,-1,-1,down in tha dirty,0,0,0,
+mm,3,ksi,1,3,down like that,2019-11-10,2019,11,
+mm,3,ksi,1,3,down like that [tmpkfk remix],2020-04-03,2020,4,
+chicken,1,rick ross,1,1,drive a nigga crazy,2015-09-03,2015,9,Poultry Products
+iced,1,rick ross,1,1,drive a nigga crazy,2015-09-03,2015,9,Beverages
+nut,1,rick ross,1,1,drive a nigga crazy,2015-09-03,2015,9,Nut and Seed Products
+champagne,1,boosie badazz,1,1,drop top music,2015-05-22,2015,5,
+snail,1,boosie badazz,1,1,drop top music,2015-05-22,2015,5,Finfish and Shellfish Products
+beef,2,rick ross,1,2,drop top music,2015-05-22,2015,5,Beef Products
+nut,1,rick ross,1,1,drug dealer's dream,2014-03-03,2014,3,Nut and Seed Products
+water,1,rick ross,1,1,drug dealer's dream,2014-03-03,2014,3,Beverages
+ham,1,a$ap ferg,1,1,east coast remix,2017-08-04,2017,8,Pork Products
+moscato,1,dave east,1,1,east coast remix,2017-08-04,2017,8,
+pinot,1,dave east,1,1,east coast remix,2017-08-04,2017,8,
+noodle,1,dave east,1,1,east coast remix,2017-08-04,2017,8,Cereal Grains and Pasta
+ramen,1,dave east,1,1,east coast remix,2017-08-04,2017,8,
+yam,2,french montana,1,2,east coast remix,2017-08-04,2017,8,Vegetables and Vegetable Products
+bloody mary,1,rick ross,2,2,east coast remix,2017-08-04,2017,8,
+water,1,jadakiss,1,1,eastern conference final,2015-05-22,2015,5,Beverages
+steak,1,rick ross,1,1,eastern conference final,2015-05-22,2015,5,Beef Products
+lobster,1,rick ross,1,1,eastern conference final,2015-05-22,2015,5,Finfish and Shellfish Products
+rice,1,rick ross,1,1,eastern conference final,2015-05-22,2015,5,Cereal Grains and Pasta
+ice,1,rick ross,1,1,eastern conference final,2015-05-22,2015,5,
+caramel,1,rick ross,1,1,eastern conference final,2015-05-22,2015,5,Sweets
+mm,1,rick ross,1,1,eastern conference final,2015-05-22,2015,5,
+mm,3,ksi,1,3,down like that,2019-11-08,2019,11,
+soda,2,rick ross,1,2,elvis presley blvd.,2014-09-19,2014,9,Baked Products
+food,4,rick ross,1,4,elvis presley blvd.,2014-09-19,2014,9,
+cracker,7,rick ross,1,7,elvis presley blvd.,2014-09-19,2014,9,Baked Products
+vanilla,2,rick ross,1,2,elvis presley blvd.,2014-09-19,2014,9,Sweets
+melon,1,project pat,1,1,elvis presley blvd.,2014-09-19,2014,9,Fruits and Fruit Juices
+iced,1,project pat,1,1,elvis presley blvd.,2014-09-19,2014,9,Beverages
+lemon,1,rick ross,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Beverages
+pepper,1,rick ross,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Vegetables and Vegetable Products
+food,2,rick ross,1,2,elvis presley blvd (remix),2014-11-04,2014,11,
+cod,1,rick ross,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Finfish and Shellfish Products
+cracker,2,rick ross,1,2,elvis presley blvd (remix),2014-11-04,2014,11,Baked Products
+cracker,2,mjg,1,2,elvis presley blvd (remix),2014-11-04,2014,11,Baked Products
+rose,1,yo gotti,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Beverages
+chicken,1,project pat,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Poultry Products
+chicken,1,juicy j,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Poultry Products
+cookie,1,young dolph,1,1,elvis presley blvd (remix),2014-11-04,2014,11,Baked Products
+lemon pepper,1,rick ross,-1,-1,elvis presley blvd (remix),2014-11-04,2014,11,
+champagne,1,rick ross,1,1,equal,2016-06-03,2016,6,
+rose,1,drei ros,1,1,euro brick,2014-01-20,2014,1,Beverages
+rose,1,rick ross,1,1,euro bricks,0,0,0,Beverages
+margarita,1,rick ross,1,1,even deeper,2010-12-24,2010,12,
+cheese,1,rick ross,1,1,even deeper,2010-12-24,2010,12,Dairy and Egg Products
+scramble,1,rick ross,1,1,even deeper,2010-12-24,2010,12,
+chicken,1,rick ross,1,1,even deeper,2010-12-24,2010,12,Poultry Products
+champagne,11,red cafe,1,11,faded,2011-03-17,2011,3,
+cafe,1,red cafe,1,1,faded,2011-03-17,2011,3,
+champagne,1,lil' kim,1,1,faded,2011-02-14,2011,2,
+cheese,1,lil' kim,1,1,faded,2011-02-14,2011,2,Dairy and Egg Products
+food,1,rick ross,1,1,family ties,2014-11-24,2014,11,
+rose,1,rick ross,1,1,family ties,2014-11-24,2014,11,Beverages
+stew,1,rick ross,1,1,famous remix,2016-02-21,2016,2,American Indian/Alaska Native Foods
+nut,1,rick ross,1,1,fascinated,2019-08-09,2019,8,Nut and Seed Products
+candy,4,rick ross,1,4,fascinated,2019-08-09,2019,8,Sweets
+meatloaf,1,rick ross,1,1,fascinated,2019-08-09,2019,8,
+bread,1,wale,1,1,expectations,2019-10-11,2019,10,Baked Products
+lox,1,the lox,1,1,feel my pain,2016-08-13,2016,8,Finfish and Shellfish Products
+water,1,sheek,1,1,feel my pain,2016-08-13,2016,8,Beverages
+rum,1,jadakiss,1,1,feel my pain,2016-08-13,2016,8,Beverages
+popcorn,1,rick ross,1,1,finals 2,2014-06-05,2014,6,Snacks
+cake,2,rick ross,1,2,finals 2,2014-06-05,2014,6,Baked Products
+salmon,1,french montana,1,1,finals 2,2014-06-05,2014,6,Finfish and Shellfish Products
+rose,1,rockie fresh,1,1,finals 2,2014-06-05,2014,6,Beverages
+champagne,1,tracy t,1,1,finals 2,2014-06-05,2014,6,
+patty,1,tracy t,1,1,finals 2,2014-06-05,2014,6,Poultry Products
+cabbage,1,tracy t,1,1,finals 2,2014-06-05,2014,6,Vegetables and Vegetable Products
+merlot,1,jay rock,1,1,finest hour,2011-07-26,2011,7,Beverages
+soda,1,rick ross,1,1,finest hour,2011-07-26,2011,7,Baked Products
+baking soda,1,rick ross,1,1,finest hour,2011-07-26,2011,7,Baked Products
+drinking,1,2 chainz,1,1,fire,2013-09-11,2013,9,Beverages
+cherry,1,2 chainz,1,1,fire,2013-09-11,2013,9,Fruits and Fruit Juices
+juice,1,rick ross,1,1,flashing lights,2015-11-26,2015,11,Baby Foods
+chocolate,1,rick ross,1,1,flashing lights,2015-11-26,2015,11,Sweets
+syrup,1,rick ross,1,1,flashing lights,2015-11-26,2015,11,Sweets
+nut,1,juicy j,1,1,flip that bitch a few times,0,0,0,Nut and Seed Products
+candy,1,rick ross,1,1,florida boy,2018-02-02,2018,2,Sweets
+lobster,1,rick ross,1,1,florida boy,2018-02-02,2018,2,Finfish and Shellfish Products
+lobster,1,kodak black,1,1,florida boy,2018-02-02,2018,2,Finfish and Shellfish Products
+peanut,1,kodak black,1,1,florida boy,2018-02-02,2018,2,Legumes and Legume Products
+butter,1,kodak black,1,1,florida boy,2018-02-02,2018,2,Dairy and Egg Products
+lunchables,1,kodak black,1,1,florida boy,2018-02-02,2018,2,
+peanut butter,1,kodak black,-1,-1,florida boy,2018-02-02,2018,2,Legumes and Legume Products
+ice,1,rick ross,1,1,fontaine bleu,0,0,0,
+gelato,1,diddy,1,1,fontaine bleu,0,0,0,
+rose,1,diddy,1,1,fontaine bleu,0,0,0,Beverages
+fried,1,diddy,1,1,fontaine bleu,0,0,0,Poultry Products
+chicken,1,diddy,1,1,fontaine bleu,0,0,0,Poultry Products
+champagne,1,diddy,1,1,fontaine bleu,0,0,0,
+fried chicken,1,diddy,-1,-1,fontaine bleu,0,0,0,Fast Foods
+cream,1,shawty lo,1,1,foolish (remix),2008-09-16,2008,9,Dairy and Egg Products
+candy,1,shawty lo,1,1,foolish (remix),2008-09-16,2008,9,Sweets
+beef,1,shawty lo,1,1,foolish (remix),2008-09-16,2008,9,Beef Products
+candy,1,rick ross,1,1,for da low,2006-08-08,2006,8,Sweets
+herb,1,rick ross,1,1,for da low,2006-08-08,2006,8,Beverages
+beef,1,rick ross,1,1,for da low,2006-08-08,2006,8,Beef Products
+dough,2,rick ross,1,2,for da low,2006-08-08,2006,8,
+rose,1,rick ross,1,1,fountain of youth,2012-06-26,2012,6,Beverages
+rose,1,nipsey hussle,1,1,fountain of youth,2012-06-26,2012,6,Beverages
+dough,1,rick ross,1,1,fountain of youth,2012-06-26,2012,6,
+dough,8,big k.r.i.t.,1,8,freaky hoe,2016-10-17,2016,10,
+nut,1,rick ross,1,1,freaky hoe,2016-10-17,2016,10,Nut and Seed Products
+banana,1,juicy j,1,1,freaky hoe,2016-10-17,2016,10,Fruits and Fruit Juices
+drinking,1,juicy j,1,1,freaky hoe,2016-10-17,2016,10,Beverages
+peach,1,too $hort,1,1,freaky hoe,2016-10-17,2016,10,Fruits and Fruit Juices
+orange,1,too $hort,1,1,freaky hoe,2016-10-17,2016,10,Fruits and Fruit Juices
+georgia peach,1,too $hort,1,1,freaky hoe,2016-10-17,2016,10,
+beef,1,rick ross,1,1,free enterprise,2015-12-04,2015,12,Beef Products
+peach,1,john legend,1,1,freestyle,0,0,0,Fruits and Fruit Juices
+smoothie,1,john legend,1,1,freestyle,0,0,0,
+honey,3,john legend,1,3,freestyle,0,0,0,Sweets
+drink,1,john legend,1,1,freestyle,0,0,0,
+whopper,3,,1,3,freeze me remix,0,0,0,Fast Foods
+water,1,,1,1,freeze me remix,0,0,0,Beverages
+turkey,2,,1,2,freeze me remix,0,0,0,Poultry Products
+bacon,1,,1,1,freeze me remix,0,0,0,Pork Products
+beef,1,rick ross,1,1,freeze me remix,0,0,0,Beef Products
+ham,1,rick ross,1,1,freeze me remix,0,0,0,Pork Products
+cheese,1,rick ross,1,1,freeze me remix,0,0,0,Dairy and Egg Products
+mayo,1,rick ross,1,1,freeze me remix,0,0,0,
+double whopper,3,,1,3,freeze me remix,0,0,0,Fast Foods
+turkey bacon,1,,-1,-1,freeze me remix,0,0,0,
+mm,1,rick ross,1,1,fresh prince of belaire,2018-07-06,2018,7,
+vodka,1,rick ross,1,1,fresh prince of belaire,2018-07-06,2018,7,Beverages
+rum,1,rick ross,1,1,fresh prince of belaire,2018-07-06,2018,7,Beverages
+fry,1,rick ross,1,1,fresh prince of belaire,2018-07-06,2018,7,
+ice,1,rick ross,1,1,fresh prince of belaire,2018-07-06,2018,7,
+mint,3,rick ross,1,3,fuck em,2012-01-06,2012,1,
+boost,2,2 chainz,1,2,fuck em,2012-01-06,2012,1,
+juice,1,2 chainz,1,1,fuck em,2012-01-06,2012,1,Baby Foods
+cheddar,1,rick ross,1,1,fuckin problems,0,0,0,Dairy and Egg Products
+pizza,2,big sean,1,2,fuck up some commas (remix),2015-05-25,2015,5,Fast Foods
+sauce,1,rick ross,1,1,fuck up the club,2016-07-29,2016,7,"Soups, Sauces, and Gravies"
+sauce,1,yo gotti,1,1,fuck up the club,2016-07-29,2016,7,"Soups, Sauces, and Gravies"
+dough,1,yg,1,1,fuck up the club,2016-07-29,2016,7,
+12 pack,1,yo gotti,2,2,fuck up the club,2016-07-29,2016,7,
+ham,16,trina,1,16,gallardo,2013-09-17,2013,9,Pork Products
+lobster,1,rick ross,1,1,gallardo,2013-09-17,2013,9,Finfish and Shellfish Products
+iced,1,rick ross,1,1,future bright,2020-01-17,2020,1,Beverages
+lobster,1,rick ross,1,1,gallardo,0,0,0,Finfish and Shellfish Products
+ham,2,female,1,2,gallardo,0,0,0,Pork Products
+cheese,3,rick ross,1,3,game ain't based on sympathy,2017-03-17,2017,3,Dairy and Egg Products
+cream,1,rick ross,1,1,game ain't based on sympathy,2017-03-17,2017,3,Dairy and Egg Products
+soda,2,rick ross,1,2,game over,2014-01-22,2014,1,Baked Products
+ice,1,fat trel,1,1,game over,2014-01-22,2014,1,
+deep dish,1,young breed,2,2,game over,2014-01-22,2014,1,Baked Products
+baking soda,2,rick ross,1,2,game over,2014-01-22,2014,1,Baked Products
+cabbage,1,rick ross,1,1,gang related,0,0,0,Vegetables and Vegetable Products
+dough,1,rick ross,1,1,gang related,0,0,0,
+marinate,1,rick ross,1,1,geechi liberace,2015-09-03,2015,9,
+sour,1,rick ross,1,1,geechi liberace,2015-09-03,2015,9,Fruits and Fruit Juices
+chicken,1,fat trel,1,1,geetchi liberachi,2015-06-09,2015,6,Poultry Products
+steak,1,fat trel,1,1,geetchi liberachi,2015-06-09,2015,6,Beef Products
+shrimp,1,fat trel,1,1,geetchi liberachi,2015-06-09,2015,6,Finfish and Shellfish Products
+linguine,1,fat trel,1,1,geetchi liberachi,2015-06-09,2015,6,
+marshmallow,1,rick ross,1,1,get away,2006-08-08,2006,8,Baked Products
+dough,1,rick ross,1,1,get away,2006-08-08,2006,8,
+ice,1,pharrell williams,1,1,get down,2008-05-27,2008,5,
+cream,1,pharrell williams,1,1,get down,2008-05-27,2008,5,Dairy and Egg Products
+beef,1,pharrell williams,1,1,get down,2008-05-27,2008,5,Beef Products
+bread,1,rick ross,1,1,get down,2008-05-27,2008,5,Baked Products
+ice cream,1,pharrell williams,-1,-1,get down,2008-05-27,2008,5,Sweets
+ice,1,kid ink,1,1,get home,0,0,0,
+cocktail,1,rick ross,1,1,get home,0,0,0,"Soups, Sauces, and Gravies"
+pike,2,brianna perry,1,2,get it together,0,0,0,Finfish and Shellfish Products
+beef,1,brianna perry,1,1,get it together,0,0,0,Beef Products
+bread,1,brianna perry,1,1,get it together,0,0,0,Baked Products
+dough,4,brianna perry,1,4,get it together,0,0,0,
+bread,1,rick ross,1,1,get that bread,0,0,0,Baked Products
+pan,1,rick ross,1,1,get that bread,0,0,0,
+beef,1,rick ross,1,1,get that bread,0,0,0,Beef Products
+ice,1,cinque,1,1,get that bread,0,0,0,
+spaghetti,1,rick ross,1,1,getting mine,0,0,0,Cereal Grains and Pasta
+meatball,1,rick ross,1,1,getting mine,0,0,0,Legumes and Legume Products
+cheddar,1,rick ross,1,1,ghostwriter,2015-12-04,2015,12,Dairy and Egg Products
+meal,1,rick ross,1,1,girl friday,2017-07-07,2017,7,Baked Products
+drink,1,rick ross,1,1,girl friday,2017-07-07,2017,7,
+vegan,1,capital cities,1,1,girl friday (no rap),2018-08-10,2018,8,
+cooking,1,shy glizzy,1,1,get money,2018-10-12,2018,10,Beverages
+cheese,1,shy glizzy,1,1,get money,2018-10-12,2018,10,Dairy and Egg Products
+blue cheese,1,shy glizzy,1,1,get money,2018-10-12,2018,10,
+syrup,1,the game,1,1,"girls all around the world (remix) 12""",0,0,0,Sweets
+iced,1,the game,1,1,"girls all around the world (remix) 12""",0,0,0,Beverages
+water,1,t.i.,1,1,"girls all around the world (remix) 12""",0,0,0,Beverages
+honey,1,t.i.,1,1,"girls all around the world (remix) 12""",0,0,0,Sweets
+tea,1,yung joc,1,1,"girls all around the world (remix) 12""",0,0,0,Beverages
+ice,1,young dro,1,1,"girls all around the world (remix) 12""",0,0,0,
+chicken,1,pitbull,1,1,"girls all around the world (remix) 12""",0,0,0,Poultry Products
+dough,1,akon,1,1,give it to 'em,2010-11-01,2010,11,
+dough,1,rick ross,1,1,give it to 'em,0,0,0,
+scramble,1,rick ross,1,1,glory of war,2017-06-30,2017,6,
+fruit,1,rick ross,1,1,glory of war,2017-06-30,2017,6,Baby Foods
+dough,3,blackbear,1,3,​glo_up,2017-11-27,2017,11,
+candy,1,blackbear,1,1,​glo_up,2017-11-27,2017,11,Sweets
+apple,1,blackbear,1,1,​glo_up,2017-11-27,2017,11,Fruits and Fruit Juices
+soda,1,blackbear,1,1,​glo_up,2017-11-27,2017,11,Baked Products
+fried,1,rick ross,1,1,​glo_up,2017-11-27,2017,11,Poultry Products
+rice,1,rick ross,1,1,​glo_up,2017-11-27,2017,11,Cereal Grains and Pasta
+candy apple,1,blackbear,-1,-1,​glo_up,2017-11-27,2017,11,
+fried rice,1,rick ross,-1,-1,​glo_up,2017-11-27,2017,11,Restaurant Foods
+bacardi,1,blackbear,1,1,go,0,0,0,
+wheat,1,flo rida,1,1,go ahead,2008-09-16,2008,9,Baked Products
+bread,1,flo rida,1,1,go ahead,2008-09-16,2008,9,Baked Products
+pillsbury,1,flo rida,1,1,go ahead,2008-09-16,2008,9,Baked Products
+dough,1,flo rida,1,1,go ahead,2008-09-16,2008,9,
+cake,1,fat joe,1,1,go ahead,2008-09-16,2008,9,Baked Products
+white bread,1,flo rida,1,1,go ahead,2008-09-16,2008,9,Baked Products
+ice,2,rick ross,1,2,"god forgives, i don't [credits]",2012-07-30,2012,7,
+pineapple,2,rick ross,1,2,"god forgives, i don't [credits]",2012-07-30,2012,7,Fruits and Fruit Juices
+water,1,rick ross,1,1,"god forgives, i don't [credits]",2012-07-30,2012,7,Beverages
+graham,1,rick ross,1,1,"god forgives, i don't [credits]",2012-07-30,2012,7,
+diced pineapple,2,rick ross,1,2,"god forgives, i don't [credits]",2012-07-30,2012,7,
+tea,1,yo gotti,1,1,go get the money,2018-05-11,2018,5,Beverages
+tea,1,rick ross,1,1,go get the money,2018-05-11,2018,5,Beverages
+oil,1,yo gotti,1,1,go get the money,2018-05-11,2018,5,Fats and Oils
+mushroom,1,t.i.,1,1,go get the money,2018-05-11,2018,5,Vegetables and Vegetable Products
+drink,1,t.i.,1,1,go get the money,2018-05-11,2018,5,
+dressing,1,t.i.,1,1,go get the money,2018-05-11,2018,5,Fats and Oils
+crockpot,1,pusha t,1,1,go get the money,2018-05-11,2018,5,
+breaded,1,pusha t,1,1,go get the money,2018-05-11,2018,5,Vegetables and Vegetable Products
+iced,1,rick ross,1,1,gold wrappers,2016-04-21,2016,4,Beverages
+rose,2,torch (triple c),1,2,grind 24,0,0,0,Beverages
+chicken,1,torch (triple c),1,1,grind 24,0,0,0,Poultry Products
+grain,4,,1,4,grippin grain,0,0,0,
+cake,1,,1,1,grippin grain,0,0,0,Baked Products
+dough,1,,1,1,grippin grain,0,0,0,
+deli,1,,1,1,grippin grain,0,0,0,Sausages and Luncheon Meats
+bean,1,omelly,1,1,gummo (remix),2018-04-13,2018,4,Legumes and Legume Products
+champagne,1,rick ross,1,1,gunplay,2009-04-21,2009,4,
+steak,1,rick ross,1,1,gunplay,2009-04-21,2009,4,Beef Products
+herb,1,rick ross,1,1,gunplay,2009-04-21,2009,4,Beverages
+dough,1,rick ross,1,1,gunplay,2009-04-21,2009,4,
+soda,1,m beezy,1,1,half a brick,0,0,0,Baked Products
+baking soda,1,m beezy,1,1,half a brick,0,0,0,Baked Products
+bread,1,yo gotti,1,1,harder,2012-01-10,2012,1,Baked Products
+dough,1,rick ross,1,1,harder,2012-01-10,2012,1,
+soda,1,busta rhymes,1,1,harsh,2011-08-16,2011,8,Baked Products
+scotch,1,busta rhymes,1,1,harsh,2011-08-16,2011,8,
+doritos,1,styles p,1,1,harsh,2011-08-16,2011,8,
+mojito,1,styles p,1,1,harsh,2011-08-16,2011,8,
+lox,1,rick ross,1,1,harsh,2011-08-16,2011,8,Finfish and Shellfish Products
+breakfast,1,rick ross,1,1,harsh,2011-08-16,2011,8,Baked Products
+beef,1,rick ross,1,1,harsh,2011-08-16,2011,8,Beef Products
+sofrito,1,rick ross,1,1,harsh,2011-08-16,2011,8,"Soups, Sauces, and Gravies"
+baking soda,1,busta rhymes,1,1,harsh,2011-08-16,2011,8,Baked Products
+nut,1,juvenile,1,1,haterz,2008-02-22,2008,2,Nut and Seed Products
+beef,1,rick ross,1,1,headache,2014-11-24,2014,11,Beef Products
+ravioli,1,rick ross,1,1,green gucci suit,2018-06-22,2018,6,"Meals, Entrees, and Side Dishes"
+candy,1,rick ross,1,1,green gucci suit,2018-06-22,2018,6,Sweets
+candy,1,future,1,1,green gucci suit,2018-06-22,2018,6,Sweets
+pork,1,future,1,1,green gucci suit,2018-06-22,2018,6,Pork Products
+bean,1,future,1,1,green gucci suit,2018-06-22,2018,6,Legumes and Legume Products
+juice,1,future,1,1,green gucci suit,2018-06-22,2018,6,Baby Foods
+rose,2,russ,1,2,guess what,2020-01-31,2020,1,Beverages
+dough,1,talib kweli,1,1,heads up eyes open,2017-09-28,2017,9,
+rose,1,rick ross,1,1,heads up eyes open,2017-09-28,2017,9,Beverages
+nut,1,bigga rankins,1,1,heartless,2017-04-04,2017,4,Nut and Seed Products
+beef,2,yfn lucci,1,2,heartless,2017-04-04,2017,4,Beef Products
+cake,1,yfn lucci,1,1,heartless,2017-04-04,2017,4,Baked Products
+water,1,rick ross,1,1,heartless,2017-04-04,2017,4,Beverages
+rose,1,whole slab,1,1,heavyweight,2014-11-24,2014,11,Beverages
+vanilla,1,rick ross,1,1,heavyweight,2014-11-24,2014,11,Sweets
+fish,1,rick ross,1,1,hello good morning,0,0,0,Finfish and Shellfish Products
+carrot,1,rick ross,1,1,hello good morning,0,0,0,Vegetables and Vegetable Products
+dough,1,rick ross,1,1,hello good morning,0,0,0,
+fish,1,rick ross,1,1,dirty money,2010-06-22,2010,6,Finfish and Shellfish Products
+dough,1,diddy,1,1,dirty money,2010-06-22,2010,6,
+steak,1,rick ross,1,1,hello (remix),2015-10-29,2015,10,Beef Products
+pie,1,stacy barthe,1,1,hell yeah,0,0,0,Baked Products
+banana,1,rick ross,1,1,high definition,2012-01-06,2012,1,Fruits and Fruit Juices
+nut,1,rick ross,1,1,high definition,2012-01-06,2012,1,Nut and Seed Products
+sugar,1,rick ross,1,1,hit u from the back,2006-08-08,2006,8,Sweets
+chicken,1,rick ross,1,1,hit u from the back,2006-08-08,2006,8,Poultry Products
+sushi,1,rick ross,1,1,hit u from the back,2006-08-08,2006,8,
+lobster,1,rick ross,1,1,hit u from the back,2006-08-08,2006,8,Finfish and Shellfish Products
+shrimp,1,rick ross,1,1,hit u from the back,2006-08-08,2006,8,Finfish and Shellfish Products
+lobster tail,1,rick ross,1,1,hit u from the back,2006-08-08,2006,8,
+drink,1,mackgee,1,1,hold me back,0,0,0,
+gum,1,mackgee,1,1,hold me back,0,0,0,Sweets
+soda,1,mackgee,1,1,hold me back,0,0,0,Baked Products
+beef,1,mackgee,1,1,hold me back,0,0,0,Beef Products
+burger,1,mackgee,1,1,hold me back,0,0,0,
+bubble gum,1,mackgee,1,1,hold me back,0,0,0,
+burger king,1,mackgee,1,1,hold me back,0,0,0,Fast Foods
+steak,1,rick ross,1,1,hold me back,2012-07-02,2012,7,Beef Products
+soup,1,rick ross,1,1,hold me back,2012-07-02,2012,7,"Soups, Sauces, and Gravies"
+rose,1,rick ross,1,1,hold me back,2012-07-02,2012,7,Beverages
+cracker,1,,1,1,hold me down,2007-09-18,2007,9,Baked Products
+diet,1,,1,1,hold me down,2007-09-18,2007,9,Beverages
+pie,1,]x2,1,1,hold on i'll eat it all,2013-11-19,2013,11,Baked Products
+meatloaf,1,]x2,1,1,hold on i'll eat it all,2013-11-19,2013,11,
+food,1,]x2,1,1,hold on i'll eat it all,2013-11-19,2013,11,
+cheese,1,]x2,1,1,hold on i'll eat it all,2013-11-19,2013,11,Dairy and Egg Products
+chicken,1,]x2,1,1,hold on i'll eat it all,2013-11-19,2013,11,Poultry Products
+dinner roll,1,]x2,1,1,hold on i'll eat it all,2013-11-19,2013,11,
+pig foot,1,]x2,2,2,hold on i'll eat it all,2013-11-19,2013,11,
+peanut,1,rick ross,1,1,hold you down (remix),2014-11-03,2014,11,Legumes and Legume Products
+butter,1,rick ross,1,1,hold you down (remix),2014-11-03,2014,11,Dairy and Egg Products
+peanut butter,1,rick ross,-1,-1,hold you down (remix),2014-11-03,2014,11,Legumes and Legume Products
+calico,1,rick ross,1,1,holy ghost,2012-01-06,2012,1,
+cracker,1,rick ross,1,1,holy ghost,2012-01-06,2012,1,Baked Products
+meal,1,vince staples,1,1,homage,2017-06-23,2017,6,Baked Products
+taco,1,rick ross,1,1,homey n hoes,0,0,0,Spices and Herbs
+salad,1,rick ross,1,1,homey n hoes,0,0,0,
+taco bell,1,rick ross,1,1,homey n hoes,0,0,0,Fast Foods
+water,1,rick ross,1,1,hood billionaire,2014-11-24,2014,11,Beverages
+rose,1,rick ross,1,1,hood billionaire,2014-11-24,2014,11,Beverages
+calico,1,rick ross,1,1,hoodtails,0,0,0,
+cheese,1,rick ross,1,1,hoodtails,0,0,0,Dairy and Egg Products
+strawberry,1,rick ross,1,1,hoodtails,0,0,0,Dairy and Egg Products
+milky,1,bizzy bone,1,1,hoodtails,0,0,0,
+milky way,1,bizzy bone,1,1,hoodtails,0,0,0,
+apple,1,trina,1,1,hot commodity,2008-01-01,2008,1,Fruits and Fruit Juices
+cafe,1,diddy red cafe,1,1,hottest in the hood (remix 1),0,0,0,
+cafe,1,rick ross diddy,1,1,hottest in the hood (remix 1),0,0,0,
+pudding,1,jadakiss,1,1,hottest in the hood (remix 1),0,0,0,Sweets
+juice,1,oj da juiceman,1,1,hottest in the hood (remix 1),0,0,0,Baby Foods
+herb,1,oj da juiceman,1,1,hottest in the hood (remix 1),0,0,0,Beverages
+water,1,rick ross,1,1,how many drinks,0,0,0,Beverages
+drink,3,miguel,1,3,how many drinks,0,0,0,
+seasoned,1,b horowitz,1,1,how to minimize politics in your company,0,0,0,Baked Products
+ensure,2,b horowitz,1,2,how to minimize politics in your company,0,0,0,Beverages
+flavor,1,fergie,1,1,hungry,2017-08-25,2017,8,
+sauce,1,rick ross,1,1,hungry,2017-08-25,2017,8,"Soups, Sauces, and Gravies"
+slider,1,rick ross,1,1,hurt nobody,2015-05-16,2015,5,
+sour,1,cam'ron,1,1,hustle,2009-12-08,2009,12,Fruits and Fruit Juices
+bread,1,cam'ron,1,1,hustle,2009-12-08,2009,12,Baked Products
+doritos,1,rick ross,1,1,hustle,2009-12-08,2009,12,
+ice,1,vado,1,1,hustle,2009-12-08,2009,12,
+frappe,1,vado,1,1,hustle hard french remix,0,0,0,
+chicken,1,rick ross,1,1,hustlin',2006-03-11,2006,3,Poultry Products
+chicken,2,rick ross,1,2,hustlin' (clean version),2006-03-11,2006,3,Poultry Products
+chicken,1,rick ross,1,1,hustlin’ (french remix),2007-01-22,2007,1,Poultry Products
+chicken,1,rick ross,1,1,hustlin' (instrumental),0,0,0,Poultry Products
+enchilada,1,rick ross,1,1,hustlin' (street mix),0,0,0,"Soups, Sauces, and Gravies"
+chicken,1,rick ross,1,1,hustlin' (street mix),0,0,0,Poultry Products
+champagne,1,ace hood,1,1,i ain’t worried,2015-10-23,2015,10,
+donut,1,ace hood,1,1,i ain’t worried,2015-10-23,2015,10,
+nut,1,ace hood,1,1,i ain’t worried,2015-10-23,2015,10,Nut and Seed Products
+cooking,1,rick ross,1,1,i am the streets,2011-07-12,2011,7,Beverages
+ice,1,rick ross,1,1,i am the streets,2011-07-12,2011,7,
+cream,1,rick ross,1,1,i am the streets,2011-07-12,2011,7,Dairy and Egg Products
+rose,1,rick ross,1,1,i am the streets,2011-07-12,2011,7,Beverages
+bread,1,trae tha truth,1,1,i am the streets,2011-07-12,2011,7,Baked Products
+wafer,1,the game,1,1,i am the streets,2011-07-12,2011,7,Baked Products
+beer,1,kwesta,1,1,i came i saw,2019-12-13,2019,12,Beverages
+iced,1,rick ross,1,1,ice cold,2012-07-30,2012,7,Beverages
+peanut,3,xxxtentacion,1,3,i changed her life,2019-12-06,2019,12,Legumes and Legume Products
+butter,3,xxxtentacion,1,3,i changed her life,2019-12-06,2019,12,Dairy and Egg Products
+peanut butter,3,xxxtentacion,-1,-3,i changed her life,2019-12-06,2019,12,Legumes and Legume Products
+restaurant,1,rick ross,1,1,icon,2015-09-03,2015,9,Restaurant Foods
+ice,1,rick ross,1,1,icon,2015-09-03,2015,9,
+beef,1,rick ross,1,1,icon,2015-09-03,2015,9,Beef Products
+bread,1,big sean,1,1,i.d.f.w.u. (mmg mix),0,0,0,Baked Products
+cheddar,1,e-40,1,1,i.d.f.w.u. (mmg mix),0,0,0,Dairy and Egg Products
+rose,2,chris rock,1,2,idols become rivals,2017-03-17,2017,3,Beverages
+bread,1,rick ross,1,1,idols become rivals,2017-03-17,2017,3,Baked Products
+milk,1,trae tha truth,1,1,i don't give a fuck,2015-07-24,2015,7,Dairy and Egg Products
+honey,1,rick ross,1,1,i don't play about my paper,2015-10-23,2015,10,Sweets
+pear,1,future,1,1,i eat pears sound effect #1,2016-03-25,2016,3,Fruits and Fruit Juices
+champagne,1,rick ross,1,1,if they knew,2014-10-30,2014,10,
+juice,2,rick ross,1,2,i get it in,0,0,0,Baby Foods
+gin,2,rick ross,1,2,i get it in,0,0,0,
+rose,2,rick ross,1,2,i get it in,0,0,0,Beverages
+drink,16,rick ross,1,16,i get it in,0,0,0,
+bread,1,rick ross,1,1,i get it in,0,0,0,Baked Products
+blueberry,1,lil flip,1,1,i get money,0,0,0,Baked Products
+cheese,1,lil flip,1,1,i get money,0,0,0,Dairy and Egg Products
+corn,1,lil flip,1,1,i get money,0,0,0,Cereal Grains and Pasta
+blueberry,1,lil flip,1,1,i get money [clean],0,0,0,Baked Products
+cheese,1,lil flip,1,1,i get money [clean],0,0,0,Dairy and Egg Products
+corn,1,lil flip,1,1,i get money [clean],0,0,0,Cereal Grains and Pasta
+cheddar,2,lil flip,1,2,i got,0,0,0,Dairy and Egg Products
+cheddar,1,tyrese,1,1,i got a chick (remix),0,0,0,Dairy and Egg Products
+cherry,1,tyrese,1,1,i got a chick (remix),0,0,0,Fruits and Fruit Juices
+cappuccino,1,rick ross,1,1,i got it,0,0,0,
+starbucks,1,rick ross,1,1,i got it,0,0,0,
+pickle,1,rick ross,1,1,i got it,0,0,0,Vegetables and Vegetable Products
+salad,1,rick ross,1,1,i got it,0,0,0,
+chicken,1,rick ross,1,1,i got it,0,0,0,Poultry Products
+boost,1,trina,1,1,i gotta,2005-10-04,2005,10,
+cream,1,trina,1,1,i gotta,2005-10-04,2005,10,Dairy and Egg Products
+cake,1,trina,1,1,i gotta,2005-10-04,2005,10,Baked Products
+cheddar,1,rick ross,1,1,i gotta chick,2011-11-01,2011,11,Dairy and Egg Products
+cherry,1,rick ross,1,1,i gotta chick,2011-11-01,2011,11,Fruits and Fruit Juices
+cake,1,rick ross,1,1,i know remix,0,0,0,Baked Products
+dough,1,rick ross,1,1,i know remix,0,0,0,
+rose,1,rick ross,1,1,i love my bitches,0,0,0,Beverages
+lobster,1,rick ross,1,1,i love my bitches,0,0,0,Finfish and Shellfish Products
+bisque,1,rick ross,1,1,i love my bitches,0,0,0,
+chicken,1,rick ross,1,1,i love my bitches,0,0,0,Poultry Products
+lobster bisque,1,rick ross,-1,-1,i love my bitches,0,0,0,
+chicken wing,1,rick ross,1,1,i love my bitches,0,0,0,
+goose,1,icewater,1,1,i'm a boss,0,0,0,Poultry Products
+lasagna,1,icewater,1,1,i'm a boss,0,0,0,"Meals, Entrees, and Side Dishes"
+whiskey,1,icewater,1,1,i'm a boss,0,0,0,Beverages
+pie,1,icewater,1,1,i'm a boss,0,0,0,Baked Products
+cooking,1,icewater,1,1,i'm a boss,0,0,0,Beverages
+butter,1,icewater,1,1,i'm a boss,0,0,0,Dairy and Egg Products
+ice,1,rick ross,1,1,i'm bad,2006-08-08,2006,8,
+dough,3,rick ross,1,3,im da man [remix] by rick ross,0,0,0,
+beef,2,rick ross,1,2,im da man [remix] by rick ross,0,0,0,Beef Products
+gum,1,rick ross,1,1,im da man [remix] by rick ross,0,0,0,Sweets
+syrup,1,rick ross,1,1,im da man [remix] by rick ross,0,0,0,Sweets
+water,1,rick ross,1,1,im da man [remix] by rick ross,0,0,0,Beverages
+whiskey,1,g-eazy,1,1,i mean it (remix),2014-07-01,2014,7,Beverages
+vodka,1,g-eazy,1,1,i mean it (remix),2014-07-01,2014,7,Beverages
+oil,1,rick ross,1,1,i mean it (remix),2014-07-01,2014,7,Fats and Oils
+candy,2,dj drama,1,2,i'm fresh,2009-05-19,2009,5,Sweets
+cheese,1,dj drama,1,1,i'm fresh,2009-05-19,2009,5,Dairy and Egg Products
+yam,1,dj drama,1,1,i'm fresh,2009-05-19,2009,5,Vegetables and Vegetable Products
+ice,1,clipse,1,1,i'm good (clean remix) (promo only clean edit),0,0,0,
+blackberry,1,clipse,1,1,i'm good (clean remix) (promo only clean edit),0,0,0,Fruits and Fruit Juices
+ice cube,1,clipse,1,1,i'm good (clean remix) (promo only clean edit),0,0,0,
+milk,1,pusha t,1,1,i'm good remix,0,0,0,Dairy and Egg Products
+caviar,1,rick ross,1,1,i'm good remix,0,0,0,Finfish and Shellfish Products
+ice,1,rick ross,1,1,i'm good remix,0,0,0,
+bread,1,malice,1,1,i'm good remix,0,0,0,Baked Products
+gravy,1,rick ross,1,1,i'm just doing my thing,0,0,0,"Soups, Sauces, and Gravies"
+breakfast,1,rick ross,1,1,i'm just doing my thing,0,0,0,Baked Products
+water,1,rick ross,1,1,i'm just doing my thing,0,0,0,Beverages
+food,1,rick ross,1,1,i'm just doing my thing,0,0,0,
+nut,1,rick ross,1,1,i'm just doing my thing,0,0,0,Nut and Seed Products
+alcohol,1,devaghn hayes,1,1,imma general(explicit),0,0,0,Spices and Herbs
+lollipop,1,devaghn hayes,1,1,imma general(explicit),0,0,0,
+cherry,1,devaghn hayes,1,1,imma general(explicit),0,0,0,Fruits and Fruit Juices
+bread,1,project pat,1,1,imma get me sum,2014-10-17,2014,10,Baked Products
+nut,1,project pat,1,1,imma get me sum,2014-10-17,2014,10,Nut and Seed Products
+soda,1,project pat,1,1,imma get me sum,2014-10-17,2014,10,Baked Products
+salt,1,project pat,1,1,imma get me sum,2014-10-17,2014,10,Spices and Herbs
+baking soda,1,project pat,1,1,imma get me sum,2014-10-17,2014,10,Baked Products
+dough,2,black dada,1,2,imma zoe (remix),2008-07-31,2008,7,
+dough,1,black dada and birdman,1,1,imma zoe (remix),2008-07-31,2008,7,
+dough,1,black dada and redd eyezz,1,1,imma zoe (remix),2008-07-31,2008,7,
+cake,1,birdman,1,1,imma zoe (remix),2008-07-31,2008,7,Baked Products
+cracker,1,rick ross,1,1,i'm not a star,2010-07-20,2010,7,Baked Products
+pie,1,rick ross,1,1,i'm not a star,2010-07-20,2010,7,Baked Products
+dough,1,t.i.,1,1,i'm on 3.0,2017-07-20,2017,7,
+dough,1,chamillionaire,1,1,i'm on 3.0,2017-07-20,2017,7,
+toaster,1,tee grizzley,1,1,i'm on 3.0,2017-07-20,2017,7,
+drink,1,snoop dogg,1,1,i'm on 3.0,2017-07-20,2017,7,
+water,1,fabolous,1,1,i'm on 3.0,2017-07-20,2017,7,Beverages
+food,1,styles p,1,1,i'm on 3.0,2017-07-20,2017,7,
+plantbased,1,styles p,1,1,i'm on 3.0,2017-07-20,2017,7,
+juice,1,styles p,1,1,i'm on 3.0,2017-07-20,2017,7,Baby Foods
+spaghetti,1,e-40,1,1,i'm on 3.0,2017-07-20,2017,7,Cereal Grains and Pasta
+sauce,1,e-40,1,1,i'm on 3.0,2017-07-20,2017,7,"Soups, Sauces, and Gravies"
+spaghetti sauce,1,e-40,-1,-1,i'm on 3.0,2017-07-20,2017,7,
+chocolate,1,rick ross,1,1,i'm only human,2008-03-11,2008,3,Sweets
+milk,1,rick ross,1,1,i'm only human,2008-03-11,2008,3,Dairy and Egg Products
+cod,1,rick ross,1,1,i'm only human,2008-03-11,2008,3,Finfish and Shellfish Products
+drinking,1,rick ross,1,1,i'm only human,2008-03-11,2008,3,Beverages
+chocolate milk,1,rick ross,-1,-1,i'm only human,2008-03-11,2008,3,
+drink,2,rick ross,1,2,i'm so high,0,0,0,
+mayo,1,t-pain,1,1,i'm so hood,2007-08-28,2007,8,
+mayo,1,rick ross,1,1,i'm so hood,2007-08-28,2007,8,
+ice,1,trick daddy,1,1,i'm so hood,2007-08-28,2007,8,
+drink,2,plies,1,2,i'm so hood,2007-08-28,2007,8,
+cookie,1,curren$y,1,1,i must admit (remix),2019-11-29,2019,11,Baked Products
+rose,1,curren$y,1,1,i must admit (remix),2019-11-29,2019,11,Beverages
+cream,1,rick ross,1,1,in da box,0,0,0,Dairy and Egg Products
+rose,2,emmy boss-thug,1,2,inkredible,0,0,0,Beverages
+nugget,1,emmy boss-thug,1,1,inkredible,0,0,0,"Meals, Entrees, and Side Dishes"
+ice,1,rick ross,1,1,inkredible,0,0,0,
+nugget,1,rick ross,1,1,inkredible (remix),2011-05-23,2011,5,"Meals, Entrees, and Side Dishes"
+ice,1,jadakiss,1,1,inkredible (remix),2011-05-23,2011,5,
+flavor,1,mac miller,1,1,insomniak,2014-05-11,2014,5,
+chicken,1,rick ross,1,1,insomniak,2014-05-11,2014,5,Poultry Products
+chicken wing,1,rick ross,1,1,insomniak,2014-05-11,2014,5,
+flavor,1,mac miller,1,1,insomniak,0,0,0,
+chicken,1,rick ross,1,1,insomniak,0,0,0,Poultry Products
+chicken wing,1,rick ross,1,1,insomniak,0,0,0,
+water,1,fat joe,1,1,instagram that hoe,2012-08-05,2012,8,Beverages
+ice,1,jeezy,1,1,i ride,2015-10-23,2015,10,
+drink,1,boosie badazz w/ future,1,1,i ride,2015-10-23,2015,10,
+potato,1,pusha t,1,1,i still wanna,2011-03-21,2011,3,Vegetables and Vegetable Products
+rose,1,ab-liva,1,1,i still wanna,2011-03-21,2011,3,Beverages
+potato,1,rick ross,1,1,i still wanna rock,0,0,0,Vegetables and Vegetable Products
+fish,1,rick ross,1,1,i still wanna rock,0,0,0,Finfish and Shellfish Products
+rose,1,rick ross,1,1,i still wanna rock,0,0,0,Beverages
+candy,1,rick ross,1,1,i still wanna rock,0,0,0,Sweets
+candy coated,1,rick ross,1,1,i still wanna rock,0,0,0,
+chicken,1,rick ross,1,1,intro (mastermind),2014-03-03,2014,3,Poultry Products
+syrup,1,rick ross,1,1,in vein,2014-03-03,2014,3,Sweets
+cheese,1,rick ross,1,1,i still pray,2019-08-09,2019,8,Dairy and Egg Products
+lobster,1,rick ross,1,1,i still pray,2019-08-09,2019,8,Finfish and Shellfish Products
+chicken,1,rick ross,1,1,i still pray,2019-08-09,2019,8,Poultry Products
+lobster tail,1,rick ross,1,1,i still pray,2019-08-09,2019,8,
+chicken wing,1,rick ross,1,1,i still pray,2019-08-09,2019,8,
+steak,1,rick ross,1,1,it ain't a problem,2006-08-08,2006,8,Beef Products
+ice,1,young breed,1,1,it ain't a problem,2006-08-08,2006,8,
+water,1,young breed,1,1,it ain't a problem,2006-08-08,2006,8,Beverages
+cake,1,young breed,1,1,it ain't a problem,2006-08-08,2006,8,Baked Products
+cupcake,1,young breed,1,1,it ain't a problem,2006-08-08,2006,8,
+beef,1,torch,1,1,it ain't a problem,2006-08-08,2006,8,Beef Products
+ice,1,rick ross,1,1,i think she like me,2017-01-26,2017,1,
+nut,1,rick ross,1,1,i think she like me,2017-01-26,2017,1,Nut and Seed Products
+juice,1,rick ross,1,1,i think she like me,2017-01-26,2017,1,Baby Foods
+ice cube,1,rick ross,1,1,i think she like me,2017-01-26,2017,1,
+sprinkle,1,rick ross,1,1,it's goin' down (remix),2006-06-08,2006,6,
+salt,1,rick ross,1,1,it's goin' down (remix),2006-06-08,2006,6,Spices and Herbs
+steak,1,rick ross,1,1,it's goin' down (remix),2006-06-08,2006,6,Beef Products
+bean,1,rick ross,1,1,it's goin' down (remix),2006-06-08,2006,6,Legumes and Legume Products
+candy,2,rick ross,1,2,it's goin' down (remix),2006-06-08,2006,6,Sweets
+ice,1,rick ross,1,1,it's on,2007-09-18,2007,9,
+scotch,1,rick ross,1,1,it's on,2007-09-18,2007,9,
+soda,1,jiggolo,1,1,it's on,2007-09-18,2007,9,Baked Products
+bread,1,jiggolo,1,1,it's on,2007-09-18,2007,9,Baked Products
+hershey,1,jiggolo,1,1,it's on,2007-09-18,2007,9,Sweets
+baking soda,1,jiggolo,1,1,it's on,2007-09-18,2007,9,Baked Products
+steak,1,snoop dogg,1,1,"i wanna rock (dj green lantern interstate trafficking remix) 12""",0,0,0,Beef Products
+egg,1,snoop dogg,1,1,"i wanna rock (dj green lantern interstate trafficking remix) 12""",0,0,0,Dairy and Egg Products
+soda,1,yo gotti,1,1,"i wanna rock (dj green lantern interstate trafficking remix) 12""",0,0,0,Baked Products
+juice,1,roscoe dash maino oj da juiceman,1,1,"i wanna rock (dj green lantern interstate trafficking remix) 12""",0,0,0,Baby Foods
+juice,2,roscoe dash oj da juiceman,1,2,"i wanna rock (dj green lantern interstate trafficking remix) 12""",0,0,0,Baby Foods
+baking soda,1,yo gotti,1,1,"i wanna rock (dj green lantern interstate trafficking remix) 12""",0,0,0,Baked Products
+cracker,4,rick ross,1,4,i wonder why,0,0,0,Baked Products
+fish,1,rick ross,1,1,i wonder why,0,0,0,Finfish and Shellfish Products
+pie,1,rick ross,1,1,jack mode,0,0,0,Baked Products
+fish,1,brisco,1,1,jack mode,0,0,0,Finfish and Shellfish Products
+coffee,1,rick ross,1,1,jugg king (remix),2018-07-11,2018,7,Beverages
+chicken,2,rick ross,1,2,jugg king (remix),2018-07-11,2018,7,Poultry Products
+soda,1,rick ross,1,1,jugg king (remix),2018-07-11,2018,7,Baked Products
+nut,1,rick ross,1,1,jugg king (remix),2018-07-11,2018,7,Nut and Seed Products
+spinach,1,rick ross,1,1,jugg king (remix),2018-07-11,2018,7,Vegetables and Vegetable Products
+orchard,1,t.i.,1,1,jugg king (remix),2018-07-11,2018,7,
+fish,1,rick ross,1,1,jumping ship,2017-09-17,2017,9,Finfish and Shellfish Products
+noodle,1,rick ross,1,1,jumpman (remix),0,0,0,Cereal Grains and Pasta
+cheetos,1,rick ross,1,1,jumpman (remix),0,0,0,
+pita,1,rick ross,1,1,jumpman (remix),0,0,0,Baked Products
+chicken,1,future,1,1,jumpman (remix),0,0,0,Poultry Products
+fry,1,future,1,1,jumpman (remix),0,0,0,
+chicken wing,1,future,1,1,jumpman (remix),0,0,0,
+cake,2,rocko,1,2,just in case,0,0,0,Baked Products
+peeled,1,rocko,1,1,just in case,0,0,0,Nut and Seed Products
+rocky road,1,rocko,2,2,just in case,0,0,0,
+sprite,1,schylerchaise,1,1,just us (remix),2014-06-15,2014,6,Beverages
+syrup,1,schylerchaise,1,1,just us (remix),2014-06-15,2014,6,Sweets
+bread,1,schylerchaise,1,1,just us (remix),2014-06-15,2014,6,Baked Products
+drink,1,future,1,1,karate chop (richmix),0,0,0,
+syrup,1,future,1,1,karate chop (richmix),0,0,0,Sweets
+boost,1,rick ross,1,1,keep doin' that (rich bitch),2014-10-06,2014,10,
+rose,1,rick ross,1,1,keep doin' that (rich bitch),2014-10-06,2014,10,Beverages
+peach,1,r. kelly,1,1,keep doin' that (rich bitch),2014-10-06,2014,10,Fruits and Fruit Juices
+dough,1,r. kelly,1,1,keep doin' that (rich bitch),2014-10-06,2014,10,
+peach,1,r. kelly,1,1,keep doin' that (rich chick),0,0,0,Fruits and Fruit Juices
+dough,1,r. kelly,1,1,keep doin' that (rich chick),0,0,0,
+rose,1,r. kelly,1,1,keep doin' that (rich chick),0,0,0,Beverages
+ice,1,z-ro,1,1,keep it real,0,0,0,
+beef,1,z-ro,1,1,keep it real,0,0,0,Beef Products
+syrup,1,rick ross,1,1,keep it real,0,0,0,Sweets
+cheese,4,rick ross,1,4,keys to the crib,2012-01-06,2012,1,Dairy and Egg Products
+lotus,2,rick ross,1,2,keys to the crib,2012-01-06,2012,1,
+drinking,1,rick ross,1,1,keys to the crib,2012-01-06,2012,1,Beverages
+drink,2,rick ross,1,2,keys to the crib,2012-01-06,2012,1,
+cherry,1,styles p,1,1,keys to the crib,2012-01-06,2012,1,Fruits and Fruit Juices
+champagne,1,rick ross,1,1,killswitch,0,0,0,
+steak,1,rick ross,1,1,killswitch,0,0,0,Beef Products
+rose,1,rick ross,1,1,killswitch,0,0,0,Beverages
+herb,1,rick ross,1,1,killswitch,0,0,0,Beverages
+dough,1,rick ross,1,1,killswitch,0,0,0,
+rose,1,rick ross,1,1,king boss,0,0,0,Beverages
+ice,1,rick ross,1,1,king boss,0,0,0,
+chicken,1,rick ross,1,1,king of diamonds,2012-01-06,2012,1,Poultry Products
+lemon,1,rick ross,1,1,king of diamonds,2012-01-06,2012,1,Beverages
+pepper,1,rick ross,1,1,king of diamonds,2012-01-06,2012,1,Vegetables and Vegetable Products
+lotus,1,rick ross,1,1,king of diamonds,2012-01-06,2012,1,
+lemon pepper,1,rick ross,-1,-1,king of diamonds,2012-01-06,2012,1,
+taco,1,rick ross,1,1,kira,2017-08-10,2017,8,Spices and Herbs
+ham,1,rick ross,1,1,kira,2017-08-10,2017,8,Pork Products
+wine,1,jadakiss,1,1,kisses to the sky,2020-01-31,2020,1,Beverages
+water,1,jadakiss,1,1,kisses to the sky,2020-01-31,2020,1,Beverages
+cream,1,rick ross,1,1,kisses to the sky,2020-01-31,2020,1,Dairy and Egg Products
+chicken,1,rick ross,1,1,knife fight,0,0,0,Poultry Products
+crouton,1,rick ross,1,1,knight of the templar,2015-09-03,2015,9,Baked Products
+salt,1,denzel curry,1,1,knotty head,2016-02-17,2016,2,Spices and Herbs
+iced,2,denzel curry,1,2,knotty head,2016-02-17,2016,2,Beverages
+curry,1,rick ross,1,1,knotty head,2016-02-17,2016,2,
+curry,1,rick ross,1,1,knotty head (uk remix),2016-12-08,2016,12,
+sauce,1,aj tracey,1,1,knotty head (uk remix),2016-12-08,2016,12,"Soups, Sauces, and Gravies"
+pear,1,aj tracey,1,1,knotty head (uk remix),2016-12-08,2016,12,Fruits and Fruit Juices
+water,2,aj tracey,1,2,knotty head (uk remix),2016-12-08,2016,12,Beverages
+lamb,1,aj tracey,1,1,knotty head (uk remix),2016-12-08,2016,12,"Lamb, Veal, and Game Products"
+bacon,1,aj tracey,1,1,knotty head (uk remix),2016-12-08,2016,12,Pork Products
+dill,1,aj tracey,1,1,knotty head (uk remix),2016-12-08,2016,12,Vegetables and Vegetable Products
+strawberry,1,harry fraud,1,1,know about,2017-12-08,2017,12,Dairy and Egg Products
+nut,1,mack maine,1,1,kobe or ginobili (remix),2013-05-22,2013,5,Nut and Seed Products
+soda,1,ace hood,1,1,kobe or ginobili (remix),2013-05-22,2013,5,Baked Products
+bread,1,busta rhymes,1,1,kobe or ginobili (remix),2013-05-22,2013,5,Baked Products
+pike,1,rick ross,1,1,kush,0,0,0,Finfish and Shellfish Products
+candy,1,rick ross,1,1,kush,0,0,0,Sweets
+curry,1,rick ross,1,1,kyrie,2016-11-12,2016,11,
+food,1,rick ross,1,1,kyrie,2016-11-12,2016,11,
+water,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Beverages
+pizza,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Fast Foods
+taco,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Spices and Herbs
+batter,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Poultry Products
+iced,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Beverages
+pizza hut,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Fast Foods
+taco bell,1,rick ross,1,1,kyrie,2016-11-12,2016,11,Fast Foods
+mm,1,rick ross,1,1,lame,2019-06-21,2019,6,
+champagne,1,rick ross,1,1,lame,2019-06-21,2019,6,
+cheddar,1,rick ross,1,1,lay back,2009-04-21,2009,4,Dairy and Egg Products
+flavor,1,rick ross,1,1,lay back,2009-04-21,2009,4,
+carrot,1,rick ross,1,1,lay back,2009-04-21,2009,4,Vegetables and Vegetable Products
+water,1,rick ross,1,1,layers,2016-04-02,2016,4,Beverages
+juice,1,rick ross,1,1,layers,2016-04-02,2016,4,Baby Foods
+wheat,1,young breed,1,1,lay it down,0,0,0,Baked Products
+merlot,2,usher,1,2,lemme see,2012-05-08,2012,5,Beverages
+ice,2,rick ross,1,2,lemme see,2012-05-08,2012,5,
+mimosa,1,rick ross,1,1,lemme see,2012-05-08,2012,5,
+rabbit,1,trick daddy,1,1,let me ride,2002-08-06,2002,8,"Lamb, Veal, and Game Products"
+honey,1,trick daddy,1,1,let me ride,2002-08-06,2002,8,Sweets
+coco,1,rick ross,1,1,let me ride,2002-08-06,2002,8,
+drink,1,rick ross,1,1,let me ride,2002-08-06,2002,8,
+double stack,1,rick ross,2,2,let me ride,2002-08-06,2002,8,Fast Foods
+lemon,1,rick ross,1,1,last forever,2018-09-07,2018,9,Beverages
+baguette,1,rick ross,1,1,last forever,2018-09-07,2018,9,
+steak,1,snoop dogg,1,1,last forever,2018-09-07,2018,9,Beef Products
+shrimp,1,snoop dogg,1,1,last forever,2018-09-07,2018,9,Finfish and Shellfish Products
+smuckers,1,steele,1,1,let me tell ya,2019-02-22,2019,2,
+bread,1,steele,1,1,let me tell ya,2019-02-22,2019,2,Baked Products
+crab,1,steele,1,1,let me tell ya,2019-02-22,2019,2,Finfish and Shellfish Products
+ravioli,1,rick ross,1,1,let me tell ya,2019-02-22,2019,2,"Meals, Entrees, and Side Dishes"
+spaghetti,1,rick ross,1,1,let me tell ya,2019-02-22,2019,2,Cereal Grains and Pasta
+protein,1,rick ross,1,1,let me tell ya,2019-02-22,2019,2,Poultry Products
+restaurant,1,rick ross,1,1,life long,2013-01-01,2013,1,Restaurant Foods
+sauce,2,rick ross,1,2,lifestyle of the rich & hated,0,0,0,"Soups, Sauces, and Gravies"
+beef,1,freeway,1,1,lights get low,2007-06-16,2007,6,Beef Products
+honey,1,,1,1,like i see it (remix),0,0,0,Sweets
+onion,1,,1,1,like i see it (remix),0,0,0,Vegetables and Vegetable Products
+kfc,1,lil jergens,1,1,lil jergens holla at me verse ( test only ),0,0,0,Fast Foods
+stuffing,1,lil jergens,1,1,lil jergens holla at me verse ( test only ),0,0,0,Baked Products
+dough,1,stalley,1,1,lincoln way nights remix,0,0,0,
+milk,1,stalley,1,1,lincoln way nights remix,0,0,0,Dairy and Egg Products
+drink,3,stalley,1,3,lincoln way nights remix,0,0,0,
+rose,1,rick ross,1,1,lincoln way nights remix,0,0,0,Beverages
+egg,1,rick ross,1,1,lipstick,2011-06-21,2011,6,Dairy and Egg Products
+veggie,1,rick ross,1,1,lipstick,2011-06-21,2011,6,
+egg roll,1,rick ross,1,1,lipstick,2011-06-21,2011,6,"Meals, Entrees, and Side Dishes"
+candy,1,jeezy,1,1,lockjaw (clue radio remix),2016-12-19,2016,12,Sweets
+apple,1,jeezy,1,1,lockjaw (clue radio remix),2016-12-19,2016,12,Fruits and Fruit Juices
+drink,1,french montana,1,1,lockjaw (clue radio remix),2016-12-19,2016,12,
+drink,1,kodak black,1,1,lockjaw (clue radio remix),2016-12-19,2016,12,
+candy apple,1,jeezy,-1,-1,lockjaw (clue radio remix),2016-12-19,2016,12,
+ice,1,vado,1,1,look me in my eyes,2013-12-30,2013,12,
+drinking,1,ty dolla $ign,1,1,lord knows,2014-08-21,2014,8,Beverages
+orange,1,dom kennedy,1,1,lord knows,2014-08-21,2014,8,Fruits and Fruit Juices
+carrot,1,dom kennedy,1,1,lord knows,2014-08-21,2014,8,Vegetables and Vegetable Products
+smoothie,1,dom kennedy,1,1,lord knows,2014-08-21,2014,8,
+starbucks,1,dom kennedy,1,1,lord knows,2014-08-21,2014,8,
+coffee,1,dom kennedy,1,1,lord knows,2014-08-21,2014,8,Beverages
+bean,1,dom kennedy,1,1,lord knows,2014-08-21,2014,8,Legumes and Legume Products
+coffee bean,1,dom kennedy,-1,-1,lord knows,2014-08-21,2014,8,
+mai tai,1,rick ross,2,2,lord knows,2014-08-21,2014,8,
+curry,1,denzel curry,1,1,lord vader kush ii,2015-06-06,2015,6,
+ice,5,denzel curry,1,5,lord vader kush ii,2015-06-06,2015,6,
+herb,6,gucci mane,1,6,loss 4 wrdz,2017-05-26,2017,5,Beverages
+syrup,6,gucci mane,1,6,loss 4 wrdz,2017-05-26,2017,5,Sweets
+nut,1,gucci mane,1,1,loss 4 wrdz,2017-05-26,2017,5,Nut and Seed Products
+cinnamon,1,rick ross,1,1,loss 4 wrdz,2017-05-26,2017,5,Baked Products
+sauce,1,rick ross,1,1,loss 4 wrdz,2017-05-26,2017,5,"Soups, Sauces, and Gravies"
+drink,4,bryson tiller,1,4,love... (her fault),2019-10-11,2019,10,
+drink,5,wale,1,5,love... (her fault),2019-10-11,2019,10,
+beef,1,wale,1,1,love... (her fault),2019-10-11,2019,10,Beef Products
+chicken,1,wale,1,1,love... (her fault),2019-10-11,2019,10,Poultry Products
+food,1,wale,1,1,love & loyalty,2019-09-30,2019,9,
+caper,1,rick ross,1,1,love sosa,0,0,0,Spices and Herbs
+dough,1,chief keef,1,1,love sosa,0,0,0,
+caper,1,rick ross,1,1,love sosa (remix),2013-01-16,2013,1,Spices and Herbs
+oil,1,rick ross,1,1,love sosa (remix),2013-01-16,2013,1,Fats and Oils
+dough,1,chief keef,1,1,love sosa (remix),2013-01-16,2013,1,
+ice,6,rich the kid,1,6,made it,2018-03-30,2018,3,
+water,1,rich the kid,1,1,made it,2018-03-30,2018,3,Beverages
+donut,1,rich the kid,1,1,made it,2018-03-30,2018,3,
+cooking,2,rich the kid,1,2,made it,2018-03-30,2018,3,Beverages
+breakfast,2,rich the kid,1,2,made it,2018-03-30,2018,3,Baked Products
+bread,1,rick ross,1,1,made it,2018-03-30,2018,3,Baked Products
+fry,1,rick ross,1,1,made n*ggaz,2016-11-10,2016,11,
+gruyere,1,rick ross,1,1,made n*ggaz,2016-11-10,2016,11,Dairy and Egg Products
+lotus,1,rick ross,1,1,made n*ggaz,2016-11-10,2016,11,
+pillsbury,1,rick ross,1,1,made n*ggaz,2016-11-10,2016,11,Baked Products
+ice,1,rick ross,1,1,madizm,2018-05-01,2018,5,
+honey,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Sweets
+pudding,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Sweets
+soda,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Baked Products
+cheese,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Dairy and Egg Products
+salad,1,rick ross,1,1,mafia music,2009-01-24,2009,1,
+beef,2,rick ross,1,2,mafia music,2009-01-24,2009,1,Beef Products
+restaurant,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Restaurant Foods
+conch,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Finfish and Shellfish Products
+pork,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Pork Products
+crab,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Finfish and Shellfish Products
+meat,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Baby Foods
+ice,1,rick ross,1,1,mafia music,2009-01-24,2009,1,
+baking soda,1,rick ross,1,1,mafia music,2009-01-24,2009,1,Baked Products
+blue cheese,1,rick ross,1,1,mafia music,2009-01-24,2009,1,
+crab meat,1,rick ross,-1,-1,mafia music,2009-01-24,2009,1,
+cream,1,rick ross,1,1,mafia music ii,0,0,0,Dairy and Egg Products
+cheese,1,rick ross,1,1,mafia music ii,0,0,0,Dairy and Egg Products
+nut,1,rick ross,1,1,mafia music ii,0,0,0,Nut and Seed Products
+rose,1,rick ross,1,1,mafia music ii,0,0,0,Beverages
+shrimp,2,rick ross,1,2,mafia music ii,0,0,0,Finfish and Shellfish Products
+potato,1,rick ross,1,1,mafia music iii,2014-03-04,2014,3,Vegetables and Vegetable Products
+pie,1,rick ross,1,1,mafia music iii,2014-03-04,2014,3,Baked Products
+sweet potato,1,rick ross,1,1,mafia music iii,2014-03-04,2014,3,Vegetables and Vegetable Products
+chickfila,1,rick ross,1,1,magic,0,0,0,Fast Foods
+drink,1,,1,1,magic,0,0,0,
+cream,1,rick ross,1,1,magnificent,2009-02-24,2009,2,Dairy and Egg Products
+champagne,4,john legend,1,4,magnificent,2009-02-24,2009,2,
+ice,1,rick ro$$,1,1,magnificent (remix),2009-07-14,2009,7,
+water,1,rick ro$$,1,1,magnificent (remix),2009-07-14,2009,7,Beverages
+cheddar,1,rick ro$$,1,1,magnificent (remix),2009-07-14,2009,7,Dairy and Egg Products
+spaghetti,1,rick ro$$,1,1,magnificent (remix),2009-07-14,2009,7,Cereal Grains and Pasta
+broccoli,1,rick ro$$,1,1,magnificent (remix),2009-07-14,2009,7,Vegetables and Vegetable Products
+cheese,2,rick ro$$,1,2,make a move,0,0,0,Dairy and Egg Products
+pie,1,rick ro$$,1,1,make a move,0,0,0,Baked Products
+dough,1,rick ro$$,1,1,make a move,0,0,0,
+juice,1,rick ro$$,1,1,make a move,0,0,0,Baby Foods
+nut,1,rick ro$$,1,1,make a move,0,0,0,Nut and Seed Products
+champagne,1,rick ross,1,1,make it rain remix,0,0,0,
+pringles,1,rick ross,1,1,make it rain remix,0,0,0,
+peach,2,red cafe,1,2,making me proud,2015-04-08,2015,4,Fruits and Fruit Juices
+breakfast,1,red cafe,1,1,making me proud,2015-04-08,2015,4,Baked Products
+cocktail,1,rick ross,1,1,making me proud,2015-04-08,2015,4,"Soups, Sauces, and Gravies"
+pork,1,2 chainz,1,1,marble floors,0,0,0,Pork Products
+rice,1,2 chainz,1,1,marble floors,0,0,0,Cereal Grains and Pasta
+gravy,1,2 chainz,1,1,marble floors,0,0,0,"Soups, Sauces, and Gravies"
+dinner roll,2,2 chainz,1,2,marble floors,0,0,0,
+champagne,1,nipsey hussle,1,1,mark my words,2016-10-10,2016,10,
+restaurant,1,baous,1,1,mastermind unfolds like a true crime: the album's top,2014-03-04,2014,3,Restaurant Foods
+rose,1,baous,1,1,mastermind unfolds like a true crime: the album's top,2014-03-04,2014,3,Beverages
+food,1,baous,1,1,mastermind unfolds like a true crime: the album's top,2014-03-04,2014,3,
+lemon,1,baous,1,1,mastermind unfolds like a true crime: the album's top,2014-03-04,2014,3,Beverages
+pepper,1,baous,1,1,mastermind unfolds like a true crime: the album's top,2014-03-04,2014,3,Vegetables and Vegetable Products
+lemon pepper,1,baous,-1,-1,mastermind unfolds like a true crime: the album's top,2014-03-04,2014,3,
+banana,1,rick ross,1,1,maybach music 2 (album clean),0,0,0,Fruits and Fruit Juices
+banana split,1,rick ross,1,1,maybach music 2 (album clean),0,0,0,
+ice,1,jadakiss,1,1,maybach music iii,2010-07-20,2010,7,
+cream,1,jadakiss,1,1,maybach music iii,2010-07-20,2010,7,Dairy and Egg Products
+pea,1,jadakiss,1,1,maybach music iii,2010-07-20,2010,7,Vegetables and Vegetable Products
+pie,1,jadakiss,1,1,maybach music iii,2010-07-20,2010,7,Baked Products
+7up,1,rick ross,1,1,maybach music iii,2010-07-20,2010,7,
+ice cream,1,jadakiss,-1,-1,maybach music iii,2010-07-20,2010,7,Sweets
+cheese,1,rick ross,1,1,maybach music iv,2012-07-30,2012,7,Dairy and Egg Products
+cheese,1,ne-yo,1,1,maybach music iv,2012-07-30,2012,7,Dairy and Egg Products
+wine,1,rick ross,1,1,maybach music iv,2012-07-30,2012,7,Beverages
+fish,1,katt rockell,1,1,maybach music v,2017-03-16,2017,3,Finfish and Shellfish Products
+fish,1,dej loaf,1,1,maybach music v,2017-03-16,2017,3,Finfish and Shellfish Products
+fish,1,rick ross,1,1,maybach music v,2017-03-16,2017,3,Finfish and Shellfish Products
+caramel,1,rick ross,1,1,maybach music v,2017-03-16,2017,3,Sweets
+food,1,rick ross,1,1,maybach music v,2017-03-16,2017,3,
+pineapple,1,rick ross,1,1,maybach music v,2017-03-16,2017,3,Fruits and Fruit Juices
+pina,1,rick ross,1,1,maybach music v,2017-03-16,2017,3,
+diced pineapple,1,rick ross,1,1,maybach music v,2017-03-16,2017,3,
+pina colada,1,rick ross,-1,-1,maybach music v,2017-03-16,2017,3,Beverages
+bread,1,gucci mane,1,1,maybe (remix),2010-07-23,2010,7,Baked Products
+ice,2,gucci mane,1,2,maybe (remix),2010-07-23,2010,7,
+cream,4,rick ross,1,4,mc hammer,2010-07-20,2010,7,Dairy and Egg Products
+lemon,1,rick ross,1,1,mc hammer,2010-07-20,2010,7,Beverages
+pepper,1,rick ross,1,1,mc hammer,2010-07-20,2010,7,Vegetables and Vegetable Products
+nut,1,rick ross,1,1,mc hammer,2010-07-20,2010,7,Nut and Seed Products
+breakfast,1,gucci mane,1,1,mc hammer,2010-07-20,2010,7,Baked Products
+lemon pepper,1,rick ross,-1,-1,mc hammer,2010-07-20,2010,7,
+pit,1,dj khaled,1,1,miami,2008-05-16,2008,5,
+candy,1,yo gotti,1,1,miami,2008-05-16,2008,5,Sweets
+chicken,1,rick ross,1,1,miami,2008-05-16,2008,5,Poultry Products
+ice,1,curren$y,1,1,miami vice,2019-12-20,2019,12,
+caviar,1,rick ross,1,1,m.i.a. (remix),0,0,0,Finfish and Shellfish Products
+chicken,1,french montana,1,1,m.i.a. (remix),0,0,0,Poultry Products
+rose,1,french montana,1,1,m.i.a. (remix),0,0,0,Beverages
+grain,1,pimp c,1,1,midnight hoes,2010-10-05,2010,10,
+shrimp,1,pimp c,1,1,midnight hoes,2010-10-05,2010,10,Finfish and Shellfish Products
+spinach,1,rick ross,1,1,midnight hoes,2010-10-05,2010,10,Vegetables and Vegetable Products
+pork,1,rick ross,1,1,midnight hoes,2010-10-05,2010,10,Pork Products
+salt,1,rick ross,1,1,midnight hoes,2010-10-05,2010,10,Spices and Herbs
+spinach dip,1,rick ross,1,1,midnight hoes,2010-10-05,2010,10,
+pear,1,a$ap ferg,1,1,milly rock (remix),2016-01-12,2016,1,Fruits and Fruit Juices
+salad,1,a$ap ferg,1,1,milly rock (remix),2016-01-12,2016,1,
+drink,1,2 milly,1,1,milly rock (remix),2016-01-12,2016,1,
+rose,1,rick ross,1,1,mine games,2012-01-06,2012,1,Beverages
+water,1,rick ross,1,1,mine games,2012-01-06,2012,1,Beverages
+bread,1,rick ross,1,1,mine games,2012-01-06,2012,1,Baked Products
+lettuce,1,rick ross,1,1,mirror remix,2012-01-01,2012,1,Vegetables and Vegetable Products
+bread,1,rick ross,1,1,mirror remix,2012-01-01,2012,1,Baked Products
+cream,1,rick ross,1,1,mirror remix,2012-01-01,2012,1,Dairy and Egg Products
+strawberry,1,rick ross,1,1,mirror remix,2012-01-01,2012,1,Dairy and Egg Products
+cheese,1,rick ross,1,1,mmg untouchable,2012-01-06,2012,1,Dairy and Egg Products
+nacho,1,rick ross,1,1,mmg untouchable,2012-01-06,2012,1,Fast Foods
+lemonade,1,rick ross,1,1,mmg untouchable,2012-01-06,2012,1,Beverages
+grain,1,raekwon,1,1,molasses,2011-03-07,2011,3,
+spaghetti,1,raekwon,1,1,molasses,2011-03-07,2011,3,Cereal Grains and Pasta
+roasting,1,raekwon,1,1,molasses,2011-03-07,2011,3,Poultry Products
+marshmallow,1,raekwon,1,1,molasses,2011-03-07,2011,3,Baked Products
+potato,1,raekwon,1,1,molasses,2011-03-07,2011,3,Vegetables and Vegetable Products
+keylime,1,raekwon,1,1,molasses,2011-03-07,2011,3,
+pie,1,raekwon,1,1,molasses,2011-03-07,2011,3,Baked Products
+drink,1,ludacris,1,1,money,2015-03-31,2015,3,
+dough,1,ludacris,1,1,money,2015-03-31,2015,3,
+lobster,1,rick ross,1,1,money and powder,2015-09-03,2015,9,Finfish and Shellfish Products
+water,1,rick ross,1,1,money and powder,2015-09-03,2015,9,Beverages
+butter,1,rick ross,1,1,money and powder,2015-09-03,2015,9,Dairy and Egg Products
+soda,1,rick ross,1,1,money and powder,2015-09-03,2015,9,Baked Products
+baking soda,1,rick ross,1,1,money and powder,2015-09-03,2015,9,Baked Products
+beef,1,blac youngsta,1,1,money bag,2016-08-04,2016,8,Beef Products
+rose,1,the-dream,1,1,money dance,2015-09-03,2015,9,Beverages
+cherry,1,j.u.s.t.i.c.e. league,1,1,money dance ii,2016-03-21,2016,3,Fruits and Fruit Juices
+cake,1,j.u.s.t.i.c.e. league,1,1,money dance ii,2016-03-21,2016,3,Baked Products
+water,1,gucci mane,1,1,money machine,2016-09-30,2016,9,Beverages
+soda,2,gucci mane,1,2,money machine,2016-09-30,2016,9,Baked Products
+food,1,gucci mane,1,1,money machine,2016-09-30,2016,9,
+quinoa,1,gucci mane,1,1,money machine,2016-09-30,2016,9,Cereal Grains and Pasta
+sprite,1,gucci mane,1,1,money machine,2016-09-30,2016,9,Beverages
+nut,1,gucci mane,1,1,money machine,2016-09-30,2016,9,Nut and Seed Products
+tea,2,gucci mane,1,2,money machine,2016-09-30,2016,9,Beverages
+cheese,2,rick ross,1,2,money make me come,2008-03-11,2008,3,Dairy and Egg Products
+pie,1,rick ross,1,1,money make me come,2008-03-11,2008,3,Baked Products
+dough,1,rick ross,1,1,money make me come,2008-03-11,2008,3,
+juice,1,rick ross,1,1,money make me come,2008-03-11,2008,3,Baby Foods
+nut,1,rick ross,1,1,money make me come,2008-03-11,2008,3,Nut and Seed Products
+cake,1,rick ross,1,1,money maker,2006-08-26,2006,8,Baked Products
+cake,1,too $hort,1,1,money maker,2006-08-26,2006,8,Baked Products
+cake,3,pimp c,1,3,money maker,2006-08-26,2006,8,Baked Products
+cake,2,too $hort/,1,2,money maker,2006-08-26,2006,8,Baked Products
+snapper,1,pimp c,1,1,money maker,2006-08-26,2006,8,Finfish and Shellfish Products
+slider,1,rick ross,1,1,money maker,2010-05-27,2010,5,
+meal,1,rick ross,1,1,money right,0,0,0,Baked Products
+cake,1,rick ross,1,1,money right,0,0,0,Baked Products
+beef,1,rick ross,1,1,money right,0,0,0,Beef Products
+meal,1,flo rida,1,1,money right,2008-03-18,2008,3,Baked Products
+cake,1,flo rida,1,1,money right,2008-03-18,2008,3,Baked Products
+beef,1,flo rida,1,1,money right,2008-03-18,2008,3,Beef Products
+ice,3,rick ross,1,3,money to make,0,0,0,
+sprinkle,1,rick ross,1,1,money to make,0,0,0,
+fish,2,rick ross,1,2,money to make,0,0,0,Finfish and Shellfish Products
+candy,1,birdman,1,1,money to make,0,0,0,Sweets
+bread,1,bruno mali,1,1,monkey suit,2017-03-19,2017,3,Baked Products
+banana,6,bruno mali,1,6,monkey suit,2017-03-19,2017,3,Fruits and Fruit Juices
+juice,1,rick ross,1,1,monkey suit,2017-03-19,2017,3,Baby Foods
+water,1,rick ross,1,1,monkey suit,2017-03-19,2017,3,Beverages
+banana,1,,1,1,murder mami,0,0,0,Fruits and Fruit Juices
+cake,1,,1,1,murder mami,0,0,0,Baked Products
+meal,1,,1,1,murder mami,0,0,0,Baked Products
+crab,1,,1,1,murder mami,0,0,0,Finfish and Shellfish Products
+lobster,1,,1,1,murder mami,0,0,0,Finfish and Shellfish Products
+dough,1,rick ross,1,1,my bitch,0,0,0,
+soda,1,tory lanez,1,1,mylife 2.0,2016-07-29,2016,7,Baked Products
+cream,1,rick ross,1,1,my nigga,2013-12-26,2013,12,Dairy and Egg Products
+beef,1,rick ross,1,1,my nigga,2013-12-26,2013,12,Beef Products
+cake,2,fat trel,1,2,nastolgia,2018-07-13,2018,7,Baked Products
+rose,1,rick ross,1,1,nastolgia,2018-07-13,2018,7,Beverages
+chili,1,rick ross,1,1,nastolgia,2018-07-13,2018,7,"Soups, Sauces, and Gravies"
+pepper,1,rick ross,1,1,nastolgia,2018-07-13,2018,7,Vegetables and Vegetable Products
+hot chili,1,rick ross,1,1,nastolgia,2018-07-13,2018,7,Vegetables and Vegetable Products
+chili pepper,1,rick ross,-1,-1,nastolgia,2018-07-13,2018,7,
+egg,1,rick ross,1,1,neighborhood drug dealer,2014-11-24,2014,11,Dairy and Egg Products
+smoothie,1,rick ross,1,1,neighborhood drug dealer,2014-11-24,2014,11,
+rib,1,rick ross,1,1,neighborhood drug dealer,2014-11-24,2014,11,Beef Products
+egg white,1,rick ross,1,1,neighborhood drug dealer,2014-11-24,2014,11,Dairy and Egg Products
+soda,1,future,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Baked Products
+oil,1,future,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Fats and Oils
+chicken,1,future,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Poultry Products
+food,1,future,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,
+cake,1,future,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Baked Products
+egg,1,rick ross,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Dairy and Egg Products
+smoothie,1,rick ross,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,
+rib,1,rick ross,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Beef Products
+egg white,1,rick ross,1,1,neighborhood drug dealer (remix),2015-06-26,2015,6,Dairy and Egg Products
+dough,1,wiz khalifa,1,1,never been part ii,2012-03-13,2012,3,
+rose,1,rick ross,1,1,never been part ii,2012-03-13,2012,3,Beverages
+vitamin,1,ab-soul,1,1,nevermind that,2014-06-24,2014,6,
+vitamin c,1,ab-soul,1,1,nevermind that,2014-06-24,2014,6,Vegetables and Vegetable Products
+bean,1,rick ross,1,1,never personal,2019-02-08,2019,2,Legumes and Legume Products
+grain,2,big krit,1,2,new agenda,0,0,0,
+grasshopper,1,big krit,1,1,new agenda,0,0,0,
+salt,1,big krit,1,1,new agenda,0,0,0,Spices and Herbs
+breakfast,1,rick ross,1,1,new agenda,0,0,0,Baked Products
+lettuce,1,rick ross,1,1,new agenda,0,0,0,Vegetables and Vegetable Products
+lemon,1,rick ross,1,1,new agenda,0,0,0,Beverages
+pepper,1,rick ross,1,1,new agenda,0,0,0,Vegetables and Vegetable Products
+flavor,1,rick ross,1,1,new agenda,0,0,0,
+lemon pepper,1,rick ross,-1,-1,new agenda,0,0,0,
+champagne,1,concept­z,1,1,new greats,2013-11-18,2013,11,
+cream,1,rick ross,1,1,nickel rock,2014-11-04,2014,11,Dairy and Egg Products
+bread,1,rick ross,1,1,nickel rock,2014-11-04,2014,11,Baked Products
+gorgonzola,1,church st,1,1,no,0,0,0,
+champagne,1,rick ross,1,1,no worries,2012-10-08,2012,10,
+mango,1,detail,1,1,no worries,2012-10-08,2012,10,Fruits and Fruit Juices
+mm,2,rick ross,1,2,nobody’s favorite,2019-08-08,2019,8,
+yam,1,gunplay,1,1,nobody’s favorite,2019-08-08,2019,8,Vegetables and Vegetable Products
+ice,1,rick ross,1,1,now that i'm paid,2012-04-05,2012,4,
+glaze,1,rick ross,1,1,now that i'm paid,2012-04-05,2012,4,Sweets
+drinking,1,game,1,1,now that i'm paid,2012-04-05,2012,4,Beverages
+cracker,1,rick ross,1,1,numbnumb juice freestyle,2019-06-29,2019,6,Baked Products
+rose,1,rick ross,1,1,numbnumb juice freestyle,2019-06-29,2019,6,Beverages
+cream,1,rick ross,1,1,numbnumb juice freestyle,2019-06-29,2019,6,Dairy and Egg Products
+cheese,1,rick ross,1,1,numbnumb juice freestyle,2019-06-29,2019,6,Dairy and Egg Products
+bagel,1,rick ross,1,1,numbnumb juice freestyle,2019-06-29,2019,6,Baked Products
+restaurant,1,rick ross,1,1,numbnumb juice freestyle,2019-06-29,2019,6,Restaurant Foods
+juice,2,schoolboy q,1,2,numbnumb juice freestyle,2019-06-29,2019,6,Baby Foods
+cream cheese,1,rick ross,-1,-1,numbnumb juice freestyle,2019-06-29,2019,6,
+candy,1,french montana,1,1,off the boat,2012-01-06,2012,1,Sweets
+bread,1,french montana,1,1,off the boat,2012-01-06,2012,1,Baked Products
+juice,1,dave east,1,1,og,2019-11-08,2019,11,Baby Foods
+toaster,4,yemi alade,1,4,oh my gosh (remix),2019-04-30,2019,4,
+oil,5,rick ross,1,5,oil money gang,2013-07-23,2013,7,Fats and Oils
+oil,1,jadakiss,1,1,oil money gang,2013-07-23,2013,7,Fats and Oils
+scotch,1,rick ross,1,1,oil money gang,2013-07-23,2013,7,
+soda,1,rick ross,1,1,oil money gang,2013-07-23,2013,7,Baked Products
+coconut,1,rick ross,1,1,oil money gang,2013-07-23,2013,7,Fats and Oils
+pina,1,rick ross,1,1,oil money gang,2013-07-23,2013,7,
+daiquiri,1,rick ross,1,1,oil money gang,2013-07-23,2013,7,Beverages
+champagne,1,rick ross,1,1,oil money gang,2013-07-23,2013,7,
+tequila,1,jadakiss,1,1,oil money gang,2013-07-23,2013,7,
+dough,1,jadakiss,1,1,oil money gang,2013-07-23,2013,7,
+pina colada,1,rick ross,-1,-1,oil money gang,2013-07-23,2013,7,Beverages
+drink,1,waka flocka flame,1,1,o let's do it (remix),0,0,0,
+lobster,1,waka flocka flame,1,1,o let's do it (remix),0,0,0,Finfish and Shellfish Products
+coffee,1,waka flocka flame,1,1,o let's do it (remix),0,0,0,Beverages
+beef,1,waka flocka flame,1,1,o let's do it (remix),0,0,0,Beef Products
+lemon,1,rick ross,1,1,one love,2019-05-24,2019,5,Beverages
+pepper,1,rick ross,1,1,one love,2019-05-24,2019,5,Vegetables and Vegetable Products
+lemon pepper,1,rick ross,-1,-1,one love,2019-05-24,2019,5,
+ham,1,stalley,1,1,one more shot,2014-09-29,2014,9,Pork Products
+strawberry,1,rick ross,1,1,out here grindin,2007-11-18,2007,11,Dairy and Egg Products
+nut,2,plies,1,2,out here grindin,2007-11-18,2007,11,Nut and Seed Products
+cake,1,lil boosie,1,1,out here grindin,2007-11-18,2007,11,Baked Products
+strawberry,1,rick ross,1,1,out here grindin (single version),2008-06-24,2008,6,Dairy and Egg Products
+cake,1,lil boosie,1,1,out here grindin (single version),2008-06-24,2008,6,Baked Products
+nut,2,plies,1,2,out here grindin (single version),2008-06-24,2008,6,Nut and Seed Products
+cheddar,1,rick ross,1,1,own it (remix),0,0,0,Dairy and Egg Products
+peeled,1,rick ross,1,1,own it (remix),0,0,0,Nut and Seed Products
+drink,1,mack wilds,1,1,own it (remix),0,0,0,
+oyster,1,rick ross,1,1,oyster perpetual freestyle,2014-02-03,2014,2,Finfish and Shellfish Products
+cake,1,rick ross,1,1,oyster perpetual freestyle,2014-02-03,2014,2,Baked Products
+bread,1,rick ross,1,1,oyster perpetual freestyle,2014-02-03,2014,2,Baked Products
+sour,1,rick ross,1,1,oyster perpetual freestyle,2014-02-03,2014,2,Fruits and Fruit Juices
+grape,1,rick ross,1,1,oyster perpetual freestyle,2014-02-03,2014,2,Vegetables and Vegetable Products
+fry,4,rick ross,1,4,pacman,2011-05-23,2011,5,
+pan,4,rick ross,1,4,pacman,2011-05-23,2011,5,
+yam,1,pill,1,1,pacman,2011-05-23,2011,5,Vegetables and Vegetable Products
+pie,1,pill,1,1,pacman,2011-05-23,2011,5,Baked Products
+chicken,1,pill,1,1,pacman,2011-05-23,2011,5,Poultry Products
+sushi,1,rick ross,1,1,panera bread,2013-04-16,2013,4,
+cherry,1,rick ross,1,1,panera bread,2013-04-16,2013,4,Fruits and Fruit Juices
+bread,1,rick ross,1,1,panera bread,2013-04-16,2013,4,Baked Products
+broccoli,1,rockie fresh,1,1,panera bread,2013-04-16,2013,4,Vegetables and Vegetable Products
+cheddar,1,rockie fresh,1,1,panera bread,2013-04-16,2013,4,Dairy and Egg Products
+soup,1,rockie fresh,1,1,panera bread,2013-04-16,2013,4,"Soups, Sauces, and Gravies"
+broccoli cheddar,1,rockie fresh,-1,-1,panera bread,2013-04-16,2013,4,
+lamb,1,troy ave,1,1,paper plates,2016-06-06,2016,6,"Lamb, Veal, and Game Products"
+coffee,1,yo gotti,1,1,paper plates,2016-06-06,2016,6,Beverages
+dough,1,rick ross,1,1,paradise lost,2014-03-03,2014,3,
+peach,1,rick ross,1,1,paradise lost,2014-03-03,2014,3,Fruits and Fruit Juices
+cake,1,diddy,1,1,paranoid (remix),0,0,0,Baked Products
+cake,1,rick ross,1,1,paranoid (remix),0,0,0,Baked Products
+water,2,french montana,1,2,paranoid (remix),0,0,0,Beverages
+honey,4,p.l.f. and rick ross,1,4,party,2019-02-01,2019,2,Sweets
+fish,1,p.l.f. and rick ross,1,1,party,2019-02-01,2019,2,Finfish and Shellfish Products
+sprite,1,rick ross,1,1,party heart,0,0,0,Beverages
+champagne,1,rick ross,1,1,party heart,0,0,0,
+caper,1,rick ross,1,1,party heart,0,0,0,Spices and Herbs
+cake,1,rick ross,1,1,party heart,0,0,0,Baked Products
+dough,1,rick ross,1,1,party heart,0,0,0,
+cooking,1,rick ross,1,1,peace sign,2015-12-04,2015,12,Beverages
+roe,1,rick ross,1,1,peace sign,2015-12-04,2015,12,Finfish and Shellfish Products
+syrup,1,rick ross,1,1,peace sign,2015-12-04,2015,12,Sweets
+peach,1,red cafe,1,1,peace sign,2016-03-03,2016,3,Fruits and Fruit Juices
+pie,1,red cafe,1,1,peace sign,2016-03-03,2016,3,Baked Products
+syrup,1,rick ross,1,1,peace sign,2016-03-03,2016,3,Sweets
+nut,1,lil pump,1,1,pinky ring,2017-10-06,2017,10,Nut and Seed Products
+donut,1,rick ross,1,1,pinky ring,2017-10-06,2017,10,
+beef,1,smokepurpp,1,1,pinky ring,2017-10-06,2017,10,Beef Products
+water,4,smokepurpp,1,4,pinky ring,2017-10-06,2017,10,Beverages
+flapjack,1,smokepurpp,1,1,pinky ring,2017-10-06,2017,10,
+lamb,1,rick ross,1,1,pirates,2012-07-30,2012,7,"Lamb, Veal, and Game Products"
+water,1,rick ross,1,1,pirates,2012-07-30,2012,7,Beverages
+cream,1,rick ross,1,1,pirates,2012-07-30,2012,7,Dairy and Egg Products
+blackberry,1,rick ross,1,1,pirates,2012-07-30,2012,7,Fruits and Fruit Juices
+honey,2,bj the chicago kid,1,2,playa’s ball,2019-07-26,2019,7,Sweets
+fish,1,rick ross,1,1,poor decisions,0,0,0,Finfish and Shellfish Products
+vegetable,1,lupe fiasco,1,1,poor decisions,0,0,0,Baby Foods
+beer,1,rick ross,1,1,poppin',0,0,0,Beverages
+wheat,2,rick ross,1,2,poppin',0,0,0,Baked Products
+bread,1,rick ross,1,1,poppin',0,0,0,Baked Products
+milk,1,rick ross,1,1,port of miami 2 freestyle,2019-05-20,2019,5,Dairy and Egg Products
+mustard,1,omarion,1,1,post to be (remix),2015-05-08,2015,5,Spices and Herbs
+cheerio,1,dej loaf,1,1,post to be (remix),2015-05-08,2015,5,Breakfast Cereals
+soda,2,rick ross,1,2,pots and pans,2006-08-08,2006,8,Baked Products
+soda,8,j-rock,1,8,pots and pans,2006-08-08,2006,8,Baked Products
+fish,1,rick ross,1,1,pots and pans,2006-08-08,2006,8,Finfish and Shellfish Products
+pan,8,j-rock,1,8,pots and pans,2006-08-08,2006,8,
+ice,8,j-rock,1,8,pots and pans,2006-08-08,2006,8,
+cheese,1,juvenile,1,1,power,2012-06-19,2012,6,Dairy and Egg Products
+grape,3,rick ross,1,3,prayer,2006-08-08,2006,8,Vegetables and Vegetable Products
+honey,1,rick ross,1,1,preach (remix),2015-01-06,2015,1,Sweets
+candy,1,rick ross,1,1,preach (remix),2015-01-06,2015,1,Sweets
+sauce,1,rick ross,1,1,preach (remix),2015-01-06,2015,1,"Soups, Sauces, and Gravies"
+water,1,jeezy,1,1,preach (remix),2015-01-06,2015,1,Beverages
+bread,1,jeezy,1,1,preach (remix),2015-01-06,2015,1,Baked Products
+bourbon,1,jeezy,1,1,preach (remix),2015-01-06,2015,1,
+duck sauce,1,rick ross,1,1,preach (remix),2015-01-06,2015,1,
+bread,1,lil' kim,1,1,pray for me,2019-10-04,2019,10,Baked Products
+juice,1,lil' kim,1,1,pray for me,2019-10-04,2019,10,Baby Foods
+water,1,ross,1,1,presidential (remix),2012-10-08,2012,10,Beverages
+bread,1,rockie fresh,1,1,presidential (remix),2012-10-08,2012,10,Baked Products
+chicken,1,rockie fresh,1,1,presidential (remix),2012-10-08,2012,10,Poultry Products
+fish,1,rick ross,1,1,presidential (remix),2012-10-08,2012,10,Finfish and Shellfish Products
+water,1,rick ross,1,1,proud of that,2012-05-02,2012,5,Beverages
+champagne,1,rick ross,1,1,prove me wrong,0,0,0,
+cake,6,kodak black,1,6,pull a caper,2017-06-23,2017,6,Baked Products
+cake,2,rick ross,1,2,pull a caper,2017-06-23,2017,6,Baked Products
+caper,6,kodak black,1,6,pull a caper,2017-06-23,2017,6,Spices and Herbs
+caper,2,rick ross,1,2,pull a caper,2017-06-23,2017,6,Spices and Herbs
+food,1,gucci mane,1,1,pull a caper,2017-06-23,2017,6,
+honey,1,gucci mane,1,1,pull a caper,2017-06-23,2017,6,Sweets
+sauce,2,rick ross,1,2,pull a caper,2017-06-23,2017,6,"Soups, Sauces, and Gravies"
+iced,1,rick ross,1,1,pull a caper,2017-06-23,2017,6,Beverages
+honey bun,1,gucci mane,1,1,pull a caper,2017-06-23,2017,6,
+corn,1,marques houston,1,1,pullin on her hair,2010-06-22,2010,6,Cereal Grains and Pasta
+corn,1,rick ross,1,1,pullin' on her hair,0,0,0,Cereal Grains and Pasta
+cheddar,1,rick ross,1,1,purple lamborghini,2016-08-05,2016,8,Dairy and Egg Products
+cheddar,1,konstantine giorgi japaridze,1,1,purple lamborghini,2017-08-13,2017,8,Dairy and Egg Products
+cafe,1,skrillex & rick ross,1,1,push em over,0,0,0,
+bread,1,rick ross,1,1,push it (remix),2006-11-12,2006,11,Baked Products
+gravy,1,rick ross,1,1,push it (remix),2006-11-12,2006,11,"Soups, Sauces, and Gravies"
+salt,1,rick ross,1,1,push it (remix),2006-11-12,2006,11,Spices and Herbs
+pepper,1,rick ross,1,1,push it (remix),2006-11-12,2006,11,Vegetables and Vegetable Products
+soda,1,rick ross,1,1,push it (remix),2006-11-12,2006,11,Baked Products
+baking soda,1,rick ross,1,1,push it (remix),2006-11-12,2006,11,Baked Products
+bread,1,rick ross,1,1,push it rmx,0,0,0,Baked Products
+gravy,1,rick ross,1,1,push it rmx,0,0,0,"Soups, Sauces, and Gravies"
+salt,1,rick ross,1,1,push it rmx,0,0,0,Spices and Herbs
+pepper,1,rick ross,1,1,push it rmx,0,0,0,Vegetables and Vegetable Products
+soda,1,rick ross,1,1,push it rmx,0,0,0,Baked Products
+baking soda,1,rick ross,1,1,push it rmx,0,0,0,Baked Products
+coffee,3,gunplay,1,3,pyrex poppin,2020-05-15,2020,5,Beverages
+coffee,1,rick ross,1,1,pyrex poppin,2020-05-15,2020,5,Beverages
+cookie,1,da great ape,1,1,quarter brick,2020-05-08,2020,5,Baked Products
+cracker,1,da great ape,1,1,quarter brick,2020-05-08,2020,5,Baked Products
+cheese,6,da great ape,1,6,quarter brick,2020-05-08,2020,5,Dairy and Egg Products
+cheese,2,rick ross,1,2,quarter brick,2020-05-08,2020,5,Dairy and Egg Products
+beef,6,da great ape,1,6,quarter brick,2020-05-08,2020,5,Beef Products
+beef,2,rick ross,1,2,quarter brick,2020-05-08,2020,5,Beef Products
+fruit,1,rick ross,1,1,quintessential,2014-11-24,2014,11,Baby Foods
+fruit,1,snoop dogg,1,1,quintessential,2014-11-24,2014,11,Baby Foods
+wine,1,snoop dogg,1,1,quintessential,2014-11-24,2014,11,Beverages
+seafood,1,snoop dogg,1,1,quintessential,2014-11-24,2014,11,
+breakfast,1,snoop dogg,1,1,quintessential,2014-11-24,2014,11,Baked Products
+lettuce,1,rick ross,1,1,realest niggas,2007-09-18,2007,9,Vegetables and Vegetable Products
+pineapple,1,rick ross,1,1,realest niggas,2007-09-18,2007,9,Fruits and Fruit Juices
+juice,1,rick ross,1,1,realest niggas,2007-09-18,2007,9,Baby Foods
+pizza,1,gillie da kid,1,1,realest niggas,2007-09-18,2007,9,Fast Foods
+ice,3,reed dollaz,1,3,realest niggas,2007-09-18,2007,9,
+cream,3,reed dollaz,1,3,realest niggas,2007-09-18,2007,9,Dairy and Egg Products
+pineapple juice,1,rick ross,-1,-1,realest niggas,2007-09-18,2007,9,Fruits and Fruit Juices
+deep dish,1,gillie da kid,2,2,realest niggas,2007-09-18,2007,9,Baked Products
+ice cream,3,reed dollaz,-1,-3,realest niggas,2007-09-18,2007,9,Sweets
+peanut,1,gunplay,1,1,real niggas,2012-07-16,2012,7,Legumes and Legume Products
+lotus,1,busta rhymes,1,1,real niggas,2015-12-25,2015,12,
+soda,1,busta rhymes,1,1,real niggas,2015-12-25,2015,12,Baked Products
+wine,1,busta rhymes,1,1,real niggas,2015-12-25,2015,12,Beverages
+restaurant,1,rick ross,1,1,real niggas,2015-12-25,2015,12,Restaurant Foods
+meal,1,rick ross,1,1,real niggas,2015-12-25,2015,12,Baked Products
+ice,1,gucci mane,1,1,respect me,0,0,0,
+beef,1,gucci mane,1,1,respect me,0,0,0,Beef Products
+broccoli,1,gucci mane,1,1,respect me,0,0,0,Vegetables and Vegetable Products
+vodka,1,rick ross,1,1,retrosuperfuture,2010-12-24,2010,12,Beverages
+rose,1,rick ross,1,1,retrosuperfuture,2010-12-24,2010,12,Beverages
+goose,1,raekwon,1,1,revory (wraith),2015-04-28,2015,4,Poultry Products
+fish,1,raekwon,1,1,revory (wraith),2015-04-28,2015,4,Finfish and Shellfish Products
+baguette,1,raekwon,1,1,revory (wraith),2015-04-28,2015,4,
+fruit,1,ghostface killah,1,1,revory (wraith),2015-04-28,2015,4,Baby Foods
+bean,1,ghostface killah,1,1,revory (wraith),2015-04-28,2015,4,Legumes and Legume Products
+fresh fruit,1,ghostface killah,1,1,revory (wraith),2015-04-28,2015,4,
+green bean,1,ghostface killah,1,1,revory (wraith),2015-04-28,2015,4,Baby Foods
+rose,1,rick ross,1,1,rich forever,2012-01-06,2012,1,Beverages
+lemon,1,rick ross,1,1,rich nigga walk thru',2014-01-01,2014,1,Beverages
+pepper,1,rick ross,1,1,rich nigga walk thru',2014-01-01,2014,1,Vegetables and Vegetable Products
+food,1,bleu davinci,1,1,rich nigga walk thru',2014-01-01,2014,1,
+steamed,1,bleu davinci,1,1,rich nigga walk thru',2014-01-01,2014,1,Vegetables and Vegetable Products
+bread,1,bleu davinci,1,1,rich nigga walk thru',2014-01-01,2014,1,Baked Products
+cod,1,bleu davinci,1,1,rich nigga walk thru',2014-01-01,2014,1,Finfish and Shellfish Products
+lemon pepper,1,rick ross,-1,-1,rich nigga walk thru',2014-01-01,2014,1,
+ice,1,rick ross,1,1,ride (remix),2008-11-18,2008,11,
+dough,1,juelz santana,1,1,ride (remix),2008-11-18,2008,11,
+stuffing,1,ace hood,1,1,ride (remix) (leaked version),0,0,0,Baked Products
+ice,1,ace hood,1,1,ride (remix) (leaked version),0,0,0,
+dough,1,ace hood,1,1,ride (remix) (leaked version),0,0,0,
+lime,1,rick ross,1,1,ridin' thru the ghetto,2008-03-11,2008,3,Sweets
+lamb,1,rick ross,1,1,ridin' thru the ghetto,2008-03-11,2008,3,"Lamb, Veal, and Game Products"
+cheddar,1,rick ross,1,1,ring ring,2012-01-06,2012,1,Dairy and Egg Products
+water,1,rick ross,1,1,ring ring,2012-01-06,2012,1,Beverages
+bread,1,rick ross,1,1,rise to power [album art + tracklist],0,0,0,Baked Products
+cactus,1,mavado,1,1,rise up,0,0,0,
+champagne,1,gunplay,1,1,rollin’ (remix),0,0,0,
+pear,1,gunplay,1,1,rollin’ (remix),0,0,0,Fruits and Fruit Juices
+cake,1,gunplay,1,1,rollin’ (remix),0,0,0,Baked Products
+mayonnaise,1,gunplay,1,1,rollin’ (remix),0,0,0,Fats and Oils
+drinking,1,gunplay,1,1,rollin’ (remix),0,0,0,Beverages
+soda,1,gunplay,1,1,rollin’ (remix),0,0,0,Baked Products
+ostrich,1,gunplay,1,1,rollin’ (remix),0,0,0,Poultry Products
+pineapple,1,gunplay,1,1,rollin’ (remix),0,0,0,Fruits and Fruit Juices
+drink,1,gunplay,1,1,rollin’ (remix),0,0,0,
+sauteed,1,gunplay,1,1,rollin’ (remix),0,0,0,Vegetables and Vegetable Products
+fish,1,gunplay,1,1,rollin’ (remix),0,0,0,Finfish and Shellfish Products
+water,1,gunplay,1,1,rollin’ (remix),0,0,0,Beverages
+banana,1,gunplay,1,1,rollin’ (remix),0,0,0,Fruits and Fruit Juices
+ice,1,chingy,1,1,roll on 'em,0,0,0,
+candy,3,chingy,1,3,roll on 'em,0,0,0,Sweets
+cream,1,dr. chakalenstein,1,1,rorschach,0,0,0,Dairy and Egg Products
+fruit,1,rick ross,1,1,rosenberg skit,2012-10-08,2012,10,Baby Foods
+candy,1,rick ross,1,1,rich nigga lifestyle,2019-08-09,2019,8,Sweets
+iced,8,teyana taylor,1,8,rich nigga lifestyle,2019-08-09,2019,8,Beverages
+goose,1,lorde,1,1,royals (remix),2014-01-22,2014,1,Poultry Products
+berry,1,rick ross,1,1,rozay interlude,2012-11-29,2012,11,
+rose,1,rick ross,1,1,rozay interlude,2012-11-29,2012,11,Beverages
+rose,2,juicy j,1,2,rubber bands,0,0,0,Beverages
+drink,1,juicy j,1,1,rubber bands,0,0,0,
+lamb,1,juicy j,1,1,rubber bands,0,0,0,"Lamb, Veal, and Game Products"
+pastrami,1,rick ross,1,1,santorini greece,2017-03-17,2017,3,Sausages and Luncheon Meats
+sprite,1,rick ross,1,1,santorini greece,2017-03-17,2017,3,Beverages
+rose,1,rick ross,1,1,santorini greece,2017-03-17,2017,3,Beverages
+berry,1,rick ross,1,1,scarface,2020-05-29,2020,5,
+noodle,1,rick ross,1,1,scientology,2017-03-17,2017,3,Cereal Grains and Pasta
+water,1,rick ross,1,1,scientology,2017-03-17,2017,3,Beverages
+bread,1,udonis haslem,1,1,season ticket holder,2020-02-21,2020,2,Baked Products
+bread,1,dwyane wade,1,1,season ticket holder,2020-02-21,2020,2,Baked Products
+tangerine,1,rick ross,1,1,season ticket holder,2020-02-21,2020,2,Fruits and Fruit Juices
+ice,1,rick ross,1,1,season ticket holder,2020-02-21,2020,2,
+relish,1,rick ross,1,1,season ticket holder,2020-02-21,2020,2,
+cracker,1,freddie gibbs,1,1,scottie beam,2020-05-28,2020,5,Baked Products
+mm,1,rick ross,1,1,scottie beam,2020-05-28,2020,5,
+drinking,1,wale,1,1,set you free,2019-10-11,2019,10,Beverages
+drink,1,fat trel,1,1,she fell in love (remix),0,0,0,
+meal,1,fat trel,1,1,she fell in love (remix),0,0,0,Baked Products
+pork,1,rick ross,1,1,she on my dick,2017-03-13,2017,3,Pork Products
+bean,1,rick ross,1,1,she on my dick,2017-03-13,2017,3,Legumes and Legume Products
+breakfast,1,rick ross,1,1,she wanna fuck,2015-09-03,2015,9,Baked Products
+rose,1,rick ross,1,1,$$$ signs,0,0,0,Beverages
+rose,1,juicy j,1,1,$$$ signs,0,0,0,Beverages
+drink,1,juicy j,1,1,$$$ signs,0,0,0,
+lamb,1,juicy j,1,1,$$$ signs,0,0,0,"Lamb, Veal, and Game Products"
+coco,1,rick ross,1,1,silk road,2015-12-04,2015,12,
+dough,1,rick ross,1,1,simple and plain,2007-09-18,2007,9,
+meat,1,rick ross,1,1,simple and plain,2007-09-18,2007,9,Baby Foods
+fry,2,rick ross,1,2,simple and plain,2007-09-18,2007,9,
+cake,1,rick ross,1,1,simple and plain,2007-09-18,2007,9,Baked Products
+water,1,rick ross,1,1,simple and plain,2007-09-18,2007,9,Beverages
+steak,1,rick ross,1,1,sing for me,0,0,0,Beef Products
+cake,1,rick ross,1,1,sing for me,0,0,0,Baked Products
+salt,1,rick ross,1,1,sing for me,0,0,0,Spices and Herbs
+water,1,rick ross,1,1,sing for me,0,0,0,Beverages
+bean,1,game,1,1,sing for me,0,0,0,Legumes and Legume Products
+cream,1,rick ross,1,1,sixteen,2012-07-30,2012,7,Dairy and Egg Products
+cheese,1,rick ross,1,1,sixteen,2012-07-30,2012,7,Dairy and Egg Products
+turkey,1,rick ross,1,1,sixteen,2012-07-30,2012,7,Poultry Products
+bacon,1,rick ross,1,1,sixteen,2012-07-30,2012,7,Pork Products
+cake,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Baked Products
+juice,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Baby Foods
+wine,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Beverages
+drink,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,
+grape,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Vegetables and Vegetable Products
+welchs,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,
+jelly,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Sweets
+bean,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Legumes and Legume Products
+water,1,andre 3000,1,1,sixteen,2012-07-30,2012,7,Beverages
+turkey bacon,1,rick ross,-1,-1,sixteen,2012-07-30,2012,7,
+jelly bean,1,andre 3000,-1,-1,sixteen,2012-07-30,2012,7,
+ice,1,trina,1,1,skyline,2017-04-28,2017,4,
+cake,1,rick ross,1,1,"smile mama, smile",2015-12-04,2015,12,Baked Products
+lime,1,young invent,1,1,snowed in,2016-12-31,2016,12,Sweets
+juice,1,young invent,1,1,snowed in,2016-12-31,2016,12,Baby Foods
+ham,1,young invent,1,1,snowed in,2016-12-31,2016,12,Pork Products
+ice,1,young invent,1,1,snowed in,2016-12-31,2016,12,
+asparagus,1,young invent,1,1,snowed in,2016-12-31,2016,12,Vegetables and Vegetable Products
+veggie,1,young invent,1,1,snowed in,2016-12-31,2016,12,
+cheese,1,young invent,1,1,snowed in,2016-12-31,2016,12,Dairy and Egg Products
+sauce,3,rick ross,1,3,soft,0,0,0,"Soups, Sauces, and Gravies"
+coco,1,rick ross,1,1,soft,0,0,0,
+dough,1,rick ross,1,1,soft,0,0,0,
+cheddar,1,rick ross,1,1,soft,0,0,0,Dairy and Egg Products
+coffee,1,rick ross,1,1,soft,0,0,0,Beverages
+snow cone,1,rick ross,2,2,soft,0,0,0,
+chicken,1,,1,1,so in love,0,0,0,Poultry Products
+dough,1,p.o.d.,1,1,somethings going on,0,0,0,
+caviar,1,trick daddy,1,1,somethings going on,0,0,0,Finfish and Shellfish Products
+chicken,1,trick daddy,1,1,somethings going on,0,0,0,Poultry Products
+meal,1,rick ross,1,1,somethings going on,0,0,0,Baked Products
+chicken wing,1,trick daddy,1,1,somethings going on,0,0,0,
+dough,1,p.o.d. (power of dollaz),1,1,something's goin' on,0,0,0,
+caviar,1,p.o.d. (power of dollaz),1,1,something's goin' on,0,0,0,Finfish and Shellfish Products
+chicken,1,p.o.d. (power of dollaz),1,1,something's goin' on,0,0,0,Poultry Products
+meal,1,p.o.d. (power of dollaz),1,1,something's goin' on,0,0,0,Baked Products
+tuna,1,p.o.d. (power of dollaz),1,1,something's goin' on,0,0,0,Finfish and Shellfish Products
+chicken wing,1,p.o.d. (power of dollaz),1,1,something's goin' on,0,0,0,
+food,1,ving rhames,1,1,southern gangsta,2008-11-24,2008,11,
+restaurant,1,ving rhames,1,1,southern gangsta,2008-11-24,2008,11,Restaurant Foods
+fish,1,ludacris,1,1,southern gangsta,2008-11-24,2008,11,Finfish and Shellfish Products
+ice,1,ludacris,1,1,southern gangsta,2008-11-24,2008,11,
+steak,1,ludacris,1,1,southern gangsta,2008-11-24,2008,11,Beef Products
+rose,1,ace hood,1,1,speakers,0,0,0,Beverages
+kiwi,1,ace hood,1,1,speakers,0,0,0,Fruits and Fruit Juices
+salad,1,rick ross,1,1,speedin',2007-10-16,2007,10,
+cheese,1,rick ross,1,1,speedin',2007-10-16,2007,10,Dairy and Egg Products
+dough,3,r. kelly,1,3,speedin',2007-10-16,2007,10,
+salad,1,r. kelly,1,1,speedin' (chris brown remix),2008-01-30,2008,1,
+salad,1,rick ross,1,1,speedin' (chris brown remix),2008-01-30,2008,1,
+salad,1,chris brown,1,1,speedin' (chris brown remix),2008-01-30,2008,1,
+cheese,1,r. kelly,1,1,speedin' (chris brown remix),2008-01-30,2008,1,Dairy and Egg Products
+cheese,1,rick ross,1,1,speedin' (chris brown remix),2008-01-30,2008,1,Dairy and Egg Products
+cheese,1,chris brown,1,1,speedin' (chris brown remix),2008-01-30,2008,1,Dairy and Egg Products
+dough,1,chris brown,1,1,speedin' (chris brown remix),2008-01-30,2008,1,
+dough,1,r.kelly,1,1,speedin' (chris brown remix),2008-01-30,2008,1,
+donut,1,busta rhymes,1,1,speedin’ (we the best remix),0,0,0,
+bread,1,busta rhymes,1,1,speedin’ (we the best remix),0,0,0,Baked Products
+food,1,busta rhymes,1,1,speedin’ (we the best remix),0,0,0,
+cake,1,busta rhymes,1,1,speedin’ (we the best remix),0,0,0,Baked Products
+meal,1,webbie,1,1,speedin’ (we the best remix),0,0,0,Baked Products
+cream,1,fat joe,1,1,speedin’ (we the best remix),0,0,0,Dairy and Egg Products
+tequila,1,,1,1,speedin’ (we the best remix),0,0,0,
+apple,2,,1,2,speedin’ (we the best remix),0,0,0,Fruits and Fruit Juices
+rice,1,rick ross,1,1,speedin’ (we the best remix),0,0,0,Cereal Grains and Pasta
+honey,2,lil' wayne,1,2,speedin’ (we the best remix),0,0,0,Sweets
+double stack,1,plies,2,2,speedin’ (we the best remix),0,0,0,Fast Foods
+fast food,1,busta rhymes,1,1,speedin’ (we the best remix),0,0,0,Fast Foods
+rose,2,whole slab,1,2,stack on my belt,2013-09-17,2013,9,Beverages
+beef,1,rick ross,1,1,staring through my rearview,0,0,0,Beef Products
+burger,1,marc scibilia,1,1,state of the union,2019-05-31,2019,5,
+burger,1,rick ross,1,1,state of the union,2019-05-31,2019,5,
+pie,1,jim jones,1,1,state of the union,2019-05-31,2019,5,Baked Products
+coconut,1,jim jones,1,1,state of the union,2019-05-31,2019,5,Fats and Oils
+drink,1,jim jones,1,1,state of the union,2019-05-31,2019,5,
+bean,2,j lye,1,2,stay schemin' (remix),2012-01-01,2012,1,Legumes and Legume Products
+pineapple,1,j lye,1,1,stay schemin' (xaphoon jones remix),2012-09-27,2012,9,Fruits and Fruit Juices
+syrup,2,future,1,2,stick talk (remix),2015-10-28,2015,10,Sweets
+pez,1,anuel aa,1,1,still fuck your bitch*,0,0,0,
+ice,2,game,1,2,stop,2010-08-03,2010,8,
+juice,1,rick ross,1,1,stop,2010-08-03,2010,8,Baby Foods
+goose,1,rick ross,1,1,stop,2010-08-03,2010,8,Poultry Products
+water,1,rick ross,1,1,stop,2010-08-03,2010,8,Beverages
+honey,1,rick ross,1,1,stop,2010-08-03,2010,8,Sweets
+pike,1,rick ross,1,1,strapped,2007-09-18,2007,9,Finfish and Shellfish Products
+snack,1,rick ross,1,1,strapped,2007-09-18,2007,9,Snacks
+beef,1,rick ross,1,1,strapped,2007-09-18,2007,9,Beef Products
+cheddar,2,noah,1,2,strapped,2007-09-18,2007,9,Dairy and Egg Products
+potato,1,noah,1,1,strapped,2007-09-18,2007,9,Vegetables and Vegetable Products
+cheese,1,noah,1,1,strapped,2007-09-18,2007,9,Dairy and Egg Products
+deli,1,noah,1,1,strapped,2007-09-18,2007,9,Sausages and Luncheon Meats
+candy,1,rick ross,1,1,street life,2006-08-08,2006,8,Sweets
+ice,1,rick ross,1,1,street love,2007-09-18,2007,9,
+peach,1,rick ross,1,1,street love,2007-09-18,2007,9,Fruits and Fruit Juices
+fish,1,rick ross,1,1,street love,2007-09-18,2007,9,Finfish and Shellfish Products
+gummy,1,rick ross,1,1,street love,2007-09-18,2007,9,
+spam,1,rick ross,1,1,street money,0,0,0,
+sour,1,rick ross,1,1,street money,0,0,0,Fruits and Fruit Juices
+cheese,1,rick ross,1,1,street money,0,0,0,Dairy and Egg Products
+spam,1,rick ross,1,1,street money,0,0,0,
+sour,1,rick ross,1,1,street money,0,0,0,Fruits and Fruit Juices
+cheese,1,rick ross,1,1,street money,0,0,0,Dairy and Egg Products
+nut,1,wale,1,1,sue me,2019-10-11,2019,10,Nut and Seed Products
+fried,1,rick ross,1,1,summer 17,2017-02-08,2017,2,Poultry Products
+fish,1,rick ross,1,1,summer 17,2017-02-08,2017,2,Finfish and Shellfish Products
+pan,1,rick ross,1,1,summer 17,2017-02-08,2017,2,
+ice,1,rick ross,1,1,summer reign,2019-08-09,2019,8,
+candy,2,glasses malone,1,2,sun come up,0,0,0,Sweets
+honey,1,glasses malone,1,1,sun come up,0,0,0,Sweets
+bread,1,wale,1,1,sunshine - remix,0,0,0,Baked Products
+rose,1,wale,1,1,sunshine - remix,0,0,0,Beverages
+food,1,rick ross,1,1,sunshine - remix,0,0,0,
+cabernet,1,common,1,1,sunshine - remix,0,0,0,
+molasses,1,common,1,1,sunshine - remix,0,0,0,Baked Products
+fruit,1,common,1,1,sunshine - remix,0,0,0,Baby Foods
+juice,1,common,1,1,sunshine - remix,0,0,0,Baby Foods
+bread,1,wale,1,1,sunshine (remix),2014-03-31,2014,3,Baked Products
+rose,1,wale,1,1,sunshine (remix),2014-03-31,2014,3,Beverages
+food,1,rick ross,1,1,sunshine (remix),2014-03-31,2014,3,
+cabernet,1,common,1,1,sunshine (remix),2014-03-31,2014,3,
+molasses,1,common,1,1,sunshine (remix),2014-03-31,2014,3,Baked Products
+fruit,1,common,1,1,sunshine (remix),2014-03-31,2014,3,Baby Foods
+juice,1,common,1,1,sunshine (remix),2014-03-31,2014,3,Baby Foods
+champagne,1,rick ross,1,1,supa cindy,0,0,0,
+chardonnay,1,rick ross,1,1,super high,2010-05-04,2010,5,Beverages
+guinness,3,rick ross,1,3,super high,2010-05-04,2010,5,
+guinness,1,ne-yo,1,1,super high,2010-05-04,2010,5,
+strawberry,1,ne-yo,1,1,super high,2010-05-04,2010,5,Dairy and Egg Products
+rose,1,ne-yo,1,1,super high,2010-05-04,2010,5,Beverages
+gum,1,rick ross,1,1,super high (remix),0,0,0,Sweets
+water,1,rick ross,1,1,super high (remix),0,0,0,Beverages
+champagne,1,rick ross,1,1,super high (remix),0,0,0,
+pina,2,rick ross,1,2,super high (remix),0,0,0,
+guinness,1,rick ross,1,1,super high (remix),0,0,0,
+pina colada,2,rick ross,-1,-2,super high (remix),0,0,0,Beverages
+scotch,1,rick ross,1,1,supreme,2014-03-03,2014,3,
+drink,1,fabolous,1,1,supreme (remix),2014-08-12,2014,8,
+tamale,1,ma$e,1,1,supreme (remix),2014-08-12,2014,8,Restaurant Foods
+chicken,1,rick ross,1,1,supreme (remix),2014-08-12,2014,8,Poultry Products
+ice,1,rick ross,1,1,supreme (remix),2014-08-12,2014,8,
+cream,1,rick ross,1,1,supreme (remix),2014-08-12,2014,8,Dairy and Egg Products
+lobster,1,big krit,1,1,supreme (remix),2014-08-12,2014,8,Finfish and Shellfish Products
+steak,1,big krit,1,1,supreme (remix),2014-08-12,2014,8,Beef Products
+shrimp,1,big krit,1,1,supreme (remix),2014-08-12,2014,8,Finfish and Shellfish Products
+pasta,1,big krit,1,1,supreme (remix),2014-08-12,2014,8,"Soups, Sauces, and Gravies"
+fruit,1,big krit,1,1,supreme (remix),2014-08-12,2014,8,Baby Foods
+veggie,1,big krit,1,1,supreme (remix),2014-08-12,2014,8,
+hot tamale,1,ma$e,1,1,supreme (remix),2014-08-12,2014,8,
+ice cream,1,rick ross,-1,-1,supreme (remix),2014-08-12,2014,8,Sweets
+ice,1,richgirl,1,1,swagger right,2010-09-27,2010,9,
+alcohol,1,richgirl,1,1,swagger right,2010-09-27,2010,9,Spices and Herbs
+rose,1,richgirl,1,1,swagger right,2010-09-27,2010,9,Beverages
+champagne,1,rick ross,1,1,sweet life,0,0,0,
+cheese,1,a$ap ferg,1,1,swipe life,2016-04-22,2016,4,Dairy and Egg Products
+poppy seed,1,rick ross,2,2,swipe life,2016-04-22,2016,4,Spices and Herbs
+tangerine,3,big boi,1,3,tangerine (gentlemen's club remix),0,0,0,Fruits and Fruit Juices
+tangerine,3,big k.r.i.t.,1,3,tangerine (gentlemen's club remix),0,0,0,Fruits and Fruit Juices
+tangerine,1,,1,1,tangerine (gentlemen's club remix),0,0,0,Fruits and Fruit Juices
+tangerine,1,fabolous,1,1,tangerine (gentlemen's club remix),0,0,0,Fruits and Fruit Juices
+tangerine,1,khujo goodie,1,1,tangerine (gentlemen's club remix),0,0,0,Fruits and Fruit Juices
+cream,2,big boi,1,2,tangerine (gentlemen's club remix),0,0,0,Dairy and Egg Products
+cream,3,big k.r.i.t.,1,3,tangerine (gentlemen's club remix),0,0,0,Dairy and Egg Products
+sugar,1,big boi,1,1,tangerine (gentlemen's club remix),0,0,0,Sweets
+fruit,1,big boi,1,1,tangerine (gentlemen's club remix),0,0,0,Baby Foods
+collard,1,big boi,1,1,tangerine (gentlemen's club remix),0,0,0,Vegetables and Vegetable Products
+collard,1,,1,1,tangerine (gentlemen's club remix),0,0,0,Vegetables and Vegetable Products
+collard,1,fabolous,1,1,tangerine (gentlemen's club remix),0,0,0,Vegetables and Vegetable Products
+collard,1,khujo goodie,1,1,tangerine (gentlemen's club remix),0,0,0,Vegetables and Vegetable Products
+bean,1,big boi,1,1,tangerine (gentlemen's club remix),0,0,0,Legumes and Legume Products
+bean,1,,1,1,tangerine (gentlemen's club remix),0,0,0,Legumes and Legume Products
+bean,1,fabolous,1,1,tangerine (gentlemen's club remix),0,0,0,Legumes and Legume Products
+bean,1,khujo goodie,1,1,tangerine (gentlemen's club remix),0,0,0,Legumes and Legume Products
+fried,1,rick ross,1,1,tangerine (gentlemen's club remix),0,0,0,Poultry Products
+fish,1,rick ross,1,1,tangerine (gentlemen's club remix),0,0,0,Finfish and Shellfish Products
+texas pete,1,big boi,2,2,tangerine (gentlemen's club remix),0,0,0,
+texas pete,1,,2,2,tangerine (gentlemen's club remix),0,0,0,
+texas pete,1,fabolous,2,2,tangerine (gentlemen's club remix),0,0,0,
+texas pete,1,khujo goodie,2,2,tangerine (gentlemen's club remix),0,0,0,
+collard green,1,big boi,1,1,tangerine (gentlemen's club remix),0,0,0,
+collard green,1,,1,1,tangerine (gentlemen's club remix),0,0,0,
+collard green,1,fabolous,1,1,tangerine (gentlemen's club remix),0,0,0,
+collard green,1,khujo goodie,1,1,tangerine (gentlemen's club remix),0,0,0,
+beef,1,wale,1,1,tats on my arm,0,0,0,Beef Products
+beef,1,rick ross,1,1,tears of joy,2010-07-20,2010,7,Beef Products
+ice,2,rick ross,1,2,tears of joy,2010-07-20,2010,7,
+vodka,1,rick ross,1,1,ten jesus pieces,2012-07-30,2012,7,Beverages
+rose,1,stalley,1,1,ten jesus pieces,2012-07-30,2012,7,Beverages
+sandwich,1,stalley,1,1,ten jesus pieces,2012-07-30,2012,7,Baked Products
+soda,1,stalley,1,1,ten jesus pieces,2012-07-30,2012,7,Baked Products
+cake,1,rockie fresh,1,1,thank you,2015-10-01,2015,10,Baked Products
+breakfast,1,rockie fresh,1,1,thank you,2015-10-01,2015,10,Baked Products
+pear,1,rockie fresh,1,1,thank you,2015-10-01,2015,10,Fruits and Fruit Juices
+drinking,1,rick ross,1,1,that’s a check,2016-12-29,2016,12,Beverages
+rum,1,future,1,1,that's on my momma,0,0,0,Beverages
+rum,1,rick ross,1,1,that's on my momma,0,0,0,Beverages
+pancake,1,redrum (rapper),1,1,that's on my momma,0,0,0,Baked Products
+bread,1,redrum (rapper),1,1,that's on my momma,0,0,0,Baked Products
+mcdonalds,1,tory lanez,1,1,super freak,2016-09-23,2016,9,Fast Foods
+shrimp,1,rick ross,1,1,super freak,2016-09-23,2016,9,Finfish and Shellfish Products
+rose,1,rick ross,1,1,super freak,2016-09-23,2016,9,Beverages
+wine,1,wale,1,1,that way,2011-11-01,2011,11,Beverages
+rice,1,gunplay,1,1,the great americans,0,0,0,Cereal Grains and Pasta
+steak,1,gunplay,1,1,the great americans,0,0,0,Beef Products
+wine,1,gunplay,1,1,the great americans,0,0,0,Beverages
+coffee,1,rick ross,1,1,the lion roars,2016-07-22,2016,7,Beverages
+rice,1,rick ross,1,1,the more i get,0,0,0,Cereal Grains and Pasta
+sauce,1,consequence,1,1,the more i get,2010-03-15,2010,3,"Soups, Sauces, and Gravies"
+nut,1,future,1,1,then i leave,2016-01-25,2016,1,Nut and Seed Products
+soda,1,rick ross,1,1,then i leave,2016-01-25,2016,1,Baked Products
+moscato,1,ace hood,1,1,the realist livin',2013-01-01,2013,1,
+bread,1,rick ross,1,1,the show album art,0,0,0,Baked Products
+spaghetti,1,rick ross,1,1,the summer's mine,0,0,0,Cereal Grains and Pasta
+meatball,1,rick ross,1,1,the summer's mine,0,0,0,Legumes and Legume Products
+orange,1,rick ross,1,1,the transporter,0,0,0,Fruits and Fruit Juices
+beef,1,rick ross,1,1,the trillest,2013-04-18,2013,4,Beef Products
+corn,1,rick ross,1,1,the trillest,2013-04-18,2013,4,Cereal Grains and Pasta
+food,1,rick ross,1,1,the trillest,2013-04-18,2013,4,
+corn flake,1,rick ross,1,1,the trillest,2013-04-18,2013,4,
+ice,1,rick ross,1,1,the way you love me,2010-12-17,2010,12,
+waffle,1,rick ross,1,1,the way you love me,2010-12-17,2010,12,Baked Products
+breakfast,1,rick ross,1,1,the way you love me,2010-12-17,2010,12,Baked Products
+ice,1,rick ross,1,1,the weather,2013-10-08,2013,10,
+cake,1,rick ross,1,1,they know (remix),0,0,0,Baked Products
+dough,1,rick ross,1,1,they know (remix),0,0,0,
+cheddar,1,stalley,1,1,the zenith,0,0,0,Dairy and Egg Products
+pie,1,wale,1,1,the zenith,0,0,0,Baked Products
+rose,1,rick ross,1,1,think about it (2018),2018-03-16,2018,3,Beverages
+biscuit,1,rick ross,1,1,this is the life,2008-03-11,2008,3,Fast Foods
+dough,1,rick ross,1,1,this is the life,2008-03-11,2008,3,
+food,1,rick ross,1,1,this is the life,2008-03-11,2008,3,
+raisin,1,rick ross,1,1,this is the life,2008-03-11,2008,3,Baked Products
+champagne,4,trey songz,1,4,this is the life,2008-03-11,2008,3,
+fast food,1,rick ross,1,1,this is the life,2008-03-11,2008,3,Fast Foods
+ice,1,mistah f.a.b.,1,1,thug tears (remix),2018-03-09,2018,3,
+candy,2,glasses malone,1,2,til da sun come up (remix),2009-05-12,2009,5,Sweets
+honey,1,glasses malone,1,1,til da sun come up (remix),2009-05-12,2009,5,Sweets
+rose,1,busta rhymes,1,1,til we die,2012-08-21,2012,8,Beverages
+bread,1,busta rhymes,1,1,til we die,2012-08-21,2012,8,Baked Products
+cheese,1,rick ross,1,1,til we die,2012-08-21,2012,8,Dairy and Egg Products
+lavender,1,rick ross,1,1,til we die,2012-08-21,2012,8,
+ramen,1,celeb forever,1,1,timeless,2011-08-03,2011,8,
+noodle,1,celeb forever,1,1,timeless,2011-08-03,2011,8,Cereal Grains and Pasta
+berry,1,celeb forever,1,1,timeless,2011-08-03,2011,8,
+ramen noodle,1,celeb forever,-1,-1,timeless,2011-08-03,2011,8,"Soups, Sauces, and Gravies"
+lobster,1,rick ross,1,1,tiptoe'n,2017-10-19,2017,10,Finfish and Shellfish Products
+mm,1,ne-yo,1,1,tired of dreaming,2013-06-25,2013,6,
+strawberry,1,rick ross,1,1,tired of dreaming,2013-06-25,2013,6,Dairy and Egg Products
+honey,1,trina,1,1,told y'all,2002-08-27,2002,8,Sweets
+iced,1,trina,1,1,told y'all,2002-08-27,2002,8,Beverages
+roe,1,rick ross,1,1,told y'all,2002-08-27,2002,8,Finfish and Shellfish Products
+rose,2,letoya luckett,1,2,touch 'n you,0,0,0,Beverages
+champagne,1,letoya luckett,1,1,touch 'n you,0,0,0,
+rose,1,rick ross,1,1,touch'n you,2012-05-22,2012,5,Beverages
+champagne,1,rick ross,1,1,touch'n you,2012-05-22,2012,5,
+breakfast,1,lupe fiasco,1,1,tranquillo,2017-02-10,2017,2,Baked Products
+nutrition,1,lupe fiasco,1,1,tranquillo,2017-02-10,2017,2,
+cooking,1,,1,1,trap boomin,2012-05-25,2012,5,Beverages
+butter,1,,1,1,trap boomin,2012-05-25,2012,5,Dairy and Egg Products
+sprinkle,1,rick ross,1,1,trap boomin,2012-05-25,2012,5,
+lemon,1,rick ross,1,1,trap boomin,2012-05-25,2012,5,Beverages
+pepper,1,rick ross,1,1,trap boomin,2012-05-25,2012,5,Vegetables and Vegetable Products
+jolly rancher,1,,2,2,trap boomin,2012-05-25,2012,5,
+lemon pepper,1,rick ross,-1,-1,trap boomin,2012-05-25,2012,5,
+cake,4,rick ross,1,4,trap house,2013-05-21,2013,5,Baked Products
+salt,1,rick ross,1,1,trap house,2013-05-21,2013,5,Spices and Herbs
+jolly rancher,1,french montana,2,2,trap house,2013-05-21,2013,5,
+pie,1,rick ross,1,1,trap luv,2014-11-24,2014,11,Baked Products
+oil,1,young thug,1,1,trap trap trap,2017-03-09,2017,3,Fats and Oils
+water,1,young thug,1,1,trap trap trap,2017-03-09,2017,3,Beverages
+fried,1,wale,1,1,trap trap trap,2017-03-09,2017,3,Poultry Products
+fish,1,rick ross,1,1,trilla intro,2008-03-11,2008,3,Finfish and Shellfish Products
+cheese,1,rick ross,1,1,trilla intro,2008-03-11,2008,3,Dairy and Egg Products
+dough,1,rick ross,1,1,trilla intro,2008-03-11,2008,3,
+chicken,1,rick ross,1,1,triple platinum,2017-03-17,2017,3,Poultry Products
+patty,1,rick ross,1,1,triple platinum,2017-03-17,2017,3,Poultry Products
+burger,1,rick ross,1,1,triple platinum,2017-03-17,2017,3,
+chicken patty,1,rick ross,1,1,triple platinum,2017-03-17,2017,3,Poultry Products
+dough,1,e.d.i. mean,1,1,tupac back (g-mix),2011-05-23,2011,5,
+dough,1,hussein fatal,1,1,tupac back (g-mix),2011-05-23,2011,5,
+honey,1,rick ross,1,1,turnpike ike,2019-08-06,2019,8,Sweets
+peri,1,rocko,1,1,turnt up,0,0,0,
+rose,1,rocko,1,1,turnt up,0,0,0,Beverages
+champagne,1,rick ross,1,1,turnt up,0,0,0,
+lemon,1,rick ross,1,1,turnt up,0,0,0,Beverages
+pepper,1,rick ross,1,1,turnt up,0,0,0,Vegetables and Vegetable Products
+lemon pepper,1,rick ross,-1,-1,turnt up,0,0,0,
+noodle,1,rick ross,1,1,two three,2013-11-20,2013,11,Cereal Grains and Pasta
+pie,1,nelly,1,1,u ain't him,2008-09-16,2008,9,Baked Products
+chicken,2,nelly,1,2,u ain't him,2008-09-16,2008,9,Poultry Products
+chicken,1,rick ross,1,1,u ain't him,2008-09-16,2008,9,Poultry Products
+meal,1,nelly,1,1,u ain't him,2008-09-16,2008,9,Baked Products
+meal,1,rick ross,1,1,u ain't him,2008-09-16,2008,9,Baked Products
+juice,1,yung joc,1,1,ugh,0,0,0,Baby Foods
+ham,1,yung joc,1,1,ugh,0,0,0,Pork Products
+cheese,1,yung joc,1,1,ugh,0,0,0,Dairy and Egg Products
+candy,1,alfamega,1,1,uh huh (remix),0,0,0,Sweets
+cheddar,1,alfamega,1,1,uh huh (remix),0,0,0,Dairy and Egg Products
+dough,1,alfamega,1,1,uh huh (remix),0,0,0,
+agar,1,smoke rapper (hindi),1,1,unstoppable,2016-08-12,2016,8,Vegetables and Vegetable Products
+mustard,1,rick ross,1,1,valley of death,2009-04-21,2009,4,Spices and Herbs
+food,1,rick ross,1,1,valley of death,2009-04-21,2009,4,
+cheddar,1,rick ross,1,1,valley of death,2009-04-21,2009,4,Dairy and Egg Products
+meatloaf,1,rick ross,1,1,valley of death,2009-04-21,2009,4,
+mustard seed,1,rick ross,1,1,valley of death,2009-04-21,2009,4,Spices and Herbs
+dough,1,forgiato blow,1,1,vanilla sprite remix,2017-01-01,2017,1,
+vanilla,1,forgiato blow,1,1,vanilla sprite remix,2017-01-01,2017,1,Sweets
+ice,1,forgiato blow,1,1,vanilla sprite remix,2017-01-01,2017,1,
+candy,1,forgiato blow,1,1,vanilla sprite remix,2017-01-01,2017,1,Sweets
+restaurant,1,rick ross,1,1,vegas residency,2019-08-09,2019,8,Restaurant Foods
+dough,3,rick ross,1,3,vegas residency,2019-08-09,2019,8,
+egg,1,rick ross,1,1,vegas residency,2019-08-09,2019,8,Dairy and Egg Products
+beef,1,rick ross,1,1,vegas residency,2019-08-09,2019,8,Beef Products
+watermelon,1,rick ross,1,1,vegas residency,2019-08-09,2019,8,Fruits and Fruit Juices
+batter,1,rick ross,1,1,vegas residency,2019-08-09,2019,8,Poultry Products
+artichoke,1,rick ross,1,1,very best,2015-12-04,2015,12,Vegetables and Vegetable Products
+cheese,1,rick ross,1,1,very best,2015-12-04,2015,12,Dairy and Egg Products
+cake,1,rick ross,1,1,very best,2015-12-04,2015,12,Baked Products
+cheese cake,1,rick ross,-1,-1,very best,2015-12-04,2015,12,
+restaurant,1,rick ross,1,1,vsop (remix),0,0,0,Restaurant Foods
+ice,1,rick ross,1,1,vsop (remix),0,0,0,
+candy,1,24hrs,1,1,vsvsvs (remix),2017-03-19,2017,3,Sweets
+iced,1,24hrs,1,1,vsvsvs (remix),2017-03-19,2017,3,Beverages
+ice,1,24hrs,1,1,vsvsvs (remix),2017-03-19,2017,3,
+candy cane,1,24hrs,1,1,vsvsvs (remix),2017-03-19,2017,3,
+bread,1,trina,1,1,waist so skinny,0,0,0,Baked Products
+berry,1,trina,1,1,waist so skinny,0,0,0,
+cherry,1,trina,1,1,waist so skinny,0,0,0,Fruits and Fruit Juices
+bread,1,trina,1,1,waist so skinny (clean),0,0,0,Baked Products
+berry,1,trina,1,1,waist so skinny (clean),0,0,0,
+cherry,1,trina,1,1,waist so skinny (clean),0,0,0,Fruits and Fruit Juices
+bread,1,trina,1,1,waist so skinny (explicit),0,0,0,Baked Products
+berry,1,trina,1,1,waist so skinny (explicit),0,0,0,
+cherry,1,trina,1,1,waist so skinny (explicit),0,0,0,Fruits and Fruit Juices
+champagne,3,diamond platnumz,1,3,waka,2017-12-08,2017,12,
+champagne,2,rick ross,1,2,waka,2017-12-08,2017,12,
+bao,1,diamond platnumz,1,1,waka,2017-12-08,2017,12,
+ice,1,rick ross,1,1,waka,2017-12-08,2017,12,
+peri,1,rocko,1,1,u.o.e.n.o,2013-03-05,2013,3,
+rose,1,rocko,1,1,u.o.e.n.o,2013-03-05,2013,3,Beverages
+champagne,1,rick ross,1,1,u.o.e.n.o,2013-03-05,2013,3,
+lemon,1,rick ross,1,1,u.o.e.n.o,2013-03-05,2013,3,Beverages
+pepper,1,rick ross,1,1,u.o.e.n.o,2013-03-05,2013,3,Vegetables and Vegetable Products
+lemon pepper,1,rick ross,-1,-1,u.o.e.n.o,2013-03-05,2013,3,
+rose,1,rocko,1,1,u.o.e.n.o (extended remix),2013-06-24,2013,6,Beverages
+champagne,1,rick ross,1,1,u.o.e.n.o (extended remix),2013-06-24,2013,6,
+lemon,1,rick ross,1,1,u.o.e.n.o (extended remix),2013-06-24,2013,6,Beverages
+pepper,1,rick ross,1,1,u.o.e.n.o (extended remix),2013-06-24,2013,6,Vegetables and Vegetable Products
+lemon pepper,1,rick ross,-1,-1,u.o.e.n.o (extended remix),2013-06-24,2013,6,
+rose,1,rick ross,1,1,war ready,2014-02-08,2014,2,Beverages
+rose,1,tracy t,1,1,war ready,2014-02-08,2014,2,Beverages
+rose,1,rick ross,1,1,war ready,2014-02-08,2014,2,Beverages
+rose,1,gucci mane,1,1,war ready (remix),2014-02-02,2014,2,Beverages
+beef,1,project pat,1,1,watch money fall,2017-09-18,2017,9,Beef Products
+iced,1,juicy j,1,1,watch money fall,2017-09-18,2017,9,Beverages
+toasted,1,juicy j,1,1,watch money fall,2017-09-18,2017,9,Baked Products
+caviar,1,rick ross,1,1,watch money fall,2017-09-18,2017,9,Finfish and Shellfish Products
+salad,1,rick ross,1,1,watch money fall,2017-09-18,2017,9,
+crab,1,rick ross,1,1,watch money fall,2017-09-18,2017,9,Finfish and Shellfish Products
+dum dums,4,akon,2,8,watch out,2006-06-06,2006,6,
+drink,1,n.o.r.e.,1,1,we don't,0,0,0,
+nut,1,rick ross,1,1,we don't,0,0,0,Nut and Seed Products
+bread,1,rick ross,1,1,welcome to my hood,0,0,0,Baked Products
+drink,1,kevin rudolf,1,1,welcome to the world,0,0,0,
+drink,1,rick ross,1,1,welcome to the world (rick ross version),0,0,0,
+drink,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+lobster,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Finfish and Shellfish Products
+coffee,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Beverages
+beef,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Beef Products
+champagne,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+spinach,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Vegetables and Vegetable Products
+fruity,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+mango,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fruits and Fruit Juices
+meat,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Baby Foods
+mcdonalds,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fast Foods
+lemon,14,heroes+villains,1,14,we off that,2010-11-02,2010,11,Beverages
+lemonade,7,heroes+villains,1,7,we off that,2010-11-02,2010,11,Beverages
+pepper,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Vegetables and Vegetable Products
+peach,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fruits and Fruit Juices
+sour,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fruits and Fruit Juices
+apple,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fruits and Fruit Juices
+syrup,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Sweets
+lemonhead,2,heroes+villains,1,2,we off that,2010-11-02,2010,11,
+chicken,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Poultry Products
+blackberry,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fruits and Fruit Juices
+apricot,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Fruits and Fruit Juices
+barbeque,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+ice,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+dough,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+ham,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,Pork Products
+lemon pepper,1,heroes+villains,-1,-1,we off that,2010-11-02,2010,11,
+georgia peach,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+sour apple,1,heroes+villains,-1,-1,we off that,2010-11-02,2010,11,
+lemon drop,1,heroes+villains,1,1,we off that,2010-11-02,2010,11,
+food,1,rick ross,1,1,we shinin',2008-03-11,2008,3,
+dough,1,rick ross,1,1,we shinin',2008-03-11,2008,3,
+champagne,1,rick ross,1,1,we shinin',2008-03-11,2008,3,
+lemonade,1,rick ross,1,1,we shinin',2008-03-11,2008,3,Beverages
+chicken,4,future,1,4,whatever,2017-06-23,2017,6,Poultry Products
+blueberry,1,rick ross,1,1,whatever,2017-06-23,2017,6,Baked Products
+lobster,1,2 chainz,1,1,whatever,2017-06-23,2017,6,Finfish and Shellfish Products
+twinkie,1,rick ross,1,1,when you feel this,2015-07-10,2015,7,
+chicken,1,rick ross,1,1,where my money (i need that),2006-08-08,2006,8,Poultry Products
+squid,1,rick ross,1,1,where ya at (remix),2015-11-11,2015,11,Finfish and Shellfish Products
+crab,1,rick ross,1,1,where ya at (remix),2015-11-11,2015,11,Finfish and Shellfish Products
+fish,1,rick ross,1,1,where ya at (remix),2015-11-11,2015,11,Finfish and Shellfish Products
+pie,1,future,1,1,where ya at (remix),2015-11-11,2015,11,Baked Products
+drinking,1,future,1,1,where ya at (remix),2015-11-11,2015,11,Beverages
+onion,1,future,1,1,where ya at (remix),2015-11-11,2015,11,Vegetables and Vegetable Products
+food,1,future,1,1,where ya at (remix),2015-11-11,2015,11,
+fruit,1,rick ross,1,1,white house,2006-08-08,2006,8,Baby Foods
+food,1,rick ross,1,1,white house,2006-08-08,2006,8,
+fish,1,rick ross,1,1,white house,2006-08-08,2006,8,Finfish and Shellfish Products
+cracker,1,rick ross,1,1,white house (remix),0,0,0,Baked Products
+rose,1,brisco,1,1,white house (remix),0,0,0,Beverages
+beef,1,brisco,1,1,white house (remix),0,0,0,Beef Products
+rice,1,young breed,1,1,white house (remix),0,0,0,Cereal Grains and Pasta
+rice,1,flo rida,1,1,white house (remix),0,0,0,Cereal Grains and Pasta
+pan,1,young breed,1,1,white house (remix),0,0,0,
+pan,1,flo rida,1,1,white house (remix),0,0,0,
+bourbon,1,gunplay,1,1,white house (remix),0,0,0,
+cooking,1,torch,1,1,white house (remix),0,0,0,Beverages
+iced,1,rick ross,1,1,white iverson (remix),0,0,0,Beverages
+rice,1,kool g rap,1,1,white sand part ii,0,0,0,Cereal Grains and Pasta
+pan,1,kool g rap,1,1,white sand part ii,0,0,0,
+grain,1,kool g rap,1,1,white sand part ii,0,0,0,
+ice,3,,1,3,white sand part ii,0,0,0,
+soda,1,,1,1,white sand part ii,0,0,0,Baked Products
+cooking,1,,1,1,white sand part ii,0,0,0,Beverages
+yogurt,1,,1,1,white sand part ii,0,0,0,Dairy and Egg Products
+baking soda,1,,1,1,white sand part ii,0,0,0,Baked Products
+cocktail,1,kharysma aka arafat-nzaba,1,1,why do not we fall in love,2018-11-15,2018,11,"Soups, Sauces, and Gravies"
+turkey,1,kharysma aka arafat-nzaba,1,1,why do not we fall in love,2018-11-15,2018,11,Poultry Products
+rose,1,kharysma aka arafat-nzaba,1,1,why do not we fall in love,2018-11-15,2018,11,Beverages
+water,1,kharysma aka arafat-nzaba,1,1,why do not we fall in love,2018-11-15,2018,11,Beverages
+rose water,1,kharysma aka arafat-nzaba,-1,-1,why do not we fall in love,2018-11-15,2018,11,
+flavor,1,2 chainz,1,1,wild one,2017-07-05,2017,7,
+ice,1,joyryde,1,1,windows,2016-01-12,2016,1,
+lemon,4,philthy rich,1,4,wing stop (remix),2015-07-22,2015,7,Beverages
+pepper,4,philthy rich,1,4,wing stop (remix),2015-07-22,2015,7,Vegetables and Vegetable Products
+chicken,2,yowda,1,2,wing stop (remix),2015-07-22,2015,7,Poultry Products
+lemon pepper,4,philthy rich,-1,-4,wing stop (remix),2015-07-22,2015,7,
+chocolate,1,dej loaf,1,1,white lines,2019-08-09,2019,8,Sweets
+chocolate,1,rick ross,1,1,white lines,2019-08-09,2019,8,Sweets
+cream,1,rick ross,1,1,white lines,2019-08-09,2019,8,Dairy and Egg Products
+gum,1,french montana,1,1,wit it,2014-01-01,2014,1,Sweets
+cheese,1,rick ross,1,1,work,0,0,0,Dairy and Egg Products
+blue cheese,1,rick ross,1,1,work,0,0,0,
+beef,1,a$ap.ferg,1,1,work remix,0,0,0,Beef Products
+candy,1,a$ap.ferg,1,1,work remix,0,0,0,Sweets
+taffy,1,a$ap.ferg,1,1,work remix,0,0,0,Sweets
+laffy taffy,1,a$ap.ferg,1,1,work remix,0,0,0,
+cracker,2,rick ross,1,2,wuzzup,2014-11-24,2014,11,Baked Products
+spinach,1,rick ross,1,1,yacht club,2009-04-21,2009,4,Vegetables and Vegetable Products
+water,1,rick ross,1,1,yacht club,2009-04-21,2009,4,Beverages
+fish,1,rick ross,1,1,yacht club,2009-04-21,2009,4,Finfish and Shellfish Products
+lime,1,rick ross,1,1,yacht club,2009-04-21,2009,4,Sweets
+veggie,1,rick ross,1,1,yacht club,2009-04-21,2009,4,
+champagne,1,rick ross,1,1,yacht club,2009-04-21,2009,4,
+merlot,1,rick ross,1,1,yacht club,2009-04-21,2009,4,Beverages
+wine,1,rick ross,1,1,yacht club,2009-04-21,2009,4,Beverages
+bagel,1,flo rida,1,1,yayo,0,0,0,Baked Products
+dough,1,brisco,1,1,yayo,0,0,0,
+dough,1,pitbull,1,1,yayo,0,0,0,
+fritter,1,ball greezy,1,1,yayo,0,0,0,
+mango,1,ball greezy,1,1,yayo,0,0,0,Fruits and Fruit Juices
+salad,1,ball greezy,1,1,yayo,0,0,0,
+pie,1,red eyezz,1,1,yayo,0,0,0,Baked Products
+pit,1,pitbull,1,1,yayo,0,0,0,
+nut,1,pitbull,1,1,yayo,0,0,0,Nut and Seed Products
+coffee,1,ace hood,1,1,yayo,0,0,0,Beverages
+beef,1,papayo,1,1,yeah ok,0,0,0,Beef Products
+rose,2,papayo,1,2,yeah ok,0,0,0,Beverages
+cake,1,papayo,1,1,yeah ok,0,0,0,Baked Products
+beef,1,dj self,1,1,yeah ok,2014-01-01,2014,1,Beef Products
+rose,2,dj self,1,2,yeah ok,2014-01-01,2014,1,Beverages
+cake,1,dj self,1,1,yeah ok,2014-01-01,2014,1,Baked Products
+cracker,1,rick ross,1,1,yella diamonds,2012-01-06,2012,1,Baked Products
+water,1,rick ross,1,1,yella diamonds,2012-01-06,2012,1,Beverages
+cake,1,rick ross,1,1,yella diamonds,2012-01-06,2012,1,Baked Products
+drinking,1,jurrarri,1,1,yellow stone,2009-11-16,2009,11,Beverages
+honeycomb,12,rick ross sampled,1,12,yellow stone,2009-11-16,2009,11,
+dough,1,t.i.,1,1,you can tell how i walk,2014-10-21,2014,10,
+cake,1,rick ross,1,1,you can tell how i walk,2014-10-21,2014,10,Baked Products
+gatorade,1,rick ross,1,1,you can tell how i walk,2014-10-21,2014,10,Beverages
+cheddar,2,rick ross,1,2,you know i got it (reprise),2013-03-03,2013,3,Dairy and Egg Products
+water,1,rick ross,1,1,young & gettin it,2012-10-08,2012,10,Beverages
+rose,1,rick ross,1,1,young & gettin it,2012-10-08,2012,10,Beverages
+candy,1,bun b,1,1,you're everything,2008-05-20,2008,5,Sweets
+candy,1,rick ross,1,1,you're everything,2008-05-20,2008,5,Sweets
+honeycomb,1,rick ross,1,1,you're everything,2008-05-20,2008,5,
+champagne,1,rick ross,1,1,you're everything,2008-05-20,2008,5,
+gatorade,1,rick ross,1,1,you're everything,2008-05-20,2008,5,Beverages
+syrup,1,david banner,1,1,you're everything,2008-05-20,2008,5,Sweets
+curry,1,nicole bus,1,1,you (remix),2019-04-12,2019,4,
+roast,1,rick ross,1,1,you (remix),2019-04-12,2019,4,Beef Products
+pot roast,1,rick ross,1,1,you (remix),2019-04-12,2019,4,
+breakfast,1,rick ross,1,1,your life,2016-01-20,2016,1,Baked Products
+crab,1,rick ross,1,1,your life,2016-01-20,2016,1,Finfish and Shellfish Products
+snow crab,1,rick ross,1,1,your life,2016-01-20,2016,1,
+breakfast,1,rick ross,1,1,your life (remix),2016-03-18,2016,3,Baked Products
+crab,1,rick ross,1,1,your life (remix),2016-03-18,2016,3,Finfish and Shellfish Products
+sprite,1,casey veggies,1,1,your life (remix),2016-03-18,2016,3,Beverages
+veggie,1,casey veggies,1,1,your life (remix),2016-03-18,2016,3,
+snow crab,1,rick ross,1,1,your life (remix),2016-03-18,2016,3,
+sour,1,k. michelle,1,1,you should've killed me,0,0,0,Fruits and Fruit Juices
+juice,1,k. michelle,1,1,you should've killed me,0,0,0,Baby Foods
+ice,1,lizzo,1,1,1 deep,2015-12-11,2015,12,
+salmon,5,lizzo,1,5,2016 mtv vma white carpet interview/freestyle,2016-08-28,2016,8,Finfish and Shellfish Products
+cream,1,lizzo,1,1,ain't i,2015-10-28,2015,10,Dairy and Egg Products
+peeled,1,lizzo,1,1,ain't i,2015-10-28,2015,10,Nut and Seed Products
+flounder,1,lizzo,1,1,ain't i,2015-10-28,2015,10,
+salt,1,lizzo,1,1,ain't i,2015-10-28,2015,10,Spices and Herbs
+sauce,1,lizzo,1,1,ain't i,2015-10-28,2015,10,"Soups, Sauces, and Gravies"
+bread,1,lizzo,1,1,ain't i,2015-10-28,2015,10,Baked Products
+hot sauce,1,lizzo,1,1,ain't i,2015-10-28,2015,10,
+guacamole,1,lizzo,1,1,batches 'n' cookies,2013-10-15,2013,10,
+dough,1,lizzo,1,1,batches 'n' cookies,2013-10-15,2013,10,
+cooking,1,lizzo,1,1,batches 'n' cookies,2013-10-15,2013,10,Beverages
+cream,1,lizzo,1,1,batches 'n' cookies,2013-10-15,2013,10,Dairy and Egg Products
+sugar,1,sophia eris,1,1,batches 'n' cookies,2013-10-15,2013,10,Sweets
+cinnamon,1,sophia eris,1,1,batches 'n' cookies,2013-10-15,2013,10,Baked Products
+milk,1,sophia eris,1,1,batches 'n' cookies,2013-10-15,2013,10,Dairy and Egg Products
+butter,1,p.o.s.,1,1,beastface,2015-01-27,2015,1,Dairy and Egg Products
+boost,1,mike mictlan,1,1,beastface,2015-01-27,2015,1,
+popeyes,3,kyle exum,1,3,belt hurts,2019-09-29,2019,9,Fast Foods
+salt,1,kyle exum,1,1,be still,2015-10-15,2015,10,Spices and Herbs
+coffee,1,lizzo,1,1,be still,2015-10-15,2015,10,Beverages
+food,1,lizzo,1,1,be still,2015-10-15,2015,10,
+raisin,1,lizzo,1,1,be still,2015-10-15,2015,10,Baked Products
+alcohol,1,lizzo,1,1,be still,2015-10-15,2015,10,Spices and Herbs
+cherry,4,lizzo,1,4,betcha,2015-12-10,2015,12,Fruits and Fruit Juices
+dim sum,1,lizzo,2,2,betcha,2015-12-10,2015,12,
+collard,1,lizzo,1,1,better in color,2019-04-19,2019,4,Vegetables and Vegetable Products
+patty,1,lizzo,1,1,better in color,2019-04-19,2019,4,Poultry Products
+cake,1,lizzo,1,1,better in color,2019-04-19,2019,4,Baked Products
+milk,1,lizzo,1,1,better in color,2019-04-19,2019,4,Dairy and Egg Products
+collard green,1,lizzo,1,1,better in color,2019-04-19,2019,4,
+whole milk,1,lizzo,1,1,better in color,2019-04-19,2019,4,Dairy and Egg Products
+pasta,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,"Soups, Sauces, and Gravies"
+fried,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,Poultry Products
+chicken,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,Poultry Products
+grape,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,Vegetables and Vegetable Products
+pea,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,Vegetables and Vegetable Products
+rice,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,Cereal Grains and Pasta
+lime,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,Sweets
+tasty,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,
+fried chicken,1,lizzo,-1,-1,b.g.s.w.,2015-12-11,2015,12,Fast Foods
+chick pea,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,
+key lime,1,lizzo,1,1,b.g.s.w.,2015-12-11,2015,12,
+juice,2,lizzo,1,2,blame it on your love,2019-05-15,2019,5,Baby Foods
+drink,1,charli xcx,1,1,blame it on your love,2019-05-15,2019,5,
+drink,1,charli xcx,1,1,blame it on your love (dylan brady remix),2019-06-21,2019,6,
+juice,1,lizzo,1,1,blame it on your love (dylan brady remix),2019-06-21,2019,6,Baby Foods
+gravy,1,lizzo,1,1,bloodlines,2013-10-15,2013,10,"Soups, Sauces, and Gravies"
+rabbit,1,,1,1,boiled peanuts,2016-05-13,2016,5,"Lamb, Veal, and Game Products"
+honey,1,charli xcx,1,1,boom clap (demo),0,0,0,Sweets
+honey,1,lizzo,1,1,boom clap (demo),0,0,0,Sweets
+tea,1,charli xcx,1,1,boom clap (demo),0,0,0,Beverages
+tea,1,lizzo,1,1,boom clap (demo),0,0,0,Beverages
+ice,1,lizzo,1,1,bother me,0,0,0,
+vodka,2,lizzo,1,2,bother me,0,0,0,Beverages
+orange,2,lizzo,1,2,bother me,0,0,0,Fruits and Fruit Juices
+juice,2,lizzo,1,2,bother me,0,0,0,Baby Foods
+orange juice,2,lizzo,-1,-2,bother me,0,0,0,Fruits and Fruit Juices
+pie,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,Baked Products
+flavor,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,
+nut,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,Nut and Seed Products
+cashew,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,
+honey,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,Sweets
+cake,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,Baked Products
+meal,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,Baked Products
+dough,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,
+wedding cake,1,lizzo,1,1,bus passes and happy meals,2013-10-15,2013,10,
+coconut,4,lizzo,1,4,coconut oil,2016-10-07,2016,10,Fats and Oils
+oil,4,lizzo,1,4,coconut oil,2016-10-07,2016,10,Fats and Oils
+coconut oil,4,lizzo,-1,-4,coconut oil,2016-10-07,2016,10,
+breakfast,1,grrrl prty,1,1,easy easy,2014-06-02,2014,6,Baked Products
+vodka,1,grrrl prty,1,1,easy easy,2014-06-02,2014,6,Beverages
+alcohol,1,grrrl prty,1,1,easy easy,2014-06-02,2014,6,Spices and Herbs
+eggnog,1,grrrl prty,1,1,easy easy,2014-06-02,2014,6,Dairy and Egg Products
+meat,1,grrrl prty,1,1,easy easy,2014-06-02,2014,6,Baby Foods
+tuna,6,grrrl prty,1,6,easy easy,2014-06-02,2014,6,Finfish and Shellfish Products
+fish,6,grrrl prty,1,6,easy easy,2014-06-02,2014,6,Finfish and Shellfish Products
+cookie,1,lizzo,1,1,en love,2015-12-11,2015,12,Baked Products
+cream,1,lizzo,1,1,en love,2015-12-11,2015,12,Dairy and Egg Products
+sprinkle,1,lizzo,1,1,en love,2015-12-11,2015,12,
+flounder,1,lizzo,1,1,en love,2015-12-11,2015,12,
+dessert,1,lizzo,1,1,en love,2015-12-11,2015,12,Baby Foods
+tea,1,monet x change,1,1,errybody say love,2018-12-23,2018,12,Beverages
+tequila,1,sarah walsh,1,1,feeling good as hell,2019-08-31,2019,8,
+jack daniel,2,lizzo,2,4,go,2013-10-15,2013,10,
+tequila,1,lizzo,1,1,good as hell,2016-10-07,2016,10,
+tequila,1,lizzo,1,1,good as hell (bndr remix),0,0,0,
+tequila,1,kevin mchale,1,1,good as hell (x factor recording),2019-10-26,2019,10,
+gum,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Sweets
+beef,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Beef Products
+meat,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Baby Foods
+steak,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Beef Products
+pepper,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Vegetables and Vegetable Products
+spice,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Spices and Herbs
+paprika,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Spices and Herbs
+maple,1,lizzo,1,1,hot dish,2013-10-15,2013,10,Sweets
+cheese,1,greg grease,1,1,i still love h.e.r.,2012-12-11,2012,12,Dairy and Egg Products
+juice,3,greg grease,1,3,i still love h.e.r.,2012-12-11,2012,12,Baby Foods
+pig foot,1,greg grease,2,2,i still love h.e.r.,2012-12-11,2012,12,
+water,2,lizzo,1,2,jang a lang,2015-12-11,2015,12,Beverages
+taco,1,lizzo,1,1,jang a lang,2015-12-11,2015,12,Spices and Herbs
+taco bell,1,lizzo,1,1,jang a lang,2015-12-11,2015,12,Fast Foods
+peach,3,lizzo,1,3,jerome,2019-04-19,2019,4,Fruits and Fruit Juices
+sauce,1,lizzo,1,1,juice,2019-01-04,2019,1,"Soups, Sauces, and Gravies"
+ragu,1,lizzo,1,1,juice,2019-01-04,2019,1,
+chardonnay,2,lizzo,1,2,juice,2019-01-04,2019,1,Beverages
+goose,3,lizzo,1,3,juice,2019-01-04,2019,1,Poultry Products
+juice,21,lizzo,1,21,juice,2019-01-04,2019,1,Baby Foods
+pudding,3,lizzo,1,3,juice,2019-01-04,2019,1,Sweets
+snack,1,lizzo,1,1,juice,2019-01-04,2019,1,Snacks
+meal,1,lizzo,1,1,juice,2019-01-04,2019,1,Baked Products
+tequila,1,lizzo,1,1,good as hell (remix),2019-10-25,2019,10,
+tequila,1,ariana grande,1,1,good as hell (remix),2019-10-25,2019,10,
+sauce,1,lizzo,1,1,juice (kito remix),2019-09-17,2019,9,"Soups, Sauces, and Gravies"
+ragu,1,lizzo,1,1,juice (kito remix),2019-09-17,2019,9,
+chardonnay,2,lizzo,1,2,juice (kito remix),2019-09-17,2019,9,Beverages
+goose,3,lizzo,1,3,juice (kito remix),2019-09-17,2019,9,Poultry Products
+juice,21,lizzo,1,21,juice (kito remix),2019-09-17,2019,9,Baby Foods
+pudding,3,lizzo,1,3,juice (kito remix),2019-09-17,2019,9,Sweets
+snack,1,lizzo,1,1,juice (kito remix),2019-09-17,2019,9,Snacks
+meal,1,lizzo,1,1,juice (kito remix),2019-09-17,2019,9,Baked Products
+sauce,1,lizzo,1,1,juice (starfox remix),2020-05-04,2020,5,"Soups, Sauces, and Gravies"
+ragu,1,lizzo,1,1,juice (starfox remix),2020-05-04,2020,5,
+chardonnay,2,lizzo,1,2,juice (starfox remix),2020-05-04,2020,5,Beverages
+goose,3,lizzo,1,3,juice (starfox remix),2020-05-04,2020,5,Poultry Products
+juice,21,lizzo,1,21,juice (starfox remix),2020-05-04,2020,5,Baby Foods
+pudding,3,lizzo,1,3,juice (starfox remix),2020-05-04,2020,5,Sweets
+snack,1,lizzo,1,1,juice (starfox remix),2020-05-04,2020,5,Snacks
+meal,1,lizzo,1,1,juice (starfox remix),2020-05-04,2020,5,Baked Products
+water,1,lizzo,1,1,let 'em say,2014-08-14,2014,8,Beverages
+sugar,2,lizzo,1,2,like a girl,2019-04-19,2019,4,Sweets
+spice,2,lizzo,1,2,like a girl,2019-04-19,2019,4,Spices and Herbs
+salt,1,lizzo,1,1,lizzie borden,2013-10-15,2013,10,Spices and Herbs
+cumin,1,lizzo,1,1,lizzie borden,2013-10-15,2013,10,
+grain,1,lizzo,1,1,luv it,0,0,0,
+drink,1,lizzo,1,1,make way,2013-10-15,2013,10,
+steamed,1,lizzo,1,1,make way,2013-10-15,2013,10,Vegetables and Vegetable Products
+whiskey,1,lizzo,1,1,make way,2013-10-15,2013,10,Beverages
+drinking,1,lizzo,1,1,make way,2013-10-15,2013,10,Beverages
+sugar,1,lizzo,1,1,never felt like christmas,2015-12-25,2015,12,Sweets
+plum,1,lizzo,1,1,never felt like christmas,2015-12-25,2015,12,Fruits and Fruit Juices
+candy,1,lizzo,1,1,never felt like christmas,2015-12-25,2015,12,Sweets
+fruit,1,lizzo,1,1,never felt like christmas,2015-12-25,2015,12,Baby Foods
+cake,1,lizzo,1,1,never felt like christmas,2015-12-25,2015,12,Baked Products
+sugar plum,1,lizzo,-1,-1,never felt like christmas,2015-12-25,2015,12,
+candy cane,1,lizzo,1,1,never felt like christmas,2015-12-25,2015,12,
+fruit cake,1,lizzo,-1,-1,never felt like christmas,2015-12-25,2015,12,
+mm,1,lizzo,1,1,new eyes,2014-06-02,2014,6,
+ice,1,lizzo,1,1,nothing breaks like a heart,2019-02-21,2019,2,
+jelly,1,lizzo,1,1,paris,2014-01-16,2014,1,Sweets
+ham,1,lizzo,1,1,paris,2014-01-16,2014,1,Pork Products
+croissant,1,lizzo,1,1,paris,2014-01-16,2014,1,Baked Products
+tea,1,lizzo,1,1,paris,2014-01-16,2014,1,Beverages
+drink,1,lizzo,1,1,phone,2016-09-16,2016,9,
+onion,1,sadie dupuis,1,1,puffer - lazerbeak remix,2016-06-03,2016,6,Vegetables and Vegetable Products
+croissant,1,lizzo,1,1,ride,2015-12-11,2015,12,Baked Products
+coconut,1,lizzo,1,1,scuse me,2016-10-07,2016,10,Fats and Oils
+rose,1,lizzo,1,1,scuse me,2016-10-07,2016,10,Beverages
+yam,1,lizzo,1,1,scuse me,2016-10-07,2016,10,Vegetables and Vegetable Products
+soup,1,lizzo,1,1,scuse me,2016-10-07,2016,10,"Soups, Sauces, and Gravies"
+water,1,p.o.s,1,1,​​sleepdrone/superposition,2016-03-07,2016,3,Beverages
+food,3,p.o.s,1,3,​​sleepdrone/superposition,2016-03-07,2016,3,
+candy,1,p.o.s,1,1,​​sleepdrone/superposition,2016-03-07,2016,3,Sweets
+fry,1,lizzo,1,1,soulmate,2019-04-19,2019,4,
+ramen,1,lizzo,1,1,t-baby,2013-10-15,2013,10,
+noodle,1,lizzo,1,1,t-baby,2013-10-15,2013,10,Cereal Grains and Pasta
+jelly,1,lizzo,1,1,t-baby,2013-10-15,2013,10,Sweets
+berry,1,lizzo,1,1,t-baby,2013-10-15,2013,10,
+pho,1,lizzo,1,1,t-baby,2013-10-15,2013,10,
+lean cuisine,1,lizzo,1,1,t-baby,2013-10-15,2013,10,
+ramen noodle,1,lizzo,-1,-1,t-baby,2013-10-15,2013,10,"Soups, Sauces, and Gravies"
+water,1,lizzo,1,1,tempo,2019-03-20,2019,3,Beverages
+cake,1,lizzo,1,1,tempo,2019-03-20,2019,3,Baked Products
+icing,1,lizzo,1,1,tempo,2019-03-20,2019,3,
+ice,1,missy elliott,1,1,tempo,2019-03-20,2019,3,
+dough,4,missy elliott,1,4,tempo,2019-03-20,2019,3,
+bread,1,missy elliott,1,1,tempo,2019-03-20,2019,3,Baked Products
+fried,2,lizzo,1,2,the fade,2015-12-10,2015,12,Poultry Products
+food,2,lizzo,1,2,the fade,2015-12-10,2015,12,
+juice,1,lizzo,1,1,the realest,2015-12-11,2015,12,Baby Foods
+pear,1,lizzo,1,1,the realest,2015-12-11,2015,12,Fruits and Fruit Juices
+cherry,1,p.o.s,1,1,they can't come (wdelh/mds/rmx),2013-10-23,2013,10,Fruits and Fruit Juices
+corn,1,sims,1,1,they can't come (wdelh/mds/rmx),2013-10-23,2013,10,Cereal Grains and Pasta
+nut,1,sims,1,1,they can't come (wdelh/mds/rmx),2013-10-23,2013,10,Nut and Seed Products
+soy,1,lizzo,1,1,truth hurts (traducción al español),0,0,0,Baby Foods
+water,8,lizzo,1,8,water me,2017-08-17,2017,8,Beverages
+tea,1,lizzo,1,1,water me,2017-08-17,2017,8,Beverages
+sweet tea,1,lizzo,1,1,water me,2017-08-17,2017,8,
+bread,1,lizzo,1,1,wat u mean,2013-10-15,2013,10,Baked Products
+steak,1,lizzo,1,1,wat u mean,2013-10-15,2013,10,Beef Products
+gum,1,lizzo,1,1,w.e.r.k.,0,0,0,Sweets
+waffle,1,lizzo,1,1,w.e.r.k.,0,0,0,Baked Products
+rose,1,lizzo,1,1,worship,2016-10-07,2016,10,Beverages
+honey,1,the griswolds,1,1,ydlm,2016-10-28,2016,10,Sweets
